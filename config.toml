@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = "https://alan-turing-institute.github.io/REG-handbook/"
 title = 'REG Handbook'
 theme = 'book'
 
