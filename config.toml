@@ -1,15 +1,22 @@
 baseURL = 'http://example.org/'
 title = 'REG Handbook'
+theme = 'book'
 
 languageCode = 'en-gb'
-
-theme = 'book'
 
 # Enable last modified date on doc pages
 enableGitInfo = true
 
 # The Book theme doesn't render taxonomy, remove related files
 disableKinds = ['taxonomy', 'taxonomyTerm']
+
+# Needed for mermaid/katex shortcodes
+[markup]
+[markup.goldmark.renderer]
+  unsafe = true
+
+[markup.tableOfContents]
+  startLevel = 1
 
 [params]
   # Automatically select from dark and light themes based on browser/os preferences
