@@ -10,6 +10,23 @@ enableGitInfo = true
 # The Book theme doesn't render taxonomy, remove related files
 disableKinds = ['taxonomy', 'taxonomyTerm']
 
+# Extra menu items
+[menu]
+# Before ToC
+#[[menu.before]]
+
+# After ToC
+[[menu.after]]
+  name = 'Research Engineering'
+  url = 'https://www.turing.ac.uk/research-engineering'
+  weight = 10
+
+[[menu.after]]
+  name = 'The Alan Turing Institute'
+  url = 'https://www.turing.ac.uk'
+  weight = 20
+
+
 # Needed for mermaid/katex shortcodes
 [markup]
 [markup.goldmark.renderer]
