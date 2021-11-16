@@ -1,5 +1,40 @@
 baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'REG Handbook'
 
-theme = "book"
+languageCode = 'en-gb'
+
+theme = 'book'
+
+# Enable last modified date on doc pages
+enableGitInfo = true
+
+# The Book theme doesn't render taxonomy, remove related files
+disableKinds = ['taxonomy', 'taxonomyTerm']
+
+[params]
+  # Automatically select from dark and light themes based on browser/os preferences
+  BookTheme = 'auto'
+
+  # Show page ToC on the right side of pages
+  BookToC = true
+
+  # Set source repository location.
+  # Used for 'Last Modified' and 'Edit this page' links.
+  BookRepo = 'https://github.com/alan-turing-institute/REG-handbook'
+
+  # Path to commits in repository
+  # URL is constructed as <BookRepo>/<BookCommitPath>/<commit-hash>
+  # Github uses 'commit'
+  BookCommitPath = 'commit'
+
+  # Enable 'Edit this page' link. Requires 'BookRepo' param.
+  # URL is constructed as <BookRepo>/<BookEditPath>/<path to file>
+  # Github users 'edit/<branch name>'
+  BookEditPath = 'edit/main'
+
+  # Configure the date format used on the pages.
+  # See https://gohugo.io/functions/format/#gos-layout-string for information
+  BookDateFormat = '2 Jan 2006'
+
+  # Enable search
+  BookSearch = true
