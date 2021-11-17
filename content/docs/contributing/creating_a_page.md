@@ -13,12 +13,24 @@ weight: 2
 
 # Adding New Content
 
-## Creating a New Page
+## How Hugo Arranges Content
 
-Hugo provides a convenient way to new pages from templates called
-[Archetypes](https://gohugo.io/content-management/archetypes/). You can see the
-archetypes in the {{% repo_link path="archetypes" text="`archetypes/` directory"
-%}}.
+Pages are build from content files in the {{% repo_link path="content/"
+text="`content/`" %}} directory. Hugo automatically gives pages a URL based on
+the organisation of files in the `content/` directory.
+
+In Hugo, the first directory after `content/` is significant and [defines the
+content type](https://gohugo.io/content-management/sections/). All handbook
+pages should be nested in the `content/docs/` directory.
+
+Sections may be created in `content/docs/` (to any depth) by creating a
+directory containing a content file called `_index.md`. It is important that the
+index file exists for Hugo to [correctly assign pages to
+sections](https://gohugo.io/content-management/sections/#nested-sections) and
+for the [theme](https://github.com/alex-shpak/hugo-book) to arrange pages in the
+tree-like menu.
+
+## Creating a New Page
 
 To create a new handbook page use the `hugo new` command.
 
@@ -26,22 +38,39 @@ To create a new handbook page use the `hugo new` command.
 hugo new content/docs/<path/to/page>.md
 ```
 
-The [theme](https://github.com/alex-shpak/hugo-book) automatically arranges
-pages into a tree-style menu based on the organisation of markdown files in the
-`content/docs/` directory. For example, this page is in the "Contributing"
-section because its Markdown file is in the `content/docs/contributing/`
-directory. If you wanted to create this page, you would type
+If you wanted to create this page, you would type
 
 ```bash
 hugo new content/docs/contributing/creating_a_page.md
 ```
 
-Hugo will create a new Markdown document at the path you specified. Because your
-document is in the `docs` directory, Hugo will look for an archetype called {{%
-repo_link path="archetypes/docs.md" text="`docs.md`" %}} to use as a template.
+Hugo will create a new Markdown document at the path you specified.
+
+Hugo provides a convenient way to new pages from templates called
+[Archetypes](https://gohugo.io/content-management/archetypes/). You can see the
+archetypes in the {{% repo_link path="archetypes" text="`archetypes/` directory"
+%}}.
+
+Because your document is in the `docs` directory, Hugo will look for an
+archetype called {{% repo_link path="archetypes/docs.md" text="`docs.md`" %}} to
+use as a template.
 
 Now you can edit your page with your favourite text editor. For example
 
 ```bash
 vim content/docs/contributing/creating_a_page.md
 ```
+
+## Creating a Section
+
+We can also use the `hugo new` command to create a new section, both the
+directory and index file. For example
+
+```bash
+hugo new content/docs/new_section/_index.md
+vim content/docs/new_section/_index.md
+```
+
+If you only want a section to organise some pages and not to have a page of its
+own, you can simply leave the content section of `_index.md` (after the YAML
+front matter) empty.
