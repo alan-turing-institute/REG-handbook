@@ -22,9 +22,14 @@ To contribute to the handbook you will need
   extended version with Sass/SCSS support)
 - Your favourite text editor
 
+{{% hint info %}}
 You might also find it helpful to install
 [markdownlint](https://github.com/markdownlint/markdownlint) so that you can
 lint your branch before making a pull request.
+
+The linting style used is included in the root of the repository,
+`.mdl_style.rb`.
+{{% /hint %}}
 
 ## Clone the repository
 
