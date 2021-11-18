@@ -88,18 +88,18 @@ renderer](https://gohugo.io/getting-started/configuration-markup)
 ### Shortcodes
 
 [Shortcodes](https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes)
-are templated (which can be parametrised) and included the content section. They
-can be particularly useful for including more complex features than Markdowns
-simple syntax allow. Using a shortcode is preferable to including raw HTML in a
-content file.
+are templates (which can be parametrised) and included the content section. They
+can be particularly useful for including more complex features than Markdown's
+simple syntax will allow. Using a shortcode is preferable to including raw HTML
+in a content file.
 
-Shortcodes are called in the following way
+Shortcodes can called in Markdown content files the following way
 
 ```markdown
 {{%/* shortcode parameter */%}}
 ```
 
-or there may be an opening and closing tag, similar to HTML
+Some shortcodes may have an opening and closing tag, similar to HTML
 
 ```markdown
 {{%/* shortcode */%}} content to process {{%/* /shortcode */%}}
