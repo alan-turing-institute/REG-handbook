@@ -24,11 +24,14 @@ content type](https://gohugo.io/content-management/sections/). All handbook
 pages should be nested in the `content/docs/` directory.
 
 Sections may be created in `content/docs/` (to any depth) by creating a
-directory containing a content file called `_index.md`. It is important that the
-index file exists for Hugo to [correctly assign pages to
-sections](https://gohugo.io/content-management/sections/#nested-sections) and
+directory containing a content file called `_index.md`.
+
+{{% hint warning %}}
+It is important that the index file exists for Hugo to [correctly assign pages
+to sections](https://gohugo.io/content-management/sections/#nested-sections) and
 for the [theme](https://github.com/alex-shpak/hugo-book) to arrange pages in the
 tree-like menu.
+{{% /hint %}}
 
 ## Creating a New Page
 
