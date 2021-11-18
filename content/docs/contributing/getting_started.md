@@ -61,6 +61,6 @@ Web Server is available at http://localhost:1313/REG-handbook/ (bind address 127
 which contains the URL of the locally served site. Navigate to this address in
 your browser to preview the handbook.
 
-The Hugo server will monitor the files in the repository and
-automatically rebuild the site whenever you make changes. This makes it a very
-useful tool to immediately view your changes.
+The Hugo server will monitor the files in the repository and automatically
+rebuild the site whenever you make changes. This is a useful tool to immediately
+view your changes.

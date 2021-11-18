@@ -15,9 +15,9 @@ weight: 3
 
 If you followed the instructions in the [Getting Started section]({{% ref
 "getting_started.md" %}}) to checkout the repository and serve the handbook
-locally you you can edit a page locally. However, as you may have noticed, at
-the bottom of each page is a link to edit the page in the GitHub web editor if
-you would prefer. This may be easy for making small changes.
+locally you can edit a page locally. However, as you may have noticed, at the
+bottom of each page is a link to edit the page in the GitHub web editor if you
+would prefer. This may be easy for making small changes.
 
 ## Pages
 
