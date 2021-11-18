@@ -121,8 +121,6 @@ In particular
 
 #### Theme Shortcodes
 
-#### Repository Shortcodes
-
 The theme has a [number of
 shortcodes](https://github.com/alex-shpak/hugo-book#shortcodes) which may be
 helpful.
@@ -133,6 +131,8 @@ In particular
 - [expand](https://hugo-book-demo.netlify.app/docs/shortcodes/expand/)
 - [KaTeX](https://hugo-book-demo.netlify.app/docs/shortcodes/katex/)
 - [tabs](https://hugo-book-demo.netlify.app/docs/shortcodes/tabs/)
+
+#### Repository Shortcodes
 
 ##### repo_link
 
