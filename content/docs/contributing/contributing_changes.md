@@ -64,7 +64,7 @@ reference any issues your work closes or is related to.
 
 A series of tests will be automatically conducted on each commit and pull
 request. The tests are defined in {{% repo_link
-target=".github/workflows/ci.yaml" text="`ci.yaml`" %}}.
+path=".github/workflows/ci.yaml" text="`ci.yaml`" %}}.
 
 The following tests are required to pass before merging a pull request
 

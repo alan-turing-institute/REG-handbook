@@ -134,6 +134,9 @@ In particular
 
 #### Repository Shortcodes
 
+Shortcodes can be included in the handbooks repository. For more information see
+[Creating Shortcodes]({{% ref "advanced.md#creating-shortcodes" %}})
+
 ##### repo_link
 
 Create a link to a file or directory in the handbook's repository.
@@ -147,17 +150,3 @@ Create a link to a file or directory in the handbook's repository.
 
 `text`
 : Text of the link (can include Markdown formatting)
-
-#### Creating new Shortcodes
-
-It is possible to [create your own
-shortcodes](https://gohugo.io/templates/shortcode-templates/). This should be
-placed in {{% repo_link target="layouts/shortcodes/"
-text="`layouts/shortcodes/`" %}}.
-
-If you feel the need to use HTML or want to create page content from a datafile
-(like a YAML file or csv) then a shortcode is probably the right answer.
-
-You should refer to Hugo's [templates](https://gohugo.io/templates/) and
-[functions](https://gohugo.io/functions/) documentation for resources to help
-writing a shortcode.
