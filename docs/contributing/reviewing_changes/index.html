@@ -3,17 +3,21 @@
 <meta name=generator content="Hugo 0.89.4">
 <meta charset=utf-8>
 <meta name=viewport content="width=device-width,initial-scale=1">
-<meta name=description content="Hello world #  ">
-<meta name=theme-color content="#FFFFFF"><meta property="og:title" content="Introduction">
-<meta property="og:description" content>
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://alan-turing-institute.github.io/REG-handbook/">
-<title>Introduction | REG Handbook</title>
+<meta name=description content="Reviewing Changes #  The review process helps to ensure high quality and catch problems in contributions. When acting as a reviewer, you should see your position as sharing your knowledge and working with the contributors to achieve the best possible result. Reviewing should not be an adversarial process.
+As a reviewer you should
+ Use the GitHub review system to check the diffs of all source files. Clone the branch, build the handbook locally (using hugo server --minify) and inspect the changes using your browser.">
+<meta name=theme-color content="#FFFFFF"><meta property="og:title" content="Reviewing Changes">
+<meta property="og:description" content="Reviewing Changes #  The review process helps to ensure high quality and catch problems in contributions. When acting as a reviewer, you should see your position as sharing your knowledge and working with the contributors to achieve the best possible result. Reviewing should not be an adversarial process.
+As a reviewer you should
+ Use the GitHub review system to check the diffs of all source files. Clone the branch, build the handbook locally (using hugo server --minify) and inspect the changes using your browser.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://alan-turing-institute.github.io/REG-handbook/docs/contributing/reviewing_changes/"><meta property="article:section" content="docs">
+<meta property="article:modified_time" content="2021-11-19T11:38:53+00:00">
+<title>Reviewing Changes | REG Handbook</title>
 <link rel=manifest href=/REG-handbook/manifest.json>
 <link rel=icon href=/REG-handbook/favicon.png type=image/x-icon>
 <link rel=stylesheet href=/REG-handbook/book.min.ece3f56fc3f716f87ccd4e6f3ea44ba1fa6757114261dadfbf861fde7d4e6203.css integrity="sha256-7OP1b8P3Fvh8zU5vPqRLofpnVxFCYdrfv4Yf3n1OYgM=">
 <script defer src=/REG-handbook/en.search.min.67eec969634980d435d6f4e67adf9e135e33915d70b55367cf4d0ddbdde040b9.js integrity="sha256-Z+7JaWNJgNQ11vTmet+eE14zkV1wtVNnz00N293gQLk="></script>
-<link rel=alternate type=application/rss+xml href=https://alan-turing-institute.github.io/REG-handbook/index.xml title="REG Handbook">
 </head>
 <body dir=ltr>
 <input type=checkbox class="hidden toggle" id=menu-control>
@@ -51,7 +55,7 @@
 <a href=https://alan-turing-institute.github.io/REG-handbook/docs/contributing/contributing_changes/>Contributing Changes</a>
 </li>
 <li>
-<a href=https://alan-turing-institute.github.io/REG-handbook/docs/contributing/reviewing_changes/>Reviewing Changes</a>
+<a href=https://alan-turing-institute.github.io/REG-handbook/docs/contributing/reviewing_changes/ class=active>Reviewing Changes</a>
 </li>
 <li>
 <a href=https://alan-turing-institute.github.io/REG-handbook/docs/contributing/advanced/>Advanced</a>
@@ -81,7 +85,7 @@ The Alan Turing Institute
 <label for=menu-control>
 <img src=/REG-handbook/svg/menu.svg class=book-icon alt=Menu>
 </label>
-<strong>Introduction</strong>
+<strong>Reviewing Changes</strong>
 <label for=toc-control>
 <img src=/REG-handbook/svg/toc.svg class=book-icon alt="Table of Contents">
 </label>
@@ -89,15 +93,41 @@ The Alan Turing Institute
 <aside class="hidden clearfix">
 <nav id=TableOfContents>
 <ul>
-<li><a href=#hello-world>Hello world</a></li>
+<li><a href=#reviewing-changes>Reviewing Changes</a></li>
 </ul>
 </nav>
 </aside>
 </header>
-<article class=markdown><h1 id=hello-world>
-Hello world
-<a class=anchor href=#hello-world>#</a>
+<article class=markdown><h1 id=reviewing-changes>
+Reviewing Changes
+<a class=anchor href=#reviewing-changes>#</a>
 </h1>
+<p>The review process helps to ensure high quality and catch problems in
+contributions. When acting as a reviewer, you should see your position as
+sharing your knowledge and working with the contributors to achieve the best
+possible result. Reviewing should <strong>not</strong> be an adversarial process.</p>
+<p>As a reviewer you should</p>
+<ol>
+<li>Use the <a href=https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/reviewing-proposed-changes-in-a-pull-request>GitHub review
+system</a>
+to check the diffs of all source files.</li>
+<li>Clone the branch, build the handbook locally (using <code>hugo server --minify</code>)
+and inspect the changes using your browser. Not all bugs will be caught by CI
+and not all changes will be obvious in the source files.</li>
+<li>Use <a href=https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/commenting-on-a-pull-request#adding-line-comments-to-a-pull-request>line
+comments</a>
+where you have comments or questions about particular changes so that the
+context is clear.</li>
+<li>Use line comments to suggest changes (using the ± button).</li>
+<li><a href=https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/reviewing-proposed-changes-in-a-pull-request#submitting-your-review>Submit your
+review</a>
+making sure to choose &ldquo;comment&rdquo;, &ldquo;approve&rdquo; or &ldquo;request changes&rdquo; as
+appropriate.</li>
+<li>Work together with the contributors to resolve any conversations. All
+conversations <strong>must</strong> be resolved before merging.</li>
+<li>Update your review status to &ldquo;approve&rdquo; when you are happy.</li>
+<li>When all reviewers are happy, merge the pull request.</li>
+</ol>
 </article>
 <footer class=book-footer>
 <div class="flex flex-wrap justify-between">
@@ -107,7 +137,7 @@ Hello world
 </a>
 </div>
 <div>
-<a class="flex align-center" href=https://github.com/alan-turing-institute/REG-handbook/edit/main/content/_index.md target=_blank rel=noopener>
+<a class="flex align-center" href=https://github.com/alan-turing-institute/REG-handbook/edit/main/content/docs/contributing/reviewing_changes.md target=_blank rel=noopener>
 <img src=/REG-handbook/svg/edit.svg class=book-icon alt=Edit>
 <span>Edit this page</span>
 </a>
@@ -129,7 +159,7 @@ Hello world
 <div class=book-toc-content>
 <nav id=TableOfContents>
 <ul>
-<li><a href=#hello-world>Hello world</a></li>
+<li><a href=#reviewing-changes>Reviewing Changes</a></li>
 </ul>
 </nav>
 </div>
