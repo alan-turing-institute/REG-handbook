@@ -46,7 +46,7 @@ single issue and be self-contained. Don't try to solve more than one unrelated
 problem at once.
 
 Sticking to this practice will help ensure pull requests are small and easy to
-review.  Otherwise, you might end up having to make many changes during review,
+review. Otherwise, you might end up having to make many changes during review,
 have difficultly keeping your branch up to date or upset the reviewers.  {{%
 /hint %}}
 
