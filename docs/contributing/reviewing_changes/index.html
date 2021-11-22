@@ -4,20 +4,18 @@
 <meta charset=utf-8>
 <meta name=viewport content="width=device-width,initial-scale=1">
 <meta name=description content="Reviewing Changes #  The review process helps to ensure high quality and catch problems in contributions. When acting as a reviewer, you should see your position as sharing your knowledge and working with the contributors to achieve the best possible result. Reviewing should not be an adversarial process.
-As a reviewer you should
- Use the GitHub review system to check the diffs of all source files. Clone the branch, build the handbook locally (using hugo server --minify) and inspect the changes using your browser.">
+Code Quality #  As a reviewer, one of your jobs is to ensure the quality of the codebase remains high.">
 <meta name=theme-color content="#FFFFFF"><meta property="og:title" content="Reviewing Changes">
 <meta property="og:description" content="Reviewing Changes #  The review process helps to ensure high quality and catch problems in contributions. When acting as a reviewer, you should see your position as sharing your knowledge and working with the contributors to achieve the best possible result. Reviewing should not be an adversarial process.
-As a reviewer you should
- Use the GitHub review system to check the diffs of all source files. Clone the branch, build the handbook locally (using hugo server --minify) and inspect the changes using your browser.">
+Code Quality #  As a reviewer, one of your jobs is to ensure the quality of the codebase remains high.">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://alan-turing-institute.github.io/REG-handbook/docs/contributing/reviewing_changes/"><meta property="article:section" content="docs">
-<meta property="article:modified_time" content="2021-11-22T10:24:54+00:00">
+<meta property="article:modified_time" content="2021-11-22T11:38:38+00:00">
 <title>Reviewing Changes | REG Handbook</title>
 <link rel=manifest href=/REG-handbook/manifest.json>
 <link rel=icon href=/REG-handbook/favicon.png type=image/x-icon>
 <link rel=stylesheet href=/REG-handbook/book.min.ece3f56fc3f716f87ccd4e6f3ea44ba1fa6757114261dadfbf861fde7d4e6203.css integrity="sha256-7OP1b8P3Fvh8zU5vPqRLofpnVxFCYdrfv4Yf3n1OYgM=">
-<script defer src=/REG-handbook/en.search.min.67eec969634980d435d6f4e67adf9e135e33915d70b55367cf4d0ddbdde040b9.js integrity="sha256-Z+7JaWNJgNQ11vTmet+eE14zkV1wtVNnz00N293gQLk="></script>
+<script defer src=/REG-handbook/en.search.min.642863ec2a9a03eaec159ef817f0219cacfb8a3692e1bde482b3983508df3ba8.js integrity="sha256-ZChj7CqaA+rsFZ74F/AhnKz7ijaS4b3kgrOYNQjfO6g="></script>
 </head>
 <body dir=ltr>
 <input type=checkbox class="hidden toggle" id=menu-control>
@@ -93,7 +91,14 @@ The Alan Turing Institute
 <aside class="hidden clearfix">
 <nav id=TableOfContents>
 <ul>
-<li><a href=#reviewing-changes>Reviewing Changes</a></li>
+<li><a href=#reviewing-changes>Reviewing Changes</a>
+<ul>
+<li><a href=#code-quality>Code Quality</a></li>
+<li><a href=#reviewing-the-pull-request>Reviewing the Pull Request</a></li>
+<li><a href=#changes>Changes</a></li>
+<li><a href=#merging>Merging</a></li>
+</ul>
+</li>
 </ul>
 </nav>
 </aside>
@@ -106,32 +111,60 @@ Reviewing Changes
 contributions. When acting as a reviewer, you should see your position as
 sharing your knowledge and working with the contributors to achieve the best
 possible result. Reviewing should <strong>not</strong> be an adversarial process.</p>
-<p>As a reviewer you should</p>
-<ol>
-<li>Use the <a href=https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/reviewing-proposed-changes-in-a-pull-request>GitHub review
+<h2 id=code-quality>
+Code Quality
+<a class=anchor href=#code-quality>#</a>
+</h2>
+<p>As a reviewer, one of your jobs is to ensure the quality of the codebase remains
+high.</p>
+<p>The CI process will help to assess pull requests by subjecting each commit to a
+series of tests. Some tests are required to pass and will block merging until
+they do.</p>
+<p>Other tests are allowed to fail. This is because these tests check external
+hyperlinks which can fail for reasons out of our control. For example, a website
+being offline or a rate limiting API. However, you should always aim to have
+all tests passing and investigate why any test fails. In particular, a genuinely
+incorrect link should not be ignored.</p>
+<p>You should <strong>always</strong> clone the branch, build the handbook locally (using <code>hugo server --minify</code>) and inspect the changes using your browser. Not all bugs will
+be caught by CI and not all changes will be obvious in the source files.</p>
+<h2 id=reviewing-the-pull-request>
+Reviewing the Pull Request
+<a class=anchor href=#reviewing-the-pull-request>#</a>
+</h2>
+<p>Use the <a href=https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/reviewing-proposed-changes-in-a-pull-request>GitHub review
 system</a>
-to check the diffs of all source files.</li>
-<li>Clone the branch, build the handbook locally (using <code>hugo server --minify</code>)
-and inspect the changes using your browser. Not all bugs will be caught by CI
-and not all changes will be obvious in the source files.</li>
-<li>Use <a href=https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/commenting-on-a-pull-request#adding-line-comments-to-a-pull-request>line
+to check the diffs of all source files.</p>
+<p>You should make use of <a href=https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/commenting-on-a-pull-request#adding-line-comments-to-a-pull-request>line
 comments</a>
-where you have comments or questions about particular changes so that the
-context is clear.</li>
-<li>Use line comments to suggest changes (using the ± button).</li>
-<li><a href=https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/reviewing-proposed-changes-in-a-pull-request#submitting-your-review>Submit your
+where you have comments or questions about particular lines of sections. This
+gives context so that everyone knows where the problem is or what the question
+refers to.</p>
+<p>Line comments can also be used to suggest changes (using the ± button). You
+should do this when you have a simple solution. This is an excellent way to
+share knowledge.</p>
+<p>When you are finished, <a href=https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/reviewing-proposed-changes-in-a-pull-request#submitting-your-review>submit your
 review</a>
-making sure to choose &ldquo;comment&rdquo;, &ldquo;approve&rdquo; or &ldquo;request changes&rdquo; as
-appropriate.</li>
-<li>Work together with the contributors to resolve any conversations. All
-conversations <strong>must</strong> be resolved before merging.</li>
-<li>Update your review status to &ldquo;approve&rdquo; when you are happy.</li>
-<li>When all reviewers are happy, merge the pull request.</li>
-</ol>
+making sure to choose &ldquo;comment&rdquo;, &ldquo;approve&rdquo; or &ldquo;request changes&rdquo; as appropriate.</p>
+<h2 id=changes>
+Changes
+<a class=anchor href=#changes>#</a>
+</h2>
+<p>If you request changes, the pull request will enter an iterative process where
+the contributors make adjustments you repeat the review process.</p>
+<p>The contributors may accept your proposed changes, make their own changes or
+push back against changes. All of these may be appropriate. It is important to
+work together with the contributors to resolve any conversations. All
+conversations <strong>must</strong> be resolved before merging.</p>
+<h2 id=merging>
+Merging
+<a class=anchor href=#merging>#</a>
+</h2>
+<p>Update your review status to &ldquo;approve&rdquo; when you are happy with the state of the
+pull request. When all reviewers are satisfied, merge the pull request.</p>
 </article>
 <footer class=book-footer>
 <div class="flex flex-wrap justify-between">
-<div><a class="flex align-center" href=https://github.com/alan-turing-institute/REG-handbook/commit/9252a309dee8d30ddc8c04ac207937dc0c152353 title="Last modified by Jim Madge | 22 Nov 2021" target=_blank rel=noopener>
+<div><a class="flex align-center" href=https://github.com/alan-turing-institute/REG-handbook/commit/a69038430a8d1a04a254d86591236dd39c142db1 title="Last modified by Jim Madge | 22 Nov 2021" target=_blank rel=noopener>
 <img src=/REG-handbook/svg/calendar.svg class=book-icon alt=Calendar>
 <span>22 Nov 2021</span>
 </a>
@@ -159,7 +192,14 @@ conversations <strong>must</strong> be resolved before merging.</li>
 <div class=book-toc-content>
 <nav id=TableOfContents>
 <ul>
-<li><a href=#reviewing-changes>Reviewing Changes</a></li>
+<li><a href=#reviewing-changes>Reviewing Changes</a>
+<ul>
+<li><a href=#code-quality>Code Quality</a></li>
+<li><a href=#reviewing-the-pull-request>Reviewing the Pull Request</a></li>
+<li><a href=#changes>Changes</a></li>
+<li><a href=#merging>Merging</a></li>
+</ul>
+</li>
 </ul>
 </nav>
 </div>
