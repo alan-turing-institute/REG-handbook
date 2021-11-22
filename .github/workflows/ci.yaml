@@ -1,7 +1,7 @@
 ---
 name: CI
 
-on: [push, pull_request]
+on: [push]
 
 jobs:
   markdown_lint:
@@ -13,7 +13,9 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Setup Ruby
-        uses: actions/setup-ruby@v1
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: head
 
       - name: Install mdl
         run: gem install mdl
@@ -71,7 +73,9 @@ jobs:
           extended: true
 
       - name: Setup Ruby
-        uses: actions/setup-ruby@v1
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: head
 
       - name: Install html-proofer
         run: gem install html-proofer
