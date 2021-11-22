@@ -53,8 +53,8 @@ jobs:
       - name: Build
         run: hugo --minify
 
-  html-proofer:
-    name: "HTML proofer"
+  html-proofer-internal-links:
+    name: "HTML proofer internal links"
     runs-on: ubuntu-latest
     needs: hugo
 
@@ -82,14 +82,53 @@ jobs:
       - name: Run html-proofer
         # swap URLs
         # - adjust for base URL (REG-handbook)
+        # Ignore internal links to base URL
+        # Only check internal links
+        run: |
+          htmlproofer ./public \
+          --check-favicon \
+          --check-html \
+          --check-img-http \
+          --disable-external \
+          --url-swap "^/REG-handbook/:/" \
+          --url-ignore '/REG-handbook'
+
+  html-proofer-external-links:
+    name: "HTML proofer external links"
+    runs-on: ubuntu-latest
+    needs: hugo
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          submodules: 'recursive'
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: Setup Ruby
+        uses: actions/setup-ruby@v1
+
+      - name: Install html-proofer
+        run: gem install html-proofer
+
+      - name: Build
+        run: hugo --minify
+
+      - name: Run html-proofer
+        # swap URLs
         # - adjust for internal links with fqdn (https://alan-turing-institute.github.io/REG-handbook)
         # - Adjust edit and tree paths on GitHub to current branch (*/edit/main, */tree/main)
-        # Ignore internal links to base URL
+        # Only check external links
         run: |
           htmlproofer ./public \
           --check-favicon \
           --check-html \
           --check-img-http \
           --enforce-https \
-          --url-swap "^/REG-handbook/:/,^https\://alan-turing-institute.github.io/REG-handbook/:/,/edit/main:/edit/$(git branch --show-current),/tree/main:/tree/$(git branch --show-current)" \
-          --url-ignore '/REG-handbook'
+          --external-only \
+          --url-swap "^^https\://alan-turing-institute.github.io/REG-handbook/:/,/edit/main:/edit/$(git branch --show-current),/tree/main:/tree/$(git branch --show-current)" \
