@@ -33,4 +33,4 @@ jobs:
       - name: Install dependencies
         run: pip install proselint
       - name: Run proselint
-        run: proselint ./content
+        run: proselint ./content | tee
