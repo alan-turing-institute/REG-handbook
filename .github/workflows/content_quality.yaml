@@ -8,19 +8,29 @@ jobs:
     name: "Content Age"
     runs-on: ubuntu-latest
     steps:
-
       - name: Checkout
         uses: actions/checkout@v2
         with:
           fetch-depth: '0'
-
       - name: Setup Python
         uses: actions/setup-python@v2
         with:
           python-version: "3.10"
-
       - name: Install dependencies
         run: pip install tabulate
-
       - name: Run script
         run: .github/scripts/content_age.py
+  prose_lint:
+    name: "Prose Lint"
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.10"
+      - name: Install dependencies
+        run: pip install proselint
+      - name: Run proselint
+        run: proselint ./content
