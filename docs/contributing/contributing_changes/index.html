@@ -1,294 +1,61 @@
-<!doctype html><html lang=en dir=ltr>
-<head>
-<meta name=generator content="Hugo 0.92.2">
-<meta charset=utf-8>
-<meta name=viewport content="width=device-width,initial-scale=1">
-<meta name=description content="Contributing Changes #  Once you have made changes, you will need to contribute them back to the remote repository. This page explains the process of pushing your changes back to the remote, and how your contribution will be checked in the CI and review process.
+<!doctype html><html lang=en dir=ltr><head><meta name=generator content="Hugo 0.94.0"><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta name=description content="Contributing Changes #  Once you have made changes, you will need to contribute them back to the remote repository. This page explains the process of pushing your changes back to the remote, and how your contribution will be checked in the CI and review process.
 The handbook users the GitHub flow workflow. In short
- create a branch make changes open pull request review merge to main  This workflow should help changes be deployed quickly.">
-<meta name=theme-color content="#FFFFFF"><meta property="og:title" content="Contributing Changes">
-<meta property="og:description" content="Contributing Changes #  Once you have made changes, you will need to contribute them back to the remote repository. This page explains the process of pushing your changes back to the remote, and how your contribution will be checked in the CI and review process.
+ create a branch make changes open pull request review merge to main  This workflow should help changes be deployed quickly."><meta name=theme-color content="#FFFFFF"><meta property="og:title" content="Contributing Changes"><meta property="og:description" content="Contributing Changes #  Once you have made changes, you will need to contribute them back to the remote repository. This page explains the process of pushing your changes back to the remote, and how your contribution will be checked in the CI and review process.
 The handbook users the GitHub flow workflow. In short
- create a branch make changes open pull request review merge to main  This workflow should help changes be deployed quickly.">
-<meta property="og:type" content="article">
-<meta property="og:url" content="https://alan-turing-institute.github.io/REG-handbook/docs/contributing/contributing_changes/"><meta property="article:section" content="docs">
-<meta property="article:modified_time" content="2022-02-15T15:22:55+00:00">
-<title>Contributing Changes | REG Handbook</title>
-<link rel=manifest href=/REG-handbook/manifest.json>
-<link rel=icon href=/REG-handbook/favicon.png type=image/x-icon>
-<link rel=stylesheet href=/REG-handbook/book.min.ece3f56fc3f716f87ccd4e6f3ea44ba1fa6757114261dadfbf861fde7d4e6203.css integrity="sha256-7OP1b8P3Fvh8zU5vPqRLofpnVxFCYdrfv4Yf3n1OYgM=">
-<script defer src=/REG-handbook/en.search.min.642863ec2a9a03eaec159ef817f0219cacfb8a3692e1bde482b3983508df3ba8.js integrity="sha256-ZChj7CqaA+rsFZ74F/AhnKz7ijaS4b3kgrOYNQjfO6g="></script>
-</head>
-<body dir=ltr>
-<input type=checkbox class="hidden toggle" id=menu-control>
-<input type=checkbox class="hidden toggle" id=toc-control>
-<main class="container flex">
-<aside class=book-menu>
-<div class=book-menu-content>
-<nav>
-<h2 class=book-brand>
-<a href=/REG-handbook><span>REG Handbook</span>
-</a>
-</h2>
-<div class=book-search>
-<input type=text id=book-search-input placeholder=Search aria-label=Search maxlength=64 data-hotkeys=s/>
-<div class="book-search-spinner hidden"></div>
-<ul id=book-search-results></ul>
-</div>
-<ul>
-<li>
-<a href=https://alan-turing-institute.github.io/REG-handbook/docs/contributing/>Contributing</a>
-<ul>
-<li>
-<a href=https://alan-turing-institute.github.io/REG-handbook/docs/contributing/discussions_and_issues/>Discussions and Issues</a>
-</li>
-<li>
-<a href=https://alan-turing-institute.github.io/REG-handbook/docs/contributing/getting_started/>Getting Started</a>
-</li>
-<li>
-<a href=https://alan-turing-institute.github.io/REG-handbook/docs/contributing/creating_a_page/>Adding New Content</a>
-</li>
-<li>
-<a href=https://alan-turing-institute.github.io/REG-handbook/docs/contributing/editing_a_page/>Editing a Page</a>
-</li>
-<li>
-<a href=https://alan-turing-institute.github.io/REG-handbook/docs/contributing/contributing_changes/ class=active>Contributing Changes</a>
-</li>
-<li>
-<a href=https://alan-turing-institute.github.io/REG-handbook/docs/contributing/reviewing_changes/>Reviewing Changes</a>
-</li>
-<li>
-<a href=https://alan-turing-institute.github.io/REG-handbook/docs/contributing/advanced/>Advanced</a>
-</li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>
-<a href=https://www.turing.ac.uk/research-engineering target=_blank rel=noopener>
-Research Engineering
-</a>
-</li>
-<li>
-<a href=https://www.turing.ac.uk target=_blank rel=noopener>
-The Alan Turing Institute
-</a>
-</li>
-</ul>
-</nav>
-<script>(function(){var a=document.querySelector("aside.book-menu nav");addEventListener("beforeunload",function(b){localStorage.setItem("menu.scrollTop",a.scrollTop)}),a.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
-</div>
-</aside>
-<div class=book-page>
-<header class=book-header>
-<div class="flex align-center justify-between">
-<label for=menu-control>
-<img src=/REG-handbook/svg/menu.svg class=book-icon alt=Menu>
-</label>
+ create a branch make changes open pull request review merge to main  This workflow should help changes be deployed quickly."><meta property="og:type" content="article"><meta property="og:url" content="https://alan-turing-institute.github.io/REG-handbook/docs/contributing/contributing_changes/"><meta property="article:section" content="docs"><meta property="article:modified_time" content="2022-03-11T16:21:01+00:00"><title>Contributing Changes | REG Handbook</title><link rel=manifest href=/REG-handbook/manifest.json><link rel=icon href=/REG-handbook/favicon.png type=image/x-icon><link rel=stylesheet href=/REG-handbook/book.min.ece3f56fc3f716f87ccd4e6f3ea44ba1fa6757114261dadfbf861fde7d4e6203.css integrity="sha256-7OP1b8P3Fvh8zU5vPqRLofpnVxFCYdrfv4Yf3n1OYgM="><script defer src=/REG-handbook/en.search.min.a87605749c83ca3b4cbe21032a23ac80df953b1b693ed21a6593b89290ceb308.js integrity="sha256-qHYFdJyDyjtMviEDKiOsgN+VOxtpPtIaZZO4kpDOswg="></script></head><body dir=ltr><input type=checkbox class="hidden toggle" id=menu-control>
+<input type=checkbox class="hidden toggle" id=toc-control><main class="container flex"><aside class=book-menu><div class=book-menu-content><nav><h2 class=book-brand><a href=/REG-handbook><span>REG Handbook</span></a></h2><div class=book-search><input type=text id=book-search-input placeholder=Search aria-label=Search maxlength=64 data-hotkeys=s/><div class="book-search-spinner hidden"></div><ul id=book-search-results></ul></div><ul><li><a href=https://alan-turing-institute.github.io/REG-handbook/docs/contributing/>Contributing</a><ul><li><a href=https://alan-turing-institute.github.io/REG-handbook/docs/contributing/discussions_and_issues/>Discussions and Issues</a></li><li><a href=https://alan-turing-institute.github.io/REG-handbook/docs/contributing/getting_started/>Getting Started</a></li><li><a href=https://alan-turing-institute.github.io/REG-handbook/docs/contributing/creating_a_page/>Adding New Content</a></li><li><a href=https://alan-turing-institute.github.io/REG-handbook/docs/contributing/editing_a_page/>Editing a Page</a></li><li><a href=https://alan-turing-institute.github.io/REG-handbook/docs/contributing/contributing_changes/ class=active>Contributing Changes</a></li><li><a href=https://alan-turing-institute.github.io/REG-handbook/docs/contributing/reviewing_changes/>Reviewing Changes</a></li><li><a href=https://alan-turing-institute.github.io/REG-handbook/docs/contributing/advanced/>Advanced</a></li></ul></li><li><a href=https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/>How we work</a><ul><li><a href=https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/meeting_record/>Meeting Records</a></li></ul></li></ul><ul><li><a href=https://www.turing.ac.uk/research-engineering target=_blank rel=noopener>Research Engineering</a></li><li><a href=https://www.turing.ac.uk target=_blank rel=noopener>The Alan Turing Institute</a></li></ul></nav><script>(function(){var e=document.querySelector("aside.book-menu nav");addEventListener("beforeunload",function(){localStorage.setItem("menu.scrollTop",e.scrollTop)}),e.scrollTop=localStorage.getItem("menu.scrollTop")})()</script></div></aside><div class=book-page><header class=book-header><div class="flex align-center justify-between"><label for=menu-control><img src=/REG-handbook/svg/menu.svg class=book-icon alt=Menu></label>
 <strong>Contributing Changes</strong>
-<label for=toc-control>
-<img src=/REG-handbook/svg/toc.svg class=book-icon alt="Table of Contents">
-</label>
-</div>
-<aside class="hidden clearfix">
-<nav id=TableOfContents>
-<ul>
-<li><a href=#contributing-changes>Contributing Changes</a>
-<ul>
-<li><a href=#creating-a-branch>Creating a Branch</a></li>
-<li><a href=#opening-a-pull-request>Opening a Pull Request</a>
-<ul>
-<li><a href=#continuous-integration>Continuous Integration</a></li>
-</ul>
-</li>
-<li><a href=#keeping-your-branch-up-to-date>Keeping Your Branch up to Date</a>
-<ul>
-<li><a href=#merging>Merging</a></li>
-<li><a href=#rebasing>Rebasing</a></li>
-</ul>
-</li>
-<li><a href=#the-review-process>The Review Process</a></li>
-</ul>
-</li>
-</ul>
-</nav>
-</aside>
-</header>
-<article class=markdown><h1 id=contributing-changes>
-Contributing Changes
-<a class=anchor href=#contributing-changes>#</a>
-</h1>
-<p>Once you have made changes, you will need to contribute them back to the remote
+<label for=toc-control><img src=/REG-handbook/svg/toc.svg class=book-icon alt="Table of Contents"></label></div><aside class="hidden clearfix"><nav id=TableOfContents><ul><li><a href=#contributing-changes>Contributing Changes</a><ul><li><a href=#creating-a-branch>Creating a Branch</a></li><li><a href=#opening-a-pull-request>Opening a Pull Request</a><ul><li><a href=#continuous-integration>Continuous Integration</a></li></ul></li><li><a href=#keeping-your-branch-up-to-date>Keeping Your Branch up to Date</a><ul><li><a href=#merging>Merging</a></li><li><a href=#rebasing>Rebasing</a></li></ul></li><li><a href=#the-review-process>The Review Process</a></li></ul></li></ul></nav></aside></header><article class=markdown><h1 id=contributing-changes>Contributing Changes
+<a class=anchor href=#contributing-changes>#</a></h1><p>Once you have made changes, you will need to contribute them back to the remote
 repository. This page explains the process of pushing your changes back to the
-remote, and how your contribution will be checked in the CI and review process.</p>
-<p>The handbook users the <a href=https://docs.github.com/en/get-started/quickstart/github-flow>GitHub
+remote, and how your contribution will be checked in the CI and review process.</p><p>The handbook users the <a href=https://docs.github.com/en/get-started/quickstart/github-flow>GitHub
 flow</a> workflow.
-In short</p>
-<ul>
-<li>create a branch</li>
-<li>make changes</li>
-<li>open pull request</li>
-<li>review</li>
-<li>merge to <code>main</code></li>
-</ul>
-<p>This workflow should help changes be deployed quickly.</p>
-<blockquote class="book-hint warning">
-When making commits, follow Tim Pope&rsquo;s
+In short</p><ul><li>create a branch</li><li>make changes</li><li>open pull request</li><li>review</li><li>merge to <code>main</code></li></ul><p>This workflow should help changes be deployed quickly.</p><blockquote class="book-hint warning">When making commits, follow Tim Pope&rsquo;s
 <a href=https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html>recommendations</a>
-for good commit messages.
-</blockquote>
-<h2 id=creating-a-branch>
-Creating a Branch
-<a class=anchor href=#creating-a-branch>#</a>
-</h2>
-<p>You should make your changes on a new branch, and not on <code>main</code>. This will make
+for good commit messages.</blockquote><h2 id=creating-a-branch>Creating a Branch
+<a class=anchor href=#creating-a-branch>#</a></h2><p>You should make your changes on a new branch, and not on <code>main</code>. This will make
 it easier to merge changes from many contributors. Try to pick a branch name
-which is short and describes the change you are making.</p>
-<blockquote class="book-hint warning">
-<p>The changes on one branch or pull request should address a
+which is short and describes the change you are making.</p><blockquote class="book-hint warning"><p>The changes on one branch or pull request should address a
 single issue and be self-contained. Don&rsquo;t try to solve more than one unrelated
-problem at once.</p>
-<p>Sticking to this practice will help ensure pull requests are small and easy to
+problem at once.</p><p>Sticking to this practice will help ensure pull requests are small and easy to
 review. Otherwise, you might end up having to make many changes during review,
-have difficultly keeping your branch up to date or upset the reviewers.</p>
-</blockquote>
-<h2 id=opening-a-pull-request>
-Opening a Pull Request
-<a class=anchor href=#opening-a-pull-request>#</a>
-</h2>
-<p>When you think your changes are ready to be merged, open a pull request. If you
+have difficultly keeping your branch up to date or upset the reviewers.</p></blockquote><h2 id=opening-a-pull-request>Opening a Pull Request
+<a class=anchor href=#opening-a-pull-request>#</a></h2><p>When you think your changes are ready to be merged, open a pull request. If you
 don&rsquo;t want your changes to be merged yet but would like some feedback, you can
-open a draft pull request.</p>
-<p>When you open a pull request you will be presented with a template. Complete the
+open a draft pull request.</p><p>When you open a pull request you will be presented with a template. Complete the
 sections and answer the questions as best you can. In particular, make sure to
-reference any issues your work closes or is related to.</p>
-<h3 id=continuous-integration>
-Continuous Integration
-<a class=anchor href=#continuous-integration>#</a>
-</h3>
-<p>A series of tests will be automatically conducted on each commit and pull
+reference any issues your work closes or is related to.</p><h3 id=continuous-integration>Continuous Integration
+<a class=anchor href=#continuous-integration>#</a></h3><p>A series of tests will be automatically conducted on each commit and pull
 request. The tests are defined in <a href=https://github.com/alan-turing-institute/REG-handbook/tree/main/.github/workflows/ci.yaml><code>ci.yaml</code></a>
-.</p>
-<p>The following tests are required to pass before merging a pull request</p>
-<ul>
-<li>A Markdown linter</li>
-<li>A Hugo build</li>
-</ul>
-<p>There are other test that are not <em>required</em> before merging, although you should
-aim to pass all tests. Those are</p>
-<ul>
-<li>A Markdown link checker</li>
-<li>A HTML proofer (including link checking) on the output of Hugo</li>
-</ul>
-<h2 id=keeping-your-branch-up-to-date>
-Keeping Your Branch up to Date
-<a class=anchor href=#keeping-your-branch-up-to-date>#</a>
-</h2>
-<p>The branch protection rules applied to <code>main</code> will prevent merging out-of-date
+.</p><p>The following tests are required to pass before merging a pull request</p><ul><li>A Markdown linter</li><li>A Hugo build</li></ul><p>There are other test that are not <em>required</em> before merging, although you should
+aim to pass all tests. Those are</p><ul><li>A Markdown link checker</li><li>A HTML proofer (including link checking) on the output of Hugo</li></ul><h2 id=keeping-your-branch-up-to-date>Keeping Your Branch up to Date
+<a class=anchor href=#keeping-your-branch-up-to-date>#</a></h2><p>The branch protection rules applied to <code>main</code> will prevent merging out-of-date
 branches. This means if your branch doesn&rsquo;t include the changes from the <code>HEAD</code>
-of <code>origin/main</code> it won&rsquo;t be possible to merge it.</p>
-<p>If your branch isn&rsquo;t up to date, you can fix it with a merge or rebase.</p>
-<h3 id=merging>
-Merging
-<a class=anchor href=#merging>#</a>
-</h3>
-<p><a href=https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging>Merging</a>
+of <code>origin/main</code> it won&rsquo;t be possible to merge it.</p><p>If your branch isn&rsquo;t up to date, you can fix it with a merge or rebase.</p><h3 id=merging>Merging
+<a class=anchor href=#merging>#</a></h3><p><a href=https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging>Merging</a>
 the changes from <code>origin/main</code> is probably the simpler way to get your branch up
 to date. It will leave the Git history a bit messier which can bother some
-people.</p>
-<p>Ensure you have the latest changes on <code>origin/main</code> in your local repository</p>
-<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash>git fetch
-</code></pre></div><p>Merge <code>origin/main</code> into your branch. If your branch was called <code>my_branch</code> you
-would run</p>
-<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash>git switch my_branch
-git merge origin/main
-</code></pre></div><p>Git will notify you of any conflicts. If there are conflicts you should fix them
-before running <code>git merge --continue</code> to commit.</p>
-<p>After you are done you can push your changes.</p>
-<h3 id=rebasing>
-Rebasing
-<a class=anchor href=#rebasing>#</a>
-</h3>
-<p><a href=https://git-scm.com/book/en/v2/Git-Branching-Rebasing>Rebasing</a> your branch on
+people.</p><p>Ensure you have the latest changes on <code>origin/main</code> in your local repository</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash><span style=display:flex><span>git fetch
+</span></span></code></pre></div><p>Merge <code>origin/main</code> into your branch. If your branch was called <code>my_branch</code> you
+would run</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash><span style=display:flex><span>git switch my_branch
+</span></span><span style=display:flex><span>git merge origin/main
+</span></span></code></pre></div><p>Git will notify you of any conflicts. If there are conflicts you should fix them
+before running <code>git merge --continue</code> to commit.</p><p>After you are done you can push your changes.</p><h3 id=rebasing>Rebasing
+<a class=anchor href=#rebasing>#</a></h3><p><a href=https://git-scm.com/book/en/v2/Git-Branching-Rebasing>Rebasing</a> your branch on
 top of <code>origin/main</code> can make conflicts more difficult or confusing to deal
-with.</p>
-<p>Ensure you have the latest changes on <code>origin/main</code> in your local repository</p>
-<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash>git fetch
-</code></pre></div><p>Apply your commits on top of <code>origin/main</code>. If your branch was called
-<code>my_branch</code> you would run</p>
-<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash>git switch my_branch
-git rebase origin/main
-</code></pre></div><p>If you want to tidy up your commits or messages you might want to use <code>git rebase -i</code>.</p>
-<p>Git will notify you of any conflicts. If there are conflicts you will need to
-fix them iteratively, running <code>git rebase --continue</code> to apply each commit.</p>
-<p>When the rebase is done, you will need to force push your changes as you have
-rewritten the history of your branch.</p>
-<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash>git push -f
-</code></pre></div><blockquote class="book-hint warning">
-Rewriting history is considered impolite on a branch where you are working
+with.</p><p>Ensure you have the latest changes on <code>origin/main</code> in your local repository</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash><span style=display:flex><span>git fetch
+</span></span></code></pre></div><p>Apply your commits on top of <code>origin/main</code>. If your branch was called
+<code>my_branch</code> you would run</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash><span style=display:flex><span>git switch my_branch
+</span></span><span style=display:flex><span>git rebase origin/main
+</span></span></code></pre></div><p>If you want to tidy up your commits or messages you might want to use <code>git rebase -i</code>.</p><p>Git will notify you of any conflicts. If there are conflicts you will need to
+fix them iteratively, running <code>git rebase --continue</code> to apply each commit.</p><p>When the rebase is done, you will need to force push your changes as you have
+rewritten the history of your branch.</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash><span style=display:flex><span>git push -f
+</span></span></code></pre></div><blockquote class="book-hint warning">Rewriting history is considered impolite on a branch where you are working
 collaboratively. It can cause problems when the state of a remote changes
-unexpectedly.
-</blockquote>
-<h2 id=the-review-process>
-The Review Process
-<a class=anchor href=#the-review-process>#</a>
-</h2>
-<p>Once your pull request has been submitted the handbook maintainers will be
+unexpectedly.</blockquote><h2 id=the-review-process>The Review Process
+<a class=anchor href=#the-review-process>#</a></h2><p>Once your pull request has been submitted the handbook maintainers will be
 prompted to make a review. Each pull request requires <strong>at least one</strong> approval from
 the maintainers before merging. If a reviewer requests any changes or makes any
-comments, these <strong>must</strong> be resolved before the pull request can be merged.</p>
-</article>
-<footer class=book-footer>
-<div class="flex flex-wrap justify-between">
-<div><a class="flex align-center" href=https://github.com/alan-turing-institute/REG-handbook/commit/241e346bd7d8e93da37d39141bb6bf022bdd07bc title="Last modified by Jim Madge | 15 Feb 2022" target=_blank rel=noopener>
-<img src=/REG-handbook/svg/calendar.svg class=book-icon alt=Calendar>
-<span>15 Feb 2022</span>
-</a>
-</div>
-<div>
-<a class="flex align-center" href=https://github.com/alan-turing-institute/REG-handbook/edit/main/content/docs/contributing/contributing_changes.md target=_blank rel=noopener>
-<img src=/REG-handbook/svg/edit.svg class=book-icon alt=Edit>
-<span>Edit this page</span>
-</a>
-</div>
-</div>
-<br>
-<div>
-<a rel=license href=https://creativecommons.org/licenses/by/4.0/>
-<img alt="Creative Commons Licence" style=border-width:0 src=https://i.creativecommons.org/l/by/4.0/88x31.png>
-</a>
-<br>This work is licensed under a&nbsp;<a rel=license href=https://creativecommons.org/licenses/by/4.0/>Creative Commons Attribution 4.0 International License</a>.
-</div>
-</footer>
-<div class=book-comments>
-</div>
-<label for=menu-control class="hidden book-menu-overlay"></label>
-</div>
-<aside class=book-toc>
-<div class=book-toc-content>
-<nav id=TableOfContents>
-<ul>
-<li><a href=#contributing-changes>Contributing Changes</a>
-<ul>
-<li><a href=#creating-a-branch>Creating a Branch</a></li>
-<li><a href=#opening-a-pull-request>Opening a Pull Request</a>
-<ul>
-<li><a href=#continuous-integration>Continuous Integration</a></li>
-</ul>
-</li>
-<li><a href=#keeping-your-branch-up-to-date>Keeping Your Branch up to Date</a>
-<ul>
-<li><a href=#merging>Merging</a></li>
-<li><a href=#rebasing>Rebasing</a></li>
-</ul>
-</li>
-<li><a href=#the-review-process>The Review Process</a></li>
-</ul>
-</li>
-</ul>
-</nav>
-</div>
-</aside>
-</main>
-</body>
-</html>
+comments, these <strong>must</strong> be resolved before the pull request can be merged.</p></article><footer class=book-footer><div class="flex flex-wrap justify-between"><div><a class="flex align-center" href=https://github.com/alan-turing-institute/REG-handbook/commit/0095edc462763d2ac89ff264be0013aa9106954a title="Last modified by Jim Madge | 11 Mar 2022" target=_blank rel=noopener><img src=/REG-handbook/svg/calendar.svg class=book-icon alt=Calendar>
+<span>11 Mar 2022</span></a></div><div><a class="flex align-center" href=https://github.com/alan-turing-institute/REG-handbook/edit/main/content/docs/contributing/contributing_changes.md target=_blank rel=noopener><img src=/REG-handbook/svg/edit.svg class=book-icon alt=Edit>
+<span>Edit this page</span></a></div></div><br><div><a rel=license href=https://creativecommons.org/licenses/by/4.0/><img alt="Creative Commons Licence" style=border-width:0 src=https://i.creativecommons.org/l/by/4.0/88x31.png></a><br>This work is licensed under a&nbsp;<a rel=license href=https://creativecommons.org/licenses/by/4.0/>Creative Commons Attribution 4.0 International License</a>.</div></footer><div class=book-comments></div><label for=menu-control class="hidden book-menu-overlay"></label></div><aside class=book-toc><div class=book-toc-content><nav id=TableOfContents><ul><li><a href=#contributing-changes>Contributing Changes</a><ul><li><a href=#creating-a-branch>Creating a Branch</a></li><li><a href=#opening-a-pull-request>Opening a Pull Request</a><ul><li><a href=#continuous-integration>Continuous Integration</a></li></ul></li><li><a href=#keeping-your-branch-up-to-date>Keeping Your Branch up to Date</a><ul><li><a href=#merging>Merging</a></li><li><a href=#rebasing>Rebasing</a></li></ul></li><li><a href=#the-review-process>The Review Process</a></li></ul></li></ul></nav></div></aside></main></body></html>
