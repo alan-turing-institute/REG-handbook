@@ -33,7 +33,7 @@ The linting style used is included in the root of the repository,
 
 ## Clone the repository
 
-Clone the repository with one of the options (depending on how you authenticate with Github):
+Clone the repository with one of the following options (depending on how you authenticate with GitHub):
 
 ```bash
 # Using SSH authentication
