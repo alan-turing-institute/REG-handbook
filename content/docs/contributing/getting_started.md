@@ -33,20 +33,25 @@ The linting style used is included in the root of the repository,
 
 ## Clone the repository
 
-Clone the repository with one of the following options (depending on how you authenticate with GitHub):
+Clone the repository with one of the following options (depending on how you
+authenticate with GitHub):
 
 {{< tabs "clone-command" >}}
 {{< tab "SSH authentication" >}}
+
 ```bash
 git clone --recurse-submodules git@github.com:alan-turing-institute/REG-handbook.git
 cd REG-handbook
 ```
+
 {{< /tab >}}
 {{< tab "HTTPS authentication" >}}
+
 ```bash
 git clone --recurse-submodules https://github.com/alan-turing-institute/REG-handbook.git
 cd REG-handbook
 ```
+
 {{< /tab >}}
 {{< /tabs >}}
 
