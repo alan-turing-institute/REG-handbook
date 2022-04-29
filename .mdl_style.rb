@@ -9,8 +9,8 @@ rule 'MD003', :style => :atx
 # Only allow dashes in unordered lists
 rule 'MD004', :style => :dash
 
-# Enforce line length of 80 characters except in code blocks and tables
-rule 'MD013', :code_blocks => false, :tables => false
+# Do not enforce line length to make it easier to cut and paste content from other editors.
+exclude_rule 'MD013'
 
 # Ignore blockquotes separated only be a blank line. This is a limitation of
 # some markdown parsers, not markdown itself.
