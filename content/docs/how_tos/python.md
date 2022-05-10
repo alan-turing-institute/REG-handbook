@@ -17,11 +17,19 @@ Python is a widely used language within REG. Below are some useful tools to help
 There are a number of widely used autoformatter and linters for python, which can be used as standalone tools or call from .pre-commit, continuous integration tools etc:
 
 - [isort](https://pypi.org/project/isort/) Sorts your import statements correctly.
+    -  The order `isort` "sorts" imports in the following order:
+      1. standard library imports (e.g. `import os`)
+      2. related third party imports (e.g. `import pandas`)
+      3. local application/library specific imports (e.g. `from .my_python_file import MyClass`)
+    - You should put a blank line between each group of imports.
+    - the configuration of `isort` can be specified in a `pyproject.toml` file, where `isort` is using the `[tool.isort]` section.
 - [black](https://pypi.org/project/black) A highly opinionated code formatter, which enforces control of minutiae details of your code.
+    - the configuration of `black` can be specified in a `pyproject.toml` file, where `black` is using the ``[tool.black]`` section.
 - [flake8](https://pypi.org/project/flake8) A wrapper for three other tools:
     - PyFlakes - checks syntax, without checking style
     - pycodestyle - checks compliance with [PEP8](https://peps.python.org/pep-0008/)
     - Ned Batchelder’s McCabe script - checks the cyclomatic complexity of code.
+    - configuration can be specified in a `.flake8` configuration file in the root directory of your project.
 
 It is possible to use all of these. For Turing members only, the arc group have a [repo with suggested configuration files](https://github.com/alan-turing-institute/ARC/tree/master/code-style/suggested-config) which you can copy/adapt as required.
 
