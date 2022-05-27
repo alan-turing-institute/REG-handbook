@@ -2,7 +2,7 @@
 # Page title as it appears in the navigation menu
 title: "Contributing Changes"
 # Adjust weight to reorder menu items (lower numbers appear first)
-weight: 4
+weight: 5
 # Uncomment to hide nested pages in a collapsed menu
 # bookCollapseSection = true
 # Uncomment to hide this page from the navigation menu
