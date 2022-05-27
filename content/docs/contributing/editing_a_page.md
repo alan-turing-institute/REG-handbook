@@ -142,10 +142,10 @@ Shortcodes can be included in the handbooks repository. For more information see
 Create a link to a file or directory in the handbook's repository.
 
 ```markdown
-{{%/* repo_link target="README.md" text="README" */%}}
+{{%/* repo_link path="README.md" text="README" */%}}
 ```
 
-`target`
+`path`
 : Path to the file or directory relative to the root of the repository
 
 `text`
