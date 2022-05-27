@@ -18,7 +18,7 @@ weight: 2
 It is encouraged to use [Semantic Line Breaks](https://sembr.org/) when writing for the handbook.
 This improves the readability of source files and make diffs clearer.
 The Semantic Line Breaks [specification](https://sembr.org) explains the rules and reasoning.
-The most important rules are
+The most important rules are,
 
 > - A semantic line break MUST occur after a sentence, as punctuated by a period (.), exclamation mark (!), or question mark (?).
 > - A semantic line break SHOULD occur after an independent clause as punctuated by a comma (,), semicolon (;), colon (:), or em dash (—).
