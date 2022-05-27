@@ -17,6 +17,12 @@ Once you have made changes, you will need to contribute them back to the remote
 repository. This page explains the process of pushing your changes back to the
 remote, and how your contribution will be checked in the CI and review process.
 
+{{% hint danger %}}
+Currently, reviews are not required.
+Pull requests will be merged when all required CI checks pass.
+Make sure to mark your pull request as a draft until it is ready to be merged.
+{{% /hint %}}
+
 The handbook users the [GitHub
 flow](https://docs.github.com/en/get-started/quickstart/github-flow) workflow.
 In short
@@ -29,8 +35,8 @@ In short
 
 This workflow should help changes be deployed quickly.
 
-{{% hint warning %}}
-When making commits, follow Tim Pope's
+{{% hint info %}}
+When making commits, it is a good idea to follow Tim Pope's
 [recommendations](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
 for good commit messages.
 {{% /hint %}}
