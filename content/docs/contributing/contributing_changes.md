@@ -19,8 +19,9 @@ remote, and how your contribution will be checked in the CI and review process.
 
 {{% hint danger %}}
 Currently, reviews are not required.
-Pull requests will be merged when all required CI checks pass.
-Make sure to mark your pull request as a draft until it is ready to be merged.
+Pull requests may be merged by anyone with write access when all required CI checks pass.
+
+You may enable [auto-merge](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/automatically-merging-a-pull-request) on a pull request so that a merge is made as soon as all checks pass.
 {{% /hint %}}
 
 The handbook users the [GitHub
