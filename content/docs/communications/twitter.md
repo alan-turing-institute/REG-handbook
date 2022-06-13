@@ -16,10 +16,14 @@ weight: 1
 The group has a Twitter account [@turinghut23](https://twitter.com/turinghut23).
 The purpose of the account is to have an informal public-facing channel where we can communicate about projects we are working on and about life as a research engineer at the Turing.
 
+## Access
+
 If you want to tweet under the group account, ask [the account
 controller](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry) for access.
 
-## Do post about
+This also gives you access to [Medium](https://medium.com/@turinghut23)
+
+## What to Post
 
 - Projects we work on (if public)
 - Blog posts
