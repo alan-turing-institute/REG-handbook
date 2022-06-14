@@ -11,9 +11,9 @@ Many people will configure their editor to suit their own needs and preferences.
 
 It is possible to do this so that there are common standards between collaborators in the code base, whilst allowing for differences in individuals' configurations.
 
-* * *
+***
 > Note: Some of the topics discussed below are heavily focused on python development. In due course we should generalise this to cover other languages.
-* * *
+***
 
 ## General
 
@@ -89,8 +89,7 @@ It does the following:
 Note that:
 
 - It's possible to specify arguments for the linters/formatters in `settings.json`, but I'd suggest using each tool's own configuration files (e.g. `.flake8`), as these will then be picked up by other tools and editors as well. (e.g. Should configure `flake8` and `isort` to be compatible with `black`).
-- If enabled tools are not installed in your Python environment VS Code should prompt
-you to install them.
+- If enabled tools are not installed in your Python environment VS Code should prompt you to install them.
 - You are likely to have some non-Python specific configuration as well, so add the settings above to your `settings.json` file rather than overwriting it completely.
 
 ### Selecting Python interpreter
