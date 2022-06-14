@@ -11,13 +11,11 @@ For any non-trivial code, it is worth maintaining a Changelog.
 
 This is valuable as it is a record of changes _from the perspective of users_ (rather than git commit messages which are often only meaningful to the developers involved).
 
-A recommended format for Changelog files is given at 
-[Keep a changelog](https://keepachangelog.com).
+A recommended format for Changelog files is given at [Keep a changelog](https://keepachangelog.com).
 
 All notable changes to a project should be documented in this file.
 
-
-# Semantic Versioning
+## Semantic Versioning
 
 A related concept is [semantic versioning](https://semver.org/spec/v2.0.0.html).
 
