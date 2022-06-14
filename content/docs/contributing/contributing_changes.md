@@ -2,7 +2,7 @@
 # Page title as it appears in the navigation menu
 title: "Contributing Changes"
 # Adjust weight to reorder menu items (lower numbers appear first)
-weight: 4
+weight: 5
 # Uncomment to hide nested pages in a collapsed menu
 # bookCollapseSection = true
 # Uncomment to hide this page from the navigation menu
@@ -17,6 +17,13 @@ Once you have made changes, you will need to contribute them back to the remote
 repository. This page explains the process of pushing your changes back to the
 remote, and how your contribution will be checked in the CI and review process.
 
+{{% hint danger %}}
+Currently, reviews are not required.
+Pull requests may be merged by anyone with write access when all required CI checks pass.
+
+You may enable [auto-merge](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/automatically-merging-a-pull-request) on a pull request so that a merge is made as soon as all checks pass.
+{{% /hint %}}
+
 The handbook users the [GitHub
 flow](https://docs.github.com/en/get-started/quickstart/github-flow) workflow.
 In short
@@ -29,8 +36,8 @@ In short
 
 This workflow should help changes be deployed quickly.
 
-{{% hint warning %}}
-When making commits, follow Tim Pope's
+{{% hint info %}}
+When making commits, it is a good idea to follow Tim Pope's
 [recommendations](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
 for good commit messages.
 {{% /hint %}}

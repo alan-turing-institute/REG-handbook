@@ -2,7 +2,7 @@
 # Page title as it appears in the navigation menu
 title: "Editing a Page"
 # Adjust weight to reorder menu items (lower numbers appear first)
-weight: 3
+weight: 4
 # Uncomment to hide nested pages in a collapsed menu
 # bookCollapseSection = true
 # Uncomment to hide this page from the navigation menu
@@ -142,10 +142,10 @@ Shortcodes can be included in the handbooks repository. For more information see
 Create a link to a file or directory in the handbook's repository.
 
 ```markdown
-{{%/* repo_link target="README.md" text="README" */%}}
+{{%/* repo_link path="README.md" text="README" */%}}
 ```
 
-`target`
+`path`
 : Path to the file or directory relative to the root of the repository
 
 `text`
