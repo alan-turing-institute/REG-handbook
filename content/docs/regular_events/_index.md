@@ -19,8 +19,8 @@ weight: 1
 
 ## REG Events
 
-- Lunchtime tech talks
-- Lightning talks
+- [Lunchtime tech talks]({{< relref "/docs/regular_events/lunchtime_tech_talks.md" >}})
+- [Lightning talks]({{< relref "/docs/regular_events/lightning_talks.md" >}})
 - Reading groups
 - REG dugnad
 
