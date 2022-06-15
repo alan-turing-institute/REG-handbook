@@ -36,15 +36,15 @@ Both tools need to be set up en ensure that they are mutually compatible. Howeve
 
 Focusing on Python only, useful extensions include:
 
-- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - adds core functionality for linting/navigating/debugging/etc.
+- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) — adds core functionality for linting/navigating/debugging/etc.
   - [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
   - [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
-- [Python Indent](https://marketplace.visualstudio.com/items?itemName=KevinRose.vsc-python-indent) - improves editor behaviour for matching indentation across lines
-- [autoDocstring](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring) - auto-generate template docstrings
-- [IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) - improved auto-completion/code suggestions
-- [Black formatter (pre-release)](https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter) - auto-format code with `black`
-- [isort (pre-release)](https://marketplace.visualstudio.com/items?itemName=ms-python.isort) - auto-format code with `isort`
-- [Python Type Hint](https://marketplace.visualstudio.com/items?itemName=njqdev.vscode-python-typehint) - helps with completing type-hints
+- [Python Indent](https://marketplace.visualstudio.com/items?itemName=KevinRose.vsc-python-indent) — improves editor behaviour for matching indentation across lines
+- [autoDocstring](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring) — auto-generate template docstrings
+- [IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) — improved auto-completion/code suggestions
+- [Black formatter (pre-release)](https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter) — auto-format code with `black`
+- [isort (pre-release)](https://marketplace.visualstudio.com/items?itemName=ms-python.isort) — auto-format code with `isort`
+- [Python Type Hint](https://marketplace.visualstudio.com/items?itemName=njqdev.vscode-python-typehint) — helps with completing type-hints
 
 NB: The `black` and `isort` pre-release packages are currently designed to work with the Python pre-release version. This is likely to be consolidated/improved in the future.
 
@@ -121,7 +121,7 @@ Hovering over a piece of code with a problem in the editor will give you more de
 
 [VSC Formatting Docs](https://code.visualstudio.com/docs/python/editing#_formatting)
 
-VS code can use a few different file formatters (e.g. `black`, `yapf`, `autopep8` - we recommend `black`), which can be configured to run automatically when saving files (see settings above) or with the following shortcuts:
+VS code can use a few different file formatters (e.g. `black`, `yapf`, `autopep8` — we recommend `black`), which can be configured to run automatically when saving files (see settings above) or with the following shortcuts:
 
 - Option-Shift-F
 - Save the file (if auto-formatting is configured)
@@ -136,7 +136,7 @@ If you have enabled `pytest` (or another framework, e.g. `unittest`), tests will
 
 From here you can run all/individual tests. You can also search for "Tests" in the command palette (Cmd-Shift-P) to find options for running tests. If a test fails, clicking on it will show the error message. You can also debug tests (see debugging).
 
-If you have a tests file open in an editor the latest pass/fail status of a test will be shown (or a play button if the test hasn't run before) - running tests can be triggered from there too.
+If you have a tests file open in an editor the latest pass/fail status of a test will be shown (or a play button if the test hasn't run before) — running tests can be triggered from there too.
 
 ### Debugging
 

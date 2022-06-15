@@ -27,9 +27,9 @@ There are many widely used autoformatter and linters for Python, which can be us
 - [black](https://pypi.org/project/black) A highly opinionated code formatter, which enforces control of minutiae details of your code.
   - the configuration of `black` can be specified in a `pyproject.toml` file, where `black` is using the ``[tool.black]`` section.
 - [flake8](https://pypi.org/project/flake8) A wrapper for three other tools:
-  - PyFlakes - checks syntax, without checking the style.
-  - pycodestyle - checks compliance with [PEP8](https://peps.python.org/pep-0008/)
-  - Ned Batchelder’s McCabe script - checks the cyclomatic complexity of code.
+  - PyFlakes — checks syntax, without checking the style.
+  - pycodestyle — checks compliance with [PEP8](https://peps.python.org/pep-0008/)
+  - Ned Batchelder’s McCabe script — checks the cyclomatic complexity of code.
   - configuration can be specified in a `.flake8` configuration file in the root directory of your project.
 
 It is possible to use all of these in combination. For Turing members only, the ARC group have a [repo with suggested configuration files](https://github.com/alan-turing-institute/ARC/tree/master/code-style/suggested-config) which you can copy/adapt as required.
@@ -38,9 +38,9 @@ It is possible to use all of these in combination. For Turing members only, the 
 
 Type checking is optional in Python but is generally recommended. There are several tools which can perform type checking:
 
-- [mypy](http://mypy-lang.org) - This type-checker has the distinction of including [Guido van Rossum](https://python.org/~guido) in its core development team.
-- [pyright](https://github.com/Microsoft/pyright) - By Microsoft.
-- [pytype](https://github.com/google/pytype) - By Google.
+- [mypy](http://mypy-lang.org) — This type-checker has the distinction of including [Guido van Rossum](https://python.org/~guido) in its core development team.
+- [pyright](https://github.com/Microsoft/pyright) — By Microsoft.
+- [pytype](https://github.com/google/pytype) — By Google.
 
 Currently, no opinion is offered in selecting between these tools.
 
