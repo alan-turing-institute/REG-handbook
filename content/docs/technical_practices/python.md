@@ -20,8 +20,8 @@ There are many widely used autoformatter and linters for Python, which can be us
 - [isort](https://pypi.org/project/isort/) Sorts your import statements correctly.
   - The order `isort` "sorts" imports in the following order:
     1. standard library imports (e.g. `import os`)
-    2. related third party imports (e.g. `import pandas`)
-    3. local application/library specific imports (e.g. `from .my_python_file import MyClass`)
+    1. related third party imports (e.g. `import pandas`)
+    1. local application/library specific imports (e.g. `from .my_python_file import MyClass`)
   - You should put a blank line between each group of imports.
   - the configuration of `isort` can be specified in a `pyproject.toml` file, where `isort` is using the `[tool.isort]` section.
 - [black](https://pypi.org/project/black) A highly opinionated code formatter, which enforces control of minutiae details of your code.
