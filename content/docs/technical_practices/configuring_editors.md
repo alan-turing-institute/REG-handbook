@@ -11,9 +11,10 @@ Many people will configure their editor to suit their own needs and preferences.
 
 It is possible to do this so that there are common standards between collaborators in the code base, whilst allowing for differences in individuals' configurations.
 
-***
-> Note: Some of the topics discussed below are heavily focused on python development. In due course we should generalise this to cover other languages.
-***
+
+{{< hint warning >}}
+Some of the topics discussed below are heavily focused on python development. In due course we should generalise this to cover other languages.
+{{< /hint >}}
 
 ## General
 

@@ -9,9 +9,9 @@ weight: 3
 
 Python is a widely used language within REG. Below are some useful tools to help you configure your repo (with links to examples).
 
-***
-> Note: Some of the topics discussed below are not exclusive to Python. As more content is added to the manual they should be separated out into their own pages.
-***
+{{< hint warning >}}
+Some of the topics discussed below are not exclusive to Python. As more content is added to the manual they should be separated out into their own pages.
+{{< /hint >}}
 
 ## Autoformatters / Linters
 
