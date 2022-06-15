@@ -136,4 +136,4 @@ jobs:
           --enforce-https \
           --external-only \
           --url-swap "^^https\://alan-turing-institute.github.io/REG-handbook/:/,/edit/main:/edit/$(git branch --show-current),/tree/main:/tree/$(git branch --show-current)" \
-          --url-ignore "/github.com/alan-turing-institute/,/docs.github.com/"
+          --url-ignore "/github.com/alan-turing-institute/research-engineering-group/,/github.com/alan-turing-institute/ARC/,/docs.github.com/"
