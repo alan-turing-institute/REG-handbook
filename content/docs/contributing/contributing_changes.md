@@ -7,7 +7,7 @@ weight: 5
 # bookCollapseSection = true
 # Uncomment to hide this page from the navigation menu
 # bookHidden = false
-# Uncomment to exlude this page from the search
+# Uncomment to exclude this page from the search
 # bookSearchExclude = true
 ---
 
