@@ -15,7 +15,7 @@ weight: 1
 
 ## Coffee Chats
 
-- [Coffee Chats](coffee_chats)
+- [Coffee Chats]({{< relref "/docs/regular_events/coffee_chats.md" >}})
 
 ## REG Events
 
