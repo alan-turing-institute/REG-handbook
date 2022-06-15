@@ -13,7 +13,8 @@ weight: 1
 
 # Lightning Talks
 
-Lightning Talks are a meeting series within the tech talk slots in which people give short 10 minute talks. The main goals are to:
+Lightning Talks are a meeting series within the tech talk slots in which people give short 10 minute talks.
+The main goals are to:
 
 1. Regularly share what we're working on.
 1. Find overlaps between projects or problems someone else in the team could help with.
@@ -22,23 +23,25 @@ Lightning Talks are a meeting series within the tech talk slots in which people 
 
 The talks can be on any topic, including but not limited to:
 
-- A project (including one that hasn't started yet)
-- A tool or technique you use
-- Something you'd like help with
+- A project (including one that hasn't started yet).
+- A tool or technique you use.
+- Something you'd like help with.
 
 Informal talks or discussions without slides or much preparation are encouraged and very welcome!
 
 ## Talk Format
 
-Each slot will be **10 minutes**, with a few minutes after for questions. We will be fairly strict with time to make sure everyone on the agenda gets to present.
+Each slot will be **10 minutes** with a few minutes after for questions.
+We will be fairly strict with time to make sure everyone on the agenda gets to present.
 
-You can choose whatever format you like (slides, markdown, notebook, freestyle…), but remember that it's a short slot which lends itself to concise, high-level overviews of a topic. For example, if your talk is on a project you may wish to cover the following:
+You can choose whatever format you like (slides, markdown, notebook, freestyle…), but remember that it's a short slot which lends itself to concise, high-level overviews of a topic.
+For example, if your talk is on a project you may wish to cover the following:
 
-1. Background: The domain area, context, problem etc.
+1. Background: The domain area, context, problem _etc._.
 1. Goals: What are the aims of the project?
 1. Status: What's been done so far, example results (if any).
 1. Tools & Techniques: What you're using, what you've learnt, what you'd like help with.
-1. Summary: who's working on the project, dates, GitHub link etc.
+1. Summary: who's working on the project, dates, GitHub link _etc._.
 
 If you'd like to prepare slides, there's a PowerPoint template and examples from previous talks under [here](https://thealanturininstitute.sharepoint.com/:f:/s/ResearchEngineering/EvFtcBhG1RhKofdqD3HNE48BIG443DyTMeRoEwuY453Vcg?e=zv1aZT) that can help you get started.
 
