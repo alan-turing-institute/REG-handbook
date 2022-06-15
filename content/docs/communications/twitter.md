@@ -29,7 +29,7 @@ This also gives you access to [Medium](https://medium.com/@turinghut23)
 - Blog posts
 - Talks that we organise
 - Conferences and workshops
-- Any public outputs - papers, published code etc.
+- Any public outputs — papers, published code _etc._
 
 Please refer to the Turing's [social media
-policy](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2203&SearchId=11587)
+policy](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2203&SearchId=11587) when making posts.

@@ -9,7 +9,7 @@ weight: 4
 
 Many people will configure their editor to suit their own needs and preferences.
 
-It is possible to do this so that there are common standards between collaborators in the code base, whilst allowing for differences in individuals' configurations.
+It is possible to do this so that there are common standards between collaborators in the code base, while allowing for differences in individuals' configurations.
 
 {{< hint warning >}}
 Some of the topics discussed below are heavily focused on python development. In due course we should generalise this to cover other languages.
@@ -17,14 +17,17 @@ Some of the topics discussed below are heavily focused on python development. In
 
 ## General
 
-Some common particular formatting/encoding options can be configured for a range of editors/IDEs, by using [EditorConfig](https://editorconfig.org) in your repo. A
-`.editorconfig` needs to be placed in the root of your repo.
+Some common, particular formatting/encoding options can be configured for a range of editors/IDEs by using [EditorConfig](https://editorconfig.org) in your repo.
+A `.editorconfig` needs to be placed in the root of your repo.
 
-Many (but not all) editors support EditorConfig files, allowing different members of your project team to use their own favourite editor, whilst maintaining common coding standards. Some support EditorConfig natively, others require a plugin to support EditorConfig.
+Many (but not all) editors support EditorConfig files allowing different members of your project team to use their own favourite editor while maintaining common coding standards.
+Some editors support EditorConfig natively; others require a plugin to support EditorConfig.
 
-There is some overlap in functionality between EditorConfig and Flake8. Crudely EditorConfig applies standards to files as they are created/edited, whilst Flake8 checks all files (irrespective of origin) on demand.
+There is some overlap in functionality between EditorConfig and Flake8.
+Crudely EditorConfig applies standards to files as they are created/edited, while Flake8 checks all files (irrespective of origin) on demand.
 
-Both tools need to be set up en ensure that they are mutually compatible. However, since the configurations for both Flake8 and EditorConfig rarely change after the initial setup of the project, this is not a problem in practice.
+Both tools need to be set up en ensure that they are mutually compatible.
+However, since the configurations for both Flake8 and EditorConfig rarely change after the initial setup of the project, this is not a problem in practice.
 
 ## VS code
 
@@ -45,17 +48,19 @@ Focusing on Python only, useful extensions include:
 - [isort (pre-release)](https://marketplace.visualstudio.com/items?itemName=ms-python.isort) — auto-format code with `isort`
 - [Python Type Hint](https://marketplace.visualstudio.com/items?itemName=njqdev.vscode-python-typehint) — helps with completing type-hints
 
-NB: The `black` and `isort` pre-release packages are currently designed to work with the Python pre-release version. This is likely to be consolidated/improved in the future.
+{{< hint info >}}
+The `black` and `isort` pre-release packages are currently designed to work with the Python pre-release version. This is likely to be consolidated/improved in the future.
+{{< /hint >}}
 
 ### Settings
 
 VS Code Settings are stored in:
 
-- Global user settings: `~/Library/Application Support/Code/User/settings.json`
-- Project-specific (Workspace) settings: `<PROJECT_ROOT>/.vscode/settings.json`
+- Global user settings: `~/Library/Application Support/Code/User/settings.json`.
+- Project-specific (Workspace) settings: `<PROJECT_ROOT>/.vscode/settings.json`.
 
-You can also customise most settings via the `Code -> Preferences -> Settings`
-menu. For Python specifically note the `Extensions -> Python` section.
+You can also customise most settings via the `Code -> Preferences -> Settings` menu.
+For Python specifically note the `Extensions -> Python` section.
 
 Here's an example config for Python (reliant on installing the extensions above):
 
@@ -79,8 +84,8 @@ Here's an example config for Python (reliant on installing the extensions above)
 
 It does the following:
 
-- Activates linting with `flake8`, `mypy` and `pylint`
-  - I'd suggest using `flake8` at a minimum, but you may not want all three activated as it gets quite noisy and there's some overlap between them.
+- Activates linting with `flake8`, `mypy` and `pylint`.
+  - We suggest using `flake8` at a minimum, but you may not want all three activated as it gets quite noisy and there's some overlap between them.
 - Sets `pytest` to be the default test framework.
 - Sets `numpy` to be the default format for docstrings generated with autoDocstring.
 - Sets `black` to be the default formatter, and automatically runs `black` and `isort` when saving a file.
@@ -88,7 +93,7 @@ It does the following:
 
 Note that:
 
-- It's possible to specify arguments for the linters/formatters in `settings.json`, but I'd suggest using each tool's own configuration files (e.g. `.flake8`), as these will then be picked up by other tools and editors as well. (e.g. Should configure `flake8` and `isort` to be compatible with `black`).
+- It's possible to specify arguments for the linters/formatters in `settings.json`. We suggest using each tool's own configuration files (_e.g._ `.flake8`), as these will then be picked up by other tools and editors as well. (_e.g._ Should configure `flake8` and `isort` to be compatible with `black`).
 - If enabled tools are not installed in your Python environment VS Code should prompt you to install them.
 - You are likely to have some non-Python specific configuration as well, so add the settings above to your `settings.json` file rather than overwriting it completely.
 
@@ -96,17 +101,18 @@ Note that:
 
 [VSC Python Interpreters Docs](https://code.visualstudio.com/docs/python/environments#_work-with-python-interpreters)
 
-For each workspace VS Code can be configured to use a specific Python interpreter (environment). That interpreter is then used by default when doing anything with your code (running scripts, linting, tests etc.)
+For each workspace VS Code can be configured to use a specific Python interpreter (environment).
+That interpreter is then used by default when doing anything with your code (running scripts, linting, tests _etc._)
 
 To set the interpreter:
 
-- Open a `.py` file
-- Click on the details of the currently used environment on the status bar (bottom right)
-- Select an interpreter from the list that appears (or write the path to it)
+- Open a `.py` file.
+- Click on the details of the currently used environment on the status bar (bottom right).
+- Select an interpreter from the list that appears (or write the path to it).
 
 Or from the command palette:
 
-- Cmd-Shift-P -> Search for "Python: Select Interpreter"
+- Cmd-Shift-P -> Search for "Python: Select Interpreter".
 
 ### Linting
 
@@ -122,10 +128,10 @@ Hovering over a piece of code with a problem in the editor will give you more de
 
 VS code can use a few different file formatters (e.g. `black`, `yapf`, `autopep8` — we recommend `black`), which can be configured to run automatically when saving files (see settings above) or with the following shortcuts:
 
-- Option-Shift-F
-- Save the file (if auto-formatting is configured)
-- Right-click in a Python editor -> Format Document
-- Cmd-Shift-P (Opens Command Palette) -> Search for "format" -> "Format Document"
+- Option-Shift-F.
+- Save the file (if auto-formatting is configured).
+- Right-click in a Python editor -> Format Document.
+- Cmd-Shift-P (Opens Command Palette) -> Search for "format" -> "Format Document".
 
 ### Running Tests
 
@@ -133,15 +139,15 @@ VS code can use a few different file formatters (e.g. `black`, `yapf`, `autopep8
 
 If you have enabled `pytest` (or another framework, e.g. `unittest`), tests will be discovered and appear in the `Testing` menu (lab bottle on the left side menu).
 
-From here you can run all/individual tests. You can also search for "Tests" in the command palette (Cmd-Shift-P) to find options for running tests. If a test fails, clicking on it will show the error message. You can also debug tests (see debugging).
+From here you can run all/individual tests.
+You can also search for "Tests" in the command palette (Cmd-Shift-P) to find options for running tests.
+If a test fails, clicking on it will show the error message. You can also debug tests (see debugging).
 
 If you have a tests file open in an editor the latest pass/fail status of a test will be shown (or a play button if the test hasn't run before) — running tests can be triggered from there too.
 
 ### Debugging
 
 [VSC Debugging Docs](https://code.visualstudio.com/docs/python/debugging)
-
-Details to be added.
 
 ### Other Tips and Tricks
 
@@ -152,7 +158,3 @@ Details to be added.
 - **Go to definition:** Right-clicking on a (variable/function/class/etc.) name and selecting "Go to definition" will take you to where that thing is defined in the codebase.
 - **Git:** The editor highlights modifications to the code (by the line numbers), and you can also commit etc. from VS Code using the Source Control menu on the left.
 - **Docker:** There are extensions ([1](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker), [2](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)) for running code in containers/attaching a VS code window to a container.
-
-## Vim
-
-Details to be added
