@@ -1,6 +1,10 @@
 {
-    "ignorePatterns": [
-        {"pattern": "^https://github.com/alan-turing-institute"},
-        {"pattern": "^https://docs.github.com"}
-    ]
+  "ignorePatterns": [
+    {
+      "pattern": "^https://github.com/alan-turing-institute"
+    },
+    {
+      "pattern": "^https://docs.github.com"
+    }
+  ]
 }
