@@ -1,11 +1,11 @@
 ---
 # Page title as it appears in the navigation menu
-title: "Python tools and practices"
+title: "Python Tools and Practices"
 # Adjust weight to reorder menu items (lower numbers appear first)
 weight: 3
 ---
 
-# Python tools and practices
+# Python Tools and Practices
 
 Python is a widely used language within REG. Below are some useful tools to help you configure your repo (with links to examples).
 
@@ -34,7 +34,7 @@ There are many widely used autoformatter and linters for Python, which can be us
 
 It is possible to use all of these in combination. For Turing members only, the ARC group have a [repo with suggested configuration files](https://github.com/alan-turing-institute/ARC/tree/master/code-style/suggested-config) which you can copy/adapt as required.
 
-## Type checkers
+## Type Checkers
 
 Type checking is optional in Python but is generally recommended. There are several tools which can perform type checking:
 
@@ -50,7 +50,7 @@ Python-based Jupyter Notebooks are widely used within REG. There are some specif
 
 Details to be added.
 
-## Automation (pre-commit & actions)
+## Automation (Pre-Commit & Actions)
 
 A convenient way to incorporate many of these tools and checks into your workflow is to use `pre-commit`. Below is an example. You could adapt this to your needs, or create your own from the many [hooks described in the documentation](https://pre-commit.com/).
 
@@ -116,7 +116,7 @@ There are many other possible checks available with `pre-commit`, which you can 
 
 Repeating your pre-commit test in GitHub Actions
 
-## Deployment and packaging
+## Deployment and Packaging
 
 There are a range of ways to make python software available for distribution. Which combination of tools and processes you use depends on the particular aims of your project.
 

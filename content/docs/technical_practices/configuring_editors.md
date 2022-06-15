@@ -1,11 +1,11 @@
 ---
 # Page title as it appears in the navigation menu
-title: "Configuring your code editor"
+title: "Configuring Your Editor"
 # Adjust the weight to reorder menu items (lower numbers appear first)
 weight: 4
 ---
 
-# Configuring your code editor
+# Configuring Your Editor
 
 Many people will configure their editor to suit their own needs and preferences.
 
@@ -93,7 +93,7 @@ Note that:
 - If enabled tools are not installed in your Python environment VS Code should prompt you to install them.
 - You are likely to have some non-Python specific configuration as well, so add the settings above to your `settings.json` file rather than overwriting it completely.
 
-### Selecting Python interpreter
+### Selecting the Python Interpreter
 
 [VSC Python Interpreters Docs](https://code.visualstudio.com/docs/python/environments#_work-with-python-interpreters)
 
@@ -128,7 +128,7 @@ VS code can use a few different file formatters (e.g. `black`, `yapf`, `autopep8
 - Right-click in a Python editor -> Format Document
 - Cmd-Shift-P (Opens Command Palette) -> Search for "format" -> "Format Document"
 
-### Running tests
+### Running Tests
 
 [VSC Testing Docs](https://code.visualstudio.com/docs/python/testing)
 
@@ -144,7 +144,7 @@ If you have a tests file open in an editor the latest pass/fail status of a test
 
 Details to be added.
 
-### Other tips and tricks
+### Other Tips and Tricks
 
 - **Auto-import:** If you start typing a function name that hasn't been imported, VS Code will pop up a list of suggested functions and "Auto-Import" them (add an import statement to the top of the script) if you select one of them.
 - **Rename symbol:** Right-clicking on a (variable/function/class/etc.) name in a file, selecting "Rename symbol", and entering a new name will change the name of all instances of that across your codebase (but respecting the scope of the renamed entity).
