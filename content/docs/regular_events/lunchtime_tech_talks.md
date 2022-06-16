@@ -15,4 +15,4 @@ weight: 1
 
 The Research Engineering team meets for Lunchtime Tech Talks most Tuesdays over lunch. The talks start at 12:30.
 
-The talks schedule and how to sign up for calendar invitations can be found on the Data Science Skills wiki [here](https://github.com/alan-turing-institute/DataScienceSkills/wiki/Lunchtime-Tech-Talks).
+[The Data Science Skills wiki](https://github.com/alan-turing-institute/DataScienceSkills/wiki/Lunchtime-Tech-Talks) contains the talks schedule, calendar invitation instructions and information on signing up for a talk.
