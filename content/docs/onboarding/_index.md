@@ -1,8 +1,8 @@
 ---
 # Page title as it appears in the navigation menu
-title: "{{ .Name | humanize | title }}"
+title: "Onboarding"
 # Adjust weight to reorder menu items (lower numbers appear first)
-weight: 1
+weight: 4
 # Uncomment to hide nested pages in a collapsed menu
 # bookCollapseSection = true
 # Uncomment to hide this page from the navigation menu
@@ -11,4 +11,4 @@ weight: 1
 # bookSearchExclude = true
 ---
 
-# {{ .Name | humanize | title }}
+# Onboarding
