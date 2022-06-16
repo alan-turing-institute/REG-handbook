@@ -21,8 +21,8 @@ weight: 1
 
 - [Lunchtime tech talks]({{< relref "/docs/regular_events/lunchtime_tech_talks.md" >}})
 - [Lightning talks]({{< relref "/docs/regular_events/lightning_talks.md" >}})
-- [Reading groups]({{< relref "/docs/regular_events/reading_groups" >}})
+- [Reading groups]({{< relref "/docs/regular_events/reading_groups.md" >}})
 
 ## Outward-facing Events
 
-- REG student drop-in sessions
+- [REG student drop-in sessions]({{< relref "/docs/regular_events/student_drop-in_sessions.md" >}})
