@@ -78,8 +78,6 @@ The main focus of this page is what we do in REG, but there are many things happ
 
 - Turing Catchups & Town Halls - Regular meetings open to all staff with updates from around the institute. New starters may not have the calendar invites initially - ask others in the team to forward the details if you're unsure.
 - [Turing Events](https://www.turing.ac.uk/events) - often public talks & workshops.
-- [Data study groups](https://www.turing.ac.uk/collaborate-turing/data-study-groups) - week-long hack sessions on different projects that happen a few times a year. REG people have previously participated both as team members and project PIs.
-- Courses & training: There are professional and academic training opportunities around the Turing. There's some info [on Turing Complete](https://turingcomplete.topdesk.net/tas/public/ssp/content/detail/service?unid=f906bee9b36348b398835084ea2f58ff). REG also runs a yearly [research software engineering course](https://alan-turing-institute.github.io/rsd-engineeringcourse/).
 
 ### REG Newsletter
 
@@ -89,7 +87,15 @@ We've recently started a monthly REG newsletter which is usually sent around abo
 
 You should automatically be added to the `Hut23@turing.ac.uk` mailing list when you join REG (if not ask your line manager about it). This is often the best way to contact everyone in the team when organising events, or for other news/communication that should be a bit more permanent/formal than Slack and doesn't fit in an issue in the Hut23 repo.
 
-## Ad Hoc - less frequently than we'd like
+## Less frequently or ad-hoc
+
+### Data study Groups
+
+[Data study groups](https://www.turing.ac.uk/collaborate-turing/data-study-groups) (DSGs) are week-long hack sessions on different projects that happen a few times a year. Participants are drawn from across the Turing and REG people have previously joined both as team members and project PIs.
+
+### Turing courses and training
+
+There are professional and academic training opportunities around the Turing. There's some info [on Mathison](https://mathison.turing.ac.uk/Interact/Pages/Section/Default.aspx?Section=3701) (Turing's intranet). Additionally, REG also runs a yearly [research software engineering course](https://alan-turing-institute.github.io/rse-course).
 
 ### Remote Co-working
 
@@ -103,7 +109,7 @@ If there's something you'd like to work on collaboratively feel free to organise
 
 ### Repo Audits
 
-A few of us plan to get together to help check whether documentation, usage and installation instructions are clear for a project (for example), or to review the code. We hope to hold the first one of these in the near future (June 2021) - contact Eric for details, or see [this issue](https://github.com/alan-turing-institute/Hut23/issues/925).
+A few of us plan to get together to help check whether documentation, usage and installation instructions are clear for a project (for example), or to review the code. See [this page](code_audits.md) for more details.
 
 ### Project retrospective - Snark Hunts
 
