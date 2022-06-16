@@ -22,7 +22,6 @@ weight: 1
 - [Lunchtime tech talks]({{< relref "/docs/regular_events/lunchtime_tech_talks.md" >}})
 - [Lightning talks]({{< relref "/docs/regular_events/lightning_talks.md" >}})
 - [Reading groups]({{< relref "/docs/regular_events/reading_groups" >}})
-- REG dugnad
 
 ## Outward-facing Events
 
