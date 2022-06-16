@@ -25,4 +25,4 @@ weight: 1
 
 ## Outward-facing Events
 
-- [REG student drop-in sessions]({{< relref "/docs/regular_events/student_drop-in_sessions.md" >}})
+- [Drop-in Sessions]({{< relref "/docs/regular_events/drop-in_sessions.md" >}})

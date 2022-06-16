@@ -1,6 +1,6 @@
 ---
 # Page title as it appears in the navigation menu
-title: "Student Drop-in Sessions"
+title: "Drop-in Sessions"
 # Adjust weight to reorder menu items (lower numbers appear first)
 weight: 1
 # Uncomment to hide nested pages in a collapsed menu
@@ -11,7 +11,7 @@ weight: 1
 # bookSearchExclude = true
 ---
 
-# Student Drop-in Sessions
+# Drop-in Sessions
 
 The group runs regular, informal, community-led sessions for students and researchers.
 At the sessions they can ask the group about specific technical problems, or seek general technical advice.
