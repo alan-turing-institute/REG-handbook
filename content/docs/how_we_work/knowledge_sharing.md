@@ -1,11 +1,11 @@
 ---
 # Page title as it appears in the navigation menu
 title: "Knowledge Sharing"
-Adjust the weight to reorder menu items (lower numbers appear first)
+# Adjust the weight to reorder menu items (lower numbers appear first)
 weight: 1
 ---
 
-## Knowledge Sharing
+# Knowledge Sharing
 
 This page lists the tools, resources and activities that REG has to promote general communication as well as sharing and gaining knowledge across the team (and the Turing as a whole), and some thoughts on what we could try to improve this. If you're looking to learn something new, get help with a problem, share something cool you've been doing, or find out what others in the team are doing, the list below may give an idea of where to look/what to try.
 
@@ -42,7 +42,7 @@ To join in with the use of Geekbot, you will need to first add the [Geekbot app 
 
 ### Tech Talks
 
-Weekly talks where someone (usually someone in REG) presents or discusses something, such as about a project or data science/computer science/software engineering topic. They can also be opportunities to look for help and input - we encourage talks at the beginning of projects (before it's certain what exactly you'll be doing) or to discuss a problem you're unsure how to solve, for example. We also have shorter formats like "lightning talks", where several people give a shorter talk. Ideally, we'd like all projects to give a lighting talk or tech talk (and multiple talks are welcome too 😀).
+Weekly talks where someone (usually someone in REG) presents or discusses something, such as about a project or data science/computer science/software engineering topic. They can also be opportunities to look for help and input - we encourage talks at the beginning of projects (before it's certain what exactly you'll be doing) or to discuss a problem you're unsure how to solve, for example. We also have shorter formats like "lightning talks", where several people give a shorter talk. Ideally, we'd like all projects to give a lightning talk or tech talk (and multiple talks are welcome too 😀).
 
 See [here](https://github.com/alan-turing-institute/DataScienceSkills/wiki/Lunchtime-Tech-Talks) for the schedule and more details. You can find materials from previous talks in these places:
 
@@ -89,7 +89,7 @@ We've recently started a monthly REG newsletter which is usually sent around abo
 
 You should automatically be added to the `Hut23@turing.ac.uk` mailing list when you join REG (if not ask your line manager about it). This is often the best way to contact everyone in the team when organising events, or for other news/communication that should be a bit more permanent/formal than Slack and doesn't fit in an issue in the Hut23 repo.
 
-## Ad Hoc - less frequently than we'd like!
+## Ad Hoc - less frequently than we'd like
 
 ### Remote Co-working
 
@@ -106,6 +106,8 @@ If there's something you'd like to work on collaboratively feel free to organise
 A few of us plan to get together to help check whether documentation, usage and installation instructions are clear for a project (for example), or to review the code. We hope to hold the first one of these in the near future (June 2021) - contact Eric for details, or see [this issue](https://github.com/alan-turing-institute/Hut23/issues/925).
 
 ### Project retrospective - Snark Hunts
+
+A "Snark Hunt" is one way in which we've previously organised project retrospectives. We're open to trying other ideas too.
 
 Snark hunts are facilitated discussions after a project has finished where the project team, together with others from REG that didn't work on the project, answer/ask questions relating to the experience of working on it - what went well, what could have been better etc. We don't do it for every project, but they can be a good opportunity to reflect and to get ideas for what we should do differently/do more of in the future. For more info, see here:
 
