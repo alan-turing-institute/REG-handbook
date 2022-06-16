@@ -30,6 +30,6 @@ We can help with:
 
 ## Joining sessions
 
-Our weekly sessions run for one hour from 13:30-14:30 every Tuesday and are hosted on Zoom and in person.
+Our weekly sessions run for one hour from 13:30-14:30 every Tuesday and are hosted on [Zoom](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#video-call-links) and [in person](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#meeting-places).
 Everyone is welcome to drop-in at any time.
 There is no need to register in advance.
