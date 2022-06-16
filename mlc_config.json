@@ -7,6 +7,9 @@
       "pattern": "^https://github.com/alan-turing-institute/ARC"
     },
     {
+      "pattern": "^https://github.com/alan-turing-institute/DataScienceSkills"
+    },
+    {
       "pattern": "^https://docs.github.com"
     }
   ]
