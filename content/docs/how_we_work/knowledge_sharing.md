@@ -15,11 +15,11 @@ If you'd like to organise something the best options are usually to post to [Sla
 
 ### Github Hut23 Repo
 
-We use GitHub (and a couple of related tools) extensively for tracking projects and other tasks within the team. There is a [[separate page describing how we use them|Project-tracking.md]].
+We use GitHub (and a couple of related tools) extensively for tracking projects and other tasks within the team. There is a [separate page describing how we use them](../../our_projects/project_tracking).
 
 ### Coffee Breaks
 
-We have coffee breaks on Gather twice daily. See the [Regular Events](https://github.com/alan-turing-institute/research-engineering-group/wiki/Regular-events) (internal link) page for details. If the times aren't convenient and you fancy a break then try posting on Slack and the chances are that there'll be others that fancy a break too.
+We have coffee breaks on Gather twice daily. See the [Regular Events](../../regular_events) (internal link) page for details. If the times aren't convenient and you fancy a break then try posting on Slack and the chances are that there'll be others that fancy a break too.
 
 ### Slack
 
@@ -109,7 +109,7 @@ If there's something you'd like to work on collaboratively feel free to organise
 
 ### Repo Audits
 
-A few of us plan to get together to help check whether documentation, usage and installation instructions are clear for a project (for example), or to review the code. See [this page](code_audits.md) for more details.
+A few of us plan to get together to help check whether documentation, usage and installation instructions are clear for a project (for example), or to review the code. See [this page](../code_audits) for more details.
 
 ### Project retrospective - Snark Hunts
 

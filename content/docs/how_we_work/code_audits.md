@@ -7,7 +7,7 @@ weight: 2
 
 # Repo Audits
 
-As required we conduct audits of [GitHub repositories created during projects](../our_projects/project_outputs.md). The aim is to check that the documentation is clear, installation is easy etc.
+As required we conduct audits of [GitHub repositories created during projects](../../our_projects/project_outputs). The aim is to check that the documentation is clear, installation is easy etc.
 
 Audits should be conducted by people who have not worked on the project.
 
