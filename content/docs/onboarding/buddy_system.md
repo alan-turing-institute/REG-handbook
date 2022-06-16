@@ -31,7 +31,7 @@ We think that in a remote & hybrid setting it will help new-starters meet people
 Ideally the new-starter should be made aware of the buddies role before they start, as they may be one of the first appointments on the first day.
 
 The buddy system in managed by [the person in charge of
-onboarding](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#responsibilities)
+onboarding](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#responsibilities).
 
 ## Buddy Guidelines
 
