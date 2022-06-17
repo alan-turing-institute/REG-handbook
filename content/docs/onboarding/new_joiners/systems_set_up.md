@@ -105,7 +105,7 @@ Ask [IT](https://github.com/alan-turing-institute/research-engineering-group/wik
 
 Here we have more information about how we use the high priority systems, and also other systems to explore.
 
-### Slack
+### Slack Channels
 
 Turing is a large organisation and there are many other channels you may want to join.
 Some are purely social, some are related to programmes or projects.
