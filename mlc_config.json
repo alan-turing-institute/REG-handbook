@@ -19,6 +19,9 @@
       "pattern": "^https://github.com/alan-turing-institute/DataScienceSkills"
     },
     {
+      "pattern": "^https://github.com/alan-turing-institute/Hut23"
+    },
+    {
       "pattern": "^https://docs.github.com"
     },
     {
