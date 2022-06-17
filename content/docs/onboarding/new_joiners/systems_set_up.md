@@ -47,9 +47,9 @@ Your password should be:
 - unique to the machine/system
 - randomly generated (use a password generator)
 - have an entropy of at least 64 bits, see [wikipedia](https://en.wikipedia.org/wiki/Password_strength)
-   - At least 11 characters if alphanumeric (use 12, though)
-   - At least 10 characters if alphanumeric plus symbols
-   - At least 5 words if using dice ware
+  - At least 11 characters if alphanumeric (use 12, though)
+  - At least 10 characters if alphanumeric plus symbols
+  - At least 5 words if using dice ware
 
 At this point you can also configure fingerprint authentication.
 
@@ -57,7 +57,6 @@ Make sure you have [FileVault](https://support.apple.com/en-gb/guide/deployment/
 
 You should be setup with local admin privileges.
 Contact [IT](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#points-of-contact) if this isn't the case.
-
 
 ### Communication Channels
 
@@ -72,6 +71,7 @@ Install Slack. We recommend using homebrew as your Mac package manager:
 ```zsh
 brew install --cask slack
 ```
+
 Once installed join the [Turing Slack](https://alan-turing-institute.slack.com).
 You can self-subscribe with your @turing.ac.uk email address.
 
@@ -101,7 +101,7 @@ You get access to mail (Exchange), calendar, a shared drive, Office apps.
 Check that you can login, and change your password and configure MFA.
 Ask [IT](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#points-of-contact) if in need for help.
 
-# Lower Priority
+## Lower Priority
 
 Here we have more information about how we use the high priority systems, and also other systems to explore.
 
@@ -153,7 +153,7 @@ This system is used for:
 - Recording days off due to illness *etc.*.
 - Managing the objective setting and performance review process (after your probation period).
 
-### Create a public profile on the Turing website
+### Create a Public Profile on the Turing Website
 
 Fill out the form on [Turing Complete](https://turingcomplete.topdesk.net/tas/public/ssp/): HOME > COMMUNICATIONS AND EVENTS > WEBSITE AND SOCIAL MEDIA > NEW RESEARCHER PROFILE FOR WEBSITE
 
@@ -163,19 +163,20 @@ This way your profile will appear in our group web page.
 If you're not in the office there won't have been a headshot photo taken of you.
 If you like, add a photo you've taken of yourself that you'd be happy to see on the website.
 
-### Office 365 account
+### Office 365 Groups
 
 Make sure you are in the following Office365 / email groups (check with
 [IT](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#points-of-contact)):
-  - Research engineering
-  - Business team (for non-Research Associate staff)
-  - Research staff
-  - All Staff
-  - If you are a senior member of staff, ask a principal to get you added to the REG-senior-staff email list.
-  - End-of-month all business team meetings (Turing Catch-ups). These are sent out as recurring calendar events. You can either email [governance](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#points-of-contact) to forward you the invite or find a member of the REG team that is invited and ask them to forward the invite.
-  - Turing Bulletin: This internal newsletter is sent out every Thursday evening. If you don't receive it, you can sign up manually via [Turing Complete](https://turingcomplete.topdesk.net/tas/public/ssp/content/detail/service?unid=986c9e4b9a354a06a587917fd3e0f481).
 
-#### GitHub Pro & Professional IDEs
+- Research engineering
+- Business team (for non-Research Associate staff)
+- Research staff
+- All Staff
+- If you are a senior member of staff, ask a principal to get you added to the REG-senior-staff email list.
+- End-of-month all business team meetings (Turing Catch-ups). These are sent out as recurring calendar events. You can either email [governance](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#points-of-contact) to forward you the invite or find a member of the REG team that is invited and ask them to forward the invite.
+- Turing Bulletin: This internal newsletter is sent out every Thursday evening. If you don't receive it, you can sign up manually via [Turing Complete](https://turingcomplete.topdesk.net/tas/public/ssp/content/detail/service?unid=986c9e4b9a354a06a587917fd3e0f481).
+
+#### GitHub Pro and Professional IDEs
 
 Turing employees can apply for free GitHub Pro accounts, and use these to get free educational licences for professional versions of many JetBrains products (*e.g.*, PyCharm, IntelliJ, …)
 
