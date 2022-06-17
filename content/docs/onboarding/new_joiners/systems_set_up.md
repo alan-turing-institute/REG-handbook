@@ -212,7 +212,7 @@ We do not have a paid account for HackMD.
 ### Skype for business
 
 We don't use skype that often, but this can be installed through the Self Service application.
-You will need an application-specific password following [these instructions](https://support.office.com/en-us/article/create-an-app-password-for-office-365-3e7c860f-bda4-4441-a618-b53953ee1183).
+You will need an application-specific password.
 
 If you want a phone number ask [IT](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#points-of-contact)
 
