@@ -12,7 +12,9 @@ weight: 1
 ---
 
 # New Joiners
+
 This section helps new members of REG get up to speed.
 Please go through these page as one of the very first things when you join.
+
 - [First Few Days]({{< relref "/docs/onboarding/new_joiners/first_few_days.md" >}})
 - [Systems Set Up]({{< relref "/docs/onboarding/new_joiners/systems_set_up.md" >}})
