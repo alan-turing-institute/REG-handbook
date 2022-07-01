@@ -44,19 +44,9 @@ To join in with the use of Geekbot, you will need to first add the [Geekbot app 
 
 [See here]({{< relref "docs/regular_events/lunchtime_tech_talks.md" >}}).
 
-### Reading & Discussion Groups
+### Reading Groups
 
-As part of projects or separately for general interest, members of the team create reading groups to learn about a topic. Reading groups may meet on weekly basis to discuss a chapter from a book, a paper, or to work together on implementing something, for example. Examples of current & past groups include:
-
-- Reinforcement Learning reading group
-- Bitcoin reading group
-- Humanities & Data Science discussion group
-- Bayesian reading group
-- Category Theory Reading Group
-
-The contact details for these groups are in [[The REGistry|The-REGistry]]
-
-There are also [Turing Interest Groups](https://www.turing.ac.uk/research/interest-groups) and many other informal groups around the Turing. Whatever you're interested in, if you ask around you're very likely to find a group of people in REG or elsewhere in the Turing that would like to learn about it too.
+[See here]({{< relref "docs/regular_events/reading_groups.md" >}}).
 
 ## Approximately Monthly
 
