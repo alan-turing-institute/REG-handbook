@@ -38,7 +38,7 @@ The buddy system in managed by
 - Have a coffee with the new employee on their first day.
 - If needed, introduce them to the team at welcome coffee.
 - Be as informal as possible, make the new starter feel welcome and comfortable.
-- Make sure the new starter is familiar with the [New Starter page](https://alan-turing-institute.github.io/REG-handbook/docs/onboarding/new_joiners/first_few_days/). Check for sticking points.
+- Make sure the new starter is familiar with the [New Starter page]({{< relref "/docs/onboarding/new_joiners" >}}). Check for sticking points.
 - Meet the new starter where they are at.
 - Make it clear that the new employee can get in touch any time for questions and concerns, regardless of triviality.
 - Emphasise that you're also there for technical pointers. This is to encourage the new-starter to be comfortable asking for help when they are stuck and hopefully lessening imposter syndrome anxiety.
