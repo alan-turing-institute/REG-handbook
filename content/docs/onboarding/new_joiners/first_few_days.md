@@ -22,45 +22,65 @@ They are maintained by the group, we hope that new-starters feel empowered to ed
 ## Introductions
 
 Each new starter gets assigned two buddies to be friendly points of contact.
-Your line manager should let you know who these are.
-If you haven't been assigned a buddy please email [the person in charge of
-onboarding](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#responsibilities).
-They will welcome you on the first day.
+The
+[the person in charge of onboarding](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#responsibilities)
+should let you know who these are a bit before you start;
+If that doesn't happen, please email them about it.
+Your buddies will welcome you on the first day.
 
-Before you start there will be a welcome coffee to give you a chance to introduce yourself to the team.
+In the first few days there will also be welcome coffee to give you a chance to introduce yourself to the whole REG team, and within the first few weeks you will also have a 1-on-1 meeting with REG's Director.
 
-Please also write a short, informal paragraph about your background for to be put into the next newsletter.
-Send this to [the newsletter
-owner](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#responsibilities).
+You will have a week or so before you will be assigned to a project.
+Please use this time to do admin stuff, set up your laptop and the tools REG uses, get to know people, and shadow meetings (see below).
+We go over the main points below, but for an attempt at listing all the small tasks that occupy a new starter, please see (and improve!) [this checklist](https://github.com/alan-turing-institute/research-engineering-group/wiki/New-starter-checklist).
 
 ## Administrivia
 
-HR will set up a meeting to discuss general information *e.g.* pay, health, leaves, benefits.
+HR will set up a meeting with you to discuss general information *e.g.* pay, health, leaves, benefits.
 IT will also meet you to discuss accounts and Turing wide systems.
+Both of these will typically take place in the first day or two.
 
-We have a [dedicated page](https://github.com/alan-turing-institute/research-engineering-group/wiki/New-Joiners:-Systems-set-up) for various systems REG uses.
-**Have a look at the [high
-priority](https://github.com/alan-turing-institute/research-engineering-group/wiki/New-Joiners:-Systems-set-up#high-priority) section on your first day**.
+We have a
+[dedicated page]({{< relref "/docs/onboarding/new_joiners/systems_set_up.md" >}})
+for various systems REG uses.
+**Have a look at the high priority section on your first day**.
 
-We also have a [Remote Working](https://github.com/alan-turing-institute/research-engineering-group/wiki/Remote-Working) page for Zoom, Teams, and Gather.
+We also have a
+[Remote Working](https://github.com/alan-turing-institute/research-engineering-group/wiki/Remote-Working)
+page for Zoom, Teams, and Gather.
 
-You will have a week or so where you are not assigned to a project.
-Please take advantage of this to shadow meetings across the group to meet people and get a feel for how we work.
-The [shadowing
-document](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#documents) should be updated for the weeks you start.
+REG offers new starters the opportunity to shadow meetings across the group to meet people and get a feel for how we work.
+The
+[shadowing document](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#documents)
+should be updated for the weeks you start, if hasn't been please bug
+[the person in charge of onboarding](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#responsibilities)
+.
 
-Before working from the office, you should check with [HR](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#points-of-contact) that they have your pass ready.
-The password for the "ATI Guest" Wi-Fi network can be seen hanging around the
-office.
-[IT](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#points-of-contact) can arrange access to the [Eduroam](https://eduroam.org/) network.
+To access the office you will need a British Library pass.
+This may take a while to get, please ask
+[HR](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#points-of-contact)
+about it.
+In the meanwhile, you can either enter the British Library through the general public entrance and come talk to the Turing's reception, or preferably arrange for a visitor pass for yourself for the days when you're coming in.
+For the first day or two, ask your line manager to arrange this, once you've got your Turing account going you can directly ask reception.
+
+The password for the "ATI Guest" Wi-Fi network can be seen hanging around the office.
+[IT](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#points-of-contact)
+can arrange access to the [Eduroam](https://eduroam.org/) network.
 Eduroam credentials can be used to access Wi-Fi at many academic institutions.
+
+Please also write a short, informal paragraph about your background for to be put into the next REG newsletter,
+and send it to
+[the newsletter owner](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#responsibilities).
 
 ## Overview of Office, Team, Projects
 
-View the teams portfolio of projects in the [project tracker](https://github.com/alan-turing-institute/Hut23/projects/2).
+You may want to browse REG's portfolio of projects in the
+[project tracker](https://github.com/alan-turing-institute/Hut23/projects/2)
+to get an idea of what we're up to.
 
-If you like, you can see the [team reporting structure](https://github.com/alan-turing-institute/research-engineering-group/wiki/Team-reporting-structure).
-Note, however, that we do not have a hierarchical culture.
+If you like, you can see the
+[team reporting structure](https://github.com/alan-turing-institute/research-engineering-group/wiki/Team-reporting-structure).
+Note, however, that we do not have a hierarchical culture, and line managing is an administrative rather than an operational role.
 
 ## Organization of Work
 
@@ -83,16 +103,18 @@ With your line manger discuss the team culture.
 
 ## Set up Your Machine and Coding Environment
 
-See [systems setup](https://github.com/alan-turing-institute/research-engineering-group/wiki/New-Joiners:-Systems-set-up).
+See [systems setup]({{< relref "/docs/onboarding/new_joiners/systems_set_up.md" >}}).
 
 ## Regular Events
 
 Check out our [regular events and coffee breaks]({{< relref "/docs/regular_events/_index.md" >}}).
-Please sign up for a [tech talk]({{< relref "/docs/regular_events/lunchtime_tech_talks.md" >}}) sometime in your first six weeks (schedule permitting).
+Please consider signing up for a
+[tech talk]({{< relref "/docs/regular_events/lunchtime_tech_talks.md" >}})
+sometime in your first six weeks.
 
 ## Points of Contact
 
 You can find useful points of contact
 [here](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#points-of-contact).
-[This
-page](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry) also holds other useful information such as remote meeting details and team responsibilities.
+[This page](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry)
+also holds other useful information such as remote meeting details and team responsibilities.
