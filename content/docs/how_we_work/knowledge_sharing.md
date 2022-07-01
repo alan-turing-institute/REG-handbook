@@ -65,7 +65,7 @@ The main focus of this page is what we do in REG, but there are many things happ
 
 ### REG Newsletter
 
-We've recently started a monthly REG newsletter which is usually sent around about a week before the monthly team meeting. It contains short project updates and other news/updates from around the team and the institute. It comes to the Hut23 mailing list (see above). If you have something you'd like to be included, see [[The REGistry|The-REGistry]] for contact details.
+We've recently started a monthly REG newsletter which is usually sent around about a week before the monthly team meeting. It contains short project updates and other news/updates from around the team and the institute. It comes to the Hut23 mailing list (see above). If you have something you'd like to be included contact the [newsletter owner](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#responsibilities).
 
 ### Hut23 Mailing List
 
