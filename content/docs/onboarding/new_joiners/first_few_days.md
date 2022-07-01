@@ -22,13 +22,12 @@ They are maintained by the group, we hope that new-starters feel empowered to ed
 ## Introductions
 
 Each new starter gets assigned two buddies to be friendly points of contact.
-The
-[the person in charge of onboarding](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#responsibilities)
+[The person in charge of onboarding](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#responsibilities)
 should let you know who these are a bit before you start;
 If that doesn't happen, please email them about it.
 Your buddies will welcome you on the first day.
 
-In the first few days there will also be welcome coffee to give you a chance to introduce yourself to the whole REG team, and within the first few weeks you will also have a 1-on-1 meeting with REG's Director.
+In the first few days there will be a welcome coffee to give you a chance to introduce yourself to the whole REG team, and within the first few weeks you will also have a 1-on-1 meeting with REG's Director.
 
 You will have a week or so before you will be assigned to a project.
 Please use this time to do admin stuff, set up your laptop and the tools REG uses, get to know people, and shadow meetings (see below).
@@ -52,16 +51,19 @@ page for Zoom, Teams, and Gather.
 REG offers new starters the opportunity to shadow meetings across the group to meet people and get a feel for how we work.
 The
 [shadowing document](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#documents)
-should be updated for the weeks you start, if hasn't been please bug
+should be updated for the weeks you start, if it hasn't been please bug
 [the person in charge of onboarding](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#responsibilities)
 .
 
 To access the office you will need a British Library pass.
-This may take a while to get, please ask
+To get a British Library pass you will need to go through the background screening check.
+Hopefully that process will have been completed by the time you start, but if it hasn't even been started yet (this happens), please talk to
 [HR](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#points-of-contact)
-about it.
-In the meanwhile, you can either enter the British Library through the general public entrance and come talk to the Turing's reception, or preferably arrange for a visitor pass for yourself for the days when you're coming in.
-For the first day or two, ask your line manager to arrange this, once you've got your Turing account going you can directly ask reception.
+to make sure the process gets going.
+Once the screening is done, HR should let you know within a few days that your pass is ready.
+
+In the meanwhile, you can either enter the British Library through the general public entrance and come talk to the Turing's reception, or, preferably, arrange for a visitor pass for yourself for the days when you're coming in.
+For the first day or two, ask your line manager to take care of this, once you've got your Turing account going you can directly ask [reception](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#points-of-contact).
 
 The password for the "ATI Guest" Wi-Fi network can be seen hanging around the office.
 [IT](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#points-of-contact)
@@ -72,34 +74,32 @@ Please also write a short, informal paragraph about your background for to be pu
 and send it to
 [the newsletter owner](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#responsibilities).
 
-## Overview of Office, Team, Projects
+## Overview of How REG Operates
 
+Work at REG revolves around projects and service areas.
+You will typically be assigned to two different projects at any time, with at least one other REG person, and usually some external collaborators.
 You may want to browse REG's portfolio of projects in the
 [project tracker](https://github.com/alan-turing-institute/Hut23/projects/2)
 to get an idea of what we're up to.
+The project tracker is also used for expressing preferences on which upcoming projects you would like to work on.
+Service areas are REG-internal work, such as looking after this handbook, organising recruitment, or managing our computational resources.
+Usually people contribute to one service area, which should take approximately half a day a week.
+You shouldn't worry about this for the first few weeks though, and come back to picking a suitable service area once you've gotten into the normal flow project work.
 
-If you like, you can see the
+REG also gives its members some time, known as 22 days time, to work on side projects they find interesting.
+Your line manager can give you the details on this.
+
+If you like, you can see our
 [team reporting structure](https://github.com/alan-turing-institute/research-engineering-group/wiki/Team-reporting-structure).
-Note, however, that we do not have a hierarchical culture, and line managing is an administrative rather than an operational role.
+Note, however, that we do not have a hierarchical culture, and line managing relations are not about assigning work to people.
+Your work tasks will be coordinated with the people in your projects.
 
-## Organization of Work
+You should talk to your line manager about things such as
 
-With your line manager or a team member discuss:
-
-- Role of head of team
-- Groups and projects
+- How project allocation works, and what kinds of projects you would like to work on
 - Managing your time and growth
 - How we work (practices, tools, languages, *etc.*)
-
-## Your Development Goals
-
-With your line manager discuss how you would like to grow and develop into your role.
-Ask your line manager about opportunities to support your development.
-Think about your goals independently before next meeting.
-
-## Culture
-
-With your line manger discuss the team culture.
+- How you would like to grow and develop into your role, and what opportunities exist to support that.
 
 ## Set up Your Machine and Coding Environment
 
@@ -111,6 +111,10 @@ Check out our [regular events and coffee breaks]({{< relref "/docs/regular_event
 Please consider signing up for a
 [tech talk]({{< relref "/docs/regular_events/lunchtime_tech_talks.md" >}})
 sometime in your first six weeks.
+If you don't see a calendar invite for the weekly tech talks, ask
+[the person in charge of onboarding](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#responsibilities)
+to add you to the relevant mailing list.
+(This is important, because that same mailing list is used for many other things too.)
 
 ## Points of Contact
 
