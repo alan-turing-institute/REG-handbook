@@ -17,9 +17,6 @@
     },
     {
       "pattern": "^https://docs.github.com"
-    },
-    {
-      "pattern": "^https://github.com/search"
     }
   ]
 }
