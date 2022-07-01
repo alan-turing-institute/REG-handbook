@@ -42,13 +42,7 @@ To join in with the use of Geekbot, you will need to first add the [Geekbot app 
 
 ### Tech Talks
 
-Weekly talks where someone (usually someone in REG) presents or discusses something, such as about a project or data science/computer science/software engineering topic. They can also be opportunities to look for help and input - we encourage talks at the beginning of projects (before it's certain what exactly you'll be doing) or to discuss a problem you're unsure how to solve, for example. We also have shorter formats like "lightning talks", where several people give a shorter talk. Ideally, we'd like all projects to give a lightning talk or tech talk (and multiple talks are welcome too 😀).
-
-See [here](https://github.com/alan-turing-institute/DataScienceSkills/wiki/Lunchtime-Tech-Talks) for the schedule and more details. You can find materials from previous talks in these places:
-
-- [List of previous tech talks](https://github.com/alan-turing-institute/DataScienceSkills/wiki/Previous-Tech-Talks)
-- [[List of previous lightning talks|Lightning-Talks:-History-of-Talks]]
-- [DataScienceSkills repo](https://github.com/alan-turing-institute/DataScienceSkills)
+[See here]({{< relref "docs/regular_events/lunchtime_tech_talks.md" >}}).
 
 ### Reading & Discussion Groups
 
