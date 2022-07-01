@@ -13,6 +13,11 @@ weight: 1
 
 # Reading Groups
 
+As part of projects or for general interest, members of the team create reading groups to learn about a topic.
+Reading groups may meet on weekly basis to discuss a chapter from a book, a paper, or to work together on implementing something.
+
 A list of current reading groups and information about them can be found on the [Data Science Skills wiki](https://github.com/alan-turing-institute/DataScienceSkills/wiki/Reading-Groups).
 
 Material for the reading groups is stored in the [Data Science Skills repository](https://github.com/alan-turing-institute/DataScienceSkills)
+
+There are also [Turing Interest Groups](https://www.turing.ac.uk/research/interest-groups) and many other informal groups around the Turing.

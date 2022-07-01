@@ -214,7 +214,7 @@ We do not have a paid account for HackMD.
 We don't use skype that often, but this can be installed through the Self Service application.
 You will need an application-specific password.
 
-If you want a phone number ask [IT](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#points-of-contact)
+If you want a phone number ask [IT](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#points-of-contact).
 
 ### Mathison
 
