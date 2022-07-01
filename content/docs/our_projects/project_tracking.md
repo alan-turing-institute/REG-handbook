@@ -26,8 +26,6 @@ The [Hut23 repo](https://github.com/alan-turing-institute/Hut23) is the central 
 
 All repos in the Turing organisation that REG have worked on should have the `hut23` tag. So if you're looking for something from a previous project [searching for these tags](https://github.com/search?q=topic%3Ahut23+org%3Aalan-turing-institute&type=Repositories) may be a good place to start. Additionally, they should have a tag of the format `hut23-123`, where `123` is the issue number for that project in the Hut23 repo.
 
-Other project outputs are [described here]({{< relref "project_outputs.md" >}}).
-
 ### Forecast & Wimbledon
 
 We use [Forecast](https://forecastapp.com/974183/schedule/projects) to track everyone's allocations to projects, you can see which projects & service areas everyone in the team is currently involved in, as well as what they were allocated to in the past and will be allocated to in the future.
