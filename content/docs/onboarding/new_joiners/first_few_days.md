@@ -22,16 +22,15 @@ They are maintained by the group, we hope that new-starters feel empowered to ed
 ## Introductions
 
 Each new starter gets assigned two buddies to be friendly points of contact.
-[The person in charge of onboarding](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#responsibilities)
+The [person in charge of onboarding](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#responsibilities)
 should let you know who these are a bit before you start;
 If that doesn't happen, please email them about it.
 Your buddies will welcome you on the first day.
-
 In the first few days there will be a welcome coffee to give you a chance to introduce yourself to the whole REG team, and within the first few weeks you will also have a 1-on-1 meeting with REG's Director.
 
 You will have a week or so before you will be assigned to a project.
-Please use this time to do admin stuff, set up your laptop and the tools REG uses, get to know people, and shadow meetings (see below).
-We go over the main points below, but for an attempt at listing all the small tasks that occupy a new starter, please see (and improve!) [this checklist](https://github.com/alan-turing-institute/research-engineering-group/wiki/New-starter-checklist).
+Please use this time to do admin stuff, set up your laptop and tools, get to know people, read this handbook and our internal wiki, and shadow meetings (see below).
+Here we go over the main points you should remember to do, but for an attempt at listing all the small tasks that occupy a new starter, please see (and improve!) [this checklist](https://github.com/alan-turing-institute/research-engineering-group/wiki/New-starter-checklist).
 
 ## Administrivia
 
@@ -51,9 +50,8 @@ page for Zoom, Teams, and Gather.
 REG offers new starters the opportunity to shadow meetings across the group to meet people and get a feel for how we work.
 The
 [shadowing document](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#documents)
-should be updated for the weeks you start, if it hasn't been please bug
-[the person in charge of onboarding](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#responsibilities)
-.
+should be updated with meetings you are free to come and listen in on, if it hasn't been please bug the
+[person in charge of onboarding](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#responsibilities).
 
 To access the office you will need a British Library pass.
 To get a British Library pass you will need to go through the background screening check.
@@ -77,14 +75,15 @@ and send it to
 ## Overview of How REG Operates
 
 Work at REG revolves around projects and service areas.
-You will typically be assigned to two different projects at any time, with at least one other REG person, and usually some external collaborators.
+You will typically be assigned to two different projects at any time, with at least one other REG person and usually some external collaborators.
 You may want to browse REG's portfolio of projects in the
 [project tracker](https://github.com/alan-turing-institute/Hut23/projects/2)
 to get an idea of what we're up to.
-The project tracker is also used for expressing preferences on which upcoming projects you would like to work on.
+The project tracker is also used for expressing preferences on which upcoming projects you would like to work on, but you don't have to worry about that for first few weeks.
+
 Service areas are REG-internal work, such as looking after this handbook, organising recruitment, or managing our computational resources.
 Usually people contribute to one service area, which should take approximately half a day a week.
-You shouldn't worry about this for the first few weeks though, and come back to picking a suitable service area once you've gotten into the normal flow project work.
+This, too, is something you don't have to think about for now, but come back to it once you've settled into your workflow with a project.
 
 REG also gives its members some time, known as 22 days time, to work on side projects they find interesting.
 Your line manager can give you the details on this.
@@ -99,7 +98,9 @@ You should talk to your line manager about things such as
 - How project allocation works, and what kinds of projects you would like to work on
 - Managing your time and growth
 - How we work (practices, tools, languages, *etc.*)
-- How you would like to grow and develop into your role, and what opportunities exist to support that.
+- How you would like to grow and develop in your role and what opportunities exist to support that.
+
+Please also take a some time to browse this handbook, it's got plenty of useful information about what we do and how we do it.
 
 ## Set up Your Machine and Coding Environment
 
@@ -111,10 +112,9 @@ Check out our [regular events and coffee breaks]({{< relref "/docs/regular_event
 Please consider signing up for a
 [tech talk]({{< relref "/docs/regular_events/lunchtime_tech_talks.md" >}})
 sometime in your first six weeks.
-If you don't see a calendar invite for the weekly tech talks, ask
-[the person in charge of onboarding](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#responsibilities)
+If you don't see a calendar invite for the weekly tech talks, ask the
+[person in charge of onboarding](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#responsibilities)
 to add you to the relevant mailing list.
-(This is important, because that same mailing list is used for many other things too.)
 
 ## Points of Contact
 
