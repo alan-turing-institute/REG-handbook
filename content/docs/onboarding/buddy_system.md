@@ -24,21 +24,21 @@ We also emphasise that the buddies should be a safe space where new-starters can
 Before the new starter starts at the Turing they should be assigned **two buddies** from our [buddy pool](https://github.com/alan-turing-institute/research-engineering-group/wiki/Buddy-Sign-up-and-Matches).
 If possible, the buddies should not be assigned to the projects on which the new starter is likely to work, and ideally at a similarly seniority to the new starter.
 
-After discussion with other teams we are expanding the buddy system to also include members from other teams.
-This is bidirectional.
+We would also like for each new starter to have a third buddy from some other team.
 We think that in a remote & hybrid setting it will help new-starters meet people and get a feel for the wider Turing ecosystem.
+This has been trialed in a few instances, to positive feedback, but to make this be standard practice we would need it to be more bidirectional, with REGers volunteering to buddy with people outside of REG.
 
-Ideally the new-starter should be made aware of the buddies role before they start, as they may be one of the first appointments on the first day.
+The new-starter should be made aware of the buddies' role before they start, and meeting their buddies should typically be the first appointment on their first day.
 
-The buddy system in managed by [the person in charge of
-onboarding](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#responsibilities).
+The buddy system in managed by
+[the person in charge of onboarding](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#responsibilities).
 
 ## Buddy Guidelines
 
 - Have a coffee with the new employee on their first day.
 - If needed, introduce them to the team at welcome coffee.
 - Be as informal as possible, make the new starter feel welcome and comfortable.
-- Make sure the new starter is familiar with the [New Starter wiki](https://github.com/alan-turing-institute/research-engineering-group/wiki/New-Joiners:-Start-here). Check for sticking points.
+- Make sure the new starter is familiar with the [New Starter page](https://alan-turing-institute.github.io/REG-handbook/docs/onboarding/new_joiners/first_few_days/). Check for sticking points.
 - Meet the new starter where they are at.
 - Make it clear that the new employee can get in touch any time for questions and concerns, regardless of triviality.
 - Emphasise that you're also there for technical pointers. This is to encourage the new-starter to be comfortable asking for help when they are stuck and hopefully lessening imposter syndrome anxiety.
