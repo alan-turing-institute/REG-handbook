@@ -19,7 +19,7 @@ Rather they are a reference to help with your setup.
 If they are wrong or incomplete, please edit them.
 {{< /hint >}}
 
-The page has been roughly organised high priority things (do in your first couple of days), low priority (sometimes in the first couple of weeks), and reference.
+The page has been roughly organised into high priority things (do in your first couple of days), low priority (sometimes in the first couple of weeks), and reference.
 
 If any of the material is unfamiliar (*e.g.* you haven't seen a GitHub project board before), then please ask your buddies (or anyone else you meet in the group) to have an informal chat about it.
 
@@ -83,15 +83,15 @@ Important channels to join:
 
 ### GitHub
 
-We essentially use GitHub for most coordination.
+We use GitHub for most coordination.
 
-To get access to [the Turing GitHub](https://github.com/alan-turing-institute), create a GitHub account (or use an existing one), then fill this form on [Turing Complete](https://turingcomplete.topdesk.net/tas/public/ssp/content/serviceflow?unid=3844fabf8b1c45ca9028758a350ff230) with your GitHub handle (if you have access to Turing Complete.
+To get access to [the Turing GitHub](https://github.com/alan-turing-institute), create a GitHub account (or use an existing one), then fill this form on [Turing Complete](https://turingcomplete.topdesk.net/tas/public/ssp/content/serviceflow?unid=3844fabf8b1c45ca9028758a350ff230) with your GitHub handle (if you have access to Turing Complete).
 Then let [the GitHub org controller](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#responsibilities) know that you have done this and they can add you straight away.
 
 Also check the Project tracker and Planning projects to get a feeling on what goes on.
 You're supposed to use them as follows:
 
-- Use [Project tracker](https://github.com/alan-turing-institute/Hut23/projects/2?) to track official projects we are tasked with. This is where we emoji projects. Project leads should be assigned to the relevant issue and are responsible for keeping the issue up to date.
+- Use [Project tracker](https://github.com/alan-turing-institute/Hut23/projects/2?) to track official projects we are tasked with. This is where we express preferences for projects, with emojis. Project leads should be assigned to the relevant issue and are responsible for keeping the issue up to date.
 - Use [Planning](https://github.com/alan-turing-institute/Hut23/projects/1?) to track internal tasks, projects and ideas, from lunch topics to self or group-development to any other kind of thing.
 
 ### Office 365 account
@@ -112,7 +112,7 @@ Some are purely social, some are related to programmes or projects.
 For example, `#tps` (for the closely aligned Tools, Practices and Systems programme), `#kitchen-dropin`, `#social`, `#pubclub`, `#askaway`, `#azure`, `#jargon-buster`, `#interesting-events`, `#football`.
 If you get interested in something just ask if there is a channel about it.
 
-You should also get yourself added to `#hut23standup`, which sometimes use for automated standups of "About Us" questions.
+You may also want to add yourself to `#hut23standup`, which some of us use for automated standups of "About Us" questions.
 The purpose is to get to know other team members by answering a question three times a week.
 Geekbot should send you the next question at 10:30am on Mondays, Wednesdays and Fridays.
 
@@ -140,6 +140,11 @@ The [Newsletters & Mailings](https://turingcomplete.topdesk.net/tas/public/ssp/c
 We use [Harvest](https://thealanturinginstitute.harvestapp.com/time/week) to (loosely) track our time, and [Forecast](https://forecastapp.com/974183/schedule/projects?startDate=2020-12-28) to manage allocations to projects.
 Get in touch with [the person in charge of researcher tool management](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#responsibilities) to setup a meeting sometime in your first week.
 
+Harvest is a time tracking app used to monitor the amount of time being dedicated to each project.
+The easiest way to get set up is to ask your Line Manager or another member of the team to invite you and make you admin.
+You can then add yourself as a team member to whichever projects you're working on and start tracking your time.
+There is a page [here](https://github.com/alan-turing-institute/Hut23/wiki/Timesheets) which goes into more detail about where you should log different activities.
+
 ### Cezanne HR
 
 Our HR system is [Cezanne HR](https://w3.cezanneondemand.com/CezanneOnDemand/-/turing/).
@@ -149,7 +154,7 @@ If "Enterprise login" does not work, email
 
 This system is used for:
 
-- Requesting annual leave — in general we expect a request to be submitted twice as far in advance as the length of leave requested.
+- Requesting annual leave.
 - Recording days off due to illness *etc.*.
 - Managing the objective setting and performance review process (after your probation period).
 
@@ -189,13 +194,6 @@ Turing employees can apply for free GitHub Pro accounts, and use these to get fr
 There is no obligation to use these IDEs, this is just an FYI in case you are interested.
 {{< /hint >}}
 
-### Harvest
-
-Harvest is a time tracking app used to monitor the amount of time being dedicated to each project.
-The easiest way to get set up is to ask your Line Manager or another member of the team to invite you and make you admin.
-You can then add yourself as a team member to whichever projects you're working on and start tracking your time.
-There is a page [here](https://github.com/alan-turing-institute/Hut23/wiki/Timesheets) which goes into more detail about where you should log different activities.
-
 ### OneDrive
 
 Sync the Research Engineering documents: From [SharePoint](https://thealanturininstitute.sharepoint.com/sites/ResearchEngineering), under "Research Engineering" private group, go to "Documents", then "Sync".
@@ -218,7 +216,7 @@ If you want a phone number ask [IT](https://github.com/alan-turing-institute/res
 
 ### Mathison
 
-[Mathison](https://mathison.turing.ac.uk/) is the Institute's intranet.
+[Mathison](https://mathison.turing.ac.uk/) is the Institute's intranet. A few things still need to be done on the old intranet, [Turing Complete](https://turingcomplete.topdesk.net).
 
 ## Reference
 
