@@ -122,11 +122,12 @@ jobs:
 
       - name: Run html-proofer
         # swap URLs
+        # - adjust for base URL (REG-handbook)
         # - adjust for internal links with fqdn (https://alan-turing-institute.github.io/REG-handbook)
         # - Adjust edit and tree paths on GitHub to current branch (*/edit/main, */tree/main)
-        # Only check external links
+        # Only check external and internal links
         run: |
           htmlproofer ./public \
           --enforce-https \
-          --swap-urls "^^https\://alan-turing-institute.github.io/REG-handbook/:/,/edit/main:/edit/$(git branch --show-current),/tree/main:/tree/$(git branch --show-current)" \
-          --ignore-urls "/github.com/alan-turing-institute/research-engineering-group/,/github.com/alan-turing-institute/ARC/,/github.com/alan-turing-institute/DataScienceSkills/,/github.com/alan-turing-institute/Hut23/,/docs.github.com/"
+          --swap-urls "^/REG-handbook/:/,^^https\://alan-turing-institute.github.io/REG-handbook/:/,/edit/main:/edit/$(git branch --show-current),/tree/main:/tree/$(git branch --show-current)" \
+          --ignore-urls "/REG-handbook,/github.com/alan-turing-institute/research-engineering-group/,/github.com/alan-turing-institute/ARC/,/github.com/alan-turing-institute/DataScienceSkills/,/github.com/alan-turing-institute/Hut23/,/docs.github.com/"
