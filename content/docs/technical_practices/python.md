@@ -41,7 +41,7 @@ The ARC group have a [repo with suggested configuration files](https://github.co
 Type checking is optional in Python but is generally recommended.
 There are several tools which can perform type checking:
 
-- [mypy](https://mypy-lang.org) — This type-checker has the distinction of including [Guido van Rossum](https://python.org/~guido) in its core development team.
+- [mypy](https://mypy.readthedocs.io) — This type-checker has the distinction of including [Guido van Rossum](https://python.org/~guido) in its core development team.
 - [pyright](https://github.com/Microsoft/pyright) — By Microsoft.
 - [pytype](https://github.com/google/pytype) — By Google.
 
