@@ -90,12 +90,9 @@ jobs:
         # Only check internal links
         run: |
           htmlproofer ./public \
-          --check-favicon \
-          --check-html \
-          --check-img-http \
           --disable-external \
-          --url-swap "^/REG-handbook/:/" \
-          --url-ignore '/REG-handbook'
+          --swap-urls "^/REG-handbook/:/" \
+          --ignore-urls '/REG-handbook'
 
   html-proofer-external-links:
     name: "HTML proofer external links"
@@ -130,10 +127,6 @@ jobs:
         # Only check external links
         run: |
           htmlproofer ./public \
-          --check-favicon \
-          --check-html \
-          --check-img-http \
           --enforce-https \
-          --external-only \
-          --url-swap "^^https\://alan-turing-institute.github.io/REG-handbook/:/,/edit/main:/edit/$(git branch --show-current),/tree/main:/tree/$(git branch --show-current)" \
-          --url-ignore "/github.com/alan-turing-institute/research-engineering-group/,/github.com/alan-turing-institute/ARC/,/github.com/alan-turing-institute/DataScienceSkills/,/github.com/alan-turing-institute/Hut23/,/docs.github.com/"
+          --swap-urls "^^https\://alan-turing-institute.github.io/REG-handbook/:/,/edit/main:/edit/$(git branch --show-current),/tree/main:/tree/$(git branch --show-current)" \
+          --ignore-urls "/github.com/alan-turing-institute/research-engineering-group/,/github.com/alan-turing-institute/ARC/,/github.com/alan-turing-institute/DataScienceSkills/,/github.com/alan-turing-institute/Hut23/,/docs.github.com/"
