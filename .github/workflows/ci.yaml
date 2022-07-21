@@ -128,6 +128,5 @@ jobs:
         # Only check external and internal links
         run: |
           htmlproofer ./public \
-          --enforce-https \
-          --swap-urls "^/REG-handbook/:/,^^https\://alan-turing-institute.github.io/REG-handbook/:/,/edit/main:/edit/$(git branch --show-current),/tree/main:/tree/$(git branch --show-current)" \
-          --ignore-urls "/REG-handbook,/github.com/alan-turing-institute/research-engineering-group/,/github.com/alan-turing-institute/ARC/,/github.com/alan-turing-institute/DataScienceSkills/,/github.com/alan-turing-institute/Hut23/,/docs.github.com/"
+          --swap-urls "^/REG-handbook/:/,/edit/main:/edit/$(git branch --show-current)" \
+          --ignore-urls '/REG-handbook,/turing.ac.uk/,/github.com/alan-turing-institute/research-engineering-group/,/github.com/alan-turing-institute/ARC/,/github.com/alan-turing-institute/DataScienceSkills/,/github.com/alan-turing-institute/Hut23/,/docs.github.com/'
