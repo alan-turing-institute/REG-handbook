@@ -160,13 +160,9 @@ This system is used for:
 
 ### Create a Public Profile on the Turing Website
 
-Fill out the form on [Turing Complete](https://turingcomplete.topdesk.net/tas/public/ssp/): HOME > COMMUNICATIONS AND EVENTS > WEBSITE AND SOCIAL MEDIA > NEW RESEARCHER PROFILE FOR WEBSITE
-
-Remember to indicate that you are part of REG by selecting "Research Engineering" under Researcher role.
-This way your profile will appear in our group web page.
-
-If you're not in the office there won't have been a headshot photo taken of you.
-If you like, add a photo you've taken of yourself that you'd be happy to see on the website.
+Get in touch with the [Web team](mailto:website@turing.ac.uk).
+Send them an email with your bio and a profile picture attached.
+Remember to indicate that you are part of REG and they will create a profile for you on the Turing website. 
 
 ### Office 365 Groups
 
