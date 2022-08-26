@@ -217,6 +217,14 @@ If you want a phone number ask [IT](https://github.com/alan-turing-institute/res
 
 [Mathison](https://mathison.turing.ac.uk/) is the Institute's intranet. A few things still need to be done on the old intranet, [Turing Complete](https://turingcomplete.topdesk.net).
 
+### Purchasing home office equipment
+There is a budget to purchase peripherals (monitor, mouse, keyboard, etc.) as well as other equipment such as an office chair and desk.
+For peripherals, get in touch with [IT Services](mailto:ITServices@turing.ac.uk).
+With regards to getting a chair and desk for your home office, you are welcome to purchase these yourself and claim back up to £200 for these items together.
+See guidance on
+[Mathison](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2169&SearchId=0&utm_source=interact&utm_medium=category_search&utm_term=*)
+on how to claim it back.
+
 ## Reference
 
 Take a look at the following sections:
