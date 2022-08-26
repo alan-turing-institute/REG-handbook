@@ -92,6 +92,9 @@ Also check the Project tracker and Planning projects to get a feeling on what go
 You're supposed to use them as follows:
 
 - Use [Project tracker](https://github.com/alan-turing-institute/Hut23/projects/2?) to track official projects we are tasked with. This is where we express preferences for projects, with emojis. Project leads should be assigned to the relevant issue and are responsible for keeping the issue up to date.
+Check
+[this section]({{< ref "/content/docs/our_projects/project_tracking.md" >}})
+of the handbook for more details.
 - Use [Planning](https://github.com/alan-turing-institute/Hut23/projects/1?) to track internal tasks, projects and ideas, from lunch topics to self or group-development to any other kind of thing.
 
 ### Office 365 account

@@ -20,6 +20,13 @@ This page describes some of the tools we use for tracking projects and other tas
 The [Hut23 repo](https://github.com/alan-turing-institute/Hut23) is the central hub for most team matters and admin.
 
 - [Project Tracker](https://github.com/alan-turing-institute/Hut23/projects/2): Board shows all upcoming, current and completed projects. There's an issue for each project (see below).
+Depending on the project status, it will be in one column or another.
+In order to assign REG team members to projects, we use emojis to vote for the projects that we would be interested in taking part.
+You should react to all projects on the "Finding people" column, but also on the "Awaiting go/no-go" column.
+The voting system is as follows:
+    * :thumbsup: Would be okay working on this project
+    * :thumbsdown: Would rather not work on this project
+    * :smile: Would really like to work on this project
 - [Issues](https://github.com/alan-turing-institute/Hut23/issues): Each project has an issue following a common template, including a general description of a project and its current status, for example. There are also issues for service areas and other activities/organisational issues for the team.
 
 ### Project Repos
