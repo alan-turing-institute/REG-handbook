@@ -91,6 +91,7 @@ jobs:
         run: |
           htmlproofer ./public \
           --disable-external \
+          --assume-extension \
           --swap-urls "^/REG-handbook/:/" \
           --ignore-urls '/REG-handbook'
 
