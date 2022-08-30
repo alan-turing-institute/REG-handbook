@@ -160,7 +160,7 @@ This system is used for:
 
 ### Create a Public Profile on the Turing Website
 
-Get in touch with the [Web team](mailto:website@turing.ac.uk).
+Get in touch with the [Web team]({{< ref "https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#points-of-contact" >}}).
 Send them an email with your bio and a profile picture attached.
 Remember to indicate that you are part of REG and they will create a profile for you on the Turing website.
 
