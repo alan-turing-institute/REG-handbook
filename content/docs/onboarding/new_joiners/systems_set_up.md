@@ -91,7 +91,7 @@ Then let [the GitHub org controller](https://github.com/alan-turing-institute/re
 Also check the Project tracker and Planning projects to get a feeling on what goes on.
 You're supposed to use them as follows:
 
-- Use [Project tracker](https://github.com/alan-turing-institute/Hut23/projects/2?) to track official projects we are tasked with. This is where we express preferences for projects, with emojis. Project leads should be assigned to the relevant issue and are responsible for keeping the issue up to date.
+- Use [Project tracker](https://github.com/alan-turing-institute/Hut23/projects/2?) to track official projects we are tasked with. This is where we express preferences for projects, with emojis. Project leads should be assigned to the relevant issue and are responsible for keeping the issue up to date. Check [this section]({{< ref "/content/docs/our_projects/project_tracking.md" >}}) of the handbook for more details.
 - Use [Planning](https://github.com/alan-turing-institute/Hut23/projects/1?) to track internal tasks, projects and ideas, from lunch topics to self or group-development to any other kind of thing.
 
 ### Office 365 account
@@ -160,13 +160,9 @@ This system is used for:
 
 ### Create a Public Profile on the Turing Website
 
-Fill out the form on [Turing Complete](https://turingcomplete.topdesk.net/tas/public/ssp/): HOME > COMMUNICATIONS AND EVENTS > WEBSITE AND SOCIAL MEDIA > NEW RESEARCHER PROFILE FOR WEBSITE
-
-Remember to indicate that you are part of REG by selecting "Research Engineering" under Researcher role.
-This way your profile will appear in our group web page.
-
-If you're not in the office there won't have been a headshot photo taken of you.
-If you like, add a photo you've taken of yourself that you'd be happy to see on the website.
+Get in touch with the [Web team](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#points-of-contact).
+Send them an email with your biography and a profile picture attached.
+Remember to indicate that you are part of REG and they will create a profile for you on the Turing website.
 
 ### Office 365 Groups
 
@@ -217,6 +213,15 @@ If you want a phone number ask [IT](https://github.com/alan-turing-institute/res
 ### Mathison
 
 [Mathison](https://mathison.turing.ac.uk/) is the Institute's intranet. A few things still need to be done on the old intranet, [Turing Complete](https://turingcomplete.topdesk.net).
+
+### Purchasing home office equipment
+
+There is a budget to purchase peripherals (monitor, mouse, keyboard, _etc._) as well as other equipment such as an office chair and desk.
+For peripherals, get in touch with [IT Services](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#points-of-contact).
+With regards to getting a chair and desk for your home office, you are welcome to purchase these yourself and claim back up to £200 for these items together.
+See guidance on
+[Mathison](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2169&SearchId=0&utm_source=interact&utm_medium=category_search&utm_term=*)
+on how to claim it back.
 
 ## Reference
 

@@ -80,6 +80,10 @@ You may want to browse REG's portfolio of projects in the
 [project tracker](https://github.com/alan-turing-institute/Hut23/projects/2)
 to get an idea of what we're up to.
 The project tracker is also used for expressing preferences on which upcoming projects you would like to work on, but you don't have to worry about that for first few weeks.
+We very much encourage REG members to learn new things, so feel free to choose projects that sound interesting to you even if they are unfamiliar.
+Check
+[this section]({{< ref "/content/docs/our_projects/project_tracking.md" >}})
+of the handbook for more details.
 
 Service areas are REG-internal work, such as looking after this handbook, organising recruitment, or managing our computational resources.
 Usually people contribute to one service area, which should take approximately half a day a week.
