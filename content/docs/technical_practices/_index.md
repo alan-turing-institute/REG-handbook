@@ -1,6 +1,6 @@
 ---
 title: "Common Technical Practices"
-weight: 3
+weight: 5
 ---
 
 # Common Technical Practices

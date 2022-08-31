@@ -1,6 +1,6 @@
 ---
 title: "Contributing"
-weight: 1
+weight: 99
 ---
 
 # Contributing
