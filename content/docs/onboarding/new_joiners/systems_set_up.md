@@ -160,7 +160,7 @@ This system is used for:
 
 ### Create a Public Profile on the Turing Website
 
-Get in touch with the [Web team]({{< ref "https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#points-of-contact" >}}).
+Get in touch with the [Web team](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#points-of-contact).
 Send them an email with your biography and a profile picture attached.
 Remember to indicate that you are part of REG and they will create a profile for you on the Turing website.
 
@@ -217,7 +217,7 @@ If you want a phone number ask [IT](https://github.com/alan-turing-institute/res
 ### Purchasing home office equipment
 
 There is a budget to purchase peripherals (monitor, mouse, keyboard, _etc._) as well as other equipment such as an office chair and desk.
-For peripherals, get in touch with [IT Services]({{< ref "https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#points-of-contact" >}}).
+For peripherals, get in touch with [IT Services](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#points-of-contact).
 With regards to getting a chair and desk for your home office, you are welcome to purchase these yourself and claim back up to £200 for these items together.
 See guidance on
 [Mathison](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2169&SearchId=0&utm_source=interact&utm_medium=category_search&utm_term=*)
