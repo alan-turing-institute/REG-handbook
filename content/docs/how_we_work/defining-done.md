@@ -1,3 +1,15 @@
+---
+# Page title as it appears in the navigation menu
+title: "Defining Project Doneness"
+# Adjust the weight to reorder menu items (lower numbers appear first)
+weight: 2
+# bookCollapseSection = true
+# Uncomment to hide this page from the navigation menu
+# bookHidden = false
+# Uncomment to exclude this page from the search
+# bookSearchExclude = true
+---
+
 # Project Doneness
 
 > This document was produced as part of Accelerating AI in the Arts and Humanities (AAAH) produces outputs of professional quality for the research community.
