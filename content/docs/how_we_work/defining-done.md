@@ -1,28 +1,28 @@
 ---
-# Page title as it appears in the navigation menu
 title: "Defining Project Doneness"
-# Adjust the weight to reorder menu items (lower numbers appear first)
 weight: 2
-# bookCollapseSection = true
-# Uncomment to hide this page from the navigation menu
-# bookHidden = false
-# Uncomment to exclude this page from the search
-# bookSearchExclude = true
+
 ---
 
-# Project Doneness
+# Defining Project Doneness
 
-> This document was produced as part of Accelerating AI in the Arts and Humanities (AAAH) produces outputs of professional quality for the research community.
+This document was produced as part of Accelerating AI in the Arts and Humanities (AAAH).
 
-> Assuming you're starting with a code base that already exists, this document is designed to help you discuss scope of RSE involvement
-> with collaborators and define when a project is done.
-> This means making it easier for your current and future research, accelerating the impact and legacy of the software,
-> expanding communities of practice, and providing a confident codebase for future research.
-> This framework highlights what a maximal 'definition of done' would look like for mutual success to deliver reproducible and
-> credible code for all. It is expected that not all engagements will hit the maximum extents, but rather this is to be negotiated
-> and shaped by the resources available.
+As a Research Software Engineer, we often join a collaborative project when a code base already exists.
+Defining the aims of a collaboration can be challenging, and when there is limited time it is important to apply attention in the right places.
+The following document is designed to help:
 
->For each project discuss which "Level" in each of the following categories is a MINIMUM aim for defining done:
+- Showcase what is important to us as RSEs
+- Assessing the current status of an existing repo
+- Define clear objectives
+- Determine where to put effort
+- Provide a common framework and language for collaborators
+- Clearly define when the collaboration is done!
+
+The framework includes objectives that focus on improving the impact and legacy of the software, expanding communities of practice, and providing a confident codebase for future research.
+
+For each project discuss with collaborators which "Level" in each of the following categories is a MINIMUM aim for defining done.
+Remember, time is a resource and so consider where efforts should be prioritised.
 
 ## Reach and Robustness
 
@@ -83,4 +83,3 @@ Level 03. **Release**: Make the repo public.
 Level 04. **Distribute**: Release the repo on PiPY or CRAN or equivalent, include DOI
 
 Level 05. **Publisise**: Publish the repo with JOSS, and/or publicly present the work.
-
