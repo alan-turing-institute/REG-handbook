@@ -172,7 +172,7 @@ Make sure you are in the following Office365 / email groups (check with
 - End-of-month all business team meetings (Turing Catch-ups). These are sent out as recurring calendar events. You can either email [governance](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#points-of-contact) to forward you the invite or find a member of the REG team that is invited and ask them to forward the invite.
 - Turing Bulletin: This internal newsletter is sent out every Thursday evening. If you don't receive it, you can sign up manually via [Turing Complete](https://turingcomplete.topdesk.net/tas/public/ssp/content/detail/service?unid=986c9e4b9a354a06a587917fd3e0f481).
 
-#### GitHub Pro and Professional IDEs
+### GitHub Pro and Professional IDEs
 
 Turing employees can apply for free GitHub Pro accounts, and use these to get free educational licences for professional versions of many JetBrains products (*e.g.*, PyCharm, IntelliJ, …)
 
