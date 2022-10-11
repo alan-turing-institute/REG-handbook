@@ -78,7 +78,7 @@ jobs:
           ruby-version: head
 
       - name: Install html-proofer
-        run: gem install html-proofer
+        run: gem install html-proofer -v '~>4'
 
       - name: Build
         run: hugo --minify
@@ -116,7 +116,7 @@ jobs:
         uses: actions/setup-ruby@v1
 
       - name: Install html-proofer
-        run: gem install html-proofer
+        run: gem install html-proofer -v '~>4'
 
       - name: Build
         run: hugo --minify
