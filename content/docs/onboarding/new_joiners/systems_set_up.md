@@ -53,7 +53,7 @@ Make sure you have [FileVault](https://support.apple.com/en-gb/guide/deployment/
 You should be setup with local admin privileges.
 Contact [IT](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#points-of-contact) if this isn't the case.
 
-**Install Homebrew**
+### Install Homebrew
 
 We recommend using Homebrew as your Mac package manager. Currently IT installs Homebrew by default on our laptops under `/usr/local/bin`, however in the long run this might create problems with the new M1 Macs we use. To see if this problem applies to you, run `which brew` in the terminal and check if that's the location. Until this is fixed by IT, what we recommend is the following:
 
