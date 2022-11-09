@@ -58,7 +58,7 @@ Contact [IT](https://github.com/alan-turing-institute/research-engineering-group
 We recommend using Homebrew as your Mac package manager. Currently IT installs Homebrew by default on our laptops under `/usr/local/bin`, however in the long run this might create problems with the new M1 Macs we use. To see if this problem applies to you, run `which brew` in the terminal and check if that's the location. Until this is fixed by IT, what we recommend is the following:
 
 1. Uninstall the current version of Homebrew by running the following command in the terminal: `sudo /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/uninstall.sh)"`
-2. Install again Homebrew following the instructions on the [website](https://brew.sh/). This will install Homebrew under `/opt/homebrew/bin/brew` (you can check it by entering `which brew` in the terminal and see the new location).
+1. Install again Homebrew following the instructions on the [website](https://brew.sh/). This will install Homebrew under `/opt/homebrew/bin/brew` (you can check it by entering `which brew` in the terminal and see the new location).
 
 ### Communication Channels
 
