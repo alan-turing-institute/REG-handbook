@@ -55,7 +55,7 @@ Contact [IT](https://github.com/alan-turing-institute/research-engineering-group
 
 ### Install Homebrew
 
-We recommend using Homebrew as your Mac package manager.
+We recommend using [Homebrew](https://brew.sh/) as your Mac package manager.
 Currently IT installs Homebrew by default on our laptops under `/usr/local/bin`, however in the long run this might create problems with the new M1 Macs we use.
 To see if this problem applies to you, run `which brew` in the terminal and check if that's the location.
 Until this is fixed by IT, what we recommend is the following:
