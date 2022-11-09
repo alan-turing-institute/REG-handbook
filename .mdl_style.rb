@@ -9,6 +9,9 @@ rule 'MD003', :style => :atx
 # Only allow dashes in unordered lists
 rule 'MD004', :style => :dash
 
+# Don't enforce a particular list indentation
+exclude_rule 'MD007'
+
 # Do not enforce line length
 exclude_rule 'MD013'
 
