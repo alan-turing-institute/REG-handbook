@@ -32,6 +32,8 @@ You will have a week or so before you will be assigned to a project.
 Please use this time to do admin stuff, set up your laptop and tools, get to know people, read this handbook and our internal wiki, and shadow meetings (see below).
 Here we go over the main points you should remember to do, but for an attempt at listing all the small tasks that occupy a new starter, please see (and improve!) [this checklist](https://github.com/alan-turing-institute/research-engineering-group/wiki/New-starter-checklist).
 
+We also have a [page of tables](https://github.com/alan-turing-institute/research-engineering-group/wiki/Useful-Links-for-REG) available with information about links and resources related to REG and the Alan Turing Institute. 
+
 ## Administrivia
 
 HR will set up a meeting with you to discuss general information *e.g.* pay, health, leaves, benefits.
