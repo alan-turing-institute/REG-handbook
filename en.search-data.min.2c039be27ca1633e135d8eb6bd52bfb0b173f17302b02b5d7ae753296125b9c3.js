@@ -22,6 +22,7 @@ General programming problems — including helping to identify and fix bugs. Clo
 We are super pleased that you\u0026rsquo;re joining our group. This page gives you an overview of what to expect from your first few days. They are maintained by the group, we hope that new-starters feel empowered to edit them if there are useful changes to be made.
 Introductions # Each new starter gets assigned two buddies to be friendly points of contact. The person in charge of onboarding should let you know who these are a bit before you start; If that doesn\u0026rsquo;t happen, please email them about it. Your buddies will welcome you on the first day. In the first few days there will be a welcome coffee to give you a chance to introduce yourself to the whole REG team, and within the first few weeks you will also have a 1-on-1 meeting with REG\u0026rsquo;s Director.
 You will have a week or so before you will be assigned to a project. Please use this time to do admin stuff, set up your laptop and tools, get to know people, read this handbook and our internal wiki, and shadow meetings (see below). Here we go over the main points you should remember to do, but for an attempt at listing all the small tasks that occupy a new starter, please see (and improve!) this checklist.
+We also have a page of tables available with information about links and resources related to REG and the Alan Turing Institute.
 Administrivia # HR will set up a meeting with you to discuss general information e.g. pay, health, leaves, benefits. IT will also meet you to discuss accounts and Turing wide systems. Both of these will typically take place in the first day or two.
 We have a dedicated page for various systems REG uses. Have a look at the high priority section on your first day.
 We also have a Remote Working page for Zoom, Teams, and Gather.
@@ -201,7 +202,7 @@ It\u0026rsquo;s possible to specify arguments for the linters/formatters in sett
 For each workspace VS Code can be configured to use a specific Python interpreter (environment). That interpreter is then used by default when doing anything with your code (running scripts, linting, tests etc.)
 To set the interpreter:
 Open a .py file. Click on the details of the currently used environment on the status bar (bottom right). Select an interpreter from the list that appears (or write the path to it). Or from the command palette:
-Cmd-Shift-P -\u0026gt; Search for \u0026ldquo;Python: Select Interpreter\u0026rdquo;. Linting # VSC Liniting Docs
+Cmd-Shift-P -\u0026gt; Search for \u0026ldquo;Python: Select Interpreter\u0026rdquo;. Linting # VSC Linting Docs
 If linters are activated (see Settings) they will be run after saving a file, and any problems the enabled tools encounter will be highlighted in-line in the editor, and be listed in the \u0026ldquo;Problems\u0026rdquo; tab of the panel at the bottom (or select View -\u0026gt; Problems from the menu).
 Hovering over a piece of code with a problem in the editor will give you more details about it, and may have a \u0026ldquo;Quick Fix\u0026rdquo; available, which will edit the code for you to fix it.
 Formatting # VSC Formatting Docs
