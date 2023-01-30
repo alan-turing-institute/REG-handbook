@@ -122,6 +122,18 @@ If you don't see a calendar invite for the weekly tech talks, ask the
 [person in charge of onboarding](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#responsibilities)
 to add you to the relevant mailing list.
 
+## What to do next
+
+If you've done all the above, read through the handbook and the repo and are still waiting for your first project to start, go and talk to the person in charge of onboarding.
+They will find something meaningful for you to do which might be something like:
+
+- (Optional) Browse the project board and emoji any projects in the `Looking for people` and `Awaiting start` columns
+  - Note: you will be notified to do this before being assigned to a project
+- Work on a Turing Data Story. There's always a story to join or a new one to start. You can then keep working on it on your 22 days time once allocated to a project. This option has been very popular.
+- Tackle a GitHub issues marked with the `good first issue` tag in a repo that REG works on. Whenever a new starter is looking for things to do, the person in charge of onboarding should send a message to #hut23 asking everyone to tag suitable issues.
+- Projects that would normally be done by people in Director's reserve, e.g. Whatnow.
+- Any ad hoc ideas that come up. Maybe you found a project that really interests you and want to help, or maybe there's some team organisational thing that comes up that you volunteer for.
+
 ## Points of Contact
 
 You can find useful points of contact
