@@ -130,8 +130,8 @@ They will find something meaningful for you to do which might be something like:
 - (Optional) Browse the project board and emoji any projects in the `Looking for people` and `Awaiting start` columns
   - Note: you will be notified to do this before being assigned to a project
 - Work on a Turing Data Story. There's always a story to join or a new one to start. You can then keep working on it on your 22 days time once allocated to a project. This option has been very popular.
-- Tackle a GitHub issues marked with the `good first issue` tag in a repo that REG works on. Whenever a new starter is looking for things to do, the person in charge of onboarding should send a message to #hut23 asking everyone to tag suitable issues.
-- Projects that would normally be done by people in Director's reserve, e.g. Whatnow.
+- Tackle a GitHub issue marked with the `good first issue` tag in a repo that REG works on. Whenever a new starter is looking for things to do, the person in charge of onboarding will send a message on Slack asking everyone to tag suitable issues.
+- Work on a REG-internal project that is easy to rotate in/out of.
 - Any ad hoc ideas that come up. Maybe you found a project that really interests you and want to help, or maybe there's some team organisational thing that comes up that you volunteer for.
 
 ## Points of Contact
