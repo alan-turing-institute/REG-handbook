@@ -207,7 +207,7 @@ In that case, opt to use the online version through Office 365.
 ### HackMD
 
 We sometimes use HackMD for shared documents.
-If you don't have an account, signup for [a free account here](https://hackmd.io/join).
+If you don't have an account, signup for [a free account here](https://hackmd.io/).
 We do not have a paid account for HackMD.
 
 ### Skype for business
