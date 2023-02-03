@@ -99,7 +99,7 @@ Note that:
 
 ### Selecting the Python Interpreter
 
-[VSC Python Interpreters Docs](https://code.visualstudio.com/docs/python/environments)
+[VSC Python Interpreters Docs](https://code.visualstudio.com/docs/python/environments#_working-with-python-interpreters)
 
 For each workspace VS Code can be configured to use a specific Python interpreter (environment).
 That interpreter is then used by default when doing anything with your code (running scripts, linting, tests _etc._)
@@ -116,7 +116,7 @@ Or from the command palette:
 
 ### Linting
 
-[VSC Liniting Docs](https://code.visualstudio.com/docs/python/linting)
+[VSC Linting Docs](https://code.visualstudio.com/docs/python/linting)
 
 If linters are activated (see Settings) they will be run after saving a file, and any problems the enabled tools encounter will be highlighted in-line in the editor, and be listed in the "Problems" tab of the panel at the bottom (or select View -> Problems from the menu).
 
