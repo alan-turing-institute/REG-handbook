@@ -99,7 +99,7 @@ Note that:
 
 ### Selecting the Python Interpreter
 
-[VSC Python Interpreters Docs](https://code.visualstudio.com/docs/python/environments#_work-with-python-interpreters)
+[VSC Python Interpreters Docs](https://code.visualstudio.com/docs/python/environments)
 
 For each workspace VS Code can be configured to use a specific Python interpreter (environment).
 That interpreter is then used by default when doing anything with your code (running scripts, linting, tests _etc._)

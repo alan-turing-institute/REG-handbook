@@ -1,6 +1,6 @@
 ---
 # Page title as it appears in the navigation menu
-title: "Software Development Best Practices"
+title: "Software Development"
 # Adjust weight to reorder menu items (lower numbers appear first)
 weight: 5
 ---
