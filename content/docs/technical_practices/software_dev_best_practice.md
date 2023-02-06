@@ -32,15 +32,15 @@ _Status:_ this document is a draft proposal.
     second command or few.
 
 - Each new issue should be developed on a short-lived feature branch split
-    from “master”. These branches ideally only live around 0.5-2 days before
-    being merged back into master. Merge process should be: merge master into
+    from “main”. These branches ideally only live around 0.5-2 days before
+    being merged back into main. Merge process should be: merge main into
     feature branch and resolve any conflicts. Push latest feature branch to
-    Github. Open PR to merge into master after review + continuous integration
+    Github. Open PR to merge into main after review + continuous integration
     (CI) tests.
 
 - Code should be committed regularly in small chunks. You should generally be
     committing multiple times per day. Commits on feature branches can have
-    broken functionality or tests, but all merges into master should only occur
+    broken functionality or tests, but all merges into main should only occur
     at commits where the code is correct and has passing tests.
 
 - All code commits should be accompanied by tests verifying it behaves as
@@ -51,7 +51,7 @@ _Status:_ this document is a draft proposal.
     significantly lower quality assurance measure than writing tests first / in
     iteration with the code, so you should do the latter.
 
-- All code should have had two eyeballs on it before it is merged into master,
+- All code should have had two eyeballs on it before it is merged into main,
     either through pair programming or code review within the PR. Please note on
     the PR who two eyes were. The second pair of eyes can be anyone on the
     project (not just a coder), anyone in our team or someone from a related
@@ -61,7 +61,7 @@ _Status:_ this document is a draft proposal.
 
 - The Github repository should be set up to run all tests on all pushes to all
     branches and on all PRs. Currently this can be done for public repos via
-    Travis CI and Appveyor. If CI is set up this way, commits to master should
+    GitHub Actions. If CI is set up this way, commits to main should
     be blocked unless all tests pass.
 
 ## Data Science projects
