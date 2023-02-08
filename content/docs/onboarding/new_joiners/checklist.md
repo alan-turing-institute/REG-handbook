@@ -57,6 +57,7 @@ If anything is unclear, please figure it out by e.g. asking your buddies, and th
     - [ ] Casual photo
     - [ ] Fun fact(s)
 - [ ] Provide a description for the [ATI webpage](https://turingcomplete.topdesk.net/tas/public/ssp/content/serviceflow?unid=35b8d40067004f9484c9fb06ade41d65&openedFromService=true) (https://alan-turing-institute.github.io/REG-handbook/docs/onboarding/new_joiners/systems_set_up#create-a-public-profile-on-the-turing-website)
+- [ ] Verify your MoorePay account (for payslips). Verification email will be sent to you in your first month of employment. See [Payroll and Payslip enquiries on Mathison](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2277&SearchId=190970&utm_source=interact&utm_medium=quick_search&utm_term=payslip) for more information.
 
 ## GitHub and communications
 
