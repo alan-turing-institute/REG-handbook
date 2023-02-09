@@ -25,7 +25,7 @@ If anything is unclear, please figure it out by e.g. asking your buddies, and th
 - [ ] Attend HR induction
 - [ ] Attend IT induction
 - [ ] Meet with line manager
-- [ ] Shadow meetings: https://hackmd.io/nnsWP4i_SiiwlT4meOeq6g (if you don't have access, ask Markus)
+- [ ] Shadow meetings: https://hackmd.io/nnsWP4i_SiiwlT4meOeq6g (if you don't have access, ask someone in charge of [onboarding](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#documents))
 - [ ] Join in for welcome coffee(s)
 
 ## HR tasks
@@ -61,7 +61,7 @@ If anything is unclear, please figure it out by e.g. asking your buddies, and th
 
 ## GitHub and communications
 
-- [ ] Get access to private GitHub repos (fill in [this form](https://turingcomplete.topdesk.net/tas/public/ssp/content/serviceflow?unid=3844fabf8b1c45ca9028758a350ff230) and message Helen with your GitHub username to join the Alan Turing Organisation GitHub
+- [ ] Get access to private GitHub repos (fill in [this form](https://turingcomplete.topdesk.net/tas/public/ssp/content/serviceflow?unid=3844fabf8b1c45ca9028758a350ff230) and send your GitHub username to the person responsible for GitHub (see [The REGistry](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#documents)) to join the Alan Turing Organisation GitHub
 - [ ] Join Turing Slack
     - [ ] Go through public Slack channels, decide which ones to join
 - [ ] Request account on Harvest and Forecast by asking the the person in charge of researcher tool management, or your buddies to get you set up (to clarify, it is one account but allows you sign in to both) https://alan-turing-institute.github.io/REG-handbook/docs/onboarding/new_joiners/systems_set_up#harvest-and-forecast
