@@ -30,5 +30,26 @@ Whenever possible, the handbook's prose should be written in Markdown rather tha
 However, it is completely reasonable use HTML when it is needed.
 When it is advantageous, data should be [stored in data files and processed using shortcodes](https://gohugo.io/templates/data-templates/) rather than presented in raw Markdown.
 
+## Style Enforcement
+
 Markdown styling is enforced by [markdownlint](https://github.com/markdownlint/markdownlint) using the configuration {{% repo_link path=".mdl_style.rb" text=".mdl_style.rb" %}}.
 An explanation of the rules can be found [here](https://github.com/markdownlint/markdownlint/blob/master/docs/RULES.md).
+
+You can optionally install markdownlint locally to check your changes before submitting a pull request.
+
+{{% hint info %}}
+Make sure you install the Ruby version (`mdl`) and not the Node.js version (`markdownlint-cli`) contained in the homebrew repositories,
+since the configuration is only good for the former.
+{{% /hint %}}
+
+Once installed and assuming you're in the repository root, you can lint a specific file you've made changes to like this:
+
+```bash
+mdl -s .mdl_style.rb <filename>
+```
+
+Alternatively run it over the entire handbook content like this:
+
+```bash
+mdl -s .mdl_style.rb ./content
+```
