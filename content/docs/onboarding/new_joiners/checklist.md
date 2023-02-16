@@ -72,6 +72,7 @@ If anything is unclear, please figure it out by e.g. asking your buddies, and th
 - [ ] Add [[Shared REG Calendar]] to Outlook
 - [ ] Familiarise yourself with how to [Book Rooms](https://github.com/alan-turing-institute/research-engineering-group/wiki/Booking-Rooms)
 - [ ] Message IT (ITServices@turing.ac.uk) to upgrade Zoom account from Basic to Pro
+- [ ] Send a short informal bio to the [REG newsletter owner](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#responsibilities).
 
 ## New computer set-up
 
