@@ -11,7 +11,7 @@ Line management in REG is a little different than in other parts of the Turing a
 
 ## How line management duties are assigned
 
-At (current) senior level, people are expected to line manage 1-2 standards. This will probably change with the new lead role (see the [REG role matrix](https://github.com/alan-turing-institute/Hut23/blob/master/development/REG-Roles-Matrix.md#line-managementmentoring)). Currently, if seniors are willing to line manage more than 2 people, they should inform the recruitment lead (can be found in [service areas](https://github.com/alan-turing-institute/research-engineering-group/wiki/Service-areas)). 
+At (current) senior level, people are expected to line manage 1-2 standards. This will probably change with the new lead role (see the [REG role matrix](https://github.com/alan-turing-institute/Hut23/blob/master/development/REG-Roles-Matrix.md#line-managementmentoring)). Currently, if seniors are willing to line manage more than 2 people, they should inform the recruitment lead (can be found in [service areas](https://github.com/alan-turing-institute/research-engineering-group/wiki/Service-areas)).
 
 At standard level, opportunities for line management and project mentoring of junior members and interns are offered during the year. To assign such duties, we follow whenever possible time spent at standard level in REG.
 
