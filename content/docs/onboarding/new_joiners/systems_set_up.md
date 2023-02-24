@@ -95,11 +95,7 @@ We use GitHub for most coordination.
 To get access to [the Turing GitHub](https://github.com/alan-turing-institute), create a GitHub account (or use an existing one), then fill this form on [Turing Complete](https://turingcomplete.topdesk.net/tas/public/ssp/content/serviceflow?unid=3844fabf8b1c45ca9028758a350ff230) with your GitHub handle (if you have access to Turing Complete).
 Then let [the GitHub org controller](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#responsibilities) know that you have done this and they can add you straight away.
 
-Also check the Project tracker and Planning projects to get a feeling on what goes on.
-You're supposed to use them as follows:
-
-- Use [Project tracker](https://github.com/alan-turing-institute/Hut23/projects/2?) to track official projects we are tasked with. This is where we express preferences for projects, with emojis. Project leads should be assigned to the relevant issue and are responsible for keeping the issue up to date. Check [this section]({{< ref "/content/docs/projects/project_tracking.md" >}}) of the handbook for more details.
-- Use [Planning](https://github.com/alan-turing-institute/Hut23/projects/1?) to track internal tasks, projects and ideas, from lunch topics to self or group-development to any other kind of thing.
+Also check the [Project tracker](https://github.com/alan-turing-institute/Hut23/projects/2?) to get a feeling on what goes on. We use it to track official projects we are tasked with. This is where we express preferences for projects, with emojis. Project leads should be assigned to the relevant issue and are responsible for keeping the issue up to date. Check [this section]({{< ref "/content/docs/projects/project_tracking.md" >}}) of the handbook for more details.
 
 ### Office 365 account
 
@@ -116,20 +112,18 @@ Here we have more information about how we use the high priority systems, and al
 
 Turing is a large organisation and there are many other channels you may want to join.
 Some are purely social, some are related to programmes or projects.
-For example, `#tps` (for the closely aligned Tools, Practices and Systems programme), `#kitchen-dropin`, `#social`, `#pubclub`, `#askaway`, `#azure`, `#jargon-buster`, `#interesting-events`, `#football`.
+For example, `#tps` (for the closely aligned Tools, Practices and Systems programme), `#kitchendropin`, `#social`, `#pubclub`, `#askaway`, `#research-computing`, `#interesting-events`, `#football`.
 If you get interested in something just ask if there is a channel about it.
+
+All of the REG-specific channels are prefixed with `hut23`, so that's a good thing to search for in the channel list.
 
 You may also want to add yourself to `#hut23standup`, which some of us use for automated standups of "About Us" questions.
 The purpose is to get to know other team members by answering a question three times a week.
 Geekbot should send you the next question at 10:30am on Mondays, Wednesdays and Fridays.
 
-We also have an optional Geekbot standup for daily check-ins.
-This standup will ask you three questions each morning ("What did you do yesterday?", "What will you do today?", and "What are you finding challenging?".
-(Responses are posted in the `#hut23standup-tasks` channel.)
-
 Tips for using Geekbot:
 
-- You can report before/after Geekbot asks you by sending it a message from Slack, e.g. `report About Us` or `report Daily Standup`.
+- You can report before/after Geekbot asks you by sending it a message from Slack, e.g. `report About Us`.
 - The Slack channels containing the responses can generate a lot of notifications. You might want to turn off notifications, or alternatively mute the channel and check in on it manually instead. (Right-click on the channel name to do this.)
 - You can customise the time of Geekbot's questions. Send `dashboard` as a message to Geekbot and click the link it returns. From there, you can select a standup and the "My preferences" button will take you to the customisation page. (This setting may not be enabled on all standups.)
 - You can export a list of your previous responses to a standup from the dashboard. Click on the "timeline" tab of the relevant standup, and from there you can select the participants and questions to export to a csv file. This is particularly useful when you have forgotten to fill in Harvest for a while and need the information from the daily standup!
@@ -207,7 +201,7 @@ In that case, opt to use the online version through Office 365.
 ### HackMD
 
 We sometimes use HackMD for shared documents.
-If you don't have an account, signup for [a free account here](https://hackmd.io/join).
+If you don't have an account, signup for [a free account here](https://hackmd.io/).
 We do not have a paid account for HackMD.
 
 ### Skype for business

@@ -21,15 +21,9 @@ To contribute to the handbook you will need
 - [Hugo](https://gohugo.io/getting-started/installing/) (You will need the
   extended version with Sass/SCSS support)
 - Your favourite text editor
-
-{{% hint info %}}
-You might also find it helpful to install
-[markdownlint](https://github.com/markdownlint/markdownlint) so that you can
-lint your branch before making a pull request.
-
-The linting style used is included in the root of the repository,
-`.mdl_style.rb`.
-{{% /hint %}}
+- Optionally [markdownlint](https://github.com/markdownlint/markdownlint);
+  see the [Style Guide]({{< relref "/docs/contributing/style_guide.md#style-enforcement" >}})
+  for more details.
 
 ## Clone the repository
 

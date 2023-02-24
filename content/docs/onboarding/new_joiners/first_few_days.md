@@ -32,6 +32,8 @@ You will have a week or so before you will be assigned to a project.
 Please use this time to do admin stuff, set up your laptop and tools, get to know people, read this handbook and our internal wiki, and shadow meetings (see below).
 Here we go over the main points you should remember to do, but for an attempt at listing all the small tasks that occupy a new starter, please see (and improve!) [this checklist](https://github.com/alan-turing-institute/research-engineering-group/wiki/New-starter-checklist).
 
+We also have a [page of tables](https://github.com/alan-turing-institute/research-engineering-group/wiki/Useful-Links-for-REG) available with information about links and resources related to REG and the Alan Turing Institute.
+
 ## Administrivia
 
 HR will set up a meeting with you to discuss general information *e.g.* pay, health, leaves, benefits.
@@ -119,6 +121,18 @@ sometime in your first six weeks.
 If you don't see a calendar invite for the weekly tech talks, ask the
 [person in charge of onboarding](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#responsibilities)
 to add you to the relevant mailing list.
+
+## What to do next
+
+If you've done all the above, read through the handbook and the repo and are still waiting for your first project to start, go and talk to the person in charge of onboarding.
+They will find something meaningful for you to do which might be something like:
+
+- (Optional) Browse the project board and emoji any projects in the `Looking for people` and `Awaiting start` columns
+  - Note: you will be notified to do this before being assigned to a project
+- Work on a Turing Data Story. There's always a story to join or a new one to start. You can then keep working on it on your 22 days time once allocated to a project. This option has been very popular.
+- Tackle a GitHub issue marked with the `good first issue` tag in a repo that REG works on. Whenever a new starter is looking for things to do, the person in charge of onboarding will send a message on Slack asking everyone to tag suitable issues.
+- Work on a REG-internal project that is easy to rotate in/out of.
+- Any ad hoc ideas that come up. Maybe you found a project that really interests you and want to help, or maybe there's some team organisational thing that comes up that you volunteer for.
 
 ## Points of Contact
 
