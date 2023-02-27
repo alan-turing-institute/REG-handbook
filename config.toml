@@ -65,7 +65,3 @@ disableKinds = ['taxonomy', 'taxonomyTerm']
 
   # Enable search
   BookSearch = true
-
-  # Set logo to Reginald
-  # BookLogo = 'Reginald_hex.png'
-
