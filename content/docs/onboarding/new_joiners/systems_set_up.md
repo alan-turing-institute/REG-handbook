@@ -161,9 +161,18 @@ This system is used for:
 
 ### Create a Public Profile on the Turing Website
 
-Get in touch with the [Web team](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#points-of-contact).
-Send them an email with your biography and a profile picture attached.
-Remember to indicate that you are part of REG and they will create a profile for you on the Turing website.
+There are several ways to do this:
+
+- You can fill in [this form on Turing Complete](https://turingcomplete.topdesk.net/tas/public/ssp/content/serviceflow?unid=35b8d40067004f9484c9fb06ade41d65) to request a public profile.
+- Alternatively, contact [the people in charge of REG communications](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#responsibilities), providing the following info:
+  - Your title and full name
+  - A short personal bio
+  - A brief description of your Turing-related research
+  - *(optional)* A brief description of your achievements and award
+  - *(optional)* Photo
+  - *(optional)* Webpage
+- You can also edit the website yourself directly. To do so, you must complete [a round of online training](https://turingcomplete.topdesk.net/tas/public/ssp/content/detail/knowledgeitem?unid=45626012-2413-4371-8de1-8aa056d35381), after which you will be granted edit permissions.
+
 
 ### Office 365 Groups
 
