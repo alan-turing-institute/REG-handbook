@@ -42,9 +42,9 @@ Your password should be:
 - unique to the machine/system
 - randomly generated (use a password generator)
 - have an entropy of at least 64 bits, see [wikipedia](https://en.wikipedia.org/wiki/Password_strength)
-  - At least 11 characters if alphanumeric (use 12, though)
-  - At least 10 characters if alphanumeric plus symbols
-  - At least 5 words if using dice ware
+   - At least 11 characters if alphanumeric (use 12, though)
+   - At least 10 characters if alphanumeric plus symbols
+   - At least 5 words if using dice ware
 
 At this point you can also configure fingerprint authentication.
 
@@ -161,9 +161,17 @@ This system is used for:
 
 ### Create a Public Profile on the Turing Website
 
-Get in touch with the [Web team](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#points-of-contact).
-Send them an email with your biography and a profile picture attached.
-Remember to indicate that you are part of REG and they will create a profile for you on the Turing website.
+There are several ways to do this:
+
+1. You can fill in [this form on Turing Complete](https://turingcomplete.topdesk.net/tas/public/ssp/content/serviceflow?unid=35b8d40067004f9484c9fb06ade41d65) to request a public profile.
+1. Alternatively, contact [the people in charge of REG communications](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#responsibilities), providing the following info:
+   - Your title and full name
+   - A short personal bio
+   - A brief description of your Turing-related research
+   - *(optional)* A brief description of your achievements and award
+   - *(optional)* Photo
+   - *(optional)* Webpage
+1. You can also edit the website yourself directly. To do so, you must complete [a round of online training](https://turingcomplete.topdesk.net/tas/public/ssp/content/detail/knowledgeitem?unid=45626012-2413-4371-8de1-8aa056d35381), after which you will be granted edit permissions.
 
 ### Office 365 Groups
 
@@ -213,16 +221,29 @@ If you want a phone number ask [IT](https://github.com/alan-turing-institute/res
 
 ### Mathison
 
-[Mathison](https://mathison.turing.ac.uk/) is the Institute's intranet. A few things still need to be done on the old intranet, [Turing Complete](https://turingcomplete.topdesk.net).
+[Mathison](https://mathison.turing.ac.uk/) is the Institute's intranet.
+You should have access to this on your first day.
+A few things still need to be done on the old intranet, [Turing Complete](https://turingcomplete.topdesk.net).
+
+### Gray Dawes
+
+Gray Dawes is the Turing's system for booking travel and accommodation.
+Instructions on how to get set up can be found [on Mathison](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2738).
+
+When making bookings on Gray Dawes, you will have to additionally submit an Excel approval form (available at the right-hand sidebar of the same Mathison page).
+This form should be filled in and sent to the Principal you have a direct link to in the line management chain for approval.
+
+### Certify
+
+Other work-related expenses can be reimbursed via Certify: see [the Mathison page](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2169) for more information on how to get set up.
+Briefly, you will have to fill in a Travel and Expenses Policy Compliance Form and email it to Finance.
+On this form, the 'approver' should be the REG Director.
 
 ### Purchasing home office equipment
 
 There is a budget to purchase peripherals (monitor, mouse, keyboard, _etc._) as well as other equipment such as an office chair and desk.
-For peripherals, get in touch with [IT Services](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#points-of-contact).
-With regards to getting a chair and desk for your home office, you are welcome to purchase these yourself and claim back up to £200 for these items together.
-See guidance on
-[Mathison](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2169&SearchId=0&utm_source=interact&utm_medium=category_search&utm_term=*)
-on how to claim it back.
+For peripherals, fill in [this form on Turing Complete](https://turingcomplete.topdesk.net/tas/public/ssp/content/serviceflow?unid=eee3b659bb3e4ab5aaed67f807ebd8c3).
+For an office chair and desk, you can purchase these yourself, and claim up to £200 back (in total) via Certify.
 
 ## Reference
 
