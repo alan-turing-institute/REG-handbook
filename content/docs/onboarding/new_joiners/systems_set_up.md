@@ -130,7 +130,7 @@ Tips for using Geekbot:
 
 Other workspaces you could join:
 
-- The [Society of Research Software Engineering](https://society-rse.org/) has a website, Slack and email list. Their [Slack workspace](https://ukrse.slack.com/join/signup) contains plenty of details about relevant events.
+- The Society of Research Software Engineering has a [Slack worspace](https://ukrse.slack.com/join/signup). For information about joining the Society see the [SocRSE page]({{< relref "../society_of_research_software_engineering.md" >}}).
 
 ### Mailing Lists
 
