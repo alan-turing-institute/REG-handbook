@@ -42,9 +42,9 @@ Your password should be:
 - unique to the machine/system
 - randomly generated (use a password generator)
 - have an entropy of at least 64 bits, see [wikipedia](https://en.wikipedia.org/wiki/Password_strength)
-  - At least 11 characters if alphanumeric (use 12, though)
-  - At least 10 characters if alphanumeric plus symbols
-  - At least 5 words if using dice ware
+   - At least 11 characters if alphanumeric (use 12, though)
+   - At least 10 characters if alphanumeric plus symbols
+   - At least 5 words if using dice ware
 
 At this point you can also configure fingerprint authentication.
 
@@ -163,15 +163,15 @@ This system is used for:
 
 There are several ways to do this:
 
-- You can fill in [this form on Turing Complete](https://turingcomplete.topdesk.net/tas/public/ssp/content/serviceflow?unid=35b8d40067004f9484c9fb06ade41d65) to request a public profile.
-- Alternatively, contact [the people in charge of REG communications](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#responsibilities), providing the following info:
-  - Your title and full name
-  - A short personal bio
-  - A brief description of your Turing-related research
-  - *(optional)* A brief description of your achievements and award
-  - *(optional)* Photo
-  - *(optional)* Webpage
-- You can also edit the website yourself directly. To do so, you must complete [a round of online training](https://turingcomplete.topdesk.net/tas/public/ssp/content/detail/knowledgeitem?unid=45626012-2413-4371-8de1-8aa056d35381), after which you will be granted edit permissions.
+1. You can fill in [this form on Turing Complete](https://turingcomplete.topdesk.net/tas/public/ssp/content/serviceflow?unid=35b8d40067004f9484c9fb06ade41d65) to request a public profile.
+1. Alternatively, contact [the people in charge of REG communications](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#responsibilities), providing the following info:
+   - Your title and full name
+   - A short personal bio
+   - A brief description of your Turing-related research
+   - *(optional)* A brief description of your achievements and award
+   - *(optional)* Photo
+   - *(optional)* Webpage
+1. You can also edit the website yourself directly. To do so, you must complete [a round of online training](https://turingcomplete.topdesk.net/tas/public/ssp/content/detail/knowledgeitem?unid=45626012-2413-4371-8de1-8aa056d35381), after which you will be granted edit permissions.
 
 ### Office 365 Groups
 
@@ -235,7 +235,7 @@ This form should be filled in and sent to the Principal you have a direct link t
 
 ### Certify
 
-Otehr work-related expenses can be reimbursed via Certify: see [the Mathison page](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2169) for more information on how to get set up.
+Other work-related expenses can be reimbursed via Certify: see [the Mathison page](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2169) for more information on how to get set up.
 Briefly, you will have to fill in a travel compliance form and email it to Finance.
 On this form, the 'approver' should be the REG Director.
 
