@@ -236,7 +236,7 @@ This form should be filled in and sent to the Principal you have a direct link t
 ### Certify
 
 Other work-related expenses can be reimbursed via Certify: see [the Mathison page](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2169) for more information on how to get set up.
-Briefly, you will have to fill in a travel compliance form and email it to Finance.
+Briefly, you will have to fill in a Travel and Expenses Policy Compliance Form and email it to Finance.
 On this form, the 'approver' should be the REG Director.
 
 ### Purchasing home office equipment
