@@ -18,7 +18,7 @@ For that purpose we use [All Contributors](https://allcontributors.org/) to help
 
 Use the 'add' command in an issue or pull-request comment to ask @all-contributors to add a contributor
 
-```
+```text
 @all-contributors please add @<username> for <contributions>
 ```
 
