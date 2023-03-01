@@ -1,6 +1,6 @@
 {
-  "files": [
-    "README.md"
+    "files": [
+        "README.md"
   ],
   "imageSize": 100,
   "commit": false,
@@ -14,6 +14,33 @@
       "contributions": [
         "content",
         "ideas"
+      ]
+    },
+    {
+      "login": "andrewphilipsmith",
+      "name": "Andy Smith",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5346065?v=4",
+      "profile": "https://github.com/andrewphilipsmith",
+      "contributions": [
+        "content",
+        "review",
+        "ideas",
+        "code",
+        "design"
+      ]
+    },
+    {
+      "login": "JimMadge",
+      "name": "Jim Madge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23616154?v=4",
+      "profile": "https://github.com/JimMadge",
+      "contributions": [
+        "code",
+        "content",
+        "doc",
+        "review",
+        "ideas",
+        "infra"
       ]
     }
   ],
