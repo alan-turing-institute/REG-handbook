@@ -7,6 +7,66 @@
   "commitConvention": "angular",
   "contributors": [
     {
+      "login": "mastoffel",
+      "name": "martin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7348440?v=4",
+      "profile": "https://github.com/mastoffel",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "dsj976",
+      "name": "David Salvador Jasin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57944311?v=4",
+      "profile": "https://github.com/dsj976",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "mhauru",
+      "name": "Markus Hauru",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5229876?v=4",
+      "profile": "http://mhauru.org",
+      "contributions": [
+        "content",
+        "ideas"
+      ]
+    },
+    {
+      "login": "andrewphilipsmith",
+      "name": "Andy Smith",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5346065?v=4",
+      "profile": "https://github.com/andrewphilipsmith",
+      "contributions": [
+        "content",
+        "review",
+        "ideas",
+        "code",
+        "design"
+      ]
+    },
+    {
+      "login": "yongrenjie",
+      "name": "Jonathan Yong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22414895?v=4",
+      "profile": "https://github.com/yongrenjie",
+      "contributions": [
+        "content",
+        "ideas"
+      ]
+    },
+    {
+      "login": "LydiaFrance",
+      "name": "Lydia France",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85945427?v=4",
+      "profile": "https://github.com/LydiaFrance",
+      "contributions": [
+        "content"
+      ]
+    }
+    {
       "login": "JimMadge",
       "name": "Jim Madge",
       "avatar_url": "https://avatars.githubusercontent.com/u/23616154?v=4",
