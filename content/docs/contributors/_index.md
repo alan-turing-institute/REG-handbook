@@ -13,6 +13,8 @@ weight: -1
 
 # Contributors
 
+In this table we try to capture everyone who has contributed to the project and how they have contributed.
+The table is generated and maintained using [All Contributors](https://allcontributors.org/).
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
