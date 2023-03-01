@@ -1,11 +1,20 @@
 {
-    "files": [
-        "README.md"
+  "files": [
+    "README.md"
   ],
   "imageSize": 100,
   "commit": false,
   "commitConvention": "angular",
   "contributors": [
+    {
+      "login": "dsj976",
+      "name": "David Salvador Jasin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57944311?v=4",
+      "profile": "https://github.com/dsj976",
+      "contributions": [
+        "content"
+      ]
+    },
     {
       "login": "mhauru",
       "name": "Markus Hauru",
