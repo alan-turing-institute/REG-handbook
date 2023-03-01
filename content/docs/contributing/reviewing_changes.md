@@ -21,7 +21,7 @@ possible result. Reviewing should **not** be an adversarial process.
 ## Recognising Contributions
 
 When reviewing a pull request you should try to make sure everyone's work is recognised.
-See the [Recognising Contributions]({{< relref "content/docs/contributing/recognising_contributions.md" >}}) page for how to do this.
+See the [Recognising Contributions]({{< relref "/docs/contributing/recognising_contributions.md" >}}) page for how to do this.
 
 ## Code Quality
 
