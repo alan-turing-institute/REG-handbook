@@ -13,7 +13,7 @@ weight: -1
 
 # Recognising Contributions
 
-We aim to recognise all contributions to the handbook, not just those make through commits.
+We aim to recognise all contributions to the handbook, not just those made through commits.
 For that purpose we use [All Contributors](https://allcontributors.org/) to help manage a record of who has contributed to the book and how.
 
 Use the 'add' command in an issue or pull-request comment to ask @all-contributors to add a contributor
@@ -22,5 +22,5 @@ Use the 'add' command in an issue or pull-request comment to ask @all-contributo
 @all-contributors please add @<username> for <contributions>
 ```
 
-See the [bot usage documenation](https://allcontributors.org/docs/en/bot/usage) for full details and more examples.
+See the [bot usage documentation](https://allcontributors.org/docs/en/bot/usage) for full details and more examples.
 A list of contribution types (and the related emoji) can be seen [here](https://allcontributors.org/docs/en/emoji-key).
