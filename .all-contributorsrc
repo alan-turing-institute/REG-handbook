@@ -48,6 +48,25 @@
       ]
     },
     {
+      "login": "yongrenjie",
+      "name": "Jonathan Yong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22414895?v=4",
+      "profile": "https://github.com/yongrenjie",
+      "contributions": [
+        "content",
+        "ideas"
+      ]
+    },
+    {
+      "login": "LydiaFrance",
+      "name": "Lydia France",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85945427?v=4",
+      "profile": "https://github.com/LydiaFrance",
+      "contributions": [
+        "content"
+      ]
+    }
+    {
       "login": "JimMadge",
       "name": "Jim Madge",
       "avatar_url": "https://avatars.githubusercontent.com/u/23616154?v=4",
@@ -62,21 +81,14 @@
       ]
     },
     {
-      "login": "yongrenjie",
-      "name": "Jonathan Yong",
-      "avatar_url": "https://avatars.githubusercontent.com/u/22414895?v=4",
-      "profile": "https://github.com/yongrenjie",
+      "login": "llewelld",
+      "name": "David Llewellyn-Jones",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1446122?v=4",
+      "profile": "https://www.flypig.co.uk",
       "contributions": [
         "content",
-        "ideas"
-    },
-    {
-      "login": "LydiaFrance",
-      "name": "Lydia France",
-      "avatar_url": "https://avatars.githubusercontent.com/u/85945427?v=4",
-      "profile": "https://github.com/LydiaFrance",
-      "contributions": [
-        "content"
+        "ideas",
+        "bug"
       ]
     }
   ],
