@@ -14,6 +14,52 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "dsj976",
+      "name": "David Salvador Jasin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57944311?v=4",
+      "profile": "https://github.com/dsj976",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "mhauru",
+      "name": "Markus Hauru",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5229876?v=4",
+      "profile": "http://mhauru.org",
+      "contributions": [
+        "content",
+        "ideas"
+      ]
+    },
+    {
+      "login": "andrewphilipsmith",
+      "name": "Andy Smith",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5346065?v=4",
+      "profile": "https://github.com/andrewphilipsmith",
+      "contributions": [
+        "content",
+        "review",
+        "ideas",
+        "code",
+        "design"
+      ]
+    },
+    {
+      "login": "JimMadge",
+      "name": "Jim Madge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23616154?v=4",
+      "profile": "https://github.com/JimMadge",
+      "contributions": [
+        "code",
+        "content",
+        "doc",
+        "review",
+        "ideas",
+        "infra"
+      ]
     }
   ],
   "contributorsPerLine": 7,
