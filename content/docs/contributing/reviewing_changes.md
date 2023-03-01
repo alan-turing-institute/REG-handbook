@@ -18,6 +18,11 @@ contributions. When acting as a reviewer, you should see your position as
 sharing your knowledge and working with the contributors to achieve the best
 possible result. Reviewing should **not** be an adversarial process.
 
+## Recognising Contributions
+
+When reviewing a pull request you should try to make sure everyone's work is recognised.
+See the [Recognising Contributions]({{< relref "content/docs/contributing/recognising_contributions.md" >}}) page for how to do this.
+
 ## Code Quality
 
 As a reviewer, one of your jobs is to ensure the quality of the codebase remains
