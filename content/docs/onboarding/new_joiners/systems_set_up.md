@@ -239,6 +239,9 @@ Other work-related expenses can be reimbursed via Certify: see [the Mathison pag
 Briefly, you will have to fill in a Travel and Expenses Policy Compliance Form and email it to Finance.
 On this form, the 'approver' should be the REG Director.
 
+The [REG Wiki](https://github.com/alan-turing-institute/research-engineering-group/wiki/Reclaiming-out-of-pocket-expenses) contains more information on the reimbursement process, including information about the specific department and project codes you should be using.
+When you get access to Certify, it's a good idea to check that you've been set up with the correct codes.
+
 ### Purchasing home office equipment
 
 There is a budget to purchase peripherals (monitor, mouse, keyboard, _etc._) as well as other equipment such as an office chair and desk.
