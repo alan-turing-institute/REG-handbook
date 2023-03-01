@@ -22,5 +22,8 @@ rule 'MD026', :punctuation => '.,;:'
 # some markdown parsers, not markdown itself.
 exclude_rule 'MD028'
 
+# Allow raw html in Markdown (for contributors table)
+exclude_rule 'MD033'
+
 # Allow bare URLs (i.e. without angle brackets)
 exclude_rule 'MD034'
