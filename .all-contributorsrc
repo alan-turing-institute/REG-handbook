@@ -99,6 +99,89 @@
         "ideas",
         "bug"
       ]
+    },
+    {
+      "login": "KatrionaGoldmann",
+      "name": "Katriona Goldmann",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25952322?v=4",
+      "profile": "https://katrionagoldmann.github.io/",
+      "contributions": [
+        "content",
+        "review"
+      ]
+    },
+    {
+      "login": "fedenanni",
+      "name": "Federico Nanni",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8415204?v=4",
+      "profile": "https://github.com/fedenanni",
+      "contributions": [
+        "content",
+        "ideas"
+      ]
+    },
+    {
+      "login": "thobson88",
+      "name": "Tim Hobson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26117394?v=4",
+      "profile": "https://github.com/thobson88",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "ChristinaLast",
+      "name": "Christina Last",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36204574?v=4",
+      "profile": "https://christinalast.com/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "jack89roberts",
+      "name": "Jack Roberts",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16308271?v=4",
+      "profile": "https://github.com/jack89roberts",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "nbarlowATI",
+      "name": "nbarlowATI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33832774?v=4",
+      "profile": "https://github.com/nbarlowATI",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "OscartGiles",
+      "name": "Oscar T Giles",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12784013?v=4",
+      "profile": "https://github.com/OscartGiles",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "martintoreilly",
+      "name": "Martin O'Reilly",
+      "avatar_url": "https://avatars.githubusercontent.com/u/21147592?v=4",
+      "profile": "https://github.com/martintoreilly",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "malvikasharan",
+      "name": "Malvika Sharan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5370471?v=4",
+      "profile": "http://malvikasharan.github.io/",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
