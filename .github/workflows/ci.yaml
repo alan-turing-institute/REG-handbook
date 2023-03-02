@@ -88,12 +88,14 @@ jobs:
         # - adjust for base URL (REG-handbook)
         # Ignore internal links to base URL
         # Only check internal links
+        # Ignore contributors table, which has many links we don't control
         run: |
           htmlproofer ./public \
           --disable-external \
           --assume-extension \
           --swap-urls "^/REG-handbook/:/" \
-          --ignore-urls '/REG-handbook'
+          --ignore-urls '/REG-handbook' \
+          --ignore-files './public/docs/contributors/index.html'
 
   html-proofer-external-links:
     name: "HTML proofer external links"
@@ -129,7 +131,9 @@ jobs:
         # - adjust for base URL (REG-handbook)
         # - Adjust edit and tree paths on GitHub to current branch (*/edit/main, */tree/main)
         # Only check external and internal links
+        # Ignore contributors table, which has many links we don't control
         run: |
           htmlproofer ./public \
           --swap-urls "^https\://alan-turing-institute.github.io/REG-handbook/:/,^/REG-handbook/:/,/edit/main:/edit/$(git branch --show-current)" \
-          --ignore-urls '/REG-handbook,/turing.ac.uk/,/github.com/alan-turing-institute/research-engineering-group/,/github.com/alan-turing-institute/ARC/,/github.com/alan-turing-institute/DataScienceSkills/,/github.com/alan-turing-institute/Hut23/,/docs.github.com/'
+          --ignore-urls '/REG-handbook,/turing.ac.uk/,/github.com/alan-turing-institute/research-engineering-group/,/github.com/alan-turing-institute/ARC/,/github.com/alan-turing-institute/DataScienceSkills/,/github.com/alan-turing-institute/Hut23/,/docs.github.com/' \
+          --ignore-files './public/docs/contributors/index.html'
