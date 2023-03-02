@@ -81,3 +81,4 @@ If anything is unclear, please figure it out by e.g. asking your buddies, and th
 ## Ongoing activity sign-up
 
 - [ ] "Tech Talks" (Tuesdays 12:30pm), link on: https://github.com/alan-turing-institute/DataScienceSkills/wiki/Lunchtime-Tech-Talks
+- [ ] Read up about and you are recommended to join the [Society of Research Software Engineering](https://society-rse.org/), including the [Slack workspace](https://ukrse.slack.com/join/signup)
