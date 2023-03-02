@@ -20,7 +20,7 @@ contributing. The handbook uses both issues and discussions on GitHub.
 ## Discussions
 
 [The handbook
-Dicussions](https://github.com/alan-turing-institute/REG-handbook/discussions)
+Discussions](https://github.com/alan-turing-institute/REG-handbook/discussions)
 are the best place for informal talk about the handbook.
 
 You should feel welcome to create a discussion on any relevant topic, without
