@@ -78,7 +78,7 @@ jobs:
           ruby-version: head
 
       - name: Install html-proofer
-        run: gem install html-proofer -v '~>4'
+        run: gem install html-proofer -v '~>5'
 
       - name: Build
         run: hugo --minify
@@ -92,7 +92,6 @@ jobs:
         run: |
           htmlproofer ./public \
           --disable-external \
-          --assume-extension \
           --swap-urls "^/REG-handbook/:/" \
           --ignore-urls '/REG-handbook' \
           --ignore-files './public/docs/contributors/index.html'
@@ -120,7 +119,7 @@ jobs:
           ruby-version: head
 
       - name: Install html-proofer
-        run: gem install html-proofer -v '~>4'
+        run: gem install html-proofer -v '~>5'
 
       - name: Build
         run: hugo --minify
