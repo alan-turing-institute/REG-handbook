@@ -49,7 +49,7 @@ hugo new content/docs/contributing/creating_a_page.md
 
 Hugo will create a new Markdown document at the path you specified.
 
-Hugo provides a convenient way to new pages from templates called
+Hugo provides a convenient way to generate new pages from templates called
 [Archetypes](https://gohugo.io/content-management/archetypes/). You can see the
 archetypes in the {{% repo_link path="archetypes" text="`archetypes/` directory"
 %}}.

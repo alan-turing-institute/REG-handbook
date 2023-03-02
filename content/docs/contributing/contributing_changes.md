@@ -17,13 +17,6 @@ Once you have made changes, you will need to contribute them back to the remote
 repository. This page explains the process of pushing your changes back to the
 remote, and how your contribution will be checked in the CI and review process.
 
-{{% hint danger %}}
-Currently, reviews are not required.
-Pull requests may be merged by anyone with write access when all required CI checks pass.
-
-You may enable [auto-merge](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/automatically-merging-a-pull-request) on a pull request so that a merge is made as soon as all checks pass.
-{{% /hint %}}
-
 The handbook users the [GitHub
 flow](https://docs.github.com/en/get-started/quickstart/github-flow) workflow.
 In short
@@ -159,7 +152,10 @@ unexpectedly.
 
 ## The Review Process
 
-Once your pull request has been submitted the handbook maintainers will be
-prompted to make a review. Each pull request requires **at least one** approval from
-the maintainers before merging. If a reviewer requests any changes or makes any
-comments, these **must** be resolved before the pull request can be merged.
+Currently reviews are not required and pull requests may be merged by anyone
+with write access once all required CI checks pass. If you like you can enable
+[auto-merge](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/automatically-merging-a-pull-request)
+so that the merge happens automatically when this is the case.
+
+However, if you'd like your changes reviewed you can suggest reviewers when, or after, opening your pull request.
+If a reviewer then requests any changes or makes any comments, these should be resolved before the pull request is merged.
