@@ -204,6 +204,16 @@
         "ideas",
         "review"
       ]
+    },
+    {
+      "login": "ghanganuT",
+      "name": "Gabriel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46718848?v=4",
+      "profile": "https://github.com/ghanganuT",
+      "contributions": [
+        "ideas",
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
