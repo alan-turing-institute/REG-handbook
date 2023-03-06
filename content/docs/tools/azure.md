@@ -17,8 +17,8 @@ To experiment with Azure you should request a trial account with $300 credit usi
 
 ## Quick links
 
-- [[Azure Quickstart: Make a new VM using the command line]]
-- [Azure Howtos](https://github.com/alan-turing-institute/howtos/tree/master/azure) (in the main Hut23 repo).
+- [Azure Howtos](https://github.com/alan-turing-institute/howtos/tree/master/azure).
+- Azure Quickstart: Make a new VM using the command line (To do)
 
 ## Managing your Azure account
 
