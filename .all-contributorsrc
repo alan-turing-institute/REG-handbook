@@ -1,0 +1,226 @@
+{
+  "files": [
+    "README.md",
+    "content/docs/contributors/_index.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "mastoffel",
+      "name": "martin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7348440?v=4",
+      "profile": "https://github.com/mastoffel",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "dsj976",
+      "name": "David Salvador Jasin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57944311?v=4",
+      "profile": "https://github.com/dsj976",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "mhauru",
+      "name": "Markus Hauru",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5229876?v=4",
+      "profile": "http://mhauru.org",
+      "contributions": [
+        "content",
+        "ideas"
+      ]
+    },
+    {
+      "login": "andrewphilipsmith",
+      "name": "Andy Smith",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5346065?v=4",
+      "profile": "https://github.com/andrewphilipsmith",
+      "contributions": [
+        "content",
+        "review",
+        "ideas",
+        "code",
+        "design"
+      ]
+    },
+    {
+      "login": "yongrenjie",
+      "name": "Jonathan Yong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22414895?v=4",
+      "profile": "https://github.com/yongrenjie",
+      "contributions": [
+        "content",
+        "ideas"
+      ]
+    },
+    {
+      "login": "LydiaFrance",
+      "name": "Lydia France",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85945427?v=4",
+      "profile": "https://github.com/LydiaFrance",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "JimMadge",
+      "name": "Jim Madge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23616154?v=4",
+      "profile": "https://github.com/JimMadge",
+      "contributions": [
+        "code",
+        "content",
+        "doc",
+        "review",
+        "ideas",
+        "infra",
+        "bug"
+      ]
+    },
+    {
+      "login": "jemrobinson",
+      "name": "James Robinson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3502751?v=4",
+      "profile": "https://github.com/jemrobinson",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "llewelld",
+      "name": "David Llewellyn-Jones",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1446122?v=4",
+      "profile": "https://www.flypig.co.uk",
+      "contributions": [
+        "content",
+        "ideas",
+        "bug",
+        "doc"
+      ]
+    },
+    {
+      "login": "KatrionaGoldmann",
+      "name": "Katriona Goldmann",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25952322?v=4",
+      "profile": "https://katrionagoldmann.github.io/",
+      "contributions": [
+        "content",
+        "review"
+      ]
+    },
+    {
+      "login": "fedenanni",
+      "name": "Federico Nanni",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8415204?v=4",
+      "profile": "https://github.com/fedenanni",
+      "contributions": [
+        "content",
+        "ideas"
+      ]
+    },
+    {
+      "login": "thobson88",
+      "name": "Tim Hobson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26117394?v=4",
+      "profile": "https://github.com/thobson88",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "ChristinaLast",
+      "name": "Christina Last",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36204574?v=4",
+      "profile": "https://christinalast.com/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "jack89roberts",
+      "name": "Jack Roberts",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16308271?v=4",
+      "profile": "https://github.com/jack89roberts",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "nbarlowATI",
+      "name": "nbarlowATI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33832774?v=4",
+      "profile": "https://github.com/nbarlowATI",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "OscartGiles",
+      "name": "Oscar T Giles",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12784013?v=4",
+      "profile": "https://github.com/OscartGiles",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "martintoreilly",
+      "name": "Martin O'Reilly",
+      "avatar_url": "https://avatars.githubusercontent.com/u/21147592?v=4",
+      "profile": "https://github.com/martintoreilly",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "malvikasharan",
+      "name": "Malvika Sharan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5370471?v=4",
+      "profile": "http://malvikasharan.github.io/",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "IFenton",
+      "name": "Isabel Fenton",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5773962?v=4",
+      "profile": "https://github.com/IFenton",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "DavidBeavan",
+      "name": "David Beavan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6524799?v=4",
+      "profile": "https://github.com/DavidBeavan",
+      "contributions": [
+        "ideas",
+        "review"
+      ]
+    },
+    {
+      "login": "ghanganuT",
+      "name": "Gabriel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46718848?v=4",
+      "profile": "https://github.com/ghanganuT",
+      "contributions": [
+        "content",
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "contributorsSortAlphabetically": true,
+  "skipCi": false,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "REG-handbook",
+  "projectOwner": "alan-turing-institute"
+}

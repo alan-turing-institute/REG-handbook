@@ -15,9 +15,15 @@ exclude_rule 'MD007'
 # Do not enforce line length
 exclude_rule 'MD013'
 
+# Allow punctuation in headers
+rule 'MD026', :punctuation => '.,;:'
+
 # Ignore blockquotes separated only be a blank line. This is a limitation of
 # some markdown parsers, not markdown itself.
 exclude_rule 'MD028'
+
+# Allow raw html in Markdown (for contributors table)
+exclude_rule 'MD033'
 
 # Allow bare URLs (i.e. without angle brackets)
 exclude_rule 'MD034'
