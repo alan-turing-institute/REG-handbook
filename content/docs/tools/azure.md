@@ -22,8 +22,6 @@ To experiment with Azure you should request a trial account with $300 credit usi
 
 ## Managing your Azure account
 
-- [Azure on TopDesk](https://turingcomplete.topdesk.net/tas/public/ssp/content/detail/service?unid=01cdabaf94d74351a626ab94933751a9)
-- [Request a new subscription](https://turingcomplete.topdesk.net/tas/public/ssp/content/serviceflow?unid=5c60fe7e31094c019fad0f49fab638d7) - use this for an initial personal or project allocation.
-- [Request additional credit](https://turingcomplete.topdesk.net/tas/public/ssp/content/serviceflow?unid=859fad77c07743f4a978a7f48f73db83) - use this to ask for more credit for a personal or project subscription
+- [Request a new subscription and credits](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2433) - use this for an initial personal or project allocation.
 - Monitor available credit on an Azure subscription (To do: Add correct link)
-- Email the [Research Compute Platforms team](mailto:ResearchComputePlatforms@turing.ac.uk) for help
+- Email the [Research Compute Platforms team](mailto:ResearchComputePlatforms@turing.ac.uk) for help.
