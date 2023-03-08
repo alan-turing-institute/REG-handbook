@@ -32,23 +32,39 @@ When it is advantageous, data should be [stored in data files and processed usin
 
 ## Style Enforcement
 
-Markdown styling is enforced by [markdownlint](https://github.com/markdownlint/markdownlint) using the configuration {{% repo_link path=".mdl_style.rb" text=".mdl_style.rb" %}}.
-An explanation of the rules can be found [here](https://github.com/markdownlint/markdownlint/blob/master/docs/RULES.md).
+Markdown styling is enforced by [`markdownlint`](https://github.com/markdownlint/markdownlint) using the configuration {{% repo_link path=".mdl_style.rb" text=".mdl_style.rb" %}}.
+An explanation of the style rules can be found [here](https://github.com/markdownlint/markdownlint/blob/master/docs/RULES.md).
 
 You can optionally install markdownlint locally to check your changes before submitting a pull request.
 
 {{% hint info %}}
-Make sure you install the Ruby version (`mdl`) and not the Node.js version (`markdownlint-cli`) contained in the homebrew repositories,
+Make sure you install the Ruby version (`mdl`) and not the Node.js version (`markdownlint-cli`, which the Homebrew formula provides),
 since the configuration is only good for the former.
 {{% /hint %}}
 
-Once installed and assuming you're in the repository root, you can lint a specific file you've made changes to like this:
+First, install Ruby with Homebrew, and then use that to install `mdl`.
+macOS actually provides a system installation of Ruby, but using that isn't advisable as you need to install gems as the root user.
+
+```bash
+brew install ruby
+$(brew --prefix ruby)/bin/gem install mdl
+```
+
+Now, run
+
+```bash
+$(brew --prefix ruby)/bin/gem env | grep 'EXECUTABLE DIRECTORY'
+```
+
+and add the directory shown to `$PATH`.
+You should now be able to access the `mdl` executable.
+Assuming you're in the repository root, you can lint a specific file you've made changes to like this:
 
 ```bash
 mdl -s .mdl_style.rb <filename>
 ```
 
-Alternatively run it over the entire handbook content like this:
+Alternatively, run it over the entire handbook content like this:
 
 ```bash
 mdl -s .mdl_style.rb ./content
