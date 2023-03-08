@@ -4,7 +4,9 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-24-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-A way of working guide for the Research Engineering Group at The Alan Turing Institute
+A way of working guide for the [Research Engineering Group](https://www.turing.ac.uk/research-engineering) at [The Alan Turing Institute](https://www.turing.ac.uk).
+
+If you'd like to contribute, take a look at the [Contributing section of the handbook](https://alan-turing-institute.github.io/REG-handbook/docs/contributing/).
 
 ## Contributors
 
