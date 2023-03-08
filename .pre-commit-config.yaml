@@ -1,20 +1,31 @@
-# See https://pre-commit.com for more information
-# See https://pre-commit.com/hooks.html for more hooks
 repos:
--   repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v4.2.0
+  - repo: https://github.com/markdownlint/markdownlint
+    rev: v0.12.0
     hooks:
-    -   id: trailing-whitespace
-    -   id: end-of-file-fixer
-    -   id: check-yaml
-    -   id: check-xml
-    -   id: check-json
-    -   id: pretty-format-json
-        args: [--no-ensure-ascii, --no-sort-keys, --autofix]
-        files: ".+json"
-    -   id: check-added-large-files
-# - repo: https://github.com/jumanjihouse/pre-commit-hooks
-#   rev: master  # or specific git tag
-#   hooks:
-#     - id: markdownlint # Configure in .mdlrc
-#       files: "content/"
+      - id: markdownlint
+        name: Markdown Lint
+        description: Lint newly changed Markdown files
+        entry: mdl
+        args: ["--ignore-front-matter", "--style", ".mdl_style.rb"]
+        language: ruby
+        files: "^(content|README.md)"
+
+  - repo: https://github.com/tcort/markdown-link-check
+    rev: v3.10.3
+    hooks:
+      - id: markdown-link-check
+        name: Markdown Link Check
+        description: Check links in newly changed Markdown files
+        entry: markdown-link-check
+        args: ["--config", "mlc_config.json"]
+        language: node
+        files: "^(content|README.md)"
+
+  - repo: local
+    hooks:
+      - id: hugo
+        name: Build pages with Hugo
+        description: Build pages with Hugo
+        language: system
+        entry: hugo --minify
+        pass_filenames: false

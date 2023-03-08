@@ -35,7 +35,21 @@ When it is advantageous, data should be [stored in data files and processed usin
 Markdown styling is enforced by [`markdownlint`](https://github.com/markdownlint/markdownlint) using the configuration {{% repo_link path=".mdl_style.rb" text=".mdl_style.rb" %}}.
 An explanation of the style rules can be found [here](https://github.com/markdownlint/markdownlint/blob/master/docs/RULES.md).
 
-You can optionally install markdownlint locally to check your changes before submitting a pull request.
+You can optionally install `markdownlint` locally to check your changes before submitting a pull request.
+
+### Using `pre-commit`
+
+The easiest way to do this is to use the [pre-commit](https://pre-commit.com/) tool, which has already been set up in the handbook repository.
+
+```bash
+brew install pre-commit   # if not already installed
+pre-commit run markdownlint --all-files
+```
+
+`pre-commit` is intended to be run before all commits (to make sure that you don't unintentionally commit something unwanted).
+To see how to set this up, see the [Contributing Changes]({{< ref "/content/docs/contributing/contributing_changes.md#making-changes" >}}) page.
+
+### Manual Installation
 
 {{% hint info %}}
 Make sure you install the Ruby version (`mdl`) and not the Node.js version (`markdownlint-cli`, which the Homebrew formula provides),

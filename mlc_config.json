@@ -17,6 +17,12 @@
     },
     {
       "pattern": "^https://docs.github.com"
+    },
+    {
+      "pattern": "^https://thealanturininstitute.sharepoint.com"
+    },
+    {
+      "pattern": "^https://wimbledon-planner.azurewebsites.net"
     }
   ]
 }

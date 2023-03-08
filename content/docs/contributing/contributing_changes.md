@@ -29,12 +29,6 @@ In short
 
 This workflow should help changes be deployed quickly.
 
-{{% hint info %}}
-When making commits, it is a good idea to follow Tim Pope's
-[recommendations](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
-for good commit messages.
-{{% /hint %}}
-
 ## Creating a Branch
 
 You should make your changes on a new branch, and not on `main`. This will make
@@ -50,6 +44,40 @@ review. Otherwise, you might end up having to make many changes during review,
 have difficultly keeping your branch up to date or upset the reviewers.  {{%
 /hint %}}
 
+## Making Changes
+
+At this point, you can edit files and create `git` commits as necessary.
+
+{{% hint info %}}
+When making commits, it is a good idea to follow Tim Pope's
+[recommendations](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
+for good commit messages.
+{{% /hint %}}
+
+It is often useful to run the Markdown style checker (and other tests) before committing.
+This allows you to catch, and fix, potential issues before opening a pull request.
+To do so, use the `pre-commit` tool.
+From the repository root, run:
+
+```bash
+brew install pre-commit  # if not already installed
+pre-commit install
+```
+
+This creates a pre-commit [Git hook](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks),
+which (as the name suggests) will be automatically run every time before a commit is created.
+It currently performs the following checks, which are designed to mimic those in [Continuous Integration](#continuous-integration):
+
+- Markdown linting, i.e. style checking:
+- a Hugo build, to make sure that the pages can be built; and
+- a Markdown link check.
+
+If you want to manually perform these checks at any point in time, use:
+
+```bash
+pre-commit run
+```
+
 ## Opening a Pull Request
 
 When you think your changes are ready to be merged, open a pull request. If you
@@ -62,17 +90,17 @@ reference any issues your work closes or is related to.
 
 ### Continuous Integration
 
-A series of tests will be automatically conducted on each commit and pull
-request. The tests are defined in {{% repo_link
-path=".github/workflows/ci.yaml" text="`ci.yaml`" %}}.
+A series of tests are automatically conducted on each commit pushed to GitHub, as well as each pull request.
+The tests are defined in {{% repo_link path=".github/workflows/ci.yaml" text="`ci.yaml`" %}}.
 
-The following tests are required to pass before merging a pull request
+The following tests are required to pass before merging a pull request:
 
 - A Markdown linter
 - A Hugo build
 
 There are other test that are not *required* before merging, although you should
-aim to pass all tests. Those are
+aim to pass all tests.
+Those are:
 
 - A Markdown link checker
 - A HTML proofer (including link checking) on the output of Hugo

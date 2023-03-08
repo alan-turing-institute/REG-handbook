@@ -16,6 +16,7 @@ weight: -1
 In this table we try to capture everyone who has contributed to the project and how they have contributed.
 The table is generated and maintained using [All Contributors](https://allcontributors.org/).
 
+<!-- markdown-link-check-disable -->
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
@@ -60,3 +61,4 @@ The table is generated and maintained using [All Contributors](https://allcontri
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+<!-- markdown-link-check-enable -->
