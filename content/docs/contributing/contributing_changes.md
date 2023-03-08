@@ -16,7 +16,7 @@ weight: 5
 Once you have made changes, you will need to contribute them back to the remote repository.
 This page explains the process of pushing your changes back to the remote, and how your contribution will be checked in the CI and review process.
 
-The handbook users the [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow) workflow.
+The handbook uses the [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow) workflow.
 In short:
 
 - create a branch
@@ -47,9 +47,7 @@ Otherwise, you might end up having to make many changes during review, have diff
 At this point, you can edit files and create `git` commits as necessary.
 
 {{% hint info %}}
-When making commits, it is a good idea to follow Tim Pope's
-[recommendations](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
-for good commit messages.
+When making commits, it is a good idea to follow Tim Pope's [recommendations](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html) for good commit messages.
 {{% /hint %}}
 
 It is often useful to run the Markdown style checker (and other tests) before committing.
@@ -62,18 +60,24 @@ brew install pre-commit  # if not already installed
 pre-commit install
 ```
 
-This creates a pre-commit [Git hook](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks),
+This uses the {{% repo_link path=".pre-commit-config.yaml" text="`.pre-commit-config.yaml`" %}} file in the repository to create a pre-commit [Git hook](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks),
 which (as the name suggests) will be automatically run every time before a commit is created.
 It currently performs the following checks, which are designed to mimic those in [Continuous Integration](#continuous-integration):
 
-- Markdown linting, i.e. style checking:
-- a Hugo build, to make sure that the pages can be built; and
-- a Markdown link check.
+- Markdown linting, i.e. style checking
+- a Hugo build, to make sure that the pages can be built
+- a Markdown link check
 
-If you want to manually perform these checks at any point in time, use:
+If you want to manually perform these checks at any point in time, the following will check all files changed since the last commit:
 
 ```bash
 pre-commit run
+```
+
+To check all files, regardless of their changed status:
+
+```bash
+pre-commit run --all-files
 ```
 
 ## Opening a Pull Request
