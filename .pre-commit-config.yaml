@@ -6,7 +6,7 @@ repos:
         name: Markdown Lint
         description: Lint newly changed Markdown files
         entry: mdl
-        args: ["--ignore-front-matter", "--style", ".mdl_style.rb"]
+        args: ["-c", ".mdlrc"]
         language: ruby
         files: "^(content|README.md)"
 

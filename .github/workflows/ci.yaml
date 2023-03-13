@@ -21,7 +21,7 @@ jobs:
         run: gem install mdl
 
       - name: Lint markdown
-        run: mdl --ignore-front-matter --style .mdl_style.rb ./
+        run: mdl ./
 
   markdown_link_check:
     name: "Check Markdown links"

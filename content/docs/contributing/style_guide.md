@@ -32,8 +32,8 @@ When it is advantageous, data should be [stored in data files and processed usin
 
 ## Style Enforcement
 
-Markdown styling is enforced by [`markdownlint`](https://github.com/markdownlint/markdownlint) using the configuration {{% repo_link path=".mdl_style.rb" text=".mdl_style.rb" %}}.
-An explanation of the style rules can be found [here](https://github.com/markdownlint/markdownlint/blob/master/docs/RULES.md).
+Markdown styling is enforced by [`markdownlint`](https://github.com/markdownlint/markdownlint) using the style rules {{% repo_link path=".mdl_style.rb" text=".mdl_style.rb" %}}.
+An explanation of the rules can be found [here](https://github.com/markdownlint/markdownlint/blob/master/docs/RULES.md).
 
 You can optionally install `markdownlint` locally to check your changes before submitting a pull request.
 
@@ -75,11 +75,11 @@ You should now be able to access the `mdl` executable.
 Assuming you're in the repository root, you can lint a specific file you've made changes to like this:
 
 ```bash
-mdl -s .mdl_style.rb <filename>
+mdl <filename>
 ```
 
 Alternatively, run it over the entire handbook content like this:
 
 ```bash
-mdl -s .mdl_style.rb ./content
+mdl ./content
 ```
