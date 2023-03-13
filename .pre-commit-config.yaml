@@ -6,9 +6,8 @@ repos:
         name: Markdown Lint
         description: Lint newly changed Markdown files
         entry: mdl
-        args: ["-c", ".mdlrc"]
         language: ruby
-        files: "^(content|README.md)"
+        types: ["markdown"]
 
   - repo: https://github.com/tcort/markdown-link-check
     rev: v3.10.3
@@ -19,7 +18,7 @@ repos:
         entry: markdown-link-check
         args: ["--config", "mlc_config.json"]
         language: node
-        files: "^(content|README.md)"
+        types: ["markdown"]
 
   - repo: local
     hooks:
