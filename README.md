@@ -1,7 +1,7 @@
 # REG-handbook
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-21-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 A way of working guide for the Research Engineering Group at The Alan Turing Institute
@@ -37,7 +37,10 @@ A way of working guide for the Research Engineering Group at The Alan Turing Ins
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/martintoreilly"><img src="https://avatars.githubusercontent.com/u/21147592?v=4?s=100" width="100px;" alt="Martin O'Reilly"/><br /><sub><b>Martin O'Reilly</b></sub></a><br /><a href="#ideas-martintoreilly" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/OscartGiles"><img src="https://avatars.githubusercontent.com/u/12784013?v=4?s=100" width="100px;" alt="Oscar T Giles"/><br /><sub><b>Oscar T Giles</b></sub></a><br /><a href="#ideas-OscartGiles" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/thobson88"><img src="https://avatars.githubusercontent.com/u/26117394?v=4?s=100" width="100px;" alt="Tim Hobson"/><br /><sub><b>Tim Hobson</b></sub></a><br /><a href="#content-thobson88" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/helenashowell"><img src="https://avatars.githubusercontent.com/u/101103393?v=4?s=100" width="100px;" alt="helenashowell"/><br /><sub><b>helenashowell</b></sub></a><br /><a href="#content-helenashowell" title="Content">🖋</a> <a href="#ideas-helenashowell" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/mastoffel"><img src="https://avatars.githubusercontent.com/u/7348440?v=4?s=100" width="100px;" alt="martin"/><br /><sub><b>martin</b></sub></a><br /><a href="#content-mastoffel" title="Content">🖋</a></td>
+    </tr>
+    <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/nbarlowATI"><img src="https://avatars.githubusercontent.com/u/33832774?v=4?s=100" width="100px;" alt="nbarlowATI"/><br /><sub><b>nbarlowATI</b></sub></a><br /><a href="#ideas-nbarlowATI" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
   </tbody>
