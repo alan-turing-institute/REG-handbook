@@ -234,6 +234,16 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "lbokeria",
+      "name": "Levan Bokeria",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7816766?v=4",
+      "profile": "https://github.com/lbokeria",
+      "contributions": [
+        "bug",
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
