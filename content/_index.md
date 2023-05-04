@@ -15,7 +15,7 @@ It is inspired by other openly available handbooks, such as [GitLab's All Remote
 
 Anyone!
 Most commonly it is used by members of REG in their day-to-day work.
-It also aims to be a helpful introduction to REG for anyone who might work with us, either as collaborators or - when the opportunity arises - as [future colleagues](https://www.turing.ac.uk/opportunities-turing/jobs).
+It also aims to be a helpful introduction to REG for anyone who might work with us, either as collaborators or — when the opportunity arises — as [future colleagues](https://www.turing.ac.uk/opportunities-turing/jobs).
 
 It is open to all, in the hope others will find it useful too.
 
