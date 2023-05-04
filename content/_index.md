@@ -9,7 +9,7 @@ type: docs
 
 This Handbook is written by and for [The Alan Turing Institute's](https://www.turing.ac.uk/) Research Engineering Group (REG).
 It is our attempt to describe both how we do work and how we aspire to.
-It is inspired by other openly available handbooks, such as [GitLab's All Remote](https://about.gitlab.com/company/culture/all-remote/guide/), [Basecamp's books](https://37signals.com/books) and (closer to home) [The Turing Way](https://the-turing-way.netlify.app/collaboration/remote-collab.html).
+It is inspired by other openly available handbooks, such as [The GitLab team handbook](https://about.gitlab.com/handbook/), [Basecamp's books](https://37signals.com/books) and (closer to home) [The Turing Way](https://the-turing-way.netlify.app/collaboration/remote-collab.html).
 
 ## Who is the audience?
 
