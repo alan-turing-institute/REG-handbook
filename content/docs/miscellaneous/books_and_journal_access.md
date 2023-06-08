@@ -21,6 +21,8 @@ If you register as a researcher / academic then you get a longer lasting reader 
 
 ## How to be added onto the BL journal access
 
+**Note: this section needs reviewing, might be outdated.**
+
 To use the online interface you will first need to create an online account. To do this you have to complete the form found here: <https://register.bl.uk/RegOnline.aspx?serviceId=3>.
 - Simply click on the Register button and complete your details.
 - After registration you will be sent an e-mail to validate the account including a unique ID number.
