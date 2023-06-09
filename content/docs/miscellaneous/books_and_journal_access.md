@@ -23,12 +23,11 @@ If you register as a researcher / academic then you get a longer lasting reader 
 
 **Note: this section needs reviewing, might be outdated.**
 
-To use the online interface you will first need to create an online account. To do this you have to complete the form found here: <https://register.bl.uk/RegOnline.aspx?serviceId=3>.
+To use the online interface you will first need to create an online account. To do this you have to complete the form found here (**Note**: original link is dead, need to replace it).
 
 - Simply click on the Register button and complete your details.
 - After registration you will be sent an e-mail to validate the account including a unique ID number.
-- You need to click on the link in the e-mail, log in using the username and password you have just created and answer the questions.
-Once you have completed this process you can let HR have your online account ID number and they can then add you to the central Turing account.
+- You need to click on the link in the e-mail, log in using the username and password you have just created and answer the questions. Once you have completed this process you can let HR have your online account ID number and they can then add you to the central Turing account.
 
 The account has been set up as follows:
 
