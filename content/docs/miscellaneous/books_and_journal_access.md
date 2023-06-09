@@ -24,20 +24,22 @@ If you register as a researcher / academic then you get a longer lasting reader 
 **Note: this section needs reviewing, might be outdated.**
 
 To use the online interface you will first need to create an online account. To do this you have to complete the form found here: <https://register.bl.uk/RegOnline.aspx?serviceId=3>.
+
 - Simply click on the Register button and complete your details.
 - After registration you will be sent an e-mail to validate the account including a unique ID number.
 - You need to click on the link in the e-mail, log in using the username and password you have just created and answer the questions.
 Once you have completed this process you can let HR have your online account ID number and they can then add you to the central Turing account.
 
 The account has been set up as follows:
-* 24 hours as standard service.
-* The delivery method is DRM Lite. Information and FAQ’s can be found here: <https://www.bl.uk/help/how-to-open-your-on-demand-order>.
-* Currently you will receive one reply email per day.
-* The account allows requests to be made on the Library Privilege service for those request that are being used for research or educational purposes.
-* For any orders that will be used for commercial purposes you have the option to request a copyright fee.
-* It is a paid service but we will pick up the cost centrally, at least during the trial.
-* Each subscription is unique so please do not share your log in details.
-* Each request asks for a reference and we would suggest you use your initials followed by a sequential number.
+
+- 24 hours as standard service.
+- The delivery method is DRM Lite. Information and FAQ’s can be found here: <https://www.bl.uk/help/how-to-open-your-on-demand-order>.
+- Currently you will receive one reply email per day.
+- The account allows requests to be made on the Library Privilege service for those request that are being used for research or educational purposes.
+- For any orders that will be used for commercial purposes you have the option to request a copyright fee.
+- It is a paid service but we will pick up the cost centrally, at least during the trial.
+- Each subscription is unique so please do not share your log in details.
+- Each request asks for a reference and we would suggest you use your initials followed by a sequential number.
 
 Any problem give HR a shout.
 

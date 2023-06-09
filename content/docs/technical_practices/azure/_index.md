@@ -12,6 +12,7 @@ weight: 6
 ---
 
 # Azure
+
 Azure is Microsoft's cloud service. The Turing has a grant from Microsoft to use this.
 
 ## Setting up Azure
@@ -26,6 +27,7 @@ To experiment with Azure you should request a trial account with $300 credit usi
 - [Azure Howtos](https://github.com/alan-turing-institute/howtos/tree/master/azure)
 
 ## Managing your Azure account
+
 - [Using Microsoft Azure at the Turing](https://mathison.turing.ac.uk/page/2433)
 - [Monitor available credit on an Azure subscription](https://rcp-api-prod.azurewebsites.net/)
 - Email the [Research Compute Platforms team](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#points-of-contact) for help

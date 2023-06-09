@@ -26,16 +26,13 @@ Set up a basic Azure VM running Ubuntu using the command line tools.
 ## Steps
 
 1. `az login`, then find your subscription.
-
-2. Maybe you need `az account list --output table` to find your subscriptions,
+1. Maybe you need `az account list --output table` to find your subscriptions,
    and `az account set -s <subscription-id>` to set the correct one as the
    default.
-
-3. `az group create --name <group-name> --location uksouth` to make a “resource
+1. `az group create --name <group-name> --location uksouth` to make a “resource
    group” which holds all the various bits and pieces of this server. To get a
    list of locations do `az account list-locations`.
-
-4. Make a VM, attach some storage units. The "Standard_B2s" size is a 2 core, 4
+1. Make a VM, attach some storage units. The "Standard_B2s" size is a 2 core, 4
    GB ram machine, with 30GB of local storage, which is suitable for "bursty"
    tasks. (Basically, when you let it run at less than 100% for a while, you
    build up 'credits' that let you run it at more than 100% for a time. Or
@@ -43,18 +40,18 @@ Set up a basic Azure VM running Ubuntu using the command line tools.
 
    I've added a 128 GB disk. The "Standard_LRS" disk is an HDD, not an SSD.
 
-```
-az vm create \
-    --name <name-of-machine-maybe> \
-    --resource-group <group-name> \
-    --image UbuntuLTS \
-    --size Standard_B2s \
-    --data-disk-sizes-gb 128 \
-    --storage-sku Standard_LRS \
-    --ssh-key-values ~/.ssh/id_rsa.pub
-```
+    ```bash
+    az vm create \
+        --name <name-of-machine-maybe> \
+        --resource-group <group-name> \
+        --image UbuntuLTS \
+        --size Standard_B2s \
+        --data-disk-sizes-gb 128 \
+        --storage-sku Standard_LRS \
+        --ssh-key-values ~/.ssh/id_rsa.pub
+    ```
 
-5. Now you have to format and mount the data disk.
+1. Now you have to format and mount the data disk.
 
    - `lsblk` This finds the disk (you can tell which one is the data disk by its
      size). Mine was `sbc`
