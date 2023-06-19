@@ -32,54 +32,9 @@ When it is advantageous, data should be [stored in data files and processed usin
 
 ## Style Enforcement
 
-Markdown styling is enforced by [`markdownlint`](https://github.com/markdownlint/markdownlint) using the style rules {{% repo_link path=".mdl_style.rb" text=".mdl_style.rb" %}}.
+Markdown styling is enforced using the [`markdownlint`](https://github.com/markdownlint/markdownlint) tool, using the style rules in {{% repo_link path=".mdl_style.rb" text="`.mdl_style.rb`" %}}.
 An explanation of the rules can be found [here](https://github.com/markdownlint/markdownlint/blob/master/docs/RULES.md).
 
-You can optionally install `markdownlint` locally to check your changes before submitting a pull request.
+Markdown linting is performed on all pull requests made to the handbook repository, as described in the [Continuous Integration]({{< ref "/content/docs/contributing/contributing_changes.md#continuous-integration" >}}) section.
 
-### Using `pre-commit`
-
-The easiest way to do this is to use the [pre-commit](https://pre-commit.com/) tool, which has already been set up in the handbook repository.
-
-```bash
-brew install pre-commit   # if not already installed
-pre-commit run markdownlint --all-files
-```
-
-`pre-commit` is intended to be run before all commits (to make sure that you don't unintentionally commit something unwanted).
-To see how to set this up, see the [Contributing Changes]({{< ref "/content/docs/contributing/contributing_changes.md#making-changes" >}}) page.
-
-### Manual Installation
-
-{{% hint info %}}
-Make sure you install the Ruby version (`mdl`) and not the Node.js version (`markdownlint-cli`, which the Homebrew formula provides),
-since the configuration is only good for the former.
-{{% /hint %}}
-
-First, install Ruby with Homebrew, and then use that to install `mdl`.
-macOS actually provides a system installation of Ruby, but using that isn't advisable as you need to install gems as the root user.
-
-```bash
-brew install ruby
-$(brew --prefix ruby)/bin/gem install mdl
-```
-
-Now, run
-
-```bash
-$(brew --prefix ruby)/bin/gem env | grep 'EXECUTABLE DIRECTORY'
-```
-
-and add the directory shown to `$PATH`.
-You should now be able to access the `mdl` executable.
-Assuming you're in the repository root, you can lint a specific file you've made changes to like this:
-
-```bash
-mdl <filename>
-```
-
-Alternatively, run it over the entire handbook content like this:
-
-```bash
-mdl ./content
-```
+If you wish to lint locally, the repository contains a [pre-commit hook](https://pre-commit.com/) to do this, described in the [Making Changes]({{< ref "/content/docs/contributing/contributing_changes.md#making-changes" >}}) section.
