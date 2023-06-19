@@ -21,8 +21,8 @@ To contribute to the handbook you will need
 - [Hugo](https://gohugo.io/getting-started/installing/) (You will need the
   extended version with Sass/SCSS support)
 - Your favourite text editor
-- Optionally [markdownlint](https://github.com/markdownlint/markdownlint);
-  see the [Style Guide]({{< relref "/docs/contributing/style_guide.md#style-enforcement" >}})
+- Optionally [pre-commit](https://pre-commit.com/);
+  see [Making Changes]({{< ref "/content/docs/contributing/contributing_changes.md#making-changes" >}})
   for more details.
 
 ## Clone the repository

@@ -67,7 +67,7 @@ It currently performs the following checks, which are designed to mimic those in
 - a Hugo build, to make sure that the pages can be built
 - a Markdown link check
 
-If you want to manually perform these checks at any point in time, the following will check all files changed since the last commit:
+If you want to manually perform these checks at any point in time, the following will check all files that have changed since the last commit:
 
 ```bash
 pre-commit run
