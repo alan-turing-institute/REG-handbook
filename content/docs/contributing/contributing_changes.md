@@ -52,11 +52,10 @@ When making commits, it is a good idea to follow Tim Pope's [recommendations](ht
 
 It is often useful to run the Markdown style checker (and other tests) before committing.
 This allows you to catch, and fix, potential issues before opening a pull request.
-To do so, use the `pre-commit` tool.
-From the repository root, run:
+To do so, use the [`pre-commit` tool](https://pre-commit.com/): the website contains installation instructions if you have not used it before.
+After installing `pre-commit`, navigate to the repository root and run:
 
 ```bash
-brew install pre-commit  # if not already installed
 pre-commit install
 ```
 
