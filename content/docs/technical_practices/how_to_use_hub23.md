@@ -15,6 +15,8 @@ weight: 7
 
 **Note**: this likely needs updating, last revision was in Nov 2019.
 
+**Note**: Hub23 is not being looked after and it is not currently active.
+
 ## What is a BinderHub?
 
 A [BinderHub](https://binderhub.readthedocs.io/en/latest/index.html) is a Cloud-based technology that can launch a repository of code (from GitHub, GitLab,...) in a browser window such that the code can be executed and interacted with.
