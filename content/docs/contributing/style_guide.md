@@ -32,24 +32,9 @@ When it is advantageous, data should be [stored in data files and processed usin
 
 ## Style Enforcement
 
-Markdown styling is enforced by [markdownlint](https://github.com/markdownlint/markdownlint) using the configuration {{% repo_link path=".mdl_style.rb" text=".mdl_style.rb" %}}.
+Markdown styling is enforced using the [`markdownlint`](https://github.com/markdownlint/markdownlint) tool, using the style rules in {{% repo_link path=".mdl_style.rb" text="`.mdl_style.rb`" %}}.
 An explanation of the rules can be found [here](https://github.com/markdownlint/markdownlint/blob/master/docs/RULES.md).
 
-You can optionally install markdownlint locally to check your changes before submitting a pull request.
+Markdown linting is performed on all pull requests made to the handbook repository, as described in the [Continuous Integration]({{< ref "/content/docs/contributing/contributing_changes.md#continuous-integration" >}}) section.
 
-{{% hint info %}}
-Make sure you install the Ruby version (`mdl`) and not the Node.js version (`markdownlint-cli`) contained in the homebrew repositories,
-since the configuration is only good for the former.
-{{% /hint %}}
-
-Once installed and assuming you're in the repository root, you can lint a specific file you've made changes to like this:
-
-```bash
-mdl -s .mdl_style.rb <filename>
-```
-
-Alternatively run it over the entire handbook content like this:
-
-```bash
-mdl -s .mdl_style.rb ./content
-```
+If you wish to lint locally, the repository contains a [pre-commit hook](https://pre-commit.com/) to do this, described in the [Making Changes]({{< ref "/content/docs/contributing/contributing_changes.md#making-changes" >}}) section.

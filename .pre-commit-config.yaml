@@ -1,20 +1,23 @@
-# See https://pre-commit.com for more information
-# See https://pre-commit.com/hooks.html for more hooks
 repos:
--   repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v4.2.0
+  - repo: https://github.com/markdownlint/markdownlint
+    # v0.11.0 is specifically used here as later versions of the `mdl` gem are
+    # incompatible with the macOS system Ruby version (2.6) and thus require
+    # extra steps to ensure that a newer Ruby version is installed.
+    rev: v0.11.0
     hooks:
-    -   id: trailing-whitespace
-    -   id: end-of-file-fixer
-    -   id: check-yaml
-    -   id: check-xml
-    -   id: check-json
-    -   id: pretty-format-json
-        args: [--no-ensure-ascii, --no-sort-keys, --autofix]
-        files: ".+json"
-    -   id: check-added-large-files
-# - repo: https://github.com/jumanjihouse/pre-commit-hooks
-#   rev: master  # or specific git tag
-#   hooks:
-#     - id: markdownlint # Configure in .mdlrc
-#       files: "content/"
+      - id: markdownlint
+        name: Markdown Lint
+        description: Lint newly changed Markdown files
+        entry: mdl
+        exclude: '.github/'
+        language: ruby
+        types: ["markdown"]
+
+  - repo: local
+    hooks:
+      - id: hugo
+        name: Build pages with Hugo
+        description: Build pages with Hugo
+        language: system
+        entry: hugo --minify
+        pass_filenames: false
