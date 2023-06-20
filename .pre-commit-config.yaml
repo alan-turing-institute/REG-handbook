@@ -9,6 +9,7 @@ repos:
         name: Markdown Lint
         description: Lint newly changed Markdown files
         entry: mdl
+        exclude: '.github/'
         language: ruby
         types: ["markdown"]
 
