@@ -4,52 +4,32 @@ name: CI
 on: [push]
 
 jobs:
-  markdown_lint:
-    name: "Lint Markdown"
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: head
-
-      - name: Install mdl
-        run: gem install mdl
-
-      - name: Lint markdown
-        run: mdl ./
+  pre-commit-checks:
 
     runs-on: ubuntu-latest
     steps:
 
+    - name: Check out repository and submodules
+      uses: actions/checkout@v3
+      with:
+        submodules: recursive
 
-  hugo:
-    name: "Hugo build"
-    runs-on: ubuntu-latest
+    - name: Setup Python
+      uses: actions/setup-python@v3
 
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-        with:
-          submodules: 'recursive'
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: 'latest'
+        extended: true
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: 'latest'
-          extended: true
-
-      - name: Build
-        run: hugo --minify
+    - name: Run pre-commit checks
+      uses: pre-commit/action@v3.0.0
 
   html-proofer-internal-links:
     name: "HTML proofer internal links"
     runs-on: ubuntu-latest
-    needs: hugo
+    needs: pre-commit-checks
 
     steps:
       - name: Checkout
@@ -90,7 +70,7 @@ jobs:
   html-proofer-external-links:
     name: "HTML proofer external links"
     runs-on: ubuntu-latest
-    needs: hugo
+    needs: pre-commit-checks
 
     steps:
       - name: Checkout
