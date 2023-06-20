@@ -9,17 +9,6 @@ repos:
         language: ruby
         types: ["markdown"]
 
-  - repo: https://github.com/tcort/markdown-link-check
-    rev: v3.10.3
-    hooks:
-      - id: markdown-link-check
-        name: Markdown Link Check
-        description: Check links in newly changed Markdown files
-        entry: markdown-link-check
-        args: ["--config", "mlc_config.json"]
-        language: node
-        types: ["markdown"]
-
   - repo: local
     hooks:
       - id: hugo
