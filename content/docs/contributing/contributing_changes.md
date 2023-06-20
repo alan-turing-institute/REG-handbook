@@ -63,9 +63,8 @@ This uses the {{% repo_link path=".pre-commit-config.yaml" text="`.pre-commit-co
 which (as the name suggests) will be automatically run every time before a commit is created.
 It currently performs the following checks, which are designed to mimic those in [Continuous Integration](#continuous-integration):
 
-- Markdown linting, i.e. style checking
-- a Hugo build, to make sure that the pages can be built
-- a Markdown link check
+- Markdown linting
+- A Hugo build, to make sure that the pages can be built
 
 If you want to manually perform these checks at any point in time, the following will check all files that have changed since the last commit:
 
