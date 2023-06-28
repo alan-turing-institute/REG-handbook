@@ -51,8 +51,6 @@ KF: Knowledge Flows
 
 LwM: Living with Machines
 
-MRO: ?
-
 NATS: National Air Traffic Services
 
 OpenMP: [Open Multi-Processing](https://en.wikipedia.org/wiki/OpenMP)
