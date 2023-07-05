@@ -41,4 +41,4 @@ SocRSE membership is considered a professional subscription,
 which you're entitled to claim back as a REG member.
 
 You should claim it back quickly after payment.
-Use Certify to claim it back and don't select a project when making your claim.
+Use Certify to claim it back, and use the `R-RSE-001` project code when prompted.
