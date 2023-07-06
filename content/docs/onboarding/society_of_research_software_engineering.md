@@ -41,4 +41,5 @@ SocRSE membership is considered a professional subscription,
 which you're entitled to claim back as a REG member.
 
 You should claim it back quickly after payment.
-Use Certify to claim it back and use the `R-RSE-001` project code when prompted (shown as `Research and Software Engineering -R-RSE-001` in the Certify "Project name/code" drop down).
+Use Certify to claim it back following [these instructions](https://github.com/alan-turing-institute/research-engineering-group/wiki/Reclaiming-out-of-pocket-expenses#allocating-your-expenses-to-the-right-budget).
+Note that this expense is not directly related to a project.
