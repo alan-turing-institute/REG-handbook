@@ -13,7 +13,7 @@ weight: 6
 
 # Azure
 
-Azure is Microsoft's cloud service. The Turing has a grant from Microsoft to use this.
+Azure is Microsoft's cloud platform, through which Turing members have access to a wide range of computing and data storage resources.
 
 ## Setting up Azure
 
