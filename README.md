@@ -1,13 +1,18 @@
 # REG-handbook
 
+<!-- markdown-link-check-disable -->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-24-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+<!-- markdown-link-check-enable -->
 
-A way of working guide for the Research Engineering Group at The Alan Turing Institute
+A way of working guide for the [Research Engineering Group](https://www.turing.ac.uk/research-engineering) at [The Alan Turing Institute](https://www.turing.ac.uk).
+
+If you'd like to contribute, take a look at the [Contributing section of the handbook](https://alan-turing-institute.github.io/REG-handbook/docs/contributing/).
 
 ## Contributors
 
+<!-- markdown-link-check-disable -->
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
@@ -47,8 +52,8 @@ A way of working guide for the Research Engineering Group at The Alan Turing Ins
     </tr>
   </tbody>
 </table>
-
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+<!-- markdown-link-check-enable -->
