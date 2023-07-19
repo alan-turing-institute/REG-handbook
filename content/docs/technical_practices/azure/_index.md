@@ -30,4 +30,4 @@ To experiment with Azure you should request a trial account with £300 credit us
 
 - [Using Microsoft Azure at the Turing](https://mathison.turing.ac.uk/page/2433)
 - [Monitor available credit on an Azure subscription](https://rcp-api-prod.azurewebsites.net/)
-- Email the [Research Compute Platforms team](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#points-of-contact) for help
+- Email the [Research Computing team](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#points-of-contact) for help
