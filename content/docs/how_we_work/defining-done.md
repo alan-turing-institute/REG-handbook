@@ -6,6 +6,9 @@ weight: 2
 
 # Defining Project Doneness
 
+> Authors: Lydia France, David Beavan
+> Editors: Griffith Rees, Roly Perera
+
 This working document was produced as part of Accelerating AI in the Arts and Humanities (AAAH).
 
 As a Research Software Engineer, we often join a collaborative project when a code base already exists.
