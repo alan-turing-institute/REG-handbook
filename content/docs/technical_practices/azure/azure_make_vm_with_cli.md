@@ -54,7 +54,7 @@ az vm create \
 1. Now you have to format and mount the data disk.
 
    - `lsblk` This finds the disk (you can tell which one is the data disk by its
-     size). Mine was `sbc`
+     size). Mine was `sdc`
 
    - Partition and format the disk (replace `sdc` with your disk).
      - `sudo parted /dev/sdc --script mklabel gpt mkpart btrfspart btrfs 0% 100%`
