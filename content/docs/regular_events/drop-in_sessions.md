@@ -51,3 +51,4 @@ We run several sessions week, so please see our [schedule](https://github.com/al
 On the schedule, you can see who is hosting the session and a short bio about them.
 
 Feel free to message the [organisers](https://github.com/alan-turing-institute/research-engineering-group/wiki/Drop%E2%80%90in-Sessions#organisers) ahead of time with your problem on Slack, or just come by!
+There is no need to register in advance.
