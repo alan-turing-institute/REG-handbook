@@ -46,7 +46,7 @@ A few examples of what we can help out with are:
 ## Joining sessions
 
 Our sessions are on [Zoom](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#video-call-links) and sometimes hybrid.
-We run several sessions week (typically on Tuesdays and Wednesdays), so please see our [schedule](https://github.com/alan-turing-institute/research-engineering-group/wiki/Drop%E2%80%90in-Sessions#schedule) on the REG wiki.
+We run several sessions a week (typically on Tuesdays and Wednesdays), so please see our [schedule](https://github.com/alan-turing-institute/research-engineering-group/wiki/Drop%E2%80%90in-Sessions#schedule) on the REG wiki.
 Also feel free to reach out to either Ryan Chan, Iain Stenson or Fede Nanni on Slack.
 
 On the schedule, you can see who is hosting the session and a short bio about them.
