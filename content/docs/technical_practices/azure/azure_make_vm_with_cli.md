@@ -13,6 +13,8 @@ weight: 1
 
 # Azure via CLI basic quickstart
 
+These are notes from a REG member discussing their own experience setting up an Azure Virtual Machine running Ubuntu using command line tools. As such, these notes might not be completely accurate or up to date. We advise you also check [Microsoft's official documentation](https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-cli).
+
 ## Goal
 
 Set up a basic Azure VM running Ubuntu using the command line tools.
