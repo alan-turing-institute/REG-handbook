@@ -53,7 +53,7 @@ az vm create \
     --ssh-key-values ~/.ssh/id_rsa.pub
 ```
 
-1. Now you have to format and mount the data disk.
+1. Now you will need to SSH to your new VM to format and mount the data-disk.
 
    - `lsblk` This finds the disk (you can tell which one is the data disk by its
      size). Mine was `sdc`
