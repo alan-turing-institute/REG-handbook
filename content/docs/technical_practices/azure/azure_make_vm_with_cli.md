@@ -40,7 +40,7 @@ Set up a basic Azure VM running Ubuntu using the command line tools.
    build up 'credits' that let you run it at more than 100% for a time. Or
    something like that.)
 
-   I've added a 128 GB disk. The "Standard_LRS" disk is an HDD, not an SSD.
+   I've added a 128 GB data-disk. The "Standard_LRS" disk is an HDD, not an SSD.
 
 ```bash
 az vm create \
