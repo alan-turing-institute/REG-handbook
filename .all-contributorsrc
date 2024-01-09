@@ -203,7 +203,8 @@
       "profile": "https://github.com/DavidBeavan",
       "contributions": [
         "ideas",
-        "review"
+        "review",
+        "content"
       ]
     },
     {
@@ -243,6 +244,24 @@
       "contributions": [
         "bug",
         "content"
+      ]
+    },
+    {
+      "login": "griff-rees",
+      "name": "griff-rees",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60181741?v=4",
+      "profile": "https://github.com/griff-rees",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "rolyp",
+      "name": "Roly Perera",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121074?v=4",
+      "profile": "https://github.com/rolyp",
+      "contributions": [
+        "ideas"
       ]
     }
   ],
