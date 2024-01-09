@@ -12,7 +12,7 @@ Andy Smith
 🖋 David Beavan
 🤔 👀 🖋 David Llewellyn-Jones
 🖋 🤔 🐛 📖 👀 David Salvador Jasin
-🖋 Federico Nanni
+🖋 🤔 👀 Federico Nanni
 🖋 🤔 Gabriel
 🖋 🤔 Isabel Fenton
 👀 Jack Roberts
@@ -28,7 +28,8 @@ Andy Smith
 🤔 Oscar T Giles
 🤔 Radka Jersakova
 🖋 Roly Perera
-🤔 Tim Hobson
+🤔 Ryan Chan
+🖋 Tim Hobson
 🖋 griff-rees
 🤔 helenashowell
 🖋 🤔 martin
