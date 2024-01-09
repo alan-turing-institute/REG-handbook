@@ -10,7 +10,7 @@ Bug reports with technical detail Developed chapter proposals Feature requests (
 Andy Smith
 🖋 👀 🤔 💻 🎨 Christina Last
 🖋 David Beavan
-🤔 👀 David Llewellyn-Jones
+🤔 👀 🖋 David Llewellyn-Jones
 🖋 🤔 🐛 📖 👀 David Salvador Jasin
 🖋 Federico Nanni
 🖋 🤔 Gabriel
@@ -27,8 +27,10 @@ Andy Smith
 🖋 🤔 Martin O'Reilly
 🤔 Oscar T Giles
 🤔 Radka Jersakova
-🖋 Tim Hobson
-🖋 helenashowell
+🖋 Roly Perera
+🤔 Tim Hobson
+🖋 griff-rees
+🤔 helenashowell
 🖋 🤔 martin
 🖋 nbarlowATI
 🤔 `}),e.add({id:2,href:"/REG-handbook/docs/contributing/recognising_contributions/",title:"Recognising Contributions",section:"Contributing",content:` Recognising Contributions # We aim to recognise all contributions to the handbook, not just those made through commits. For that purpose we use All Contributors to help manage a record of who has contributed to the book and how.
