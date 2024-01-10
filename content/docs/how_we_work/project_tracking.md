@@ -13,7 +13,7 @@ weight: 3
 
 # Project Tracking
 
-This page describes some of the tools we use for tracking projects and other tasks within the team. It does not go into details of how individual projects are managed, but how REG coordinates its commitments to the range of projects it's involved in.
+This page describes some of the tools we use for tracking projects and other tasks within the team. It does not go into details of how individual projects are managed, but how REG coordinates its commitments to the range of projects its involved in.
 
 ## Hut23 GitHub Repo
 
