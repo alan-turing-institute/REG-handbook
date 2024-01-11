@@ -17,25 +17,25 @@ weight: 2
 
 This is a list of the steps taken by a REG member when they got a new Turing laptop from IT to replace their old laptop. Please note that you don't have to follow these steps, it is just advice given by someone who went through the process.
 
-- [ ] Sign in to Apple Cloud on new machine. Activate all accounts (Office365, personal email, ...)
+1. Sign in to Apple Cloud on new machine. Activate all accounts (Office365, personal email, ...)
 
-- [ ] `brew cask install emacs`, and anything else you need.
+1. `brew cask install emacs`, and anything else you need.
 
-- [ ] Store config files on Apple Cloud, and symbolic link them to their required place, eg:
-  - `~/.emacs.el`
-  - `~/.bash_profile`
+1. Store config files on Apple Cloud, and symbolic link them to their required place, eg:
+   - `~/.emacs.el`
+   - `~/.bash_profile`
 
-- [ ] Office (including OneDrive): install with the new "self service" app that IT now bundle with laptops (which apparently installs things via homebrew!)
+1. Office (including OneDrive): install with the new "self service" app that IT now bundle with laptops (which apparently installs things via homebrew!)
 
-- [ ] OneDrive setup. You might have a personal shared space on OneDrive, but also multiple shared spaces for projects, set up as "Groups" in Office 365. The standard location that Office chooses for your local OneDrive image is long and full of spaces. Put all shared spaces in ~/OneDrive-Actuals and then symbolic link to ~/OneDrive (for my personal space) and ~/Share/X (for project X).
+1. OneDrive setup. You might have a personal shared space on OneDrive, but also multiple shared spaces for projects, set up as "Groups" in Office 365. The standard location that Office chooses for your local OneDrive image is long and full of spaces. Put all shared spaces in ~/OneDrive-Actuals and then symbolic link to ~/OneDrive (for my personal space) and ~/Share/X (for project X).
 
-- [ ] SSH tokens for GitHub. You can make new ones or think about moving the old ones, but it turned out to be straightforward to make new ones.
+1. SSH tokens for GitHub. You can make new ones or think about moving the old ones, but it turned out to be straightforward to make new ones.
 
-- [ ] Go through every repo with an authoritative remote, make sure you've pushed all local commits, and delete. (I keep all repos in `~/Projects/`, with remotes usually on GitHub.)
+1. Go through every repo with an authoritative remote, make sure you've pushed all local commits, and delete. (I keep all repos in `~/Projects/`, with remotes usually on GitHub.)
 
-- [ ] Double-check other directories within `~/`
+1. Double-check other directories within `~/`
 
-- [ ] Install Emacs additions as I learn that I need them ...
+1. Install Emacs additions as I learn that I need them ...
 
 ## Additional Equipment
 
