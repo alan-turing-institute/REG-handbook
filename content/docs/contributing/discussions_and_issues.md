@@ -2,7 +2,7 @@
 # Page title as it appears in the navigation menu
 title: "Discussions and Issues"
 # Adjust weight to reorder menu items (lower numbers appear first)
-weight: -1
+weight: -2
 # Uncomment to hide nested pages in a collapsed menu
 # bookCollapseSection = true
 # Uncomment to hide this page from the navigation menu
@@ -20,7 +20,7 @@ contributing. The handbook uses both issues and discussions on GitHub.
 ## Discussions
 
 [The handbook
-Dicussions](https://github.com/alan-turing-institute/REG-handbook/discussions)
+Discussions](https://github.com/alan-turing-institute/REG-handbook/discussions)
 are the best place for informal talk about the handbook.
 
 You should feel welcome to create a discussion on any relevant topic, without

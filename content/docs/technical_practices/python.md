@@ -34,7 +34,7 @@ There are many widely used autoformatter and linters for Python, which can be us
   - Configuration can be specified in a `.flake8` configuration file in the root directory of your project.
 
 It is possible to use all of these in combination.
-The ARC group have a [repo with suggested configuration files](https://github.com/alan-turing-institute/ARC/tree/master/code-style/suggested-config) which you can copy/adapt as required.
+The ARC group have a [template repo with suggested configuration files](https://github.com/alan-turing-institute/ARC-project-template) which you can copy/adapt as required.
 
 ## Type Checkers
 

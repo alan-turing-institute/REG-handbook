@@ -58,6 +58,7 @@ If anything is unclear, please figure it out by e.g. asking your buddies, and th
     - [ ] Fun fact(s)
 - [ ] Provide a description for the [ATI webpage](https://turingcomplete.topdesk.net/tas/public/ssp/content/serviceflow?unid=35b8d40067004f9484c9fb06ade41d65&openedFromService=true) (https://alan-turing-institute.github.io/REG-handbook/docs/onboarding/new_joiners/systems_set_up#create-a-public-profile-on-the-turing-website)
 - [ ] Verify your MoorePay account (for payslips). Verification email will be sent to you in your first month of employment. See [Payroll and Payslip enquiries on Mathison](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2277&SearchId=190970&utm_source=interact&utm_medium=quick_search&utm_term=payslip) for more information.
+- [ ] Verify your Certify account (for expenses). The [Certify Mathison page](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2169) contains a Travel & Expenses Policy Compliance Form which has to be filled in and emailed to Finance to activate your account.
 
 ## GitHub and communications
 
@@ -67,7 +68,7 @@ If anything is unclear, please figure it out by e.g. asking your buddies, and th
 - [ ] Request account on Harvest and Forecast by asking the the person in charge of researcher tool management, or your buddies to get you set up (to clarify, it is one account but allows you sign in to both) https://alan-turing-institute.github.io/REG-handbook/docs/onboarding/new_joiners/systems_set_up#harvest-and-forecast
 - [ ] Read through the REG handbook: https://alan-turing-institute.github.io/REG-handbook
 - [ ] Read through the new starter page of the REG handbook: https://alan-turing-institute.github.io/REG-handbook/docs/onboarding/new_joiners/first_few_days/
-- [ ] Have a look at REG projects on the [Project tracker](https://github.com/alan-turing-institute/Hut23/projects/2) in the Hut23 GitHub Repo. Read through the [Project Tracking](https://alan-turing-institute.github.io/REG-handbook/docs/projects/project_tracking/) page to learn how we set our preferences for projects by using emojis, and start emoji-ing for the projects in the "Finding people" and "Awaiting go/no-go" columns.
+- [ ] Have a look at REG projects on the [Project tracker](https://github.com/alan-turing-institute/Hut23/projects/2) in the Hut23 GitHub Repo. Read through the [Project Tracking]({{< ref "/content/docs/how_we_work/project_tracking.md" >}}) page to learn how we set our preferences for projects by using emojis, and start emoji-ing for the projects in the "Finding people" and "Awaiting go/no-go" columns.
 - [ ] Have a look at the [Service areas](https://github.com/alan-turing-institute/research-engineering-group/wiki/Service-areas). There is no pressure to join one right away so you can take some time talking to people and finding an area that interests you.
 - [ ] Add [[Shared REG Calendar]] to Outlook
 - [ ] Familiarise yourself with how to [Book Rooms](https://github.com/alan-turing-institute/research-engineering-group/wiki/Booking-Rooms)
@@ -81,3 +82,4 @@ If anything is unclear, please figure it out by e.g. asking your buddies, and th
 ## Ongoing activity sign-up
 
 - [ ] "Tech Talks" (Tuesdays 12:30pm), link on: https://github.com/alan-turing-institute/DataScienceSkills/wiki/Lunchtime-Tech-Talks
+- [ ] Read up about and you are recommended to join the [Society of Research Software Engineering](https://society-rse.org/), including the [Slack workspace](https://ukrse.slack.com/join/signup)

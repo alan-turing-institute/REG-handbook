@@ -1,16 +1,20 @@
-# REG-handbook
+---
+# Page title as it appears in the navigation menu
+title: "Contributors"
+# Adjust weight to reorder menu items (lower numbers appear first)
+weight: -1
+# Uncomment to hide nested pages in a collapsed menu
+# bookCollapseSection = true
+# Uncomment to hide this page from the navigation menu
+# bookHidden = false
+# Uncomment to exclude this page from the search
+# bookSearchExclude = true
+---
 
-<!-- markdown-link-check-disable -->
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-27-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-<!-- markdown-link-check-enable -->
+# Contributors
 
-A way of working guide for the [Research Engineering Group](https://www.turing.ac.uk/research-engineering) at [The Alan Turing Institute](https://www.turing.ac.uk).
-
-If you'd like to contribute, take a look at the [Contributing section of the handbook](https://alan-turing-institute.github.io/REG-handbook/docs/contributing/).
-
-## Contributors
+In this table we try to capture everyone who has contributed to the project and how they have contributed.
+The table is generated and maintained using [All Contributors](https://allcontributors.org/).
 
 <!-- markdown-link-check-disable -->
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
