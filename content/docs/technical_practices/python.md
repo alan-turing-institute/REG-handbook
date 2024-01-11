@@ -118,7 +118,7 @@ The [`pre-commit` documentation](https://pre-commit.com/) provides much more det
 Some suggested testing tools:
 
 - A test framework [pytest](https://docs.pytest.org/) or the less fashionable [unittest](https://docs.python.org/3/library/unittest.html).
-- Coverage reporting [pytest-cov](https://pypi.org/project/pytest-cov/) (a plugin for `pytest`) or [coverage](https://coverage.readthedocs.io/en/stable/).
+- Coverage reporting [pytest-cov](https://pypi.org/project/pytest-cov/) (a plugin for `pytest`) or [coverage](https://coverage.readthedocs.io/).
 - A tool for testing code examples in your documentation [doctest](https://docs.python.org/3/library/doctest.html).
 
 This list of tools does not include a discussion on developing a _testing strategy_.
