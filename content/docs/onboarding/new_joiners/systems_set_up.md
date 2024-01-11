@@ -29,6 +29,7 @@ If any of the material is unfamiliar (*e.g.* you haven't seen a GitHub project b
 
 Receive (or be assigned) new computer from IT.
 It will have an admin account for IT, and probably an account for you with a default password.
+Contact your line manager as a matter of urgency if you are not able to get a laptop on your first day at the Turing.
 
 Log in with the password provided by IT.
 
@@ -245,15 +246,10 @@ When you get access to Certify, it's a good idea to check that you've been set u
 If you applied for a visa to work at the Turing, you are also allowed to claim up to £4000 back.
 More details on this can be found in [Mathison](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2270) as well as the [REG Wiki](https://github.com/alan-turing-institute/research-engineering-group/wiki/Reclaiming-out-of-pocket-expenses#visa-costs).
 
-### Purchasing home office equipment
-
-There is a budget to purchase peripherals (monitor, mouse, keyboard, _etc._) as well as other equipment such as an office chair and desk.
-For peripherals, fill in [this form on Turing Complete](https://turingcomplete.topdesk.net/tas/public/ssp/content/serviceflow?unid=eee3b659bb3e4ab5aaed67f807ebd8c3).
-For an office chair and desk, you can purchase these yourself, and claim up to £200 back (in total) via Certify.
-
 ## Reference
 
 Take a look at the following sections:
 
 - [Regular Events]({{< relref "/docs/regular_events/_index.md" >}})
 - [Common Technical Practices]({{< relref "/docs/technical_practices/_index.md" >}})
+- [Equipment]({{< relref "/docs/working_at_the_turing/equipment.md" >}})
