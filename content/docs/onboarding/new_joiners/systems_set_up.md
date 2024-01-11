@@ -29,6 +29,7 @@ If any of the material is unfamiliar (*e.g.* you haven't seen a GitHub project b
 
 Receive (or be assigned) new computer from IT.
 It will have an admin account for IT, and probably an account for you with a default password.
+Contact your line manager as a matter of urgency if you are not able to get a laptop on your first day at the Turing.
 
 Log in with the password provided by IT.
 
