@@ -22,7 +22,9 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/57944311?v=4",
       "profile": "https://github.com/dsj976",
       "contributions": [
-        "content"
+        "content",
+        "ideas",
+        "review"
       ]
     },
     {
@@ -203,7 +205,8 @@
       "profile": "https://github.com/DavidBeavan",
       "contributions": [
         "ideas",
-        "review"
+        "review",
+        "content"
       ]
     },
     {
@@ -242,6 +245,33 @@
       "profile": "https://github.com/lbokeria",
       "contributions": [
         "bug",
+        "content"
+      ]
+    },
+    {
+      "login": "griff-rees",
+      "name": "griff-rees",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60181741?v=4",
+      "profile": "https://github.com/griff-rees",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "rolyp",
+      "name": "Roly Perera",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121074?v=4",
+      "profile": "https://github.com/rolyp",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "rchan26",
+      "name": "Ryan Chan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44200705?v=4",
+      "profile": "https://rchan26.github.io/",
+      "contributions": [
         "content"
       ]
     }

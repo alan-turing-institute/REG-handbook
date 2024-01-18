@@ -17,7 +17,7 @@ If you'd like to organise something the best options are usually to post to [Sla
 ### Github Hut23 Repo
 
 We use GitHub (and a couple of related tools) extensively for tracking projects and other tasks within the team.
-There is a [separate page describing how we use them]({{< relref "../projects/project_tracking.md" >}}).
+There is a [separate page describing how we use them]({{< ref "/content/docs/how_we_work/project_tracking.md" >}}).
 
 ### Coffee Breaks
 
