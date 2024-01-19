@@ -2,3 +2,8 @@
 public
 resources
 .hugo_build.lock
+
+# yarn
+node_modules/
+yarn.lock
+package.json

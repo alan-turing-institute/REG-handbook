@@ -28,7 +28,7 @@ directory containing a content file called `_index.md`.
 
 {{% hint warning %}}
 It is important that the index file exists for Hugo to [correctly assign pages
-to sections](https://gohugo.io/content-management/sections/#nested-sections) and
+to sections](https://gohugo.io/content-management/sections/) and
 for the [theme](https://github.com/alex-shpak/hugo-book) to arrange pages in the
 tree-like menu.
 {{% /hint %}}
