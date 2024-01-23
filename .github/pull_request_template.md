@@ -27,6 +27,11 @@ list them, for example
 
 - Contributes to #42
 - Contributes to #237
+
+Note that if the issue is in a different repo, you will need to specify the full path
+in the format OWNER/REPOSITORY#ISSUE-NUMBER, for example:
+
+- Contributes to octo-org/octo-repo#100
 -->
 
 ## Screenshots

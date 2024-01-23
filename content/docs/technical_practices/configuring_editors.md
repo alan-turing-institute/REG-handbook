@@ -124,7 +124,7 @@ Hovering over a piece of code with a problem in the editor will give you more de
 
 ### Formatting
 
-[VSC Formatting Docs](https://code.visualstudio.com/docs/python/editing#_formatting)
+[VSC Formatting Docs](https://code.visualstudio.com/docs/python/formatting)
 
 VS code can use a few different file formatters (e.g. `black`, `yapf`, `autopep8` — we recommend `black`), which can be configured to run automatically when saving files (see settings above) or with the following shortcuts:
 
