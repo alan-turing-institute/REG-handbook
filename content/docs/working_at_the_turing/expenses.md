@@ -21,8 +21,7 @@ https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2169
 
 (This also includes links to Certify's own user guides and videos)
 
-
-# Related content
+## Related content
 
 - [REG-specific information](https://github.com/alan-turing-institute/research-engineering-group/wiki/Reclaiming-out-of-pocket-expenses)
 - [Certify Guidance on Mathison](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2169)
