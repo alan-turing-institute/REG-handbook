@@ -70,6 +70,10 @@ The main focus of this page is what we do in REG, but there are many things happ
 - Turing Catchups & Town Halls — Regular meetings open to all staff with updates from around the institute. New starters may not have the calendar invites initially — ask others in the team to forward the details if you're unsure.
 - [Turing Events](https://www.turing.ac.uk/events) - often public talks & workshops.
 
+### Open Source Hacksessions
+
+[See here]({{< relref "docs/regular_events/open_source_hacksessions.md" >}}).
+
 ### REG Newsletter
 
 We have a monthly REG newsletter which is usually sent around about a week before the monthly team meeting.
