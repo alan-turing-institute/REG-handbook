@@ -13,7 +13,7 @@ weight: 1
 
 # Expenses
 
-Out-of-pocket expenses should be reclaimed using Certify. You should submit an expense claim on Certify for expenses incurred within a given month as soon as possible, and no later than 60 days after the expense is incurred (except for visa costs, which can be claimed up to a year after starting employment)
+Out-of-pocket expenses should be reclaimed using Certify. You should submit an expense claim on Certify for expenses incurred within a given month as soon as possible, and no later than 60 days after the expense is incurred (except for visa costs, which can be claimed up to a year after starting employment).
 
 In the first instance, look at the information provided by the Finance team about how to use Certify on Mathison:
 
