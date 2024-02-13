@@ -25,7 +25,7 @@ If anything is unclear, please figure it out by e.g. asking your buddies, and th
 - [ ] Attend HR induction
 - [ ] Attend IT induction
 - [ ] Meet with line manager
-- [ ] Shadow meetings: https://hackmd.io/nnsWP4i_SiiwlT4meOeq6g (if you don't have access, ask someone in charge of [onboarding](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#documents))
+- [ ] [Shadow meetings](https://hackmd.io/nnsWP4i_SiiwlT4meOeq6g) (if you don't have access to the HackMD, ask someone in charge of [onboarding](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#documents))
 - [ ] Join in for welcome coffee(s)
 
 ## HR tasks
