@@ -66,11 +66,11 @@ If anything is unclear, please figure it out by e.g. asking your buddies, and th
 - [ ] Join Turing Slack
     - [ ] Go through public Slack channels, decide which ones to join
 - [ ] Request account on Harvest and Forecast by asking the the person in charge of researcher tool management, or your buddies to get you set up (to clarify, it is one account but allows you sign in to both) https://alan-turing-institute.github.io/REG-handbook/docs/onboarding/new_joiners/systems_set_up#harvest-and-forecast
-- [ ] Read through the [new joiners pages of the REG handbook]({{< ref "/content/docs/onboarding/new_joiners" >}}) 
+- [ ] Read through the [new joiners pages of the REG handbook]({{< ref "/content/docs/onboarding/new_joiners/_index.md" >}})
 - [ ] Have a look at REG projects on the [Project tracker](https://github.com/alan-turing-institute/Hut23/projects/2) in the Hut23 GitHub Repo. Read through the [Project Tracking]({{< ref "/content/docs/how_we_work/project_tracking.md" >}}) page to learn how we set our preferences for projects by using emojis, and start emoji-ing for the projects in the "Finding people" and "Awaiting go/no-go" columns.
 - [ ] Have a look at the [Service areas](https://github.com/alan-turing-institute/research-engineering-group/wiki/Service-areas). There is no pressure to join one right away so you can take some time talking to people and finding an area that interests you.
 - [ ] Add the [shared REG Calendar](https://github.com/alan-turing-institute/research-engineering-group/wiki/Shared-REG-Calendar) to Outlook
-- [ ] Familiarise yourself with how to [Book Rooms]({{< ref "/content/docs/working_at_the_turing/booking_a_meeting_room/)
+- [ ] Familiarise yourself with how to [Book Rooms]({{< ref "/content/docs/working_at_the_turing/booking_a_meeting_room.md" >}})
 - [ ] Message IT (ITServices@turing.ac.uk) to upgrade Zoom account from Basic to Pro
 - [ ] Send a short informal bio to the [REG newsletter owner](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#responsibilities).
 
