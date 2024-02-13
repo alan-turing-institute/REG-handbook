@@ -12,3 +12,14 @@ weight: 2
 ---
 
 # Onboarding
+
+This section contains information about onboarding process for new members of REG.
+
+Onboardees: Please go through these pages as one of the very first things when you join.
+
+- [Buddy system]({{< relref "/docs/onboarding/buddy_system.md" >}})
+- [New Joiners]({{< relref "/docs/onboarding/new_joiners/_index.md" >}})
+
+Onboarders: Please see the following wiki page for everything you need to know about becoming an onboarder.
+
+- [REG Onboarding](https://github.com/alan-turing-institute/research-engineering-group/wiki/Onboarding)
