@@ -49,7 +49,7 @@ This is purely an opportunity to identify any rare cases where we have clearly a
 
 All line managers should evaluate whether they feel each of their reports completing probation was appointed at the right 1/3 of the salary band for their role and complete the [probation completion form](https://github.com/alan-turing-institute/Hut23/tree/master/development/probation-completion-form.md) and send to the Principal in their reporting line and the REG Director.
 
-As with progression award recommendations made as part of the annual appraisal process, the final decision on whether a salary adjustment will be made lies with the REG Director, subject to approval by Institute Senior Management. 
+As with progression award recommendations made as part of the annual appraisal process, the final decision on whether a salary adjustment will be made lies with the REG Director, subject to approval by Institute Senior Management.
 
 ### Annual appraisal
 
