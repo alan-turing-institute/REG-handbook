@@ -77,5 +77,5 @@ If anything is unclear, please figure it out by e.g. asking your buddies, and th
 ## Sign up for ongoing activities
 
 - [ ] Feel free to put yourself down for a [tech talk]({{< ref "/content/docs/regular_events/lunchtime_tech_talks.md" >}}) (12:30 pm on Tuesdays): you can see if any open dates in [the schedule](https://github.com/alan-turing-institute/DataScienceSkills/wiki/Lunchtime-Tech-Talks) work for you, and then let [the person in charge of tech talks](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#responsibilities) know.
-- [ ] Read up about (and perhaps join---we recommend you do!) the [Society of Research Software Engineering](https://society-rse.org/), including the [Slack workspace](https://ukrse.slack.com/join/signup)
+- [ ] Read up about (and perhaps join---we recommend you do!) the [Society of Research Software Engineering]({{< ref "/content/docs/onboarding/society_of_research_software_engineering.md " >}})
 - [ ] Sign up for any of the [EDI network groups]({{< ref "/content/docs/working_at_the_turing/edi.md#network-groups" >}}) which might interest you
