@@ -74,11 +74,8 @@ If anything is unclear, please figure it out by e.g. asking your buddies, and th
 - [ ] Message IT (ITServices@turing.ac.uk) to upgrade Zoom account from Basic to Pro
 - [ ] Send a short informal bio to the [REG newsletter owner](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#responsibilities).
 
-## New computer set-up
+## Sign up for ongoing activities
 
-- [ ] https://github.com/alan-turing-institute/research-engineering-group/wiki/Moving-to-a-new-computer
-
-## Ongoing activity sign-up
-
-- [ ] "Tech Talks" (Tuesdays 12:30pm), link on: https://github.com/alan-turing-institute/DataScienceSkills/wiki/Lunchtime-Tech-Talks
-- [ ] Read up about and you are recommended to join the [Society of Research Software Engineering](https://society-rse.org/), including the [Slack workspace](https://ukrse.slack.com/join/signup)
+- [ ] Feel free to put yourself down for a [tech talk]({{< ref "/content/docs/regular_events/lunchtime_tech_talks.md" >}}) (12:30 pm on Tuesdays): you can see if any open dates in [the schedule](https://github.com/alan-turing-institute/DataScienceSkills/wiki/Lunchtime-Tech-Talks) work for you, and then let [the person in charge of tech talks](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#responsibilities) know.
+- [ ] Read up about (and perhaps join---we recommend you do!) the [Society of Research Software Engineering](https://society-rse.org/), including the [Slack workspace](https://ukrse.slack.com/join/signup)
+- [ ] Sign up for any of the [EDI network groups]({{< ref "/content/docs/working_at_the_turing/edi.md#network-groups" >}}) which might interest you
