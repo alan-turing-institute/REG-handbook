@@ -34,8 +34,7 @@ This will make it easier to merge changes from many contributors.
 Try to pick a branch name which is short and describes the change you are making.
 
 {{% hint warning %}}
-The changes on one branch or pull request should address a
-single issue and be self-contained.
+The changes on one branch or pull request should address a single issue and be self-contained.
 Don't try to solve more than one unrelated problem at once.
 
 Sticking to this practice will help ensure pull requests are small and easy to review.
