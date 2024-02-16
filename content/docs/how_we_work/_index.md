@@ -1,6 +1,6 @@
 ---
 title: "How we work"
-weight: 3
+weight: 4
 ---
 
 # How We Work
