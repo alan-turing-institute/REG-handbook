@@ -163,7 +163,9 @@ You are welcome to include any other material that could be useful for supportin
 ### What will the problem solving aspect of the second interview involve? Will I be asked about particular data science or machine learning approaches? Will I need to write code or explain the details of an algorithm's implementation?
 
 In the second interview we expect you to discuss a question related to the analysis of an example dataset.
-All information required to answer the question will be given to you in beginning of the interview. <b>No preparation or specific technical knowledge is expected or required</b>. The goal of this exercise is not to test your understanding of any particular algorithm or data science method, but rather to assess your general approach to tackling a data science question.
+All information required to answer the question will be given to you in beginning of the interview.
+**No preparation or specific technical knowledge is expected or required.**
+The goal of this exercise is not to test your understanding of any particular algorithm or data science method, but rather to assess your general approach to tackling a data science question.
 
 This exercise will not require you to write any code or explain the details of any algorithm.
 The exercise isn't assessed on whether or not you know the "right" answer to a particular data science question, but on the process you go through to understand the question and the data and your reasoning for the approaches you suggest.
