@@ -182,7 +182,7 @@ The best thing you could do to be prepared is to eat well, take some long walks 
 ### What are the reasons of your job offer? Is the salary negotiable?
 
 Fairness and transparency are key values for us and our goal is to avoid inequity by ensuring we are paying people the same salary for the same level of contribution to the team.
-<b>Our offers are not negotiable</b> and set by considering the level and applicability of each candidate’s experience relative to their future peers already working in the team.
+**Our offers are not negotiable** and set by considering the level and applicability of each candidate’s experience relative to their future peers already working in the team.
 
 We have annual pay reviews, where we actively review the performance and development of each team member against the expectations of their position within their seniority band and make salary adjustments where these expectations are being exceeded.
 Additionally, the team is growing and there will be opportunities for people to progress in their career.
