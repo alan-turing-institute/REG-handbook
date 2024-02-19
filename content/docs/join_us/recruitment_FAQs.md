@@ -205,7 +205,7 @@ Becoming a member of REG will also bring the following benefits:
   We also support team members making contributions to the wider ecosystem as part of their 20% time.
   Examples include contributing to external [Open Source Hacksessions]({{< relref "docs/regular_events/open_source_hacksessions.md" >}}) and contributing to community groups like the [Society for Research Software Engineering]({{< relref "docs/onboarding/society_of_research_software_engineering.md" >}}).
 
-- The opportunity to get involved non-project work through one of the team's service areas, some of which support the running of the team and some of which support the wider research community at the institute (for instance Recruitment, Planning and finance, Training, EDI, Communications, Research computing support, Research programme liaison).
+- The opportunity to get involved in non-project work through one of the team's service areas, some of which support the running of the team and some of which support the wider research community at the institute (for instance Recruitment, Planning and finance, Training, EDI, Communications, Research computing support, Research programme liaison).
   Some service areas require significant support and will have core team members who have chosen these service areas instead of a full project workload, but all team members have a 10% allocation to volunteer for a service area of their choice.
 
 - The opportunity to contribute to how the group works and grows.
