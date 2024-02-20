@@ -13,6 +13,16 @@ weight: 2
 
 # REG Recruitment FAQs
 
+Here you can find answers to the most frequently asked questions about working for the team and the recruitment process.
+
+Questions are grouped by:
+
+- [Application Stage](#application-stage)
+- [Profile](#profile)
+- [Position](#position)
+- [Interview](#interview)
+- [Offer](#offer)
+
 ## Application Stage
 
 ### Is the position open to applicants outside of the UK who do not currently have a UK working Visa but could obtain one?
