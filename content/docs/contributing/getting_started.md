@@ -20,7 +20,7 @@ To contribute to the handbook you will need
 - [Git](https://git-scm.com/downloads)
 - [Hugo](https://gohugo.io/getting-started/installing/) (You will need the extended version with Sass/SCSS support)
 - Your favourite text editor
-- Optionally [pre-commit](https://pre-commit.com/); see [Making Changes]({{< relref "/content/docs/contributing/contributing_changes.md#making-changes" >}}) for more details.
+- Optionally [pre-commit](https://pre-commit.com/); see [Making Changes]({{< relref "/docs/contributing/contributing_changes.md#making-changes" >}}) for more details.
 
 ## Clone the repository
 
