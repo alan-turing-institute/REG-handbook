@@ -50,7 +50,7 @@ Most of the time, the only keys you will need to consider are `title` and `weigh
 : Determines the order of pages in the navigation menu. Smaller numbers appear
 first
 
-The Hugo documentation details a set of [predefined front matter keys](https://gohugo.io/content-management/front-matter/#front-matter-variables).
+The Hugo documentation details a set of [predefined front matter keys](https://gohugo.io/content-management/front-matter/).
 Other valid fields related to the handbook theme are documented in the [theme's
 README](https://github.com/alex-shpak/hugo-book#page-configuration).
 
@@ -76,7 +76,7 @@ Not all of the extended Markdown syntax may be implemented by Hugo's [Markdown r
 
 ### Shortcodes
 
-[Shortcodes](https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes) are templates (which can be parametrised) and included the content section.
+[Shortcodes](https://gohugo.io/content-management/shortcodes/) are templates (which can be parametrised) and included the content section.
 They can be particularly useful for including more complex features than Markdown's simple syntax will allow.
 Using a shortcode is preferable to including raw HTML in a content file.
 
@@ -94,15 +94,15 @@ Some shortcodes may have an opening and closing tag, similar to HTML
 
 #### Hugo Shortcodes
 
-Hugo has a set of useful [built-in shortcodes](https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes).
+Hugo has a set of useful [built-in shortcodes](https://gohugo.io/content-management/shortcodes/#embedded-shortcodes).
 
 In particular
 
-- [figure](https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes)
+- [figure](https://gohugo.io/content-management/shortcodes/#figure)
 - [gist](https://gohugo.io/content-management/shortcodes/#gist)
 - [highlight](https://gohugo.io/content-management/shortcodes/#highlight)
 - [param](https://gohugo.io/content-management/shortcodes/#param)
-- [ref and relref](https://gohugo.io/content-management/shortcodes/#ref-and-relref)
+- [ref](https://gohugo.io/content-management/shortcodes/#ref) and [relref](https://gohugo.io/content-management/shortcodes/#relref)
 
 #### Theme Shortcodes
 

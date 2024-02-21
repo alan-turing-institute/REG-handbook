@@ -25,7 +25,7 @@ Our goal is to work within the wider HR policy and guidance (see [HR Performance
 
 ## Useful links
 
-- [Annual appraisal process for those on probation]({{< ref "/content/docs/employee_processes/probation.md#annual-appraisal" >}})
+- [Annual appraisal process for those on probation]({{< relref "/docs/employee_processes/probation.md#annual-appraisal" >}})
 - [REG Appraisal Guide](https://github.com/alan-turing-institute/research-engineering-group/wiki/Annual-appraisals)
 - [Annual Pay Increases](https://github.com/alan-turing-institute/research-engineering-group/wiki/Annual-pay-increases)
 - [HR Performance Review Guide](https://mathison.turing.ac.uk/page/2319)
