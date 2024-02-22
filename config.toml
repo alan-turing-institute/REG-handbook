@@ -20,6 +20,23 @@ disableKinds = ['taxonomy', 'taxonomyTerm']
 
 # After ToC
 [[menu.after]]
+  name = 'REG internal links'
+  weight = 10
+
+  [[menu.after]]
+    parent = 'REG internal links'
+    name = 'Subitem 1 on wiki'
+    url = 'https://www.turing.ac.uk/research-engineering/subitem1'
+    weight = 1
+
+  # Another sub-item
+  [[menu.after]]
+    parent = 'REG internal links'
+    name = 'Subitem 2 on wiki'
+    url = 'https://www.turing.ac.uk/research-engineering/subitem2'
+    weight = 2
+
+[[menu.after]]
   name = 'Research Engineering'
   url = 'https://www.turing.ac.uk/research-engineering'
   weight = 10
