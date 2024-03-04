@@ -456,4 +456,53 @@ Feel free to message the organisers ahead of time with your problem on Slack, or
 If you have not signed up already and would like to join (or conversely if you would like to opt out), please inform the people in charge of the random coffees.
 Several years ago, during the periods of lockdown, we used to have daily coffee chats at 08:45 and 13:45. These are very rarely used nowadays but the vestiges of these can still be seen in (for example) the daily notifications on Slack every morning. `}),e.add({id:48,href:"/REG-handbook/docs/contributing/",title:"Contributing",section:"Docs",content:` Contributing # This section contains a guide for contributing to the handbook. It is not a comprehensive guide to Hugo or any of the other tools used. Instead it is aimed to be a user-focused guide explaining how add to or edit the handbook without dwelling on the details of the underlying technologies. For those interested in learning more, links will be liberally placed throughout for further reading.
 `}),e.add({id:49,href:"/REG-handbook/docs/join_us/",title:"Join Us",section:"Docs",content:` Join Us # This section contains information about our recruitment process and what it&rsquo;s like to work with us.
+`}),e.add({id:50,href:"/REG-handbook/docs/how_we_work/acronyms_and_abbreviations/",title:"Acronyms and Abbreviations",section:"How we work",content:` Acronyms and Abbreviations # AIDA: Artificial Intelligence for Data Analytics
+ALOGIT: name of a Fortran package (see issue)
+ASG: AI for Science and Government (the new name of the EPSRC funds from SPF)
+ARC: Applied Research Centre / Australian Research Council
+BL: British Library
+BPT: Bayesian Performance Tuning
+Chrono: Chronotopic Cartographies
+CPD: Change-point detection (method to apply to data in AIDA-Lloyds project)
+CT: Computerised Tomography
+DAS: Data Availability Statements (Giovanni&rsquo;s 22-days research paper)
+DAFNI: Data &amp; Analytics Facility for National Infrastructure
+DC: Detector-Checker
+D&amp;S: Defence and Security (Programme)
+DS&amp;DH: Data Science &amp; Digital Humanities (Special Interest Group)
+DSB: Data Science Benchmarking
+DS for SD: Data Science for Sustainable Development
+DSG: Data Study Group
+DSSG: Data Science for Social Good
+DSSH: Data Science for Science and the Humanities (Programme)
+EDS: Economic Data Science
+EOM: End of message
+FTE: Full Time Equivalent
+GUARD: Global Urban Analytics for Resilient Defence
+HPC: High Performance Computing
+IAG: International Airlines Group (British Airways merged with Iberia to form IAG)
+KF: Knowledge Flows
+LwM: Living with Machines
+NATS: National Air Traffic Services
+OpenMP: Open Multi-Processing
+PDQ: Proof-Driven Query
+PFEA: Probabilistic Finite Element Analysis
+RCP: Research Computing Platforms
+RCWG: Research Computing Working Group
+RDA: Research Data Alliance
+RDS: Research Data Scientist
+REG: Research Engineering Group
+RepRes: Reproducible Research
+RSD: Research Software Development
+RSE: Research Software Engineer(ing)
+SHEEP: SHEEP is a Homomorphic Encryption Evaluation Platform
+SPF: Strategic Priorities Fund (see also ASG)
+TDA: Topological Data Analysis
+TPS: Tools, Practices, and Systems
+TMF: Toyota Mobility Foundation
+TNA: The National Archives
+TTW: The Turing Way
+UQBB: Uncertainty Quantification for Black Box Computational Models
+UQM^3: Uncertainty Quantification in Multi-scale, Multi-physics Models
+WFH: Working from home
 `})})()
