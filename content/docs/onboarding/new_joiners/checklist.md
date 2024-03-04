@@ -71,7 +71,7 @@ If anything is unclear, please figure it out by e.g. asking your buddies, and th
 - [ ] Have a look at the [Service areas](https://github.com/alan-turing-institute/research-engineering-group/wiki/Service-areas). There is no pressure to join one right away so you can take some time talking to people and finding an area that interests you.
 - [ ] Add the [shared REG Calendar](https://github.com/alan-turing-institute/research-engineering-group/wiki/Shared-REG-Calendar) to Outlook
 - [ ] Familiarise yourself with how to [Book Rooms]({{< relref "/docs/working_at_the_turing/booking_a_meeting_room.md" >}})
-- [ ] Message IT (ITServices@turing.ac.uk) to upgrade Zoom account from Basic to Pro
+- [ ] Message [IT](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#points-of-contact) to upgrade Zoom account from Basic to Pro
 - [ ] Send a short informal bio to the [REG newsletter owner](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#responsibilities).
 
 ## New computer set-up

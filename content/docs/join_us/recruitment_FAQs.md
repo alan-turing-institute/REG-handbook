@@ -27,7 +27,7 @@ Questions are grouped by:
 
 ### Is the position open to applicants outside of the UK who do not currently have a UK working Visa but could obtain one?
 
-Yes, the positions are open to applicants outside the UK and our HR Team (HR@turing.ac.uk) will be able to offer you additional information on the process of obtaining a working Visa.
+Yes, the positions are open to applicants outside the UK and our [HR Team](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#points-of-contact) will be able to offer you additional information on the process of obtaining a working Visa.
 
 ### Are you accepting remote applicants?
 
@@ -50,6 +50,14 @@ If you applied and did not get selected to interview you are welcome to apply ag
 
 If you applied and were unsuccessful at the interview stage, you are welcome to reapply if your profile has significantly progressed since the interview (new projects, job roles or other sources of experience).
 In general, we suggest to wait for at least one year before applying again.
+
+### Does the Turing cover relocation and visa costs?
+
+Yes.
+The Turing recognises that relocating and applying for a visa have different associated costs and therefore will provide support for both.
+All claims should be submitted within a year of the employment start date to Finance.
+For existing staff, visa claims should be submitted within one year of the visa renewal or amendment.
+More information can be found on [Mathison](https://mathison.turing.ac.uk/Interact/Pages/Section/ContentListing.aspx?subsection=4141&utm_source=interact&utm_medium=quick_search&utm_term=relocation).
 
 ## Profile
 
