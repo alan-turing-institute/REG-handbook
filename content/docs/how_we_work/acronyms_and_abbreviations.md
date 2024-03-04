@@ -55,6 +55,8 @@ EDS: Economic Data Science
 
 EOM: End of message
 
+FTE: Full Time Equivalent
+
 GUARD: Global Urban Analytics for Resilient Defence
 
 HPC: High Performance Computing
