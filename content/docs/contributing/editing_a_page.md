@@ -13,24 +13,19 @@ weight: 4
 
 # Editing a Page
 
-If you followed the instructions in the [Getting Started section]({{% ref
-"getting_started.md" %}}) to checkout the repository and serve the handbook
-locally you can edit a page locally. However, as you may have noticed, at the
-bottom of each page is a link to edit the page in the GitHub web editor if you
-would prefer. This may be easy for making small changes.
+If you followed the instructions in the [Getting Started section]({{% ref "getting_started.md" %}}) to checkout the repository and serve the handbook locally you can edit a page locally.
+However, as you may have noticed, at the bottom of each page is a link to edit the page in the GitHub web editor if you would prefer.
+This may be easy for making small changes.
 
 ## Pages
 
-Each page is a [Markdown](https://www.markdownguide.org/) file with
-[YAML](https://yaml.org/) front matter followed by the page contents in
-Markdown.
+Each page is a [Markdown](https://www.markdownguide.org/) file with [YAML](https://yaml.org/) front matter followed by the page contents in Markdown.
 
 ### Front Matter
 
-The [front matter](https://gohugo.io/content-management/front-matter/) is used
-to define various pieces of metadata related to a page. The front matter appears
-at the top of a content file. In the handbook we format front matter as YAML,
-preceded and followed by three hyphens.
+The [front matter](https://gohugo.io/content-management/front-matter/) is used to define various pieces of metadata related to a page.
+The front matter appears at the top of a content file.
+In the handbook we format front matter as YAML, preceded and followed by three hyphens.
 
 ```yaml
 ---
@@ -39,17 +34,14 @@ weight: 1
 ---
 ```
 
-The [full YAML specification](https://yaml.org/spec/1.2.2/) is long and
-comprehensive. The most important thing to understand here is that the front
-matter YAML consists of keys and values separated by a hyphen. For example, in
-the expression `weight: 1`, `weight` is the key with a value of `1`.
+The [full YAML specification](https://yaml.org/spec/1.2.2/) is long and comprehensive.
+The most important thing to understand here is that the front matter YAML consists of keys and values separated by a hyphen.
+For example, in the expression `weight: 1`, `weight` is the key with a value of `1`.
 
-If you created a page using `hugo new` then some boilerplate front matter with
-explanatory comments should already be present. If you are editing an existing
-page there should already be front matter.
+If you created a page using `hugo new` then some boilerplate front matter with explanatory comments should already be present.
+If you are editing an existing page there should already be front matter.
 
-Most of the time, the only keys you will need to consider are `title` and
-`weight`.
+Most of the time, the only keys you will need to consider are `title` and `weight`.
 
 `title`
 : The title of a page as it appears in the navigation menu
@@ -58,8 +50,7 @@ Most of the time, the only keys you will need to consider are `title` and
 : Determines the order of pages in the navigation menu. Smaller numbers appear
 first
 
-The Hugo documentation details a set of [predefined front matter
-keys](https://gohugo.io/content-management/front-matter/#front-matter-variables).
+The Hugo documentation details a set of [predefined front matter keys](https://gohugo.io/content-management/front-matter/).
 Other valid fields related to the handbook theme are documented in the [theme's
 README](https://github.com/alex-shpak/hugo-book#page-configuration).
 
@@ -76,22 +67,18 @@ weight: 1
 | content section |
 ```
 
-The content section is formatted in Markdown. Markdown Guide outlines the
-[basic](https://www.markdownguide.org/basic-syntax/) and
-[extended](https://www.markdownguide.org/extended-syntax/).
+The content section is formatted in Markdown.
+The following links from Markdown Guide describe [basic](https://www.markdownguide.org/basic-syntax/) and [extended](https://www.markdownguide.org/extended-syntax/) Markdown syntax.
 
 {{% hint warning %}}
-Not all of the extended Markdown syntax may be implemented by Hugo's [Markdown
-renderer](https://gohugo.io/getting-started/configuration-markup)
+Not all of the extended Markdown syntax may be implemented by Hugo's [Markdown renderer](https://gohugo.io/getting-started/configuration-markup).
 {{% /hint %}}
 
 ### Shortcodes
 
-[Shortcodes](https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes)
-are templates (which can be parametrised) and included the content section. They
-can be particularly useful for including more complex features than Markdown's
-simple syntax will allow. Using a shortcode is preferable to including raw HTML
-in a content file.
+[Shortcodes](https://gohugo.io/content-management/shortcodes/) are templates (which can be parametrised) and included the content section.
+They can be particularly useful for including more complex features than Markdown's simple syntax will allow.
+Using a shortcode is preferable to including raw HTML in a content file.
 
 Shortcodes can called in Markdown content files the following way
 
@@ -107,23 +94,19 @@ Some shortcodes may have an opening and closing tag, similar to HTML
 
 #### Hugo Shortcodes
 
-Hugo has a set of useful [built-in
-shortcodes](https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes).
+Hugo has a set of useful [built-in shortcodes](https://gohugo.io/content-management/shortcodes/#embedded-shortcodes).
 
 In particular
 
-- [figure](https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes)
+- [figure](https://gohugo.io/content-management/shortcodes/#figure)
 - [gist](https://gohugo.io/content-management/shortcodes/#gist)
 - [highlight](https://gohugo.io/content-management/shortcodes/#highlight)
 - [param](https://gohugo.io/content-management/shortcodes/#param)
-- [ref and
-  relref](https://gohugo.io/content-management/shortcodes/#ref-and-relref)
+- [ref](https://gohugo.io/content-management/shortcodes/#ref) and [relref](https://gohugo.io/content-management/shortcodes/#relref)
 
 #### Theme Shortcodes
 
-The theme has a [number of
-shortcodes](https://github.com/alex-shpak/hugo-book#shortcodes) which may be
-helpful.
+The theme has a [number of shortcodes](https://github.com/alex-shpak/hugo-book#shortcodes) which may be helpful.
 
 In particular
 
@@ -134,8 +117,8 @@ In particular
 
 #### Repository Shortcodes
 
-Shortcodes can be included in the handbooks repository. For more information see
-[Creating Shortcodes]({{% ref "advanced.md#creating-shortcodes" %}})
+Shortcodes can be included in the handbooks repository.
+For more information see [Creating Shortcodes]({{% ref "advanced.md#creating-shortcodes" %}})
 
 ##### repo_link
 

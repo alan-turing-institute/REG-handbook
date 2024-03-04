@@ -35,6 +35,6 @@ When it is advantageous, data should be [stored in data files and processed usin
 Markdown styling is enforced using the [`markdownlint`](https://github.com/markdownlint/markdownlint) tool, using the style rules in {{% repo_link path=".mdl_style.rb" text="`.mdl_style.rb`" %}}.
 An explanation of the rules can be found [here](https://github.com/markdownlint/markdownlint/blob/master/docs/RULES.md).
 
-Markdown linting is performed on all pull requests made to the handbook repository, as described in the [Continuous Integration]({{< ref "/content/docs/contributing/contributing_changes.md#continuous-integration" >}}) section.
+Markdown linting is performed on all pull requests made to the handbook repository, as described in the [Continuous Integration]({{< relref "/docs/contributing/contributing_changes.md#continuous-integration" >}}) section.
 
-If you wish to lint locally, the repository contains a [pre-commit hook](https://pre-commit.com/) to do this, described in the [Making Changes]({{< ref "/content/docs/contributing/contributing_changes.md#making-changes" >}}) section.
+If you wish to lint locally, the repository contains a [pre-commit hook](https://pre-commit.com/) to do this, described in the [Making Changes]({{< relref "/docs/contributing/contributing_changes.md#making-changes" >}}) section.

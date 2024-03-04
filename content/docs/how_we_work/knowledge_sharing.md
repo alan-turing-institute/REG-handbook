@@ -17,7 +17,7 @@ If you'd like to organise something the best options are usually to post to [Sla
 ### Github Hut23 Repo
 
 We use GitHub (and a couple of related tools) extensively for tracking projects and other tasks within the team.
-There is a [separate page describing how we use them]({{< ref "/content/docs/how_we_work/project_tracking.md" >}}).
+There is a [separate page describing how we use them]({{< relref "/docs/how_we_work/project_tracking.md" >}}).
 
 ### Coffee Breaks
 
@@ -70,6 +70,10 @@ The main focus of this page is what we do in REG, but there are many things happ
 - Turing Catchups & Town Halls — Regular meetings open to all staff with updates from around the institute. New starters may not have the calendar invites initially — ask others in the team to forward the details if you're unsure.
 - [Turing Events](https://www.turing.ac.uk/events) - often public talks & workshops.
 
+### Open Source Hacksessions
+
+[See here]({{< relref "docs/regular_events/open_source_hacksessions.md" >}}).
+
 ### REG Newsletter
 
 We have a monthly REG newsletter which is usually sent around about a week before the monthly team meeting.
@@ -79,7 +83,7 @@ If you have something you'd like to be included contact the [newsletter owner](h
 
 ### Hut23 Mailing List
 
-You should automatically be added to the `Hut23@turing.ac.uk` mailing list when you join REG (if not ask your line manager about it).
+You should automatically be added to the [Hut23 mailing list](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#points-of-contact) when you join REG (if not ask your line manager about it).
 This is often the best way to contact everyone in the team when organising events, or for other news/communication that should be a bit more permanent/formal than Slack and doesn't fit in an issue in the Hut23 repo.
 
 ## Less frequently or ad-hoc
