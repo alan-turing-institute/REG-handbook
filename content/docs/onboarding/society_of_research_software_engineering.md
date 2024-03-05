@@ -37,8 +37,7 @@ Their [Slack workspace](https://ukrse.slack.com/join/signup) contains plenty of 
 
 ## Claiming Back Subscriptions
 
-SocRSE membership is considered a professional subscription,
-which you're entitled to claim back as a REG member.
+SocRSE membership is considered a professional subscription, which you are entitled to claim back as a REG member.
 
 You should claim it back quickly after payment.
 Use Certify to claim it back following [these instructions](https://github.com/alan-turing-institute/research-engineering-group/wiki/Reclaiming-out-of-pocket-expenses#allocating-your-expenses-to-the-right-budget).
