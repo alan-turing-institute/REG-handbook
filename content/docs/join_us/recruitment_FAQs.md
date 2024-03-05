@@ -27,7 +27,7 @@ Questions are grouped by:
 
 ### Is the position open to applicants outside of the UK who do not currently have a UK working Visa but could obtain one?
 
-Yes, the positions are open to applicants outside the UK and our HR Team (HR@turing.ac.uk) will be able to offer you additional information on the process of obtaining a working Visa.
+Yes, the positions are open to applicants outside the UK and our HR team ([HR@turing.ac.uk](mailto:HR@turing.ac.uk)) will be able to offer you additional information on the process of obtaining a working Visa.
 
 ### Are you accepting remote applicants?
 
@@ -51,13 +51,22 @@ If you applied and did not get selected to interview you are welcome to apply ag
 If you applied and were unsuccessful at the interview stage, you are welcome to reapply if your profile has significantly progressed since the interview (new projects, job roles or other sources of experience).
 In general, we suggest to wait for at least one year before applying again.
 
+### Does the Turing cover relocation and visa costs?
+
+Yes.
+The Turing recognises that relocating and applying for a visa have different associated costs and therefore will provide support for both.
+All claims should be submitted within a year of the employment start date to Finance.
+For existing staff, visa claims should be submitted within one year of the visa renewal or amendment.
+More information can be found on [Mathison](https://mathison.turing.ac.uk/Interact/Pages/Section/ContentListing.aspx?subsection=4141&utm_source=interact&utm_medium=quick_search&utm_term=relocation).
+
 ## Profile
 
 ### Are there particular domains or skill sets that you are interested in for these roles?
 
 We are really open to any domain, area of expertise, skill set that is broadly related to research data science or research software engineering.
 
-In case you have experience or are interested in High Performance Computing, as part of the open positions we are actively looking for new members of the team to work on that area as Research Computing Engineers (you can drop an email to [Tomas Lazauskas](https://www.turing.ac.uk/people/researchers/tomas-lazauskas) (tlazauskas@turing.ac.uk) to learn more about it).
+If you have experience or are interested in High Performance Computing, as part of the open positions, we are actively looking for new members of the team to work on that area as Research Computing Engineers.
+You can drop an email to the REG recruitment team ([reg-recruitment-info@turing.ac.uk](mailto:reg-recruitment-info@turing.ac.uk)) to learn more about it.
 
 However, we are recruiting for multiple positions, and are interested in a wide range of skills and experience, so please do apply if you are interested and have experience relevant to research software engineering and data science, broadly defined.
 You can see the [range of projects](https://www.turing.ac.uk/research/research-engineering/reg-projects) the team works on and [backgrounds of current team members](https://www.turing.ac.uk/research/research-engineering/meet-the-team) on our website.
@@ -83,7 +92,8 @@ Also, it is important to highlight:
 If you do not have a PhD degree but have worked for a few years and believe you have gained the essential skills mentioned in the Person Specification, we encourage you to apply!
 
 Such experience might include exposure to research projects, awareness of the importance of reproducible software and tools, working with or leading a team of people with different skill sets, deciding on how to best achieve an objective from a data science perspective, or presenting advice/results to an audience.
-We would like to hear about your prior experience in your cover letter. If you prefer, feel free to get in touch with [Joe](https://www.turing.ac.uk/people/researchers/joe-palmer) (jpalmer@turing.ac.uk) about this point.
+We would like to hear about your prior experience in your cover letter.
+If you prefer, feel free to get in touch with the REG recruitment team ([reg-recruitment-info@turing.ac.uk](mailto:reg-recruitment-info@turing.ac.uk)) about this point.
 
 ### Would not having a PhD prevent me from career progression, in terms of becoming a Senior Research Data Scientist/Research Software Engineer at the Turing Institute?
 
@@ -97,7 +107,7 @@ The main difference between the Junior and Standard roles is that the Junior is 
 We consider candidates for the Standard position if they have a PhD or an equivalent working experience (meaning for instance a few years of work in a data scientist or software engineer position, in close contact with research projects).
 If you think you have enough experience you can apply to the Standard position and stress this in your cover letter.
 You can also apply to the Junior position and mention in your cover letter that you are also considering the Standard position, in case you feel your profile or working experience is in between the two.
-Feel free to get in touch with [Joe](https://www.turing.ac.uk/people/researchers/joe-palmer) (jpalmer@turing.ac.uk) about this point.
+Feel free to get in touch with the REG recruitment team ([reg-recruitment-info@turing.ac.uk](mailto:reg-recruitment-info@turing.ac.uk)) about this point.
 
 ### For the Junior post it states as Essential: "Fluency in one or more modern programming languages used in research in data science and artificial intelligence". In my case I am familiar with X, would my computing knowledge satisfy this criteria?
 
@@ -225,6 +235,7 @@ Becoming a member of REG will also bring the following benefits:
 
 ## My question is not answered here
 
-Please contact [Joe](https://www.turing.ac.uk/people/researchers/joe-palmer) (jpalmer@turing.ac.uk) with any additional questions you may have. We also run monthly drop-in sessions where you can meet some of the current team and ask them questions face to face.
+Please contact the REG recruitment team ([reg-recruitment-info@turing.ac.uk](mailto:reg-recruitment-info@turing.ac.uk)) with any additional questions you may have.
+We also run monthly drop-in sessions where you can meet some of the current team and ask them questions face to face.
 These sessions will be hosted by team members who won't be involved in that month's interview process, and questions you ask at these sessions will have no influence on how your application is treated.
-To be informed of the details for these drop-in sessions, please register for the team's recruitment newsletter.
+To be informed of the details for these drop-in sessions, please register for the team's [recruitment newsletter](https://tinyletter.com/turing-reg-recruitment).

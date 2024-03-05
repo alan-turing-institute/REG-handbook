@@ -83,7 +83,7 @@ If you have something you'd like to be included contact the [newsletter owner](h
 
 ### Hut23 Mailing List
 
-You should automatically be added to the `Hut23@turing.ac.uk` mailing list when you join REG (if not ask your line manager about it).
+You should automatically be added to the [Hut23 mailing list](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#points-of-contact) when you join REG (if not ask your line manager about it).
 This is often the best way to contact everyone in the team when organising events, or for other news/communication that should be a bit more permanent/formal than Slack and doesn't fit in an issue in the Hut23 repo.
 
 ## Less frequently or ad-hoc
