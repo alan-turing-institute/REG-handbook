@@ -10,30 +10,35 @@ Bug reports with technical detail Developed chapter proposals Feature requests (
 Andy Smith
 🖋 👀 🤔 💻 🎨 Christina Last
 🖋 David Beavan
-🤔 👀 🖋 David Llewellyn-Jones
-🖋 🤔 🐛 📖 👀 David Salvador Jasin
-🖋 🤔 👀 Federico Nanni
+🤔 👀 🖋 🚧 David Llewellyn-Jones
+🖋 🤔 🐛 📖 👀 🚧 David Salvador Jasin
+🖋 🤔 👀 🚧 Ed Chalstrey
+🤔 🚧 Ed Chapman
+🤔 🚧 Federico Nanni
 🖋 🤔 Gabriel
 🖋 🤔 Isabel Fenton
-👀 Jack Roberts
+👀 🤔 🚧 Jack Roberts
 🖋 James Robinson
 🖋 Jim Madge
 💻 🖋 📖 👀 🤔 🚇 🐛 Jonathan Yong
-🖋 🤔 Katriona Goldmann
-🖋 👀 Levan Bokeria
-🐛 🖋 Lydia France
-🖋 Malvika Sharan
+🖋 🤔 🚧 👀 Katriona Goldmann
+🖋 👀 🤔 🚧 Levan Bokeria
+🐛 🖋 🤔 🚧 Lydia France
+🖋 🤔 🚧 Malvika Sharan
 🤔 Markus Hauru
-🖋 🤔 Martin O'Reilly
-🤔 Oscar T Giles
+🖋 🤔 👀 🚧 Martin O'Reilly
+🤔 Matt Craddock
+🤔 🚧 Nathan Simpson
+🤔 🚧 Oscar T Giles
 🤔 Radka Jersakova
 🖋 Roly Perera
-🤔 Ryan Chan
+🤔 Rosie Wood
+🤔 🚧 Ryan Chan
 🖋 Tim Hobson
 🖋 griff-rees
 🤔 helenashowell
 🖋 🤔 martin
-🖋 nbarlowATI
+🖋 🤔 🚧 nbarlowATI
 🤔 `}),e.add({id:2,href:"/REG-handbook/docs/contributing/recognising_contributions/",title:"Recognising Contributions",section:"Contributing",content:` Recognising Contributions # We aim to recognise all contributions to the handbook, not just those made through commits. For that purpose we use All Contributors to help manage a record of who has contributed to the book and how.
 Use the &lsquo;add&rsquo; command in an issue or pull-request comment to ask @all-contributors to add a contributor
 @all-contributors please add @&lt;username&gt; for &lt;contributions&gt; See the bot usage documentation for full details and more examples. A list of contribution types (and the related emoji) can be seen here.
