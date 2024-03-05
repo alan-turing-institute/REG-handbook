@@ -13,7 +13,9 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/7348440?v=4",
       "profile": "https://github.com/mastoffel",
       "contributions": [
-        "content"
+        "content",
+        "ideas",
+        "maintenance"
       ]
     },
     {
@@ -24,7 +26,8 @@
       "contributions": [
         "content",
         "ideas",
-        "review"
+        "review",
+        "maintenance"
       ]
     },
     {
@@ -34,7 +37,9 @@
       "profile": "http://mhauru.org",
       "contributions": [
         "content",
-        "ideas"
+        "ideas",
+        "review",
+        "maintenance"
       ]
     },
     {
@@ -57,7 +62,9 @@
       "profile": "https://github.com/yongrenjie",
       "contributions": [
         "content",
-        "ideas"
+        "ideas",
+        "maintenance",
+        "review"
       ]
     },
     {
@@ -66,7 +73,9 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/85945427?v=4",
       "profile": "https://github.com/LydiaFrance",
       "contributions": [
-        "content"
+        "content",
+        "ideas",
+        "maintenance"
       ]
     },
     {
@@ -103,7 +112,8 @@
         "ideas",
         "bug",
         "doc",
-        "review"
+        "review",
+        "maintenance"
       ]
     },
     {
@@ -113,7 +123,9 @@
       "profile": "https://katrionagoldmann.github.io/",
       "contributions": [
         "content",
-        "review"
+        "review",
+        "ideas",
+        "maintenance"
       ]
     },
     {
@@ -195,7 +207,9 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/5773962?v=4",
       "profile": "https://github.com/IFenton",
       "contributions": [
-        "review"
+        "review",
+        "ideas",
+        "maintenance"
       ]
     },
     {
@@ -206,7 +220,8 @@
       "contributions": [
         "ideas",
         "review",
-        "content"
+        "content",
+        "maintenance"
       ]
     },
     {
@@ -239,13 +254,15 @@
       ]
     },
     {
-      "login": "lbokeria",
+      "login": "LevanBokeria",
       "name": "Levan Bokeria",
       "avatar_url": "https://avatars.githubusercontent.com/u/7816766?v=4",
-      "profile": "https://github.com/lbokeria",
+      "profile": "https://github.com/LevanBokeria",
       "contributions": [
         "bug",
-        "content"
+        "content",
+        "ideas",
+        "maintenance"
       ]
     },
     {
@@ -273,6 +290,56 @@
       "profile": "https://rchan26.github.io/",
       "contributions": [
         "content"
+      ]
+    },
+    {
+      "login": "edwardchalstrey1",
+      "name": "Ed Chalstrey",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5486164?v=4",
+      "profile": "https://edchalstrey.com/",
+      "contributions": [
+        "ideas",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "edchapman88",
+      "name": "Ed Chapman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93717706?v=4",
+      "profile": "https://github.com/edchapman88",
+      "contributions": [
+        "ideas",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "craddm",
+      "name": "Matt Craddock",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5796417?v=4",
+      "profile": "https://github.com/craddm",
+      "contributions": [
+        "ideas",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "phinate",
+      "name": "Nathan Simpson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49782545?v=4",
+      "profile": "https://github.com/phinate",
+      "contributions": [
+        "ideas",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "rwood-97",
+      "name": "Rosie Wood",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72076688?v=4",
+      "profile": "https://github.com/rwood-97",
+      "contributions": [
+        "ideas",
+        "maintenance"
       ]
     }
   ],
