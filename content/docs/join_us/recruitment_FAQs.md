@@ -66,7 +66,7 @@ More information can be found on [Mathison](https://mathison.turing.ac.uk/Intera
 We are really open to any domain, area of expertise, skill set that is broadly related to research data science or research software engineering.
 
 If you have experience or are interested in High Performance Computing, as part of the open positions, we are actively looking for new members of the team to work on that area as Research Computing Engineers.
-You can drop an email to the REG recruitment team ([`reg-recruitment-info@turing.ac.uk`](mailto:reg-recruitment-info@turing.ac.uk)) to learn more about it.
+You can drop an email to the REG recruitment team ([reg-recruitment-info@turing.ac.uk](mailto:reg-recruitment-info@turing.ac.uk)) to learn more about it.
 
 However, we are recruiting for multiple positions, and are interested in a wide range of skills and experience, so please do apply if you are interested and have experience relevant to research software engineering and data science, broadly defined.
 You can see the [range of projects](https://www.turing.ac.uk/research/research-engineering/reg-projects) the team works on and [backgrounds of current team members](https://www.turing.ac.uk/research/research-engineering/meet-the-team) on our website.
