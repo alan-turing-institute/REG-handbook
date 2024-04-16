@@ -289,7 +289,7 @@ Slack # Install Slack:
 brew install --cask slack Once installed join the Turing Slack. You can self-subscribe with your @turing.ac.uk email address.
 Important channels to join:
 You should be added to #general and #random by default. Ask anyone in the team to add you to the private channel #hut23. If you are a senior, please ask another senior to invite you to the REG senior’s Slack channel (#line-managers). GitHub # We use GitHub for most coordination.
-To get access to the Turing GitHub, create a GitHub account (or use an existing one), then fill this form on Turing Complete with your GitHub handle (if you have access to Turing Complete). Then let the GitHub org controller know that you have done this and they can add you straight away.
+To get access to Turing GitHub, create a GitHub account (or use an existing one), and fill out this MS Form with your GitHub handle (if you have access to Turing Complete). Then let the GitHub org controller know that you have done this and they can add you straight away.
 Also check the Project tracker to get a feeling on what goes on. We use it to track official projects we are tasked with. This is where we express preferences for projects, with emojis. Project leads should be assigned to the relevant issue and are responsible for keeping the issue up to date. Check this section of the handbook for more details.
 Office 365 account # Your Turing main account rests here. You get access to mail (Exchange), calendar, a shared drive, Office apps. Check that you can login, and change your password and configure MFA. Ask IT if in need for help.
 Lower Priority # Here we have more information about how we use the high priority systems, and also other systems to explore.
