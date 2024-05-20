@@ -34,7 +34,7 @@ To request access, you should send an email from your Turing email account to `r
 
 ### How to join The Alan Turing Institute organisation on the RSD
 
-Once you have logged in to the RSD, you will need to send [one of the RSD admins](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry) a message asking to be added to the The Alan Turing Institute organisation.
+Once you have logged in to the RSD, you will need to send [one of the RSD admins](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry) a message asking to be added to The Alan Turing Institute organisation.
 
 ## Adding software
 
