@@ -1,14 +1,14 @@
 {
   "name": "REG Handbook",
   "short_name": "REG Handbook",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "/REG-handbook/",
+  "scope": "/REG-handbook/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/favicon.svg",
+      "src": "/REG-handbook/favicon.svg",
       "sizes": "512x512"
     }
   ]
