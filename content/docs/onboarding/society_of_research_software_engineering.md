@@ -27,7 +27,7 @@ There are many benefits to joining the SocRSE. By joining the Society you will:
 - Get discounted access to the Society's annual conference
 - Be eligible to vote and stand for election at the Society's annual AGM
 - Have your say in one of the Society's [special interest, regional or working groups](https://society-rse.org/community/get-involved/)
-- Be able to apply for the Society’s [mentorship scheme](https://society-rse.org/society-of-rse-mentoring-scheme-sign-up/)
+- Be able to apply for the Society’s [mentorship scheme](https://society-rse.org/get-involved/mentoring-scheme/)
 - Gain access to discounts from the Society's corporate sponsors
 
 ## Communication Channels
