@@ -120,16 +120,11 @@ See [this page]({{< relref "code_audits.md" >}}) for more details.
 
 ### Project retrospective - Snark Hunts
 
-A "Snark Hunt" is one way in which we've previously organised project retrospectives.
-We're open to trying other ideas too.
-
 Snark hunts are facilitated discussions after a project has finished where the project team, together with others from REG that didn't work on the project, answer/ask questions relating to the experience of working on it — what went well, what could have been better _etc._.
 We don't do it for every project, but they can be a good opportunity to reflect and to get ideas for what we should do differently/do more of in the future.
-For more info, see here:
+We're open to trying other ideas too!
 
-- [Snark Hunt concept](https://github.com/alan-turing-institute/Hut23/blob/master/strategy-and-planning/snark-hunting.md)
-- [Snark Hunt template and example questions](https://github.com/alan-turing-institute/Hut23/blob/master/strategy-and-planning/snark-hunting-template.md)
-- [Previous Snark Hunts](https://thealanturininstitute.sharepoint.com/:f:/s/ResearchEngineering/ElICSwf1rOJFj-ssePnMkOwBZmruJuRHnOKCSpC0M8QDUg?e=XGz6fl)
+For more info, [see here]({{< relref "snark_hunts.md" >}}) for more details.
 
 ### Working on Other Projects
 
