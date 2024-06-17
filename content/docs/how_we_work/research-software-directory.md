@@ -7,15 +7,15 @@ weight: 3
 
 # Research Software Directory
 
-## About 
+## About
 
-The [Research Software Directory](https://research-software-directory.org/)(RSD) is a content management system created by the Netherlands eScience Center. 
+The [Research Software Directory](https://research-software-directory.org/)(RSD) is a content management system created by the Netherlands eScience Center.
 It aims to promote the visibility, impact and reuse of research software and to encourage proper citation to ensure researchers and RSEs get credit for their work.
 
-We (REG) have set up a page for [The Alan Turing Institute](https://research-software-directory.org/organisations/the-alan-turing-institute) on the RSD. 
+We (REG) have set up a page for [The Alan Turing Institute](https://research-software-directory.org/organisations/the-alan-turing-institute) on the RSD.
 We hope that this page will be a place where we can showcase the variety of software the REG team have developed. This could be beneficial for ourselves, collaborators (past and present), and potential future hires - to get a feel for the kind of things the team/institute work on, or even spark new collaborations.
 
-As you can see, we've already added a few pieces of REG software to the Turing RSD. We're encouraging more people to do the same! 
+As you can see, we've already added a few pieces of REG software to the Turing RSD. We're encouraging more people to do the same!
 
 ## Getting Started
 
@@ -40,7 +40,7 @@ Once you have logged in to the RSD, you will need to send [one of the RSD admins
 
 ### What software should be added
 
-We would like the RSD to a place in which we can showcase REG software and so we suggest that only more polished software packages/libraries are added to it. 
+We would like the RSD to a place in which we can showcase REG software and so we suggest that only more polished software packages/libraries are added to it.
 This does not mean it needs to be perfect!
 
 ### How add software
