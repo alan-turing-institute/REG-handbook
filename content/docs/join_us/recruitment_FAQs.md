@@ -238,4 +238,4 @@ Becoming a member of REG will also bring the following benefits:
 Please contact the REG recruitment team ([reg-recruitment-info@turing.ac.uk](mailto:reg-recruitment-info@turing.ac.uk)) with any additional questions you may have.
 We also run monthly drop-in sessions where you can meet some of the current team and ask them questions face to face.
 These sessions will be hosted by team members who won't be involved in that month's interview process, and questions you ask at these sessions will have no influence on how your application is treated.
-To be informed of the details for these drop-in sessions, please register for the team's [recruitment newsletter](https://tinyletter.com/turing-reg-recruitment).
+To be informed of the details for these drop-in sessions, please register for the team's [recruitment newsletter](https://forms.office.com/e/vJy48fNJXB).
