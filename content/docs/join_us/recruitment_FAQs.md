@@ -31,9 +31,8 @@ Yes, the positions are open to applicants outside the UK and our HR team ([HR@tu
 
 ### Are you accepting remote applicants?
 
-Our team is currently trialling being remote-first and is minimising the amount of time people will be required to be in the office.
-Requirements for in-office attendance will depend on projects, but we will seek to match these to individual preferences wherever we can, and no team member will be asked to be in the office more than one day per week during the trial period.
-Note however that our members need to be based in the UK.
+Members need to be based in the UK.
+However, you do not need to be in the London office every day: almost all of our work is done in a hybrid manner, and we have team members as far away as Scotland and the South West of England.
 
 ### What would be the starting date?
 
@@ -42,7 +41,7 @@ However, we are looking to recruit multiple people and we are hiring for the lon
 
 ### How many open positions are available?
 
-We are looking to grow the team by up to 10 people at Standard level in this recruitment round, with the timing of recruitment dependent on finding the right candidates, project demand and the rate at which we can effectively support new starters in joining the team.
+To be determined.
 
 ### If my application was unsuccessful in the past, am I allowed to apply again this time?
 
@@ -66,7 +65,7 @@ More information can be found on [Mathison](https://mathison.turing.ac.uk/Intera
 We are really open to any domain, area of expertise, skill set that is broadly related to research data science or research software engineering.
 
 If you have experience or are interested in High Performance Computing, as part of the open positions, we are actively looking for new members of the team to work on that area as Research Computing Engineers.
-You can drop an email to the REG recruitment team ([reg-recruitment-info@turing.ac.uk](mailto:reg-recruitment-info@turing.ac.uk)) to learn more about it.
+You can drop an email to the REG recruitment team ([reg-recruitment-inbox@turing.ac.uk](mailto:reg-recruitment-inbox@turing.ac.uk)) to learn more about it.
 
 However, we are recruiting for multiple positions, and are interested in a wide range of skills and experience, so please do apply if you are interested and have experience relevant to research software engineering and data science, broadly defined.
 You can see the [range of projects](https://www.turing.ac.uk/research/research-engineering/reg-projects) the team works on and [backgrounds of current team members](https://www.turing.ac.uk/research/research-engineering/meet-the-team) on our website.
@@ -93,7 +92,7 @@ If you do not have a PhD degree but have worked for a few years and believe you 
 
 Such experience might include exposure to research projects, awareness of the importance of reproducible software and tools, working with or leading a team of people with different skill sets, deciding on how to best achieve an objective from a data science perspective, or presenting advice/results to an audience.
 We would like to hear about your prior experience in your cover letter.
-If you prefer, feel free to get in touch with the REG recruitment team ([reg-recruitment-info@turing.ac.uk](mailto:reg-recruitment-info@turing.ac.uk)) about this point.
+If you prefer, feel free to get in touch with the REG recruitment team ([reg-recruitment-inbox@turing.ac.uk](mailto:reg-recruitment-inbox@turing.ac.uk)) about this point.
 
 ### Would not having a PhD prevent me from career progression, in terms of becoming a Senior Research Data Scientist/Research Software Engineer at the Turing Institute?
 
@@ -107,7 +106,7 @@ The main difference between the Junior and Standard roles is that the Junior is 
 We consider candidates for the Standard position if they have a PhD or an equivalent working experience (meaning for instance a few years of work in a data scientist or software engineer position, in close contact with research projects).
 If you think you have enough experience you can apply to the Standard position and stress this in your cover letter.
 You can also apply to the Junior position and mention in your cover letter that you are also considering the Standard position, in case you feel your profile or working experience is in between the two.
-Feel free to get in touch with the REG recruitment team ([reg-recruitment-info@turing.ac.uk](mailto:reg-recruitment-info@turing.ac.uk)) about this point.
+Feel free to get in touch with the REG recruitment team ([reg-recruitment-inbox@turing.ac.uk](mailto:reg-recruitment-inbox@turing.ac.uk)) about this point.
 
 ### For the Junior post it states as Essential: "Fluency in one or more modern programming languages used in research in data science and artificial intelligence". In my case I am familiar with X, would my computing knowledge satisfy this criteria?
 
@@ -235,7 +234,8 @@ Becoming a member of REG will also bring the following benefits:
 
 ## My question is not answered here
 
-Please contact the REG recruitment team ([reg-recruitment-info@turing.ac.uk](mailto:reg-recruitment-info@turing.ac.uk)) with any additional questions you may have.
+Please contact the REG recruitment team ([reg-recruitment-inbox@turing.ac.uk](mailto:reg-recruitment-inbox@turing.ac.uk)) with any additional questions you may have.
 We also run monthly drop-in sessions where you can meet some of the current team and ask them questions face to face.
 These sessions will be hosted by team members who won't be involved in that month's interview process, and questions you ask at these sessions will have no influence on how your application is treated.
 To be informed of the details for these drop-in sessions, please register for the team's [recruitment newsletter](https://forms.office.com/e/vJy48fNJXB).
+(You can unsubscribe at any time via [this link](https://forms.office.com/e/P22MqUT0N3).)
