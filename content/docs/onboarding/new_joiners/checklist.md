@@ -62,7 +62,7 @@ If anything is unclear, please figure it out by e.g. asking your buddies, and th
 
 ## GitHub and communications
 
-- [ ] Get access to private GitHub repos (fill in [this form](https://forms.office.com/e/9rwSjBdfQp) and send your GitHub username to the person responsible for GitHub (see [The REGistry](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#documents)) to join the Alan Turing Organisation GitHub
+- [ ] Get access to private GitHub repos (fill in [this form](https://forms.office.com/e/9rwSjBdfQp) and send your GitHub username to the person responsible for GitHub (see [The REGistry](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#documents)) to join the `alan-turing-institute` GitHub organisation
 - [ ] Join Turing Slack
     - [ ] Go through public Slack channels, decide which ones to join
 - [ ] Request account on Harvest and Forecast by asking the the person in charge of researcher tool management, or your buddies to get you set up (to clarify, it is one account but allows you sign in to both) https://alan-turing-institute.github.io/REG-handbook/docs/onboarding/new_joiners/systems_set_up#harvest-and-forecast
@@ -71,7 +71,7 @@ If anything is unclear, please figure it out by e.g. asking your buddies, and th
 - [ ] Have a look at the [Service areas](https://github.com/alan-turing-institute/research-engineering-group/wiki/Service-areas). There is no pressure to join one right away so you can take some time talking to people and finding an area that interests you.
 - [ ] Add the [shared REG Calendar](https://github.com/alan-turing-institute/research-engineering-group/wiki/Shared-REG-Calendar) to Outlook
 - [ ] Familiarise yourself with how to [Book Rooms]({{< relref "/docs/working_at_the_turing/booking_a_meeting_room.md" >}})
-- [ ] Message [IT](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#points-of-contact) to upgrade Zoom account from Basic to Pro
+- [ ] Submit an [IT request](https://servicedesk.turing.ac.uk/esc?id=sc_cat_item&table=sc_cat_item&sys_id=00d62ee31b65f510808eea01b24bcbbe) to upgrade Zoom account from Basic to Pro
 - [ ] Send a short informal bio to the [REG newsletter owner](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#responsibilities).
 
 ## Sign up for ongoing activities

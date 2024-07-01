@@ -30,7 +30,8 @@ Note: Gather is blocked on the Turing VPN and on IT-managed computers.
 
 Unless requested from IT, you will have a "Basic" Zoom account.
 This allows you to create meetings for up to 40 minutes (unlimited for meetings with only 2 people).
-For meetings longer than this, an upgrade to a "Pro" account is needed. To request a pro account contact [IT Services](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#points-of-contact).
+For meetings longer than this, an upgrade to a "Pro" account is needed.
+To request a Pro account, submit a request on the [IT Service Desk](https://servicedesk.turing.ac.uk/esc?id=sc_cat_item&table=sc_cat_item&sys_id=00d62ee31b65f510808eea01b24bcbbe).
 
 We have a persistent REG Zoom meeting room, which we use for things like coffee breaks, tech talks and co-working.
 See [The REGistry](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#video-call-links) for the location.
