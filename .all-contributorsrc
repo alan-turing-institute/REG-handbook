@@ -329,6 +329,18 @@
         "ideas",
         "maintenance"
       ]
+    },
+    {
+      "login": "penelopeysm",
+      "name": "Penelope Yong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/122629585?v=4",
+      "profile": "https://github.com/penelopeysm",
+      "contributions": [
+        "content",
+        "ideas",
+        "maintenance",
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -337,5 +349,6 @@
   "repoType": "github",
   "repoHost": "https://github.com",
   "projectName": "REG-handbook",
-  "projectOwner": "alan-turing-institute"
+  "projectOwner": "alan-turing-institute",
+  "commitType": "docs"
 }
