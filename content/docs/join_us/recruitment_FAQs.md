@@ -19,7 +19,7 @@ Questions are grouped by:
 
 - [Application Stage](#application-stage)
 - [Profile](#profile)
-- [Position](#position)
+- [Role](#role)
 - [Interview](#interview)
 - [Offer](#offer)
 
@@ -29,17 +29,27 @@ Questions are grouped by:
 
 Yes, the positions are open to applicants outside the UK and our HR team ([HR@turing.ac.uk](mailto:HR@turing.ac.uk)) will be able to offer you additional information on the process of obtaining a working Visa.
 
+TODO: Check rules around minimum salary for SW visa and Junior role
+
 ### Are you accepting remote applicants?
 
 Members need to be based in the UK.
 However, you do not need to be in the London office every day: almost all of our work is done in a hybrid manner, and we have team members as far away as Scotland and the South West of England.
 
+TODO: Check if there is a contractual agreement to be in the office x days per month.
+
 ### What would be the starting date?
 
-We are keen to grow the team so would prefer if people can start within 3 months of an offer being made and would be happy for successful candidates to start sooner.
-However, we are looking to recruit multiple people and we are hiring for the long term, so we can support later starting dates if a successful candidate's circumstances require it.
+In the past, we have preferred that people start within 3 months of an offer being made; we are also happy for successful candidates to start sooner.
+Previous new joiners have started between .... and ..... after their interview.
+
+To be determined for upcoming recruitment rounds
 
 ### How many open positions are available?
+
+To be determined.
+
+### What roles are you currently hiring for?
 
 To be determined.
 
@@ -72,6 +82,14 @@ You can see the [range of projects](https://www.turing.ac.uk/research/research-e
 
 Some of the team have also been featured in project and institute spotlight interviews and the [Turing podcast](https://www.podbean.com/media/share/pb-vrci3-1366a21?utm_campaign=w_share_ep&utm_medium=dlink&utm_source=w_share) (including episodes on [AI for the Skies](https://www.podbean.com/media/share/pb-zzidx-d7bb24?utm_campaign=w_share_ep&utm_medium=dlink&utm_source=w_share), [Fantasy Football AI](https://www.podbean.com/media/share/pb-5afja-df2052?utm_campaign=w_share_ep&utm_medium=dlink&utm_source=w_share), [3D printed bridges](https://www.podbean.com/media/share/pb-qekh3-dfe740?utm_campaign=w_share_ep&utm_medium=dlink&utm_source=w_share), [Reproducible data science](https://www.podbean.com/media/share/pb-wxkjp-ecfa7f?utm_campaign=w_share_ep&utm_medium=dlink&utm_source=w_share), [The problems of AI](https://www.podbean.com/media/share/pb-dyq36-112350b?utm_campaign=w_share_ep&utm_medium=dlink&utm_source=w_share) and [Living with Machines](https://www.podbean.com/media/share/pb-s9das-1275eb2?utm_campaign=w_share_ep&utm_medium=dlink&utm_source=w_share)).
 
+### I don't have a physics / maths / computer science background. Is that okay?
+
+TODO: question about coming from a non- physics/maths/comp sci background
+
+### Do you support applications from people who are ...?
+
+Yes, ...
+
 ### What is a Research Computing Engineer?
 
 This role presents a new exciting opportunity to join the growing team of research computing experts at The Turing. The team assists the Turing community with designing, building, deploying, and maintaining research infrastructures, as well as providing service delivery and user support for the Institute’s research computing platforms. This is an opportunity for a technically-skilled professional with a good understanding of either cloud or high-performance computing (HPC), experience with both application and infrastructure, and an interest in facilitating and enhancing world-leading data science and AI research.
@@ -98,7 +116,20 @@ If you prefer, feel free to get in touch with the REG recruitment team ([reg-rec
 
 Absolutely not, our internal career progression is based on internal milestones and contributions to the group and the Turing community - do not worry about this at all.
 
-## Position
+
+
+## Role
+
+### What is a research software engineer?
+
+~~Someone who goes to RSECon~~
+
+TODO: define, compare against some other typical roles
+
+From previous list:
+
+- The opportunity to work and collaborate on cutting-edge data science projects with high-profile institutions, but with the benefits of working in a full-time position (better than a post-doc, better than many data science roles in industry).
+
 
 ### What is the difference between a Junior and a Standard role?
 
@@ -111,6 +142,23 @@ Feel free to get in touch with the REG recruitment team ([reg-recruitment-inbox@
 ### For the Junior post it states as Essential: "Fluency in one or more modern programming languages used in research in data science and artificial intelligence". In my case I am familiar with X, would my computing knowledge satisfy this criteria?
 
 Depending on the project, we work with different programming languages and different settings, so more than the programming languages you currently know the important aspect for us is the willingness and ability to pick up new languages along the way, based on your previous experience (especially in research and data analysis contexts).
+
+### What kind of projects do you work on in REG?
+
+TODO: Give some examples
+
+'Data science' vs 'software engineering' — explain the balance between these two 'categories' in the typical work that we do
+
+### What languages and technologies do you work with?
+
+TODO: Explain
+
+### How long do projects last for / how do you choose projects?
+
+TODO: Explain
+
+    We value providing the experience of learning something new in a collaborative setting, and prioritise staffing people onto projects they would like to work on rather than maximising the fit to people's prior experience.
+    Our group is made up of people with a wide range of skills and experiences and we generally find we can put together project teams with a suitable mix of skills from those who are enthusiastic about each project.
 
 ### Given the job profile in the REG team, what do REG members tend to transition to (for eg. Academics, or Industry, or something else)?
 
@@ -133,9 +181,43 @@ We would also expect team members that do lead their own projects to continue to
 Nevertheless, while a permanent role within REG is not meant for pursuing an independent research agenda, we highly encourage initiatives and are open to hear new ideas and contributions.
 So, if you think your project would benefit our group and the Turing (and vice-versa) you should highlight it in your cover letter.
 
+### What else do you do as part of REG?
+
+TODO: Explain 80/10/10 split
+
+TODO: Add link to EDI page
+
+- Support to team members with their development outside of projects, providing 20% time that is split evenly between self-directed development and getting involved in one of the group's or institute's service areas.
+  We support team members to attend conferences, workshops and courses, and there are many seminar series and interest groups at the Turing that team members are encouraged to get involved with, including the team’s own weekly [tech talks]({{< relref "docs/regular_events/lunchtime_tech_talks.md" >}}).
+  We also support team members making contributions to the wider ecosystem as part of their 20% time.
+  Examples include contributing to external [Open Source Hacksessions]({{< relref "docs/regular_events/open_source_hacksessions.md" >}}) and contributing to community groups like the [Society for Research Software Engineering]({{< relref "docs/onboarding/society_of_research_software_engineering.md" >}}).
+
+- Time specifically allocated to professional development [...]
+
+- The opportunity to get involved in non-project work through one of the team's service areas, some of which support the running of the team and some of which support the wider research community at the institute (for instance Recruitment, Planning and finance, Training, EDI, Communications, Research computing support, Research programme liaison).
+  Some service areas require significant support and will have core team members who have chosen these service areas instead of a full project workload, but all team members have a 10% allocation to volunteer for a service area of their choice.
+
+
+
+### Other benefits of the role
+
+TODO: Add links and expand as necessary
+
+TODO: Add wellbeing page
+
+Becoming a member of REG will also bring the following benefits:
+
+- Flexible working (see above)
+- Professional development time / budget (see above)
+- Strong input into which projects you work on as well as the overall direction of the group.
+  We run the team in an open, consultative and collaborative manner and almost all of our decision making on how we organise ourselves and develop the team is done in the open on our group GitHub with the opportunity for anyone in the team to contribute.
+- [Other benefits](https://www.turing.ac.uk/work-turing/why-work-turing/employee-benefits) include private healthcare and a 13% contribution to a defined contribution pension scheme (3% from the employee, 10% from the Turing).
+
 ## Interview
 
 ### Could you describe the interview process?
+
+TODO: Make this less intimidating
 
 As we mentioned in the job description, all interviews are currently held remotely.
 
@@ -144,6 +226,14 @@ In this interview, you will be expected to give a ten-minute presentation on cod
 Existing examples of work are encouraged as long as the code was substantially written by you.
 You should be prepared to answer questions about both the code and the research challenge it addresses or the algorithm it demonstrates.
 Any source code shared for the interview will be treated in the strictest of confidence.
+
+TODO: For example.....
+ - web app for nmr spectrometer code generation
+ - A single function showing a recursive calculation for ...
+ - https://github.com/KatrionaGoldmann/volcano3D :volcano: :three: :D
+ - a library :books: with tests, docs, etc  [nathan's example](https://github.com/gradhep/relaxed)
+ - TODO: find an RCP example? D L-J or TL?
+
 
 The second interview is usually held about one week later for successful candidates. This interview focusses on your previous experience and competencies for the role.
 There will also be a problem-solving discussion with the interview panel, where you may want to use paper and pen to arrive at an understanding of a proposed data analysis challenge.
@@ -198,39 +288,17 @@ The best thing you could do to be prepared is to eat well, take some long walks 
 
 ## Offer
 
-### What are the reasons of your job offer? Is the salary negotiable?
+### Is the offered salary negotiable?
 
 Fairness and transparency are key values for us and our goal is to avoid inequity by ensuring we are paying people the same salary for the same level of contribution to the team.
-**Our offers are not negotiable** and set by considering the level and applicability of each candidate’s experience relative to their future peers already working in the team.
+We make initial salary offers at 0/3, 1/3, and 2/3 through the advertised salary range, based on the level and applicability of each candidate’s experience relative to their future peers already working in the team.
+**Our offers are not negotiable.**
+
+### Separate PRP question?
 
 We have annual pay reviews, where we actively review the performance and development of each team member against the expectations of their position within their seniority band and make salary adjustments where these expectations are being exceeded.
 Additionally, the team is growing and there will be opportunities for people to progress in their career.
 
-Becoming a member of REG will also bring the following benefits:
-
-- Flexible working: we are currently trialling being a “remote-first” group for the entire decision-making process, but as the office is now fully re-opened members are free to choose how often they come into the office.
-
-- The opportunity to work and collaborate on cutting-edge data science projects with high-profile institutions, but with the benefits of working in a full-time position (better than a post-doc, better than many data science roles in industry).
-
-- Strong input into which projects you work on.
-  We value providing the experience of learning something new in a collaborative setting, and prioritise staffing people onto projects they would like to work on rather than maximising the fit to people's prior experience.
-  Our group is made up of people with a wide range of skills and experiences and we generally find we can put together project teams with a suitable mix of skills from those who are enthusiastic about each project.
-
-- Formal support for professional development via learning and development plans each team member develops with their line manager during the probation process, annual objective setting and regular 1-2-1s.
-  These learning plans feed into the projects people are allocated to and the roles and responsibilities they undertake within these.
-
-- Support to team members with their development outside of projects, providing 20% time that is split evenly between self-directed development and getting involved in one of the group's or institute's service areas.
-  We support team members to attend conferences, workshops and courses, and there are many seminar series and interest groups at the Turing that team members are encouraged to get involved with, including the team’s own weekly [tech talks]({{< relref "docs/regular_events/lunchtime_tech_talks.md" >}}).
-  We also support team members making contributions to the wider ecosystem as part of their 20% time.
-  Examples include contributing to external [Open Source Hacksessions]({{< relref "docs/regular_events/open_source_hacksessions.md" >}}) and contributing to community groups like the [Society for Research Software Engineering]({{< relref "docs/onboarding/society_of_research_software_engineering.md" >}}).
-
-- The opportunity to get involved in non-project work through one of the team's service areas, some of which support the running of the team and some of which support the wider research community at the institute (for instance Recruitment, Planning and finance, Training, EDI, Communications, Research computing support, Research programme liaison).
-  Some service areas require significant support and will have core team members who have chosen these service areas instead of a full project workload, but all team members have a 10% allocation to volunteer for a service area of their choice.
-
-- The opportunity to contribute to how the group works and grows.
-  We run the team in an open, consultative and collaborative manner and almost all of our decision making on how we organise ourselves and develop the team is done in the open on our group GitHub with the opportunity for anyone in the team to contribute.
-
-- [Other benefits](https://www.turing.ac.uk/work-turing/why-work-turing/employee-benefits) include private healthcare and a 13% contribution to a defined contribution pension scheme (3% from the employee, 10% from the Turing).
 
 ## My question is not answered here
 
