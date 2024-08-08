@@ -56,18 +56,6 @@
       ]
     },
     {
-      "login": "yongrenjie",
-      "name": "Jonathan Yong",
-      "avatar_url": "https://avatars.githubusercontent.com/u/22414895?v=4",
-      "profile": "https://github.com/yongrenjie",
-      "contributions": [
-        "content",
-        "ideas",
-        "maintenance",
-        "review"
-      ]
-    },
-    {
       "login": "LydiaFrance",
       "name": "Lydia France",
       "avatar_url": "https://avatars.githubusercontent.com/u/85945427?v=4",
@@ -209,7 +197,8 @@
       "contributions": [
         "review",
         "ideas",
-        "maintenance"
+        "maintenance",
+        "content"
       ]
     },
     {
@@ -299,7 +288,8 @@
       "profile": "https://edchalstrey.com/",
       "contributions": [
         "ideas",
-        "maintenance"
+        "maintenance",
+        "review"
       ]
     },
     {
@@ -339,7 +329,20 @@
       "profile": "https://github.com/rwood-97",
       "contributions": [
         "ideas",
-        "maintenance"
+        "maintenance",
+        "content"
+      ]
+    },
+    {
+      "login": "penelopeysm",
+      "name": "Penelope Yong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/122629585?v=4",
+      "profile": "https://github.com/penelopeysm",
+      "contributions": [
+        "content",
+        "ideas",
+        "maintenance",
+        "review"
       ]
     }
   ],
@@ -349,5 +352,6 @@
   "repoType": "github",
   "repoHost": "https://github.com",
   "projectName": "REG-handbook",
-  "projectOwner": "alan-turing-institute"
+  "projectOwner": "alan-turing-institute",
+  "commitType": "docs"
 }
