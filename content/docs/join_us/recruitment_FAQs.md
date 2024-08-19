@@ -29,19 +29,18 @@ Questions are grouped by:
 
 Yes, the positions are open to applicants outside the UK and our HR team ([HR@turing.ac.uk](mailto:HR@turing.ac.uk)) will be able to offer you additional information on the process of obtaining a working Visa.
 
-TODO: Check rules around minimum salary for SW visa and Junior role
 
 ### Are you accepting remote applicants?
 
 Members need to be based in the UK.
 However, you do not need to be in the London office every day: almost all of our work is done in a hybrid manner, and we have team members as far away as Scotland and the South West of England.
+It is expected that you will be in the office 4 times a month, and there are two events through the year where we encourage everyone to come in: the away days (2 days in February) and Hack Week (1 week in June).
 
-TODO: Check if there is a contractual agreement to be in the office x days per month.
 
 ### What would be the starting date?
 
-In the past, we have preferred that people start within 3 months of an offer being made; we are also happy for successful candidates to start sooner.
-Previous new joiners have started between .... and ..... after their interview.
+In the past, we have preferred that people start within three months of an offer being made; we are also happy for successful candidates to start sooner.
+Previous new joiners have started between one month and ..... after their interview.
 
 To be determined for upcoming recruitment rounds
 
@@ -51,7 +50,20 @@ To be determined.
 
 ### What roles are you currently hiring for?
 
-To be determined.
+The roles within our team are **Research Data Scientist** (RDS), **Research Software Engineer** (RSE), and **Research Computing Engineer** (RCE).
+You can read more about these roles [here](https://www.turing.ac.uk/research/research-engineering/meet-the-team).
+
+The RDS and RSE roles form part of the same job description; the skillset we look for is the same and there is no difference as to the projects you are given when you join.
+You are given a choice of which job title you prefer when starting.
+You can also change your job title later if you feel that the other is a more accurate description.
+
+For this recruitment round, we will be hiring at Junior, Standard, and Senior levels.
+The difference between these are explained in the respective job descriptions.
+If you think you have enough experience to apply for the higher position, you can do so.
+You can also apply to the more junior role and mention in your cover letter that you are also considering more senior position, in case you feel your profile or working experience is between the two.
+
+TODO: Check with Eric whether every application at a given level will also be considered at the other levels if more appropriate.
+
 
 ### If my application was unsuccessful in the past, am I allowed to apply again this time?
 
@@ -62,11 +74,15 @@ In general, we suggest to wait for at least one year before applying again.
 
 ### Does the Turing cover relocation and visa costs?
 
-Yes.
-The Turing recognises that relocating and applying for a visa have different associated costs and therefore will provide support for both.
+Yes; the Turing recognises that relocating and applying for a visa have different associated costs and therefore will provide support for both.
+The Turing will reimburse up to:
+ - £4000 for the cost of a visa application (including the NHS immigration surcharge);
+ - £2000 for relocation costs (if you are moving from Europe or the UK, as long as the move is over 50 miles); and
+ - £4000 for relocation costs (if you are moving from further overseas).
+
 All claims should be submitted within a year of the employment start date to Finance.
-For existing staff, visa claims should be submitted within one year of the visa renewal or amendment.
-More information can be found on [Mathison](https://mathison.turing.ac.uk/Interact/Pages/Section/ContentListing.aspx?subsection=4141&utm_source=interact&utm_medium=quick_search&utm_term=relocation).
+kor existing staff, visa claims should be submitted within one year of the visa renewal or amendment.
+More information for existing staff can be found on [Mathison](https://mathison.turing.ac.uk/Interact/Pages/Section/ContentListing.aspx?subsection=4141&utm_source=interact&utm_medium=quick_search&utm_term=relocation).
 
 ## Profile
 
@@ -90,11 +106,6 @@ TODO: question about coming from a non- physics/maths/comp sci background
 
 Yes, ...
 
-### What is a Research Computing Engineer?
-
-This role presents a new exciting opportunity to join the growing team of research computing experts at The Turing. The team assists the Turing community with designing, building, deploying, and maintaining research infrastructures, as well as providing service delivery and user support for the Institute’s research computing platforms. This is an opportunity for a technically-skilled professional with a good understanding of either cloud or high-performance computing (HPC), experience with both application and infrastructure, and an interest in facilitating and enhancing world-leading data science and AI research.
-You will build tools and automation to eliminate mundane operations and craft repeatable processes. As part of the team, you will also work with other research software engineers and data scientists on various projects and will participate in all phases of cloud / HPC development, from requirements-capture, definition, and design; to development, deployment, and maintenance; to performance tuning and monitoring. You are also expected to keep up-to-date with the latest cutting-edge developments, and/or make use of the UK’s most advanced computing facilities like Dawn, ARCHER 2, JADE 2, and Baskerville.
-
 ### Should the cover letter address each of the skills and requirements in the person specification section of the job description?
 
 It is important that the cover letter, in conjunction with the CV, highlights the requirements listed as "check at Application" on the Person Specification, and shows a (general) understanding of the role of a research data scientist or software engineer.
@@ -108,14 +119,13 @@ Also, it is important to highlight:
 
 If you do not have a PhD degree but have worked for a few years and believe you have gained the essential skills mentioned in the Person Specification, we encourage you to apply!
 
-Such experience might include exposure to research projects, awareness of the importance of reproducible software and tools, working with or leading a team of people with different skill sets, deciding on how to best achieve an objective from a data science perspective, or presenting advice/results to an audience.
+Such experience might include exposure to research projects, awareness of the importance of reproducible software and tools, working with or leading a team of people with different skillsets, deciding on how to best achieve an objective from a data science perspective, or presenting advice/results to an audience.
 We would like to hear about your prior experience in your cover letter.
 If you prefer, feel free to get in touch with the REG recruitment team ([reg-recruitment-inbox@turing.ac.uk](mailto:reg-recruitment-inbox@turing.ac.uk)) about this point.
 
 ### Would not having a PhD prevent me from career progression, in terms of becoming a Senior Research Data Scientist/Research Software Engineer at the Turing Institute?
 
 Absolutely not, our internal career progression is based on internal milestones and contributions to the group and the Turing community - do not worry about this at all.
-
 
 
 ## Role
@@ -130,6 +140,14 @@ From previous list:
 
 - The opportunity to work and collaborate on cutting-edge data science projects with high-profile institutions, but with the benefits of working in a full-time position (better than a post-doc, better than many data science roles in industry).
 
+### What is a Research Computing Engineer?
+
+This role presents a new exciting opportunity to join the growing team of research computing experts at the Turing.
+The team assists the Turing community with designing, building, deploying, and maintaining research infrastructures, as well as providing service delivery and user support for the Institute’s research computing platforms.
+This is an opportunity for a technically-skilled professional with a good understanding of either cloud or high-performance computing (HPC), experience with both application and infrastructure, and an interest in facilitating and enhancing world-leading data science and AI research.
+You will build tools and automation to eliminate mundane operations and craft repeatable processes.
+As part of the team, you will also work with other research software engineers and data scientists on various projects and will participate in all phases of cloud / HPC development, from requirements-capture, definition, and design; to development, deployment, and maintenance; to performance tuning and monitoring.
+You are also expected to keep up-to-date with the latest cutting-edge developments, and/or make use of the UK’s most advanced computing facilities like Dawn, ARCHER 2, JADE 2, and Baskerville.
 
 ### What is the difference between a Junior and a Standard role?
 
@@ -145,20 +163,52 @@ Depending on the project, we work with different programming languages and diffe
 
 ### What kind of projects do you work on in REG?
 
-TODO: Give some examples
+The projects at the Turing largely fall into three themes, namely Environment and Sustainability; Health; and Defence and National Security.
+These projects tend to revolve around the _application_ of data science and AI to solve challenges in these areas.
+Examples of past projects in these areas are:
+ - E&S example please
+ - Health example please
+ - D&NS example please
 
-'Data science' vs 'software engineering' — explain the balance between these two 'categories' in the typical work that we do
+Apart from this, there are also projects which are based more on fundamental techniques in AI.
+One current project REG is involved in is probabilistic programming with [the Turing.jl library](https://github.com/TuringLang/Turing.jl), where we are working to develop new functionality and improve the performance of the library.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### What languages and technologies do you work with?
+### What languages and technologies do you work with?
 
-TODO: Explain
+
 
 ### How long do projects last for / how do you choose projects?
 
-TODO: Explain
+The length of projects can vary significantly; some are as short as 3 months, and others have stayed on projects for multiple years. However, there is no requirement to stay on a project for it's entire lifespan, there are always options to rotate on to other projects.
 
-    We value providing the experience of learning something new in a collaborative setting, and prioritise staffing people onto projects they would like to work on rather than maximising the fit to people's prior experience.
-    Our group is made up of people with a wide range of skills and experiences and we generally find we can put together project teams with a suitable mix of skills from those who are enthusiastic about each project.
+Project allocations are made by a voting system.
+You will be given the chance to say which projects you are interested in working on, and you will (to the best of our ability) be placed on a project that you are keen on, rather than one that only matches your prior experience.
 
 ### Given the job profile in the REG team, what do REG members tend to transition to (for eg. Academics, or Industry, or something else)?
 
