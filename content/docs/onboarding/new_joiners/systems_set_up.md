@@ -93,10 +93,10 @@ Important channels to join:
 
 We use GitHub for most coordination.
 
-To get access to [the Turing GitHub](https://github.com/alan-turing-institute), create a GitHub account (or use an existing one), then fill this form on [Turing Complete](https://turingcomplete.topdesk.net/tas/public/ssp/content/serviceflow?unid=3844fabf8b1c45ca9028758a350ff230) with your GitHub handle (if you have access to Turing Complete).
+To get access to Turing GitHub, create a GitHub account (or use an existing one), and fill out [this MS Form](https://forms.office.com/e/9rwSjBdfQp) with your GitHub handle (if you have access to Turing Complete).
 Then let [the GitHub org controller](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#responsibilities) know that you have done this and they can add you straight away.
 
-Also check the [Project tracker](https://github.com/alan-turing-institute/Hut23/projects/2?) to get a feeling on what goes on. We use it to track official projects we are tasked with. This is where we express preferences for projects, with emojis. Project leads should be assigned to the relevant issue and are responsible for keeping the issue up to date. Check [this section]({{< ref "/content/docs/how_we_work/project_tracking.md" >}}) of the handbook for more details.
+Also check the [Project tracker](https://github.com/alan-turing-institute/Hut23/projects/2?) to get a feeling on what goes on. We use it to track official projects we are tasked with. This is where we express preferences for projects, with emojis. Project leads should be assigned to the relevant issue and are responsible for keeping the issue up to date. Check [this section]({{< relref "/docs/how_we_work/project_tracking.md" >}}) of the handbook for more details.
 
 ### Office 365 account
 

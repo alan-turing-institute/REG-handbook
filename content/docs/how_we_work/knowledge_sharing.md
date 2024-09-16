@@ -17,7 +17,7 @@ If you'd like to organise something the best options are usually to post to [Sla
 ### Github Hut23 Repo
 
 We use GitHub (and a couple of related tools) extensively for tracking projects and other tasks within the team.
-There is a [separate page describing how we use them]({{< ref "/content/docs/how_we_work/project_tracking.md" >}}).
+There is a [separate page describing how we use them]({{< relref "/docs/how_we_work/project_tracking.md" >}}).
 
 ### Coffee Breaks
 
@@ -83,7 +83,7 @@ If you have something you'd like to be included contact the [newsletter owner](h
 
 ### Hut23 Mailing List
 
-You should automatically be added to the `Hut23@turing.ac.uk` mailing list when you join REG (if not ask your line manager about it).
+You should automatically be added to the [Hut23 mailing list](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#points-of-contact) when you join REG (if not ask your line manager about it).
 This is often the best way to contact everyone in the team when organising events, or for other news/communication that should be a bit more permanent/formal than Slack and doesn't fit in an issue in the Hut23 repo.
 
 ## Less frequently or ad-hoc
@@ -120,16 +120,11 @@ See [this page]({{< relref "code_audits.md" >}}) for more details.
 
 ### Project retrospective - Snark Hunts
 
-A "Snark Hunt" is one way in which we've previously organised project retrospectives.
-We're open to trying other ideas too.
-
 Snark hunts are facilitated discussions after a project has finished where the project team, together with others from REG that didn't work on the project, answer/ask questions relating to the experience of working on it — what went well, what could have been better _etc._.
 We don't do it for every project, but they can be a good opportunity to reflect and to get ideas for what we should do differently/do more of in the future.
-For more info, see here:
+We're open to trying other ideas too!
 
-- [Snark Hunt concept](https://github.com/alan-turing-institute/Hut23/blob/master/strategy-and-planning/snark-hunting.md)
-- [Snark Hunt template and example questions](https://github.com/alan-turing-institute/Hut23/blob/master/strategy-and-planning/snark-hunting-template.md)
-- [Previous Snark Hunts](https://thealanturininstitute.sharepoint.com/:f:/s/ResearchEngineering/ElICSwf1rOJFj-ssePnMkOwBZmruJuRHnOKCSpC0M8QDUg?e=XGz6fl)
+For more info, [see here]({{< relref "snark_hunts.md" >}}) for more details.
 
 ### Working on Other Projects
 

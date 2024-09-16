@@ -27,7 +27,7 @@ There are many benefits to joining the SocRSE. By joining the Society you will:
 - Get discounted access to the Society's annual conference
 - Be eligible to vote and stand for election at the Society's annual AGM
 - Have your say in one of the Society's [special interest, regional or working groups](https://society-rse.org/community/get-involved/)
-- Be able to apply for the Society’s [mentorship scheme](https://society-rse.org/society-of-rse-mentoring-scheme-sign-up/)
+- Be able to apply for the Society’s [mentorship scheme](https://society-rse.org/get-involved/mentoring-scheme/)
 - Gain access to discounts from the Society's corporate sponsors
 
 ## Communication Channels
@@ -37,8 +37,7 @@ Their [Slack workspace](https://ukrse.slack.com/join/signup) contains plenty of 
 
 ## Claiming Back Subscriptions
 
-SocRSE membership is considered a professional subscription,
-which you're entitled to claim back as a REG member.
+SocRSE membership is considered a professional subscription, which you are entitled to claim back as a REG member.
 
 You should claim it back quickly after payment.
 Use Certify to claim it back following [these instructions](https://github.com/alan-turing-institute/research-engineering-group/wiki/Reclaiming-out-of-pocket-expenses#allocating-your-expenses-to-the-right-budget).

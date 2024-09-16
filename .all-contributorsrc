@@ -13,7 +13,9 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/7348440?v=4",
       "profile": "https://github.com/mastoffel",
       "contributions": [
-        "content"
+        "content",
+        "ideas",
+        "maintenance"
       ]
     },
     {
@@ -24,7 +26,8 @@
       "contributions": [
         "content",
         "ideas",
-        "review"
+        "review",
+        "maintenance"
       ]
     },
     {
@@ -34,7 +37,9 @@
       "profile": "http://mhauru.org",
       "contributions": [
         "content",
-        "ideas"
+        "ideas",
+        "review",
+        "maintenance"
       ]
     },
     {
@@ -51,22 +56,14 @@
       ]
     },
     {
-      "login": "yongrenjie",
-      "name": "Jonathan Yong",
-      "avatar_url": "https://avatars.githubusercontent.com/u/22414895?v=4",
-      "profile": "https://github.com/yongrenjie",
-      "contributions": [
-        "content",
-        "ideas"
-      ]
-    },
-    {
       "login": "LydiaFrance",
       "name": "Lydia France",
       "avatar_url": "https://avatars.githubusercontent.com/u/85945427?v=4",
       "profile": "https://github.com/LydiaFrance",
       "contributions": [
-        "content"
+        "content",
+        "ideas",
+        "maintenance"
       ]
     },
     {
@@ -103,7 +100,8 @@
         "ideas",
         "bug",
         "doc",
-        "review"
+        "review",
+        "maintenance"
       ]
     },
     {
@@ -113,7 +111,9 @@
       "profile": "https://katrionagoldmann.github.io/",
       "contributions": [
         "content",
-        "review"
+        "review",
+        "ideas",
+        "maintenance"
       ]
     },
     {
@@ -195,7 +195,10 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/5773962?v=4",
       "profile": "https://github.com/IFenton",
       "contributions": [
-        "review"
+        "review",
+        "ideas",
+        "maintenance",
+        "content"
       ]
     },
     {
@@ -206,7 +209,8 @@
       "contributions": [
         "ideas",
         "review",
-        "content"
+        "content",
+        "maintenance"
       ]
     },
     {
@@ -239,13 +243,15 @@
       ]
     },
     {
-      "login": "lbokeria",
+      "login": "LevanBokeria",
       "name": "Levan Bokeria",
       "avatar_url": "https://avatars.githubusercontent.com/u/7816766?v=4",
-      "profile": "https://github.com/lbokeria",
+      "profile": "https://github.com/LevanBokeria",
       "contributions": [
         "bug",
-        "content"
+        "content",
+        "ideas",
+        "maintenance"
       ]
     },
     {
@@ -274,6 +280,70 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "edwardchalstrey1",
+      "name": "Ed Chalstrey",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5486164?v=4",
+      "profile": "https://edchalstrey.com/",
+      "contributions": [
+        "ideas",
+        "maintenance",
+        "review"
+      ]
+    },
+    {
+      "login": "edchapman88",
+      "name": "Ed Chapman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93717706?v=4",
+      "profile": "https://github.com/edchapman88",
+      "contributions": [
+        "ideas",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "craddm",
+      "name": "Matt Craddock",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5796417?v=4",
+      "profile": "https://github.com/craddm",
+      "contributions": [
+        "ideas",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "phinate",
+      "name": "Nathan Simpson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49782545?v=4",
+      "profile": "https://github.com/phinate",
+      "contributions": [
+        "ideas",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "rwood-97",
+      "name": "Rosie Wood",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72076688?v=4",
+      "profile": "https://github.com/rwood-97",
+      "contributions": [
+        "ideas",
+        "maintenance",
+        "content"
+      ]
+    },
+    {
+      "login": "penelopeysm",
+      "name": "Penelope Yong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/122629585?v=4",
+      "profile": "https://github.com/penelopeysm",
+      "contributions": [
+        "content",
+        "ideas",
+        "maintenance",
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -282,5 +352,6 @@
   "repoType": "github",
   "repoHost": "https://github.com",
   "projectName": "REG-handbook",
-  "projectOwner": "alan-turing-institute"
+  "projectOwner": "alan-turing-institute",
+  "commitType": "docs"
 }
