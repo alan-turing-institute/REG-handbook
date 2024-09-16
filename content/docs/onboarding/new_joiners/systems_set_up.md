@@ -121,7 +121,6 @@ The steps to do this are described in the [homeworking policy on Mathison](https
 
 Additonal support items including, footrests, lumbar supports, mouse mats etc. can also be requested through the Facilities team upon completion of the [online workstation self-assessment form](https://mathison.turing.ac.uk/page/2810), up to the total cost of £50 per employee.
 
-
 ### Slack Channels
 
 Turing is a large organisation and there are many other channels you may want to join.
