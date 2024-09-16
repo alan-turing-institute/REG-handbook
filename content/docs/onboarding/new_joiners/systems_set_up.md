@@ -113,7 +113,7 @@ Here we have more information about how we use the high priority systems, and al
 
 New REG starters are entitled to a Dell 4k USB-C monitor, a keyboard, and a mouse.
 You can get this by filing a support ticket with IT.
-Contact the person in charge of onboarding for help with this.
+Contact [the person in charge of onboarding](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry) for help with this.
 
 There is a budget to purchase peripherals (monitor, mouse, keyboard, etc.) as well as other equipment such as an office chair and desk.
 You can purchase the office chair and desk yourself and claim back up to £200 in total via Certify.
