@@ -265,4 +265,3 @@ Take a look at the following sections:
 
 - [Regular Events]({{< relref "/docs/regular_events/_index.md" >}})
 - [Common Technical Practices]({{< relref "/docs/technical_practices/_index.md" >}})
-- [Equipment]({{< relref "/docs/working_at_the_turing/equipment.md" >}})
