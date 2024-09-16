@@ -29,20 +29,16 @@ Questions are grouped by:
 
 Yes, the positions are open to applicants outside the UK and our HR team ([HR@turing.ac.uk](mailto:HR@turing.ac.uk)) will be able to offer you additional information on the process of obtaining a working Visa.
 
-
 ### Are you accepting remote applicants?
 
 Members need to be based in the UK.
 However, you do not need to be in the London office every day: almost all of our work is done in a hybrid manner, and we have team members as far away as Scotland and the South West of England.
-It is expected that you will be in the office 4 times a month, and there are two events through the year where we encourage everyone to come in: the away days (2 days in February) and Hack Week (1 week in June).
-
+It is expected that you will be in the office four times a month, and there are two events through the year where we encourage everyone to come in: the Away Days (two days in February) and Hack Week (one week in June).
 
 ### What would be the starting date?
 
 In the past, we have preferred that people start within three months of an offer being made; we are also happy for successful candidates to start sooner.
-Previous new joiners have started between one month and ..... after their interview.
-
-To be determined for upcoming recruitment rounds
+<!-- TODO: Check shortest and longest time people have joined post-offer -->
 
 ### How many open positions are available?
 
@@ -61,9 +57,7 @@ For this recruitment round, we will be hiring at Junior, Standard, and Senior le
 The difference between these are explained in the respective job descriptions.
 If you think you have enough experience to apply for the higher position, you can do so.
 You can also apply to the more junior role and mention in your cover letter that you are also considering more senior position, in case you feel your profile or working experience is between the two.
-
-TODO: Check with Eric whether every application at a given level will also be considered at the other levels if more appropriate.
-
+<!-- TODO: Check with Eric whether every application at a given level will also be considered at the other levels if more appropriate. -->
 
 ### If my application was unsuccessful in the past, am I allowed to apply again this time?
 
@@ -83,6 +77,7 @@ The Turing will reimburse up to:
 All claims should be submitted within a year of the employment start date to Finance.
 kor existing staff, visa claims should be submitted within one year of the visa renewal or amendment.
 More information for existing staff can be found on [Mathison](https://mathison.turing.ac.uk/Interact/Pages/Section/ContentListing.aspx?subsection=4141&utm_source=interact&utm_medium=quick_search&utm_term=relocation).
+<!-- TODO: Add a handbook page on this and link to it here -->
 
 ## Profile
 
@@ -91,7 +86,7 @@ More information for existing staff can be found on [Mathison](https://mathison.
 We are really open to any domain, area of expertise, skill set that is broadly related to research data science or research software engineering.
 
 If you have experience or are interested in High Performance Computing, as part of the open positions, we are actively looking for new members of the team to work on that area as Research Computing Engineers.
-You can drop an email to the REG recruitment team ([reg-recruitment-inbox@turing.ac.uk](mailto:reg-recruitment-inbox@turing.ac.uk)) to learn more about it.
+You can drop an email to the REG recruitment team ([reg-recruitment-inbox@turing.ac.uk][recruitment]) to learn more about it.
 
 However, we are recruiting for multiple positions, and are interested in a wide range of skills and experience, so please do apply if you are interested and have experience relevant to research software engineering and data science, broadly defined.
 You can see the [range of projects](https://www.turing.ac.uk/research/research-engineering/reg-projects) the team works on and [backgrounds of current team members](https://www.turing.ac.uk/research/research-engineering/meet-the-team) on our website.
@@ -100,11 +95,19 @@ Some of the team have also been featured in project and institute spotlight inte
 
 ### I don't have a physics / maths / computer science background. Is that okay?
 
-TODO: question about coming from a non- physics/maths/comp sci background
+That is completely fine.
+Our team includes people with backgrounds in chemistry and biology, as well as the social sciences.
 
-### Do you support applications from people who are ...?
+In practice, we do not often work on projects that align closely with our own academic backgrounds.
+As long as you are willing to pick up new skills and domains as you go along, your own background will not be a barrier.
 
-Yes, ...
+### I'm a woman / person of colour / LGBTQ+ / person with disabilities / part of an underrepresented groups. Am I welcome to apply?
+
+Very much so!
+As a team, we are committed to creating a diverse and inclusive environment, and are always open to ways that we can improve this.
+
+You can read about a sample of the EDI initiatives in REG and the Turing on [this page]({{< relref "docs/working_at_the_turing/edi" >}}).
+Also, if you would like to speak to somebody in REG (in confidence) about this before applying, please do get in touch with the [REG recruitment team][recruitment].
 
 ### Should the cover letter address each of the skills and requirements in the person specification section of the job description?
 
@@ -121,7 +124,7 @@ If you do not have a PhD degree but have worked for a few years and believe you 
 
 Such experience might include exposure to research projects, awareness of the importance of reproducible software and tools, working with or leading a team of people with different skillsets, deciding on how to best achieve an objective from a data science perspective, or presenting advice/results to an audience.
 We would like to hear about your prior experience in your cover letter.
-If you prefer, feel free to get in touch with the REG recruitment team ([reg-recruitment-inbox@turing.ac.uk](mailto:reg-recruitment-inbox@turing.ac.uk)) about this point.
+If you prefer, feel free to get in touch with the REG recruitment team ([reg-recruitment-inbox@turing.ac.uk][recruitment]) about this point.
 
 ### Would not having a PhD prevent me from career progression, in terms of becoming a Senior Research Data Scientist/Research Software Engineer at the Turing Institute?
 
@@ -132,13 +135,17 @@ Absolutely not, our internal career progression is based on internal milestones 
 
 ### What is a research software engineer?
 
-~~Someone who goes to RSECon~~
+The RSE role is fundamentally about using skills in data science and/or software engineering to support research projects.
 
-TODO: define, compare against some other typical roles
+Compared to a traditional academic postdoctoral role, a RSE is typically more likely to:
 
-From previous list:
+ - focus on the software aspects of a project, with a particular emphasis on writing good code that is maintainable and reproducible (as opposed to the bare minimum needed to get a scientific result)
+ - be involved in a wider range of projects, often moving between different projects on a timescale of months to years
+ - be less involved in writing academic papers or grants, as these are less relevant metrics for career progression
+<!-- TODO: compare against SWE role in industry too -->
 
-- The opportunity to work and collaborate on cutting-edge data science projects with high-profile institutions, but with the benefits of working in a full-time position (better than a post-doc, better than many data science roles in industry).
+For more information, you can read this page on the UKRSE website: [What is a Research Software Engineer?](https://ukrse.github.io/who.html).
+(The UKRSE has since become the [Society of Research Software Engineering](https://society-rse.org/), but their new website doesn't have as thorough a description of the role.)
 
 ### What is a Research Computing Engineer?
 
@@ -155,57 +162,29 @@ The main difference between the Junior and Standard roles is that the Junior is 
 We consider candidates for the Standard position if they have a PhD or an equivalent working experience (meaning for instance a few years of work in a data scientist or software engineer position, in close contact with research projects).
 If you think you have enough experience you can apply to the Standard position and stress this in your cover letter.
 You can also apply to the Junior position and mention in your cover letter that you are also considering the Standard position, in case you feel your profile or working experience is in between the two.
-Feel free to get in touch with the REG recruitment team ([reg-recruitment-inbox@turing.ac.uk](mailto:reg-recruitment-inbox@turing.ac.uk)) about this point.
-
-### For the Junior post it states as Essential: "Fluency in one or more modern programming languages used in research in data science and artificial intelligence". In my case I am familiar with X, would my computing knowledge satisfy this criteria?
-
-Depending on the project, we work with different programming languages and different settings, so more than the programming languages you currently know the important aspect for us is the willingness and ability to pick up new languages along the way, based on your previous experience (especially in research and data analysis contexts).
+Feel free to get in touch with the REG recruitment team ([reg-recruitment-inbox@turing.ac.uk][recruitment]) about this point.
 
 ### What kind of projects do you work on in REG?
 
 The projects at the Turing largely fall into three themes, namely Environment and Sustainability; Health; and Defence and National Security.
 These projects tend to revolve around the _application_ of data science and AI to solve challenges in these areas.
-Examples of past projects in these areas are:
- - E&S example please
- - Health example please
- - D&NS example please
+Apart from this, there are also projects in foundational research in data science and AI.
 
-Apart from this, there are also projects which are based more on fundamental techniques in AI.
-One current project REG is involved in is probabilistic programming with [the Turing.jl library](https://github.com/TuringLang/Turing.jl), where we are working to develop new functionality and improve the performance of the library.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+You can see a list of projects we are currently working on on [our website](https://alan-turing-institute.github.io/REG/).
 
 ### What languages and technologies do you work with?
-### What languages and technologies do you work with?
 
+The primary language we use in REG is Python.
 
+However, depending on the project, we work with different programming languages and different settings, so more than the programming languages you currently know the important aspect for us is the willingness and ability to pick up new languages along the way, based on your previous experience (especially in research and data analysis contexts).
+
+You can see an (unscientifically generated) word cloud of the languages and technologies we use in REG here:
+
+![wordcloud](https://raw.githubusercontent.com/alan-turing-institute/REG/main/src/assets/wordcloud.png)
 
 ### How long do projects last for / how do you choose projects?
 
-The length of projects can vary significantly; some are as short as 3 months, and others have stayed on projects for multiple years. However, there is no requirement to stay on a project for it's entire lifespan, there are always options to rotate on to other projects.
+The length of projects can vary significantly; some are as short as 3 months, and others have stayed on projects for multiple years. However, there is no requirement to stay on a project for its entire lifespan; there are always options to rotate onto other projects.
 
 Project allocations are made by a voting system.
 You will be given the chance to say which projects you are interested in working on, and you will (to the best of our ability) be placed on a project that you are keen on, rather than one that only matches your prior experience.
@@ -352,8 +331,10 @@ Additionally, the team is growing and there will be opportunities for people to 
 
 ## My question is not answered here
 
-Please contact the REG recruitment team ([reg-recruitment-inbox@turing.ac.uk](mailto:reg-recruitment-inbox@turing.ac.uk)) with any additional questions you may have.
+Please contact the REG recruitment team ([reg-recruitment-inbox@turing.ac.uk][recruitment]) with any additional questions you may have.
 We also run monthly drop-in sessions where you can meet some of the current team and ask them questions face to face.
 These sessions will be hosted by team members who won't be involved in that month's interview process, and questions you ask at these sessions will have no influence on how your application is treated.
 To be informed of the details for these drop-in sessions, please register for the team's [recruitment newsletter](https://forms.office.com/e/vJy48fNJXB).
 (You can unsubscribe at any time via [this link](https://forms.office.com/e/P22MqUT0N3).)
+
+[recruitment]: mailto:reg-recruitment-inbox@turing.ac.uk
