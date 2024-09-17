@@ -33,7 +33,7 @@ Yes, the positions are open to applicants outside the UK and our HR team ([HR@tu
 
 Members need to be based in the UK.
 However, you do not need to be in the London office every day: almost all of our work is done in a hybrid manner, and we have team members as far away as Scotland and the South West of England.
-It is expected that you will be in the office four times a month, and there are two events through the year where we encourage everyone to come in: the Away Days (two days in February) and Hack Week (one week in June).
+It is (at least on paper) expected that you will be in the office four days a month, and there are two events through the year where we encourage everyone to come in: the Away Days (two days in February) and Hack Week (one week in June).
 
 ### What would be the starting date?
 
@@ -147,7 +147,7 @@ Compared to a traditional academic postdoctoral role, a RSE is typically more li
 For more information, you can read this page on the UKRSE website: [What is a Research Software Engineer?](https://ukrse.github.io/who.html).
 (The UKRSE has since become the [Society of Research Software Engineering](https://society-rse.org/), but their new website doesn't have as thorough a description of the role.)
 
-### What is a Research Computing Engineer?
+### What is a research computing engineer?
 
 This role presents a new exciting opportunity to join the growing team of research computing experts at the Turing.
 The team assists the Turing community with designing, building, deploying, and maintaining research infrastructures, as well as providing service delivery and user support for the Institute’s research computing platforms.
@@ -172,6 +172,15 @@ Apart from this, there are also projects in foundational research in data scienc
 
 You can see a list of projects we are currently working on on [our website](https://alan-turing-institute.github.io/REG/).
 
+### Are working hours flexible?
+
+Formally, the Turing's core working hours are between 10 and 4.
+Most people would work these hours plus some additional time on either side.
+However, in practice we are extremely flexible around working hours.
+Much of our work is done asynchronously, and does not require everyone to be online at the same time.
+
+We are especially aware that team members may have responsibilities (e.g. childcare) which can make it difficult to work a typical 9–5 schedule.
+
 ### What languages and technologies do you work with?
 
 The primary language we use in REG is Python.
@@ -184,12 +193,12 @@ You can see an (unscientifically generated) word cloud of the languages and tech
 
 ### How long do projects last for / how do you choose projects?
 
-The length of projects can vary significantly; some are as short as 3 months, and others have stayed on projects for multiple years. However, there is no requirement to stay on a project for its entire lifespan; there are always options to rotate onto other projects.
+The length of projects can vary significantly; some are as short as three months, and others have stayed on projects for multiple years. However, there is no requirement to stay on a project for its entire lifespan; there are always options to rotate onto other projects.
 
 Project allocations are made by a voting system.
 You will be given the chance to say which projects you are interested in working on, and you will (to the best of our ability) be placed on a project that you are keen on, rather than one that only matches your prior experience.
 
-### Given the job profile in the REG team, what do REG members tend to transition to (for eg. Academics, or Industry, or something else)?
+### Given the job profile in the REG team, what other careers do REG members tend to transition to (e.g. academia, industry, or something else)?
 
 We have only had a few members of the team who have moved on with their career trajectory so far.
 To read about some of their career paths you can visit our [REG alumni page](https://www.turing.ac.uk/research/research-engineering/reg-alumni).
@@ -202,72 +211,60 @@ The team's role at the Turing is to collaborate with institute researchers to su
 It is much, much more usual for team members to be working on other people's projects than their own.
 If you would like to prioritise pursuing your own research agenda at the Turing there are [other types of positions](https://www.turing.ac.uk/opportunities-turing) at the Institute that allow you to do this.
 
+<!-- TODO: This probably needs an update from Martin or somebody senior; I'm not sure if this is really true in T2.0 -->
 However, we are keen to support team members in pursuing their careers, including developing and leading projects.
 We would generally expect these to be projects that would be a sufficiently good fit for the team and the Turing that we would take them on even if the particular team member was not involved.
 
 We would also expect team members that do lead their own projects to continue to work collaboratively with others in REG and the Institute. We would therefore not expect people to be bought out more than 50% on their own project and would expect the project to involve other members of the team or the Institute.
 
-Nevertheless, while a permanent role within REG is not meant for pursuing an independent research agenda, we highly encourage initiatives and are open to hear new ideas and contributions.
-So, if you think your project would benefit our group and the Turing (and vice-versa) you should highlight it in your cover letter.
+Although a permanent role within REG is not meant for pursuing an independent research agenda, we highly encourage initiatives and are open to hear new ideas and contributions.
+So, if you think your project would benefit our group and the Turing (and vice versa) you should highlight it in your cover letter.
 
 ### What else do you do as part of REG?
 
-TODO: Explain 80/10/10 split
+80% of our time is formally allocated to project work.
+Apart from this, we also have 10% of our time set aside for personal development as well as 10% for internal team responsibilities ('service areas').
+There is also a yearly budget for professional development, which all team members can draw on.
 
-TODO: Add link to EDI page
+Things done as part of personal development can include:
+- Attending conferences, workshops, or courses
+- Participating in seminar series and interest groups at the Turing, including the team’s own weekly [tech talks]({{< relref "docs/regular_events/lunchtime_tech_talks.md" >}})
+- Contributing to [open source code]({{< relref "docs/regular_events/open_source_hacksessions.md" >}}) and community groups such as the [Society for Research Software Engineering]({{< relref "docs/onboarding/society_of_research_software_engineering.md" >}}).
 
-- Support to team members with their development outside of projects, providing 20% time that is split evenly between self-directed development and getting involved in one of the group's or institute's service areas.
-  We support team members to attend conferences, workshops and courses, and there are many seminar series and interest groups at the Turing that team members are encouraged to get involved with, including the team’s own weekly [tech talks]({{< relref "docs/regular_events/lunchtime_tech_talks.md" >}}).
-  We also support team members making contributions to the wider ecosystem as part of their 20% time.
-  Examples include contributing to external [Open Source Hacksessions]({{< relref "docs/regular_events/open_source_hacksessions.md" >}}) and contributing to community groups like the [Society for Research Software Engineering]({{< relref "docs/onboarding/society_of_research_software_engineering.md" >}}).
-
-- Time specifically allocated to professional development [...]
-
-- The opportunity to get involved in non-project work through one of the team's service areas, some of which support the running of the team and some of which support the wider research community at the institute (for instance Recruitment, Planning and finance, Training, EDI, Communications, Research computing support, Research programme liaison).
-  Some service areas require significant support and will have core team members who have chosen these service areas instead of a full project workload, but all team members have a 10% allocation to volunteer for a service area of their choice.
+The team's service areas are diverse, and work can include both internal and external activities.
+This list is not exhaustive, but some examples include:
+- Recruitment (overseeing the entire hiring process, including writing these FAQs!)
+- Equality, diversity, and inclusion (see the [EDI page]({{< relref "docs/working_at_the_turing/edi" >}}) for some info)
+- Research computing support (providing members of the Turing with training and support on using high-performance computing resources)
+- Communications (social media and outreach)
+- Research programming support (running [drop-in sessions]({{< relref "docs/regular_events/drop-in_sessions" >}}) for people at the Turing)
+- Knowledge sharing (organising our [tech talks]({{< relref "docs/regular_events/lunchtime_tech_talks.md" >}}))
 
 ### Other benefits of the role
 
-TODO: Add links and expand as necessary
+Some of the benefits of working in REG have already been covered in other questions (for example, [flexible working](#are-working-hours-flexible), [having strong input into the projects you work on](#how-long-do-projects-last-for--how-do-you-choose-projects), and [time for professional development](#what-else-do-you-do-as-part-of-reg)).
 
-TODO: Add wellbeing page
-
-Becoming a member of REG will also bring the following benefits:
-
-- Flexible working (see above)
-- Professional development time / budget (see above)
-- Strong input into which projects you work on as well as the overall direction of the group.
-  We run the team in an open, consultative and collaborative manner and almost all of our decision making on how we organise ourselves and develop the team is done in the open on our group GitHub with the opportunity for anyone in the team to contribute.
-- [Other benefits](https://www.turing.ac.uk/work-turing/why-work-turing/employee-benefits) include private healthcare and a 13% contribution to a defined contribution pension scheme (3% from the employee, 10% from the Turing).
+Other benefits include mental health support and private healthcare ([the wellbeing page]({{< relref "docs/working_at_the_turing/wellbeing" >}}) has a fuller description of the support available at the Turing), as well as a 13% contribution to a defined contribution pension scheme (3% from the employee, 10% from the Turing).
+  More employee benefits are listed on [the Turing's website](https://www.turing.ac.uk/work-turing/why-work-turing/employee-only-benefits-guide).
 
 ## Interview
 
 ### Could you describe the interview process?
 
-TODO: Make this less intimidating
-
-As we mentioned in the job description, all interviews are currently held remotely.
+As mentioned in the job description, all interviews are held remotely.
 
 We operate a two-stage interview process. If you are successful at the screening stage, you will be asked to attend the first interview via video call.
-In this interview, you will be expected to give a ten-minute presentation on code you have written that either demonstrates an algorithm that you consider important in data science or illustrates your use of good research software engineering practices.
-Existing examples of work are encouraged as long as the code was substantially written by you.
-You should be prepared to answer questions about both the code and the research challenge it addresses or the algorithm it demonstrates.
-Any source code shared for the interview will be treated in the strictest of confidence.
+In this interview, you will be expected to give a ten-minute presentation on code you have written to address a specific research question.
+This code should ideally illustrate your use of good research software engineering practices; however, imperfect code is totally fine as long as you can discuss what you would improve and why.
 
-TODO: For example.....
-
-- web app for nmr spectrometer code generation
-- A single function showing a recursive calculation for ...
-- https://github.com/KatrionaGoldmann/volcano3D :volcano: :three: :D
-- a library :books: with tests, docs, etc  [nathan's example](https://github.com/gradhep/relaxed)
-- TODO: find an RCP example? D L-J or TL?
+More information about this presentation can be found in the next sections.
 
 The second interview is usually held about one week later for successful candidates. This interview focusses on your previous experience and competencies for the role.
 There will also be a problem-solving discussion with the interview panel, where you may want to use paper and pen to arrive at an understanding of a proposed data analysis challenge.
 
 In both interviews, there will be the opportunity to ask questions about the role and the team.
 
-### Does the algorithm need to be written entirely by me?
+### Tell me more about this code presentation...
 
 In the first interview we expect you to demonstrate your ability to write code for addressing a data science task in a reproducible manner and/or to use good software engineering practices for developing research software.
 This could be done by presenting a data analysis script or piece of research software written entirely by you, or by presenting a larger piece of research software you have made a significant contribution to.
@@ -277,24 +274,32 @@ Using existing libraries that implement algorithms you are using is fine (and go
 1. the underlying algorithms or methods your code is implementing or using, and
 1. the research domain or question for which you are applying them.
 
-### Can you give any more detail on what the panel expect from the algorithm which will be presented - does it need to meet any certain criteria, for example have a certain level of complexity?
+We will not evaluate you on the complexity of the algorithm, but in your understanding of its implementation, awareness of its potential drawbacks, and its overall appropriateness to solve the problem you are trying to address.
 
-In the first interview we expect you to demonstrate your ability to write code for addressing a data science task and/or to use good research software engineering practices for ensuring research reproducibility.
-This could be done by presenting for instance a data analysis script written by you, where you would describe us the implementation and answer some general questions.
-The adopted algorithms can be ones available in existing software libraries, integrated for instance in a data analysis workflow, but they can also be written by you if you prefer.
+You can write new code specifically for the interview if you so choose, but existing examples of work are encouraged, as long as the code was substantially written by you.
+You should be prepared to answer questions about both the code and the research challenge it addresses or the algorithm it demonstrates.
+Any source code shared for the interview will be treated in the strictest of confidence.
 
-We will not evaluate you on the complexity of the algorithm, but in your understanding of its implementation, awareness of its potential downfall and its overall appropriateness to solve the problem you are trying to address.
+### What sort of code have previous candidates presented?
 
-### Will I be only explaining the algorithm / analysis / software, or running it and discussing the results?
+We collected several examples of code that have been presented by current team members in their interviews.
+Many of these are libraries, but there are also examples of scripts or notebooks which are smaller in nature.
 
-You will be presenting your chosen analysis, algorithm or software and its implementation, but you should be able to talk about the results of the analysis or the performance of the software.
-It would be useful to be able to run the code to generate results, but we recognise this is not always reasonable in an interview setting. If this is not not feasible then you should bring some previously generated results so that we can have a conversation around inputs and outputs.
-The discussion will likely touch on the performance of the algorithm in terms of e.g. speed, accuracy or range of applicability, but our goal is to evaluate your understanding of the algorithm, analysis or software and its implementation rather than to assess you on the performance of your particular implementation.
+- [An R package for statistical analysis and visualisation of biological data (primarily gene expression)](https://github.com/KatrionaGoldmann/volcano3D)
+- [A Python library for differentiable programming in high-energy physics](https://github.com/gradhep/relaxed)
+- [A web app for NMR spectrometer code generation](https://github.com/yongrenjie/genesis)
+<!-- TODO: more; though it's probably better to explicitly ask for permission -->
 
-### Should the presentation be verbal only or should I produce some materials alongside it - would the committee prefer presentation directly from an IDE, or using a presentation software?
+### Will I be only explaining the code, or running it and discussing the results? Should it be accompanied by other materials (e.g. a slideshow)?
 
-You should be able to show and (potentially) run the code (this could be using Jupyter notebooks, Rmarkdown, a mix of an IDE and the command line).
-You are welcome to include any other material that could be useful for supporting your presentation.
+You should ideally able to show and run the code, using any means you are comfortable with: for example, Jupyter notebooks, Rmarkdown, an IDE, or the command line.
+We recognise, though, that it is not always possible to run the code in an interview setting.
+If this is not feasible, you should bring some previously generated results so that we can have a conversation around inputs and outputs.
+
+The discussion will likely touch on the performance of your code in terms of e.g. speed, accuracy, or range of applicability.
+However, our main goal is to evaluate your understanding of the code and general software engineering practices, rather than assessing the performance of your particular implementation.
+
+You are welcome to include any other material (such as slides) if you feel it is useful for supporting your presentation or providing context.
 
 ### What will the problem solving aspect of the second interview involve? Will I be asked about particular data science or machine learning approaches? Will I need to write code or explain the details of an algorithm's implementation?
 
@@ -321,11 +326,10 @@ Fairness and transparency are key values for us and our goal is to avoid inequit
 We make initial salary offers at 0/3, 1/3, and 2/3 through the advertised salary range, based on the level and applicability of each candidate’s experience relative to their future peers already working in the team.
 **Our offers are not negotiable.**
 
-### Separate PRP question?
+### What is salary progression like in the role?
 
-We have annual pay reviews, where we actively review the performance and development of each team member against the expectations of their position within their seniority band and make salary adjustments where these expectations are being exceeded.
-Additionally, the team is growing and there will be opportunities for people to progress in their career.
-
+Each year, there is a cost of living increase which is applied to all Turing employees.
+On top of this, we also have annual pay reviews, where we actively review the performance and development of each team member against the expectations of their position within their seniority band, making salary adjustments where these expectations are being exceeded.
 
 ## My question is not answered here
 
