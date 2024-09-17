@@ -1,6 +1,58 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Common Technical Practices on REG Handbook</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/technical_practices/</link><description>Recent content in Common Technical Practices on REG Handbook</description><generator>Hugo</generator><language>en-gb</language><atom:link href="https://alan-turing-institute.github.io/REG-handbook/docs/technical_practices/index.xml" rel="self" type="application/rss+xml"/><item><title>Changelogs and Semantic Versioning</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/technical_practices/change_logs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/technical_practices/change_logs/</guid><description>Changelogs # For any non-trivial code, it is worth maintaining a Changelog. This is valuable as it is a record of changes from the perspective of users (rather than git commit messages which are often only meaningful to the developers involved). A recommended format for Changelog files is given at Keep a changelog. All notable changes to a project should be documented in this file.
-Semantic Versioning # A related concept is semantic versioning.</description></item><item><title>Python Tools and Practices</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/technical_practices/python/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/technical_practices/python/</guid><description>Python Tools and Practices # Python is a widely used language within REG. Below are some useful tools to help you configure your repo (with links to examples).
-Some of the topics discussed below are not exclusive to Python. As more content is added to the manual they should be separated out into their own pages. Autoformatters / Linters # There are many widely used autoformatter and linters for Python, which can be used as standalone tools or call from .</description></item><item><title>Configuring Your Editor</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/technical_practices/configuring_editors/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/technical_practices/configuring_editors/</guid><description>Configuring Your Editor # Many people will configure their editor to suit their own needs and preferences.
-It is possible to do this so that there are common standards between collaborators in the code base, while allowing for differences in individuals&amp;rsquo; configurations.
-Some of the topics discussed below are heavily focused on python development. In due course we should generalise this to cover other languages. General # Some common, particular formatting/encoding options can be configured for a range of editors/IDEs by using EditorConfig in your repo.</description></item><item><title>Software Development</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/technical_practices/software_dev_best_practice/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/technical_practices/software_dev_best_practice/</guid><description>Software Development Best Practices # Status: this document is a draft proposal.
-RSE projects # There should be a GitHub issue for each thing we do. It’s ok for issues to evolve and my preference would be that the top description box always has the most up to date, clearest description of the issue and its definition of done. Feel free to make liberal use of the comments for communication and tracking investigative / exploratory work.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Common Technical Practices on REG Handbook</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/technical_practices/</link><description>Recent content in Common Technical Practices on REG Handbook</description><generator>Hugo</generator><language>en-gb</language><atom:link href="https://alan-turing-institute.github.io/REG-handbook/docs/technical_practices/index.xml" rel="self" type="application/rss+xml"/><item><title>Changelogs and Semantic Versioning</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/technical_practices/change_logs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/technical_practices/change_logs/</guid><description>&lt;h1 id="changelogs">
+ Changelogs
+ &lt;a class="anchor" href="#changelogs">#&lt;/a>
+&lt;/h1>
+&lt;p>For any non-trivial code, it is worth maintaining a Changelog.
+This is valuable as it is a record of changes &lt;em>from the perspective of users&lt;/em> (rather than git commit messages which are often only meaningful to the developers involved).
+A recommended format for Changelog files is given at &lt;a href="https://keepachangelog.com">Keep a changelog&lt;/a>.
+All notable changes to a project should be documented in this file.&lt;/p>
+&lt;h2 id="semantic-versioning">
+ Semantic Versioning
+ &lt;a class="anchor" href="#semantic-versioning">#&lt;/a>
+&lt;/h2>
+&lt;p>A related concept is &lt;a href="https://semver.org/spec/v2.0.0.html">semantic versioning&lt;/a>.
+In most cases, semantic versioning is recommended.
+You should state explicitly whether or not you are using semantic versioning in both your project&amp;rsquo;s README and CHANGELOG files.&lt;/p></description></item><item><title>Python Tools and Practices</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/technical_practices/python/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/technical_practices/python/</guid><description>&lt;h1 id="python-tools-and-practices">
+ Python Tools and Practices
+ &lt;a class="anchor" href="#python-tools-and-practices">#&lt;/a>
+&lt;/h1>
+&lt;p>Python is a widely used language within REG.
+Below are some useful tools to help you configure your repo (with links to examples).&lt;/p>
+&lt;blockquote class="book-hint warning">
+ Some of the topics discussed below are not exclusive to Python. As more content is added to the manual they should be separated out into their own pages.
+&lt;/blockquote>
+
+&lt;h2 id="autoformatters--linters">
+ Autoformatters / Linters
+ &lt;a class="anchor" href="#autoformatters--linters">#&lt;/a>
+&lt;/h2>
+&lt;p>There are many widely used autoformatter and linters for Python, which can be used as standalone tools or call from &lt;code>.pre-commit&lt;/code>, continuous integration tools &lt;em>etc.&lt;/em>:&lt;/p></description></item><item><title>Configuring Your Editor</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/technical_practices/configuring_editors/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/technical_practices/configuring_editors/</guid><description>&lt;h1 id="configuring-your-editor">
+ Configuring Your Editor
+ &lt;a class="anchor" href="#configuring-your-editor">#&lt;/a>
+&lt;/h1>
+&lt;p>Many people will configure their editor to suit their own needs and preferences.&lt;/p>
+&lt;p>It is possible to do this so that there are common standards between collaborators in the code base, while allowing for differences in individuals&amp;rsquo; configurations.&lt;/p>
+&lt;blockquote class="book-hint warning">
+ Some of the topics discussed below are heavily focused on python development. In due course we should generalise this to cover other languages.
+&lt;/blockquote>
+
+&lt;h2 id="general">
+ General
+ &lt;a class="anchor" href="#general">#&lt;/a>
+&lt;/h2>
+&lt;p>Some common, particular formatting/encoding options can be configured for a range of editors/IDEs by using &lt;a href="https://editorconfig.org">EditorConfig&lt;/a> in your repo.
+A &lt;code>.editorconfig&lt;/code> needs to be placed in the root of your repo.&lt;/p></description></item><item><title>Software Development</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/technical_practices/software_dev_best_practice/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/technical_practices/software_dev_best_practice/</guid><description>&lt;h1 id="software-development-best-practices">
+ Software Development Best Practices
+ &lt;a class="anchor" href="#software-development-best-practices">#&lt;/a>
+&lt;/h1>
+&lt;p>&lt;em>Status:&lt;/em> this document is a draft proposal.&lt;/p>
+&lt;h2 id="rse-projects">
+ RSE projects
+ &lt;a class="anchor" href="#rse-projects">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>There should be a GitHub issue for each thing we do.
+It’s ok for issues to evolve and my preference would be that the top description box always has the most up to date, clearest description of the issue and its definition of done.
+Feel free to make liberal use of the comments for communication and tracking investigative / exploratory work.
+The main description box should contain a clear definition of done / acceptance criteria sufficient for the following to be done in principle by different people from the team who are involved in the project.&lt;/p></description></item></channel></rss>

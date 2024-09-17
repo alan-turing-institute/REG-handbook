@@ -1,16 +1,149 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Contributing on REG Handbook</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/</link><description>Recent content in Contributing on REG Handbook</description><generator>Hugo</generator><language>en-gb</language><atom:link href="https://alan-turing-institute.github.io/REG-handbook/docs/contributing/index.xml" rel="self" type="application/rss+xml"/><item><title>Discussions and Issues</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/discussions_and_issues/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/discussions_and_issues/</guid><description>Discussions and Issues # Contributing does not only mean adding code or writing pages. Being involved in reporting issues and discussing ideas are important and valuable aspects to contributing. The handbook uses both issues and discussions on GitHub.
-Discussions # The Discussions on the handbook repository are the best place for informal talk about the handbook.
-You should feel welcome to create a discussion on any relevant topic, without the formality of an issue.</description></item><item><title>Recognising Contributions</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/recognising_contributions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/recognising_contributions/</guid><description>Recognising Contributions # We aim to recognise all contributions to the handbook, not just those made through commits. For that purpose we use All Contributors to help manage a record of who has contributed to the book and how.
-Use the &amp;lsquo;add&amp;rsquo; command in an issue or pull-request comment to ask @all-contributors to add a contributor
-@all-contributors please add @&amp;lt;username&amp;gt; for &amp;lt;contributions&amp;gt; See the bot usage documentation for full details and more examples.</description></item><item><title>Getting Started</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/getting_started/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/getting_started/</guid><description>Getting Started # Install dependencies # To contribute to the handbook you will need
-Git Hugo (You will need the extended version with Sass/SCSS support) Your favourite text editor Optionally pre-commit; see Making Changes for more details. Clone the repository # Clone the repository with one of the following options (depending on how you authenticate with GitHub):
-SSH authentication git clone --recurse-submodules git@github.com:alan-turing-institute/REG-handbook.git cd REG-handbook HTTPS authentication git clone --recurse-submodules https://github.</description></item><item><title>Style Guide</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/style_guide/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/style_guide/</guid><description>Style Guide # Semantic Line Breaks # It is encouraged to use Semantic Line Breaks when writing for the handbook. This improves the readability of source files and make diffs clearer. The Semantic Line Breaks specification explains the rules and reasoning. The most important rules are,
-A semantic line break MUST occur after a sentence, as punctuated by a period (.), exclamation mark (!), or question mark (?). A semantic line break SHOULD occur after an independent clause as punctuated by a comma (,), semicolon (;), colon (:), or em dash (—).</description></item><item><title>Adding New Content</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/creating_a_page/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/creating_a_page/</guid><description>Adding New Content # How Hugo Arranges Content # Pages are built from content files in the content/ directory. Hugo automatically gives pages a URL based on the organisation of files in the content/ directory.
-In Hugo, the first directory after content/ is significant and defines the content type. All handbook pages should be nested in the content/docs/ directory.
-Sections may be created in content/docs/ (to any depth) by creating a directory containing a content file called _index.</description></item><item><title>Editing a Page</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/editing_a_page/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/editing_a_page/</guid><description>Editing a Page # If you followed the instructions in the Getting Started section to checkout the repository and serve the handbook locally you can edit a page locally. However, as you may have noticed, at the bottom of each page is a link to edit the page in the GitHub web editor if you would prefer. This may be easy for making small changes.
-Pages # Each page is a Markdown file with YAML front matter followed by the page contents in Markdown.</description></item><item><title>Contributing Changes</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/contributing_changes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/contributing_changes/</guid><description>Contributing Changes # Once you have made changes, you will need to contribute them back to the remote repository. This page explains the process of pushing your changes back to the remote, and how your contribution will be checked in the CI and review process.
-The handbook uses the GitHub flow workflow. In short:
-create a branch make changes open pull request review merge to main This workflow should help changes be deployed quickly.</description></item><item><title>Reviewing Changes</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/reviewing_changes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/reviewing_changes/</guid><description>Reviewing Changes # The review process helps to ensure high quality and catch problems in contributions. When acting as a reviewer, you should see your position as sharing your knowledge and working with the contributors to achieve the best possible result. Reviewing should not be an adversarial process.
-Recognising Contributions # When reviewing a pull request you should try to make sure everyone&amp;rsquo;s work is recognised. See the Recognising Contributions page for how to do this.</description></item><item><title>Advanced</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/advanced/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/advanced/</guid><description>Advanced # Using Data # Through using templates Hugo can build page content from datafiles. This is particularly useful for when you want to display structured data in a page and when it would be easier to maintain a datafile rather than a Markdown or HTML document.
-Creating Shortcodes # It is possible to create your own shortcodes. These should be placed in layouts/shortcodes/ .
-If you feel the need to use HTML or want to create page content from a datafile (like a YAML file or csv) then a shortcode is probably the right answer.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Contributing on REG Handbook</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/</link><description>Recent content in Contributing on REG Handbook</description><generator>Hugo</generator><language>en-gb</language><atom:link href="https://alan-turing-institute.github.io/REG-handbook/docs/contributing/index.xml" rel="self" type="application/rss+xml"/><item><title>Discussions and Issues</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/discussions_and_issues/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/discussions_and_issues/</guid><description>&lt;h1 id="discussions-and-issues">
+ Discussions and Issues
+ &lt;a class="anchor" href="#discussions-and-issues">#&lt;/a>
+&lt;/h1>
+&lt;p>Contributing does not only mean adding code or writing pages.
+Being involved in reporting issues and discussing ideas are important and valuable aspects to contributing.
+The handbook uses both issues and discussions on GitHub.&lt;/p>
+&lt;h2 id="discussions">
+ Discussions
+ &lt;a class="anchor" href="#discussions">#&lt;/a>
+&lt;/h2>
+&lt;p>&lt;a href="https://github.com/alan-turing-institute/REG-handbook/discussions">The &lt;em>Discussions&lt;/em> on the handbook repository&lt;/a> are the best place for informal talk about the handbook.&lt;/p>
+&lt;p>You should feel welcome to create a discussion on any relevant topic, without the formality of an issue.&lt;/p></description></item><item><title>Recognising Contributions</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/recognising_contributions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/recognising_contributions/</guid><description>&lt;h1 id="recognising-contributions">
+ Recognising Contributions
+ &lt;a class="anchor" href="#recognising-contributions">#&lt;/a>
+&lt;/h1>
+&lt;p>We aim to recognise all contributions to the handbook, not just those made through commits.
+For that purpose we use &lt;a href="https://allcontributors.org/">All Contributors&lt;/a> to help manage a record of who has contributed to the book and how.&lt;/p>
+&lt;p>Use the &amp;lsquo;add&amp;rsquo; command in an issue or pull-request comment to ask @all-contributors to add a contributor&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-text" data-lang="text">&lt;span style="display:flex;">&lt;span>@all-contributors please add @&amp;lt;username&amp;gt; for &amp;lt;contributions&amp;gt;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>See the &lt;a href="https://allcontributors.org/docs/en/bot/usage">bot usage documentation&lt;/a> for full details and more examples.
+A list of contribution types (and the related emoji) can be seen &lt;a href="https://allcontributors.org/docs/en/emoji-key">here&lt;/a>.&lt;/p></description></item><item><title>Getting Started</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/getting_started/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/getting_started/</guid><description>&lt;h1 id="getting-started">
+ Getting Started
+ &lt;a class="anchor" href="#getting-started">#&lt;/a>
+&lt;/h1>
+&lt;h2 id="install-dependencies">
+ Install dependencies
+ &lt;a class="anchor" href="#install-dependencies">#&lt;/a>
+&lt;/h2>
+&lt;p>To contribute to the handbook you will need&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://git-scm.com/downloads">Git&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://gohugo.io/getting-started/installing/">Hugo&lt;/a> (You will need the extended version with Sass/SCSS support)&lt;/li>
+&lt;li>Your favourite text editor&lt;/li>
+&lt;li>Optionally &lt;a href="https://pre-commit.com/">pre-commit&lt;/a>; see &lt;a href="https://alan-turing-institute.github.io/REG-handbook/REG-handbook/docs/contributing/contributing_changes/#making-changes">Making Changes&lt;/a> for more details.&lt;/li>
+&lt;/ul>
+&lt;h2 id="clone-the-repository">
+ Clone the repository
+ &lt;a class="anchor" href="#clone-the-repository">#&lt;/a>
+&lt;/h2>
+&lt;p>Clone the repository with one of the following options (depending on how you authenticate with GitHub):&lt;/p>
+
+
+
+
+&lt;div class="book-tabs">&lt;input type="radio" class="toggle" name="tabs-clone-command" id="tabs-clone-command-0" checked="checked" />
+ &lt;label for="tabs-clone-command-0">SSH authentication&lt;/label>
+ &lt;div class="book-tabs-content markdown-inner">&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>git clone --recurse-submodules git@github.com:alan-turing-institute/REG-handbook.git
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>cd REG-handbook
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;input type="radio" class="toggle" name="tabs-clone-command" id="tabs-clone-command-1" />
+ &lt;label for="tabs-clone-command-1">HTTPS authentication&lt;/label>
+ &lt;div class="book-tabs-content markdown-inner">&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>git clone --recurse-submodules https://github.com/alan-turing-institute/REG-handbook.git
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>cd REG-handbook
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;/div>
+
+&lt;p>The &lt;code>--recurse-submodules&lt;/code> flag is important as the handbook&amp;rsquo;s theme is included as a &lt;a href="https://git-scm.com/book/en/v2/Git-Tools-Submodules">Git submodule&lt;/a>.&lt;/p></description></item><item><title>Style Guide</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/style_guide/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/style_guide/</guid><description>&lt;h1 id="style-guide">
+ Style Guide
+ &lt;a class="anchor" href="#style-guide">#&lt;/a>
+&lt;/h1>
+&lt;h2 id="semantic-line-breaks">
+ Semantic Line Breaks
+ &lt;a class="anchor" href="#semantic-line-breaks">#&lt;/a>
+&lt;/h2>
+&lt;p>It is encouraged to use &lt;a href="https://sembr.org/">Semantic Line Breaks&lt;/a> when writing for the handbook.
+This improves the readability of source files and make diffs clearer.
+The Semantic Line Breaks &lt;a href="https://sembr.org">specification&lt;/a> explains the rules and reasoning.
+The most important rules are,&lt;/p>
+&lt;blockquote>
+&lt;ul>
+&lt;li>A semantic line break MUST occur after a sentence, as punctuated by a period (.), exclamation mark (!), or question mark (?).&lt;/li>
+&lt;li>A semantic line break SHOULD occur after an independent clause as punctuated by a comma (,), semicolon (;), colon (:), or em dash (—).&lt;/li>
+&lt;li>A semantic line break MAY occur after a dependent clause in order to clarify grammatical structure or satisfy line length constraints.&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;h2 id="markdown">
+ Markdown
+ &lt;a class="anchor" href="#markdown">#&lt;/a>
+&lt;/h2>
+&lt;p>Whenever possible, the handbook&amp;rsquo;s prose should be written in Markdown rather than HTML.
+However, it is completely reasonable use HTML when it is needed.
+When it is advantageous, data should be &lt;a href="https://gohugo.io/templates/data-templates/">stored in data files and processed using shortcodes&lt;/a> rather than presented in raw Markdown.&lt;/p></description></item><item><title>Adding New Content</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/creating_a_page/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/creating_a_page/</guid><description>&lt;h1 id="adding-new-content">
+ Adding New Content
+ &lt;a class="anchor" href="#adding-new-content">#&lt;/a>
+&lt;/h1>
+&lt;h2 id="how-hugo-arranges-content">
+ How Hugo Arranges Content
+ &lt;a class="anchor" href="#how-hugo-arranges-content">#&lt;/a>
+&lt;/h2>
+&lt;p>Pages are built from content files in the &lt;a href="https://github.com/alan-turing-institute/REG-handbook/tree/main/content/">&lt;code>content/&lt;/code>&lt;/a>
+directory.
+Hugo automatically gives pages a URL based on the organisation of files in the &lt;code>content/&lt;/code> directory.&lt;/p>
+&lt;p>In Hugo, the first directory after &lt;code>content/&lt;/code> is significant and &lt;a href="https://gohugo.io/content-management/sections/">defines the content type&lt;/a>.
+All handbook pages should be nested in the &lt;code>content/docs/&lt;/code> directory.&lt;/p>
+&lt;p>Sections may be created in &lt;code>content/docs/&lt;/code> (to any depth) by creating a directory containing a content file called &lt;code>_index.md&lt;/code>.&lt;/p></description></item><item><title>Editing a Page</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/editing_a_page/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/editing_a_page/</guid><description>&lt;h1 id="editing-a-page">
+ Editing a Page
+ &lt;a class="anchor" href="#editing-a-page">#&lt;/a>
+&lt;/h1>
+&lt;p>If you followed the instructions in the &lt;a href="https://alan-turing-institute.github.io/REG-handbook/docs/contributing/getting_started/">Getting Started section&lt;/a> to checkout the repository and serve the handbook locally you can edit a page locally.
+However, as you may have noticed, at the bottom of each page is a link to edit the page in the GitHub web editor if you would prefer.
+This may be easy for making small changes.&lt;/p>
+&lt;h2 id="pages">
+ Pages
+ &lt;a class="anchor" href="#pages">#&lt;/a>
+&lt;/h2>
+&lt;p>Each page is a &lt;a href="https://www.markdownguide.org/">Markdown&lt;/a> file with &lt;a href="https://yaml.org/">YAML&lt;/a> front matter followed by the page contents in Markdown.&lt;/p></description></item><item><title>Contributing Changes</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/contributing_changes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/contributing_changes/</guid><description>&lt;h1 id="contributing-changes">
+ Contributing Changes
+ &lt;a class="anchor" href="#contributing-changes">#&lt;/a>
+&lt;/h1>
+&lt;p>Once you have made changes, you will need to contribute them back to the remote repository.
+This page explains the process of pushing your changes back to the remote, and how your contribution will be checked in the CI and review process.&lt;/p>
+&lt;p>The handbook uses the &lt;a href="https://docs.github.com/en/get-started/quickstart/github-flow">GitHub flow&lt;/a> workflow.
+In short:&lt;/p>
+&lt;ul>
+&lt;li>create a branch&lt;/li>
+&lt;li>make changes&lt;/li>
+&lt;li>open pull request&lt;/li>
+&lt;li>review&lt;/li>
+&lt;li>merge to &lt;code>main&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;p>This workflow should help changes be deployed quickly.&lt;/p></description></item><item><title>Reviewing Changes</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/reviewing_changes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/reviewing_changes/</guid><description>&lt;h1 id="reviewing-changes">
+ Reviewing Changes
+ &lt;a class="anchor" href="#reviewing-changes">#&lt;/a>
+&lt;/h1>
+&lt;p>The review process helps to ensure high quality and catch problems in contributions.
+When acting as a reviewer, you should see your position as sharing your knowledge and working with the contributors to achieve the best possible result.
+Reviewing should &lt;strong>not&lt;/strong> be an adversarial process.&lt;/p>
+&lt;h2 id="recognising-contributions">
+ Recognising Contributions
+ &lt;a class="anchor" href="#recognising-contributions">#&lt;/a>
+&lt;/h2>
+&lt;p>When reviewing a pull request you should try to make sure everyone&amp;rsquo;s work is recognised.
+See the &lt;a href="https://alan-turing-institute.github.io/REG-handbook/REG-handbook/docs/contributing/recognising_contributions/">Recognising Contributions&lt;/a> page for how to do this.&lt;/p></description></item><item><title>Advanced</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/advanced/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/advanced/</guid><description>&lt;h1 id="advanced">
+ Advanced
+ &lt;a class="anchor" href="#advanced">#&lt;/a>
+&lt;/h1>
+&lt;h2 id="using-data">
+ Using Data
+ &lt;a class="anchor" href="#using-data">#&lt;/a>
+&lt;/h2>
+&lt;p>Through using templates Hugo can &lt;a href="https://gohugo.io/templates/data-templates/">build page content from datafiles&lt;/a>.
+This is particularly useful for when you want to display structured data in a page and when it would be easier to maintain a datafile rather than a Markdown or HTML document.&lt;/p>
+&lt;h2 id="creating-shortcodes">
+ Creating Shortcodes
+ &lt;a class="anchor" href="#creating-shortcodes">#&lt;/a>
+&lt;/h2>
+&lt;p>It is possible to &lt;a href="https://gohugo.io/templates/shortcode-templates/">create your own shortcodes&lt;/a>.
+These should be placed in &lt;a href="https://github.com/alan-turing-institute/REG-handbook/tree/main/layouts/shortcodes/">&lt;code>layouts/shortcodes/&lt;/code>&lt;/a>
+.&lt;/p>
+&lt;p>If you feel the need to use HTML or want to create page content from a datafile (like a YAML file or csv) then a shortcode is probably the right answer.&lt;/p></description></item></channel></rss>
