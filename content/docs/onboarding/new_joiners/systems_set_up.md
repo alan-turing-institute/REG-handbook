@@ -109,6 +109,18 @@ Ask [IT](https://github.com/alan-turing-institute/research-engineering-group/wik
 
 Here we have more information about how we use the high priority systems, and also other systems to explore.
 
+### Other office equipment
+
+New REG starters are entitled to a Dell 4k USB-C monitor, a keyboard, and a mouse.
+You can get this by filing a support ticket with IT.
+Contact [the person in charge of onboarding](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry) for help with this.
+
+There is a budget to purchase peripherals (monitor, mouse, keyboard, etc.) as well as other equipment such as an office chair and desk.
+You can purchase the office chair and desk yourself and claim back up to £200 in total via Certify.
+The steps to do this are described in the [homeworking policy on Mathison](https://mathison.turing.ac.uk/page/2218).
+
+Additonal support items including, footrests, lumbar supports, mouse mats etc. can also be requested through the Facilities team upon completion of the [online workstation self-assessment form](https://mathison.turing.ac.uk/page/2810), up to the total cost of £50 per employee.
+
 ### Slack Channels
 
 Turing is a large organisation and there are many other channels you may want to join.
@@ -252,4 +264,3 @@ Take a look at the following sections:
 
 - [Regular Events]({{< relref "/docs/regular_events/_index.md" >}})
 - [Common Technical Practices]({{< relref "/docs/technical_practices/_index.md" >}})
-- [Equipment]({{< relref "/docs/working_at_the_turing/equipment.md" >}})
