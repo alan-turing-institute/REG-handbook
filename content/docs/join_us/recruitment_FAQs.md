@@ -227,12 +227,14 @@ Apart from this, we also have 10% of our time set aside for personal development
 There is also a yearly budget for professional development, which all team members can draw on.
 
 Things done as part of personal development can include:
+
 - Attending conferences, workshops, or courses
 - Participating in seminar series and interest groups at the Turing, including the team’s own weekly [tech talks]({{< relref "docs/regular_events/lunchtime_tech_talks.md" >}})
 - Contributing to [open source code]({{< relref "docs/regular_events/open_source_hacksessions.md" >}}) and community groups such as the [Society for Research Software Engineering]({{< relref "docs/onboarding/society_of_research_software_engineering.md" >}}).
 
 The team's service areas are diverse, and work can include both internal and external activities.
 This list is not exhaustive, but some examples include:
+
 - Recruitment (overseeing the entire hiring process, including writing these FAQs!)
 - Equality, diversity, and inclusion (see the [EDI page]({{< relref "docs/working_at_the_turing/edi" >}}) for some info)
 - Research computing support (providing members of the Turing with training and support on using high-performance computing resources)
@@ -264,7 +266,7 @@ There will also be a problem-solving discussion with the interview panel, where 
 
 In both interviews, there will be the opportunity to ask questions about the role and the team.
 
-### Tell me more about this code presentation...
+### Tell me more about this code presentation.
 
 In the first interview we expect you to demonstrate your ability to write code for addressing a data science task in a reproducible manner and/or to use good software engineering practices for developing research software.
 This could be done by presenting a data analysis script or piece of research software written entirely by you, or by presenting a larger piece of research software you have made a significant contribution to.
@@ -288,6 +290,7 @@ Many of these are libraries, but there are also examples of scripts or notebooks
 - [An R package for statistical analysis and visualisation of biological data (primarily gene expression)](https://github.com/KatrionaGoldmann/volcano3D)
 - [A Python library for differentiable programming in high-energy physics](https://github.com/gradhep/relaxed)
 - [A web app for NMR spectrometer code generation](https://github.com/yongrenjie/genesis)
+
 <!-- TODO: more; though it's probably better to explicitly ask for permission -->
 
 ### Will I be only explaining the code, or running it and discussing the results? Should it be accompanied by other materials (e.g. a slideshow)?
