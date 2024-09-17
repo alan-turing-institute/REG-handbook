@@ -70,9 +70,10 @@ In general, we suggest to wait for at least one year before applying again.
 
 Yes; the Turing recognises that relocating and applying for a visa have different associated costs and therefore will provide support for both.
 The Turing will reimburse up to:
- - £4000 for the cost of a visa application (including the NHS immigration surcharge);
- - £2000 for relocation costs (if you are moving from Europe or the UK, as long as the move is over 50 miles); and
- - £4000 for relocation costs (if you are moving from further overseas).
+
+- £4000 for the cost of a visa application (including the NHS immigration surcharge);
+- £2000 for relocation costs (if you are moving from Europe or the UK, as long as the move is over 50 miles); and
+- £4000 for relocation costs (if you are moving from further overseas).
 
 All claims should be submitted within a year of the employment start date to Finance.
 kor existing staff, visa claims should be submitted within one year of the visa renewal or amendment.
@@ -130,7 +131,6 @@ If you prefer, feel free to get in touch with the REG recruitment team ([reg-rec
 
 Absolutely not, our internal career progression is based on internal milestones and contributions to the group and the Turing community - do not worry about this at all.
 
-
 ## Role
 
 ### What is a research software engineer?
@@ -139,11 +139,11 @@ The RSE role is fundamentally about using skills in data science and/or software
 
 Compared to a traditional academic postdoctoral role, a RSE is typically more likely to:
 
- - focus on the software aspects of a project, with a particular emphasis on writing good code that is maintainable and reproducible (as opposed to the bare minimum needed to get a scientific result)
- - be involved in a wider range of projects, often moving between different projects on a timescale of months to years
- - be less involved in writing academic papers or grants, as these are less relevant metrics for career progression
-<!-- TODO: compare against SWE role in industry too -->
+- focus on the software aspects of a project, with a particular emphasis on writing good code that is maintainable and reproducible (as opposed to the bare minimum needed to get a scientific result)
+- be involved in a wider range of projects, often moving between different projects on a timescale of months to years
+- be less involved in writing academic papers or grants, as these are less relevant metrics for career progression
 
+<!-- TODO: compare against SWE role in industry too -->
 For more information, you can read this page on the UKRSE website: [What is a Research Software Engineer?](https://ukrse.github.io/who.html).
 (The UKRSE has since become the [Society of Research Software Engineering](https://society-rse.org/), but their new website doesn't have as thorough a description of the role.)
 
@@ -226,8 +226,6 @@ TODO: Add link to EDI page
 - The opportunity to get involved in non-project work through one of the team's service areas, some of which support the running of the team and some of which support the wider research community at the institute (for instance Recruitment, Planning and finance, Training, EDI, Communications, Research computing support, Research programme liaison).
   Some service areas require significant support and will have core team members who have chosen these service areas instead of a full project workload, but all team members have a 10% allocation to volunteer for a service area of their choice.
 
-
-
 ### Other benefits of the role
 
 TODO: Add links and expand as necessary
@@ -257,12 +255,12 @@ You should be prepared to answer questions about both the code and the research 
 Any source code shared for the interview will be treated in the strictest of confidence.
 
 TODO: For example.....
- - web app for nmr spectrometer code generation
- - A single function showing a recursive calculation for ...
- - https://github.com/KatrionaGoldmann/volcano3D :volcano: :three: :D
- - a library :books: with tests, docs, etc  [nathan's example](https://github.com/gradhep/relaxed)
- - TODO: find an RCP example? D L-J or TL?
 
+- web app for nmr spectrometer code generation
+- A single function showing a recursive calculation for ...
+- https://github.com/KatrionaGoldmann/volcano3D :volcano: :three: :D
+- a library :books: with tests, docs, etc  [nathan's example](https://github.com/gradhep/relaxed)
+- TODO: find an RCP example? D L-J or TL?
 
 The second interview is usually held about one week later for successful candidates. This interview focusses on your previous experience and competencies for the role.
 There will also be a problem-solving discussion with the interview panel, where you may want to use paper and pen to arrive at an understanding of a proposed data analysis challenge.
