@@ -266,7 +266,7 @@ There will also be a problem-solving discussion with the interview panel, where 
 
 In both interviews, there will be the opportunity to ask questions about the role and the team.
 
-### Tell me more about this code presentation.
+### Can you tell me more about this code presentation?
 
 In the first interview we expect you to demonstrate your ability to write code for addressing a data science task in a reproducible manner and/or to use good software engineering practices for developing research software.
 This could be done by presenting a data analysis script or piece of research software written entirely by you, or by presenting a larger piece of research software you have made a significant contribution to.
