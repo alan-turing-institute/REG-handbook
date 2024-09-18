@@ -76,8 +76,7 @@ The Turing will reimburse up to:
 - £4000 for relocation costs (if you are moving from further overseas).
 
 All claims should be submitted within a year of the employment start date to Finance.
-kor existing staff, visa claims should be submitted within one year of the visa renewal or amendment.
-More information for existing staff can be found on [Mathison](https://mathison.turing.ac.uk/Interact/Pages/Section/ContentListing.aspx?subsection=4141&utm_source=interact&utm_medium=quick_search&utm_term=relocation).
+For existing staff, visa claims should be submitted within one year of the visa renewal or amendment: more information can be found on [Mathison](https://mathison.turing.ac.uk/Interact/Pages/Section/ContentListing.aspx?subsection=4141&utm_source=interact&utm_medium=quick_search&utm_term=relocation).
 <!-- TODO: Add a handbook page on this and link to it here -->
 
 ## Profile
@@ -285,13 +284,19 @@ Any source code shared for the interview will be treated in the strictest of con
 ### What sort of code have previous candidates presented?
 
 We collected several examples of code that have been presented by current team members in their interviews.
-Many of these are libraries, but there are also examples of scripts or notebooks which are smaller in nature.
+Some are scripts / notebooks which were put together specifically to demonstrate a particular technique for the interview:
 
-- [An R package for statistical analysis and visualisation of biological data (primarily gene expression)](https://github.com/KatrionaGoldmann/volcano3D)
-- [A Python library for differentiable programming in high-energy physics](https://github.com/gradhep/relaxed)
-- [A web app for NMR spectrometer code generation](https://github.com/yongrenjie/genesis)
+- A Jupyter notebook with a data analysis pipeline to solve an old Kaggle competition
+- A notebook (and module) demonstrating inference and analysis with a hidden Markov model using TensorFlow Probability, applied to synthetic healthcare data
 
-<!-- TODO: more; though it's probably better to explicitly ask for permission -->
+<!-- TODO: add more examples; I'm in the process of asking people for permission -->
+
+There are also examples of fully-fledged libraries / applications that were written as part of applicants' academic work, for example:
+
+- An R package for statistical analysis and visualisation of biological data (primarily gene expression) ([GitHub](https://github.com/KatrionaGoldmann/volcano3D))
+- A Python library for differentiable programming in high-energy physics ([GitHub](https://github.com/gradhep/relaxed))
+- A web app (plain TypeScript) for NMR spectrometer code generation ([GitHub](https://github.com/yongrenjie/genesis))
+- A Python library for tensors with internal symmetries ([GitHub](https://github.com/mhauru/abeliantensors))
 
 ### Will I be only explaining the code, or running it and discussing the results? Should it be accompanied by other materials (e.g. a slideshow)?
 
