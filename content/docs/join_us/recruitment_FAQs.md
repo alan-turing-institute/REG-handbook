@@ -27,7 +27,7 @@ Questions are grouped by:
 
 ### Is the position open to applicants outside of the UK who do not currently have a UK working Visa but could obtain one?
 
-Yes, the positions are open to applicants outside the UK and our HR team ([HR@turing.ac.uk](mailto:HR@turing.ac.uk)) will be able to offer you additional information on the process of obtaining a working Visa.
+Yes, the positions are open to applicants outside the UK and our recruitment team ([recruitment@turing.ac.uk](mailto:recruitment@turing.ac.uk)) will be able to offer you additional information on the process of obtaining a working Visa.
 
 ### Are you accepting remote applicants?
 
