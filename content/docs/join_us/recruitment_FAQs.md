@@ -241,6 +241,51 @@ This list is not exhaustive, but some examples include:
 - Research programming support (running [drop-in sessions]({{< relref "docs/regular_events/drop-in_sessions" >}}) for people at the Turing)
 - Knowledge sharing (organising our [tech talks]({{< relref "docs/regular_events/lunchtime_tech_talks.md" >}}))
 
+### Can you tell me more about what it is like working at The Alan Turing Institute?
+
+At The Turing, we want to make sure you feel comfortable and supported in how you work. Here’s a bit about what to expect:
+
+- **Hybrid Working:**
+  We only ask that you come into the office four days a month — the rest is up to you!
+  Some of the team work primarily remotely, while others come in every day.
+  We’ve set up our working style to be remote-first, ensuring that those not in the office aren’t at a disadvantage, so there’s no pressure or expectation to be in the office more than the minimum four days.
+  However, some team members have found that when they work remotely, they miss out on the informal water cooler chats or lunchtime conversations that happen in the office.
+  To help bridge the gap, we try to mitigate this with online randomised coffee chats and co-working sessions.
+  It is entirely up to you to decide what balance works best for your schedule and your preference for in-person connection.
+
+- **Flexible Hours:**
+  Our core hours are 10 am to 4 pm, but you’re free to work whenever works best for you.
+  Whether you’re an early bird or prefer working later, we trust you to manage your time in a way that fits your life and responsibilities.
+  We also understand that everyone has commitments — whether it’s a doctor’s appointment, picking up kids, or running errands — so taking time for those is completely fine.
+
+- **Work-Life Balance:**
+  We value a healthy work-life balance and believe you should be able to switch off outside of work.
+  There is no expectation to respond to emails or messages outside your working hours!
+  While there may be rare occasions when deadlines lead to higher workloads and longer hours, we encourage you to ensure that, on average, you work the correct number of hours and maintain a balance that works for you.
+
+- **Hot Desks:**
+  We use hot desks, meaning you can sit wherever you like when you’re in the office, on a first-come, first-served basis.
+  The Research Engineering Group typically sits near one another on the first floor.
+  If you need a permanent or bespoke workspace (such as standing/adjustable desks or footrests), we can work with the facilities team to make it happen.
+
+- **Meeting Etiquette:**
+  We typically like to have our cameras on during Zoom meetings, but it’s absolutely fine to have your camera off if you feel more comfortable.
+  And, while we encourage you to take regular breaks as needed, it’s also ok to eat or snack during meetings — in fact, we host regular lunchtime tech talks or reading groups where the team can lunch and learn simultaneously.
+
+- **Come as You Are:**
+  We don’t have a written dress code; the team typically opts for smart-casual, but you can wear whatever makes you feel comfortable.
+  We trust you to keep it professional when needed.
+
+- **Office Snacks and Team Lunches:**
+  We love having team lunches together when we’re in.
+  There is also free fruit, biscuits, juice, tea, and coffee to keep you going throughout the day.
+  The kitchen area is great for group coffee breaks, or you can snack at your desk anytime.
+
+- **Location and Socials:**
+  Our offices are based in the British Library, right in the heart of London and just 5 minutes from King’s Cross Station.
+  As part of the Knowledge Quarter, there’s always something exciting happening nearby.
+  We also have plenty of social outings organised by and for Turing staff, including five-a-side football, tennis, climbing, Thursday pub club, French club, film club, hikes…the list goes on (although absolutely none of it is compulsory!).
+
 ### Other benefits of the role
 
 Some of the benefits of working in REG have already been covered in other questions (for example, [flexible working](#are-working-hours-flexible), [having strong input into the projects you work on](#how-long-do-projects-last-for--how-do-you-choose-projects), and [time for professional development](#what-else-do-you-do-as-part-of-reg)).
