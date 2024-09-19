@@ -253,6 +253,8 @@ At The Turing, we want to make sure you feel comfortable and supported in how yo
 
 - **Hot Desks**: We use hot desks, meaning you can sit wherever you like when you’re in the office, on a first-come, first-served basis. The Research Engineering Group typically sits near one another on the first floor. If you need a permanent or bespoke workspace (such as standing/adjustable desks, footrests, or ergonomic keyboards), we can work with the facilities team to make it happen.
 
+- **Meeting Etiquette**: We typically like to have our cameras on during Zoom meetings, but it’s absolutely fine to have your camera off if you feel more comfortable. And, while we encourage you to take regular breaks as needed, it’s also ok to eat or snack during meetings — in fact, we host regular lunchtime tech talks or reading groups where the team can lunch and learn simultaneously.
+
 - **Come as You Are**: We don’t have a dress code, so you can dress in whatever makes you feel comfortable. Just keep it professional when needed!
 
 - **Office Snacks and Team Lunches**: We love having team lunches together when we’re in. There is also free fruit, biscuits, juice, tea, and coffee to keep you going throughout the day. The kitchen area is great for group coffee breaks, or you can snack at your desk anytime.
