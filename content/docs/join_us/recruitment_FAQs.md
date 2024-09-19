@@ -266,7 +266,7 @@ At The Turing, we want to make sure you feel comfortable and supported in how yo
 - **Hot Desks:**
   We use hot desks, meaning you can sit wherever you like when you’re in the office, on a first-come, first-served basis.
   The Research Engineering Group typically sits near one another on the first floor.
-  If you need a permanent or bespoke workspace (such as standing/adjustable desks, footrests, or ergonomic keyboards), we can work with the facilities team to make it happen.
+  If you need a permanent or bespoke workspace (such as standing/adjustable desks or footrests), we can work with the facilities team to make it happen.
 
 - **Meeting Etiquette:**
   We typically like to have our cameras on during Zoom meetings, but it’s absolutely fine to have your camera off if you feel more comfortable.
@@ -284,7 +284,7 @@ At The Turing, we want to make sure you feel comfortable and supported in how yo
 - **Location and Socials:**
   Our offices are based in the British Library, right in the heart of London and just 5 minutes from King’s Cross Station.
   As part of the Knowledge Quarter, there’s always something exciting happening nearby.
-  We also have plenty of social outings organised by and for Turing staff, including five-a-side football, tennis, climbing, Thursday pub club, French club, film club, hikes…the list goes on!
+  We also have plenty of social outings organised by and for Turing staff, including five-a-side football, tennis, climbing, Thursday pub club, French club, film club, hikes…the list goes on (although absolutely none of it is compulsory!).
 
 ### Other benefits of the role
 
