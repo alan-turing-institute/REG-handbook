@@ -241,6 +241,24 @@ This list is not exhaustive, but some examples include:
 - Research programming support (running [drop-in sessions]({{< relref "docs/regular_events/drop-in_sessions" >}}) for people at the Turing)
 - Knowledge sharing (organising our [tech talks]({{< relref "docs/regular_events/lunchtime_tech_talks.md" >}}))
 
+### Can you tell me more about what it is like working at The Alan Turing Institute?
+
+At The Turing, we want to make sure you feel comfortable and supported in how you work. Here’s a bit about what to expect:
+
+- **Hybrid Working**: We only ask that you come into the office four days a month — the rest is up to you! Some of the team work primarily remotely, while others come in every day. There is no pressure or expectation to be in the office more often than the minimum four days.
+
+- **Flexible Hours**: Our core hours are 10 am to 4 pm, but you’re free to work whenever works best for you. Whether you’re an early bird or prefer working later, we trust you to manage your time in a way that fits your life and responsibilities. We also understand that everyone has commitments — whether it’s a doctor’s appointment, picking up kids, or running errands — so taking time for those is completely fine.
+
+- **Work-Life Balance**: We value a healthy work-life balance and believe you should be able to switch off outside of work. There is no expectation to respond to emails or messages outside your working hours!
+
+- **Hot Desks**: We use hot desks, meaning you can sit wherever you like when you’re in the office, on a first-come, first-served basis. The Research Engineering Group typically sits near one another on the first floor. If you need a permanent or bespoke workspace (such as standing/adjustable desks, footrests, or ergonomic keyboards), we can work with the facilities team to make it happen.
+
+- **Come as You Are**: We don’t have a dress code, so you can dress in whatever makes you feel comfortable. Just keep it professional when needed!
+
+- **Office Snacks and Team Lunches**: We love having team lunches together when we’re in. There is also free fruit, biscuits, juice, tea, and coffee to keep you going throughout the day. The kitchen area is great for group coffee breaks, or you can snack at your desk anytime.
+
+- **Location and Socials**: Our offices are based in the British Library, right in the heart of London and just 5 minutes from King’s Cross Station. As part of the Knowledge Quarter, there’s always something exciting happening nearby. We also have plenty of social outings organised by and for Turing staff, including five-a-side football, tennis, climbing, Thursday pub club, French club, film club, hikes…the list goes on!
+
 ### Other benefits of the role
 
 Some of the benefits of working in REG have already been covered in other questions (for example, [flexible working](#are-working-hours-flexible), [having strong input into the projects you work on](#how-long-do-projects-last-for--how-do-you-choose-projects), and [time for professional development](#what-else-do-you-do-as-part-of-reg)).
