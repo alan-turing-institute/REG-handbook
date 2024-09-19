@@ -28,7 +28,7 @@ Questions are grouped by:
 ### Is the position open to applicants outside of the UK who do not currently have a UK work visa?
 
 Yes, the positions are open to applicants outside the UK.
-If you do not currently have the Right to Work in the UK, the Turing will sponsor a Skilled Worker visa application.
+If you do not currently have the Right to Work in the UK, the Turing will sponsor a Skilled Worker visa application (see [below](#does-the-turing-cover-relocation-and-visa-costs) for details).
 If you have general questions about the process, feel free to reach out to the [REG recruitment team][recruitment]; however, once your application has started, you should direct any questions about your specific situation to the Resourcing Officer who is handling your application.
 
 ### Are you accepting remote applicants?
