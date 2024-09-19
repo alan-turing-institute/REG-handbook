@@ -248,8 +248,9 @@ At The Turing, we want to make sure you feel comfortable and supported in how yo
 - **Hybrid Working:**
   We only ask that you come into the office four days a month — the rest is up to you!
   Some of the team work primarily remotely, while others come in every day.
-  We’ve set up our working style to be remote-first, ensuring that those not in the office aren’t at a disadvantage for work, so there’s no pressure or expectation to be in the office more than the minimum four days.
+  We’ve set up our working style to be remote-first, ensuring that those not in the office aren’t at a disadvantage, so there’s no pressure or expectation to be in the office more than the minimum four days.
   However, some team members have found that when they work remotely, they miss out on the informal water cooler chats or lunchtime conversations that happen in the office.
+  To help bridge the gap, we try to mitigate this with online randomised coffee chats and co-working sessions.
   It is entirely up to you to decide what balance works best for your schedule and your preference for in-person connection.
 
 - **Flexible Hours:**
@@ -260,6 +261,7 @@ At The Turing, we want to make sure you feel comfortable and supported in how yo
 - **Work-Life Balance:**
   We value a healthy work-life balance and believe you should be able to switch off outside of work.
   There is no expectation to respond to emails or messages outside your working hours!
+  While there may be rare occasions when deadlines lead to higher workloads and longer hours, we encourage you to ensure that, on average, you work the correct number of hours and maintain a balance that works for you.
 
 - **Hot Desks:**
   We use hot desks, meaning you can sit wherever you like when you’re in the office, on a first-come, first-served basis.
