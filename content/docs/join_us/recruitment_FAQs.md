@@ -39,6 +39,7 @@ It is (at least on paper) expected that you will be in the office four days a mo
 
 We generally prefer that people start within three months of an offer being made.
 However, if necessary, we can also accommodate shorter or longer periods between the offer and starting; for previous candidates this time has ranged from 1 month to ~ 6 months.
+If you have a specific date in mind, please feel free to contact [the REG recruitment team][recruitment].
 
 ### How many open positions are available?
 
@@ -109,6 +110,7 @@ Inclusivity and diversity aren't just things we encourage because we're beholden
 We'd really encourage you to apply!
 
 Our team has a very motivated group of people that work on things such as:
+
 - inputting to institute-wide policies (e.g. trans and non-binary inclusion)
 - doing analysis of diversity data, like for our [Gender Pay Gap Report](https://www.turing.ac.uk/sites/default/files/2023-03/2023.03.30_gender_pay_gap_report.pdf)
 - making job ads more inclusive (not closing applications early, publishing salary bands, using clear language)
