@@ -37,12 +37,13 @@ It is (at least on paper) expected that you will be in the office four days a mo
 
 ### What would be the starting date?
 
-In the past, we have preferred that people start within three months of an offer being made; we are also happy for successful candidates to start sooner.
-<!-- TODO: Check shortest and longest time people have joined post-offer -->
+We generally prefer that people start within three months of an offer being made.
+However, if necessary, we can also accommodate shorter or longer periods between the offer and starting; for previous candidates this time has ranged from 1 month to ~ 6 months.
 
 ### How many open positions are available?
 
-To be determined.
+We don't have this information for 2024 yet.
+We will update this page when we do.
 
 ### What roles are you currently hiring for?
 
@@ -101,13 +102,27 @@ Our team includes people with backgrounds in chemistry and biology, as well as t
 In practice, we do not often work on projects that align closely with our own academic backgrounds.
 As long as you are willing to pick up new skills and domains as you go along, your own background will not be a barrier.
 
-### I'm a woman / person of colour / LGBTQ+ / person with disabilities / part of an underrepresented groups. Am I welcome to apply?
+### I'm a woman / person of colour / LGBTQIA+ / person with disabilities / part of an underrepresented group(s). Will I feel welcome and supported in the team?
 
-Very much so!
-As a team, we are committed to creating a diverse and inclusive environment, and are always open to ways that we can improve this.
+**We want you**.
+Inclusivity and diversity aren't just things we encourage because we're beholden to some corporate criteria; we believe they are *essential* to good research.
+We'd really encourage you to apply!
 
-You can read about a sample of the EDI initiatives in REG and the Turing on [this page]({{< relref "docs/working_at_the_turing/edi" >}}).
-Also, if you would like to speak to somebody in REG (in confidence) about this before applying, please do get in touch with the [REG recruitment team][recruitment].
+Our team has a very motivated group of people that work on things such as:
+- inputting to institute-wide policies (e.g. trans and non-binary inclusion)
+- doing analysis of diversity data, like for our [Gender Pay Gap Report](https://www.turing.ac.uk/sites/default/files/2023-03/2023.03.30_gender_pay_gap_report.pdf)
+- making job ads more inclusive (not closing applications early, publishing salary bands, using clear language)
+- being ambassadors for REG and the Turing at events like the [Hopper Colloquium](https://www.ucl.ac.uk/computer-science/about/equity-diversity-and-inclusion/gender-equality-athena-swan/london-hopper-colloquium) and the [BCSWomen Lovelace event](https://bcswomenlovelace.bcs.org/)
+- Attending network groups – a place to find community, organise events, and work on issues specific to that network. They exist for
+    - LGBTQIA+
+    - Race equality
+    - Gender equality
+    - Disability and wellbeing
+- and much more!
+
+You can read more about a sample of the Equality, Diversity and Inclusion (EDI) initiatives in REG and the Turing on [this page]({{< relref "docs/working_at_the_turing/edi" >}}).
+Also, if you would like to speak to somebody in REG (in confidence) about this before applying, we would completely welcome that.
+Reach out to the [REG recruitment team][recruitment] – we'd love to chat!
 
 ### Should the cover letter address each of the skills and requirements in the person specification section of the job description?
 
