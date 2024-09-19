@@ -312,6 +312,17 @@ Some of the benefits of working in REG have already been covered in other questi
 Other benefits include mental health support and private healthcare ([the wellbeing page]({{< relref "docs/working_at_the_turing/wellbeing" >}}) has a fuller description of the support available at the Turing), as well as a 13% contribution to a defined contribution pension scheme (3% from the employee, 10% from the Turing).
   More employee benefits are listed on [the Turing's website](https://www.turing.ac.uk/work-turing/why-work-turing/employee-only-benefits-guide).
 
+### Where can I find out more?
+
+Members of REG have been featured in various interviews and spotlights, where they discuss their work and team activities. Here are a few examples:
+
+- [Team presentation at RSECon2022](https://www.youtube.com/watch?v=Dq537Sh6ZT4): Our director and other team members discuss building and growing a research engineering team at the Alan Turing Institute.
+- [Code for thought podcast](https://codeforthought.buzzsprout.com/1326658/14761258-en-building-data-science-teams-alan-turing-institute-skills-and-policy-award-part-i): Check out the "Building Data Science Teams" episode, where REG members share insights into the teams they work with.
+- [Data science and AI careers series](https://www.turing.ac.uk/data-science-and-ai-careers-spotlight-series/spotlight-series): Some of our team members are featured in The Turing's spotlight video series on data science and AI careers.
+- [REG spotlight series](https://www.turing.ac.uk/work-turing/research/research-engineering-group#researcher-spotlight): Several team members have been highlighted in The Turing’s spotlight series, discussing their work and career journeys.
+- [Research Software Hour](https://www.youtube.com/watch?v=WIYaXzXLLY4): One of our alumni presents on workflow automation, sharing insights into efficient workflows and automation in research projects.
+- [Turing podcast episodes](https://www.podbean.com/media/share/pb-vrci3-1366a21?utm_campaign=w_share_ep&utm_medium=dlink&utm_source=w_share): REG appear on episodes covering a range of topics, including [AI for the Skies](https://www.podbean.com/media/share/pb-zzidx-d7bb24?utm_campaign=w_share_ep&utm_medium=dlink&utm_source=w_share), [Fantasy Football AI](https://www.podbean.com/media/share/pb-5afja-df2052?utm_campaign=w_share_ep&utm_medium=dlink&utm_source=w_share), [3D printed bridges](https://www.podbean.com/media/share/pb-qekh3-dfe740?utm_campaign=w_share_ep&utm_medium=dlink&utm_source=w_share), [Reproducible data science](https://www.podbean.com/media/share/pb-wxkjp-ecfa7f?utm_campaign=w_share_ep&utm_medium=dlink&utm_source=w_share), [The problems of AI](https://www.podbean.com/media/share/pb-dyq36-112350b?utm_campaign=w_share_ep&utm_medium=dlink&utm_source=w_share) and [Living with Machines](https://www.podbean.com/media/share/pb-s9das-1275eb2?utm_campaign=w_share_ep&utm_medium=dlink&utm_source=w_share).
+
 ## Interview
 
 ### Could you describe the interview process?
