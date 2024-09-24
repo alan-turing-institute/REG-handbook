@@ -61,7 +61,7 @@ For this recruitment round, we will be hiring at Junior, Standard, and Senior le
 The difference between these are explained in the respective job descriptions.
 If you think you have enough experience to apply for the higher position, you can do so.
 You can also apply to the more junior role and mention in your cover letter that you are also considering more senior position, in case you feel your profile or working experience is between the two.
-<!-- TODO: Check with Eric whether every application at a given level will also be considered at the other levels if more appropriate. -->
+Every application at a given level will also be considered at the other levels if more appropriate.
 
 ### If my application was unsuccessful in the past, am I allowed to apply again this time?
 
@@ -78,10 +78,6 @@ The Turing will reimburse up to:
 - £4000 for the cost of a visa application (including the NHS immigration surcharge);
 - £2000 for relocation costs (if you are moving from Europe or the UK, as long as the move is over 50 miles); and
 - £4000 for relocation costs (if you are moving from further overseas).
-
-All claims should be submitted within a year of the employment start date to Finance.
-For existing staff, visa claims should be submitted within one year of the visa renewal or amendment: more information can be found on [Mathison](https://mathison.turing.ac.uk/Interact/Pages/Section/ContentListing.aspx?subsection=4141&utm_source=interact&utm_medium=quick_search&utm_term=relocation).
-<!-- TODO: Add a handbook page on this and link to it here -->
 
 ## Profile
 
@@ -107,7 +103,7 @@ As long as you are willing to pick up new skills and domains as you go along, yo
 
 ### I'm a woman / person of colour / LGBTQIA+ / person with disabilities / part of an underrepresented group(s). Will I feel welcome and supported in the team?
 
-**We want you**.
+**We'd love to have you join our team!**
 Inclusivity and diversity aren't just things we encourage because we're beholden to some corporate criteria; we believe they are *essential* to good research.
 We'd really encourage you to apply!
 
@@ -193,7 +189,7 @@ You can see a list of projects we are currently working on on [our website](http
 ### Are working hours flexible?
 
 Formally, the Turing's core working hours are between 10 and 4.
-Most people would work these hours plus some additional time on either side.
+Most people would work these hours plus some additional time on either side to make up a 36-hour working week.
 However, in practice we are extremely flexible around working hours.
 Much of our work is done asynchronously, and does not require everyone to be online at the same time.
 
@@ -328,14 +324,17 @@ Members of REG have been featured in various interviews and spotlights, where th
 ### Could you describe the interview process?
 
 As mentioned in the job description, all interviews are held remotely.
+We are currently looking into the possibility of holding interviews in person; please feel free to ask about this if this is something you would like.
 
-We operate a two-stage interview process. If you are successful at the screening stage, you will be asked to attend the first interview via video call.
+We operate a two-stage interview process.
+If you are successful at the screening stage, you will be asked to attend the first interview via video call.
 In this interview, you will be expected to give a ten-minute presentation on code you have written to address a specific research question.
 This code should ideally illustrate your use of good research software engineering practices; however, imperfect code is totally fine as long as you can discuss what you would improve and why.
 
 More information about this presentation can be found in the next sections.
 
-The second interview is usually held about one week later for successful candidates. This interview focusses on your previous experience and competencies for the role.
+The second interview is usually held about one week later for successful candidates.
+This interview focusses on your previous experience and competencies for the role.
 There will also be a problem-solving discussion with the interview panel, where you may want to use paper and pen to arrive at an understanding of a proposed data analysis challenge.
 
 In both interviews, there will be the opportunity to ask questions about the role and the team.
@@ -413,6 +412,9 @@ We make initial salary offers at 0/3, 1/3, and 2/3 through the advertised salary
 
 Each year, there is a cost of living increase which is applied to all Turing employees.
 On top of this, we also have annual pay reviews, where we actively review the performance and development of each team member against the expectations of their position within their seniority band, making salary adjustments where these expectations are being exceeded.
+
+We also hold annual internal promotion rounds to allow people to move up to the next level of seniority when they are ready.
+There is no cap on the number of Junior, Standard, and Senior roles, so promotion opportunities are not limited by availability.
 
 ## My question is not answered here
 
