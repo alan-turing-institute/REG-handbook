@@ -362,6 +362,7 @@ Some are scripts / notebooks which were put together specifically to demonstrate
 
 - A Jupyter notebook with a data analysis pipeline to solve an old Kaggle competition
 - A notebook (and module) demonstrating inference and analysis with a hidden Markov model using TensorFlow Probability, applied to synthetic healthcare data
+- An R script to calculate the depth of ocean floor sediment samples ([GitHub](https://github.com/IFenton/Sediment-age-depth))
 
 <!-- TODO: add more examples; I'm in the process of asking people for permission -->
 
