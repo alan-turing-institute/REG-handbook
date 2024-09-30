@@ -13,6 +13,8 @@ weight: 4
 
 # Reasonable Adjustments Policy
 
+'Reasonable adjustments' refer to changes to workplaces procedures or practices that are put in place to avoid a situation where a person with disabilities is disadvantaged compared to one without.
+
 The Alan Turing Institute is committed to creating an inclusive, barrier-free workplace, recognising that providing reasonable adjustments is essential to supporting colleagues in fully participating in their roles.
 A summary of the Institute's reasonable adjustment policy can be found [here](https://www.turing.ac.uk/reasonable-adjustments-policy),
 with the full policy available for internal staff on [Mathison](https://thealanturininstitute.sharepoint.com/sites/gc/Public%20Documents/Corporate%20Governance/Policies/People%20Policies/Reasonable%20Adjustment%20Policy%20Final.pdf).
