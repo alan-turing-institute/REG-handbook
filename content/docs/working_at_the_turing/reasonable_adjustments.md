@@ -19,7 +19,7 @@ The Alan Turing Institute is committed to creating an inclusive, barrier-free wo
 A summary of the Institute's reasonable adjustment policy can be found [here](https://www.turing.ac.uk/reasonable-adjustments-policy),
 with the full policy available for internal staff on [Mathison](https://thealanturininstitute.sharepoint.com/sites/gc/Public%20Documents/Corporate%20Governance/Policies/People%20Policies/Reasonable%20Adjustment%20Policy%20Final.pdf).
 
-The policy outlines the Institute’s legal obligations and emphasises a proactive approach to making reasonable adjustments, considering each request carefully even if it falls outside of legal requirements.
+The policy outlines the Institute’s legal obligations and emphasises a proactive approach to making reasonable adjustments, considering each request carefully even if it falls outside of the legal requirements as outlined in the Equality Act 2010.
 It covers adjustments to workspaces, practices, roles, and other areas where barriers may exist.
 Examples include adjustments for mental health, neurodiverse conditions, visual and hearing impairments, chronic illnesses, and mobility conditions.
 
