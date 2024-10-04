@@ -65,7 +65,7 @@ These adjustments may include modifications to the interview format, additional 
 If you require any adjustments, please contact [adjustments@turing.ac.uk](mailto:adjustments@turing.ac.uk).
 This email is monitored by the HR team and will be treated confidentially.
 
-For more information about the institute's reasonable adjustment policy see [the reasonable_adjustments page]({{< relref "/docs/working_at_the_turing/reasonable_adjustments.md" >}}).
+For more information about the Institute's reasonable adjustment policy see [the reasonable_adjustments page]({{< relref "/docs/working_at_the_turing/reasonable_adjustments.md" >}}).
 
 ## Profile
 
