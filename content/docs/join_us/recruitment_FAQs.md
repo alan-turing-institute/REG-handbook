@@ -79,6 +79,15 @@ The Turing will reimburse up to:
 - £2000 for relocation costs (if you are moving from Europe or the UK, as long as the move is over 50 miles); and
 - £4000 for relocation costs (if you are moving from further overseas).
 
+### Do you provide reasonable adjustments to the application process for people with disabilities or health conditions ?
+
+Yes, reasonable adjustments can be requested during the application and interview process for individuals with disabilities or health conditions.
+These adjustments may include modifications to the interview format, additional time, or other necessary support.
+If you require any adjustments, please contact [adjustments@turing.ac.uk](mailto:adjustments@turing.ac.uk).
+This email is monitored by the HR team and will be treated confidentially.
+
+For more information about the Institute's reasonable adjustment policy see [the reasonable_adjustments page]({{< relref "/docs/working_at_the_turing/reasonable_adjustments.md" >}}).
+
 ## Profile
 
 ### Are there particular domains or skill sets that you are interested in for these roles?
