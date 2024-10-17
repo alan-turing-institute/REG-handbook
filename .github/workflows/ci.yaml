@@ -105,5 +105,5 @@ jobs:
         run: |
           htmlproofer ./public \
           --swap-urls "^https\://alan-turing-institute.github.io/REG-handbook/:/,^/REG-handbook/:/,/edit/main:/edit/$(git branch --show-current)" \
-          --ignore-urls '/REG-handbook,/turing.ac.uk/,/github.com/,/docs.github.com/,/twitter.com/,/code.visualstudio.com/' \
+          --ignore-urls '/REG-handbook,/turing.ac.uk/,/github.com/,/docs.github.com/,/twitter.com/,/code.visualstudio.com/,/forms.office.com/' \
           --ignore-files './public/docs/contributors/index.html'
