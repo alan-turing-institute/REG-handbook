@@ -111,7 +111,6 @@ The theme has a [number of shortcodes](https://github.com/alex-shpak/hugo-book#s
 In particular
 
 - [hints](https://hugo-book-demo.netlify.app/docs/shortcodes/hints/)
-- [expand](https://hugo-book-demo.netlify.app/docs/shortcodes/expand/)
 - [KaTeX](https://hugo-book-demo.netlify.app/docs/shortcodes/katex/)
 - [tabs](https://hugo-book-demo.netlify.app/docs/shortcodes/tabs/)
 
