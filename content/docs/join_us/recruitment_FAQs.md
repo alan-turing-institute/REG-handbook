@@ -28,14 +28,17 @@ Questions are grouped by:
 ### Is the position open to applicants outside of the UK who do not currently have a UK work visa?
 
 Yes, the positions are open to applicants outside the UK.
-If you do not currently have the Right to Work in the UK, the Turing will sponsor a Skilled Worker visa application (see [below](#does-the-turing-cover-relocation-and-visa-costs) for details).
+If you do not currently have the Right to Work in the UK, the Turing is able to sponsor a Skilled Worker visa application (see [below](#does-the-turing-cover-relocation-and-visa-costs) for details).
 If you have general questions about the process, feel free to reach out to the [REG recruitment team][recruitment]; however, once your application has started, you should direct any questions about your specific situation to the Resourcing Officer who is handling your application.
 
 ### Are you accepting remote applicants?
 
 Members need to be based in the UK.
-However, you do not need to be in the London office every day: almost all of our work is done in a hybrid manner, and we have team members as far away as Scotland and the South West of England.
-It is (at least on paper) expected that you will be in the office four days a month, and there are two events through the year where we encourage everyone to come in: the Away Days (two days in February) and Hack Week (one week in June).
+However, you do not need to be in the London office every day nor on a regular weekly schedule, as almost all of our work is done in a hybrid manner.
+We have team members that live further away in places such as Scotland and the South West of England that come to the office less frequently.
+The on-paper expectation is that it would not be unreasonable to ask team members to spend up to four days a month in the office, but in practice we have been able to support a range of hybrid working patterns with fewer days in the office.
+We prefer to let the work to be done dictate the most effective collaboration style for carrying it out, and thus there may be some reasonable variation across projects in terms of requirements for in-office work.
+We also hold two in-person team events per year, the Team Away Day in the winter and Hack Week in June.
 
 ### What would be the starting date?
 
@@ -218,7 +221,6 @@ You can see an (unscientifically generated) word cloud of the languages and tech
 
 The length of projects can vary significantly; some are as short as three months, and others have stayed on projects for multiple years. However, there is no requirement to stay on a project for its entire lifespan; there are always options to rotate onto other projects.
 
-Project allocations are made by a voting system.
 You will be given the chance to say which projects you are interested in working on, and you will (to the best of our ability) be placed on a project that you are keen on, rather than one that only matches your prior experience.
 
 ### Given the job profile in the REG team, what other careers do REG members tend to transition to (e.g. academia, industry, or something else)?
@@ -231,17 +233,8 @@ Others have progressed to more senior roles within the team.
 ### Would the candidate be able to bring their own projects with them and/or seek funding while in the role ?
 
 The team's role at the Turing is to collaborate with institute researchers to support their research agendas, rather than pursuing our own.
-It is much, much more usual for team members to be working on other people's projects than their own.
+It is much more common for team members to be working on other people's projects than their own.
 If you would like to prioritise pursuing your own research agenda at the Turing there are [other types of positions](https://www.turing.ac.uk/opportunities-turing) at the Institute that allow you to do this.
-
-<!-- TODO: This probably needs an update from Martin or somebody senior; I'm not sure if this is really true in T2.0 -->
-However, we are keen to support team members in pursuing their careers, including developing and leading projects.
-We would generally expect these to be projects that would be a sufficiently good fit for the team and the Turing that we would take them on even if the particular team member was not involved.
-
-We would also expect team members that do lead their own projects to continue to work collaboratively with others in REG and the Institute. We would therefore not expect people to be bought out more than 50% on their own project and would expect the project to involve other members of the team or the Institute.
-
-Although a permanent role within REG is not meant for pursuing an independent research agenda, we highly encourage initiatives and are open to hear new ideas and contributions.
-So, if you think your project would benefit our group and the Turing (and vice versa) you should highlight it in your cover letter.
 
 ### What else do you do as part of REG?
 
@@ -270,17 +263,16 @@ This list is not exhaustive, but some examples include:
 At The Turing, we want to make sure you feel comfortable and supported in how you work. Here’s a bit about what to expect:
 
 - **Hybrid Working:**
-  We only ask that you come into the office four days a month — the rest is up to you!
+  Although the Turing does require employees to come into the office (see [above](#are-you-accepting-remote-applicants)), we do our best to ensure a healthy work environment whether you are in the office or working remotely.
   Some of the team work primarily remotely, while others come in every day.
   We’ve set up our working style to be remote-first, ensuring that those not in the office aren’t at a disadvantage, so there’s no pressure or expectation to be in the office more than the minimum four days.
   However, some team members have found that when they work remotely, they miss out on the informal water cooler chats or lunchtime conversations that happen in the office.
   To help bridge the gap, we try to mitigate this with online randomised coffee chats and co-working sessions.
-  It is entirely up to you to decide what balance works best for your schedule and your preference for in-person connection.
 
 - **Flexible Hours:**
   Our core hours are 10 am to 4 pm, but you’re free to work whenever works best for you.
   Whether you’re an early bird or prefer working later, we trust you to manage your time in a way that fits your life and responsibilities.
-  We also understand that everyone has commitments — whether it’s a doctor’s appointment, picking up kids, or running errands — so taking time for those is completely fine.
+  We also understand that everyone has commitments — whether it’s a doctor’s appointment, picking up kids, or running errands — so working flexibly around these activities is completely fine.
 
 - **Work-Life Balance:**
   We value a healthy work-life balance and believe you should be able to switch off outside of work.
@@ -314,7 +306,7 @@ At The Turing, we want to make sure you feel comfortable and supported in how yo
 
 Some of the benefits of working in REG have already been covered in other questions (for example, [flexible working](#are-working-hours-flexible), [having strong input into the projects you work on](#how-long-do-projects-last-for--how-do-you-choose-projects), and [time for professional development](#what-else-do-you-do-as-part-of-reg)).
 
-Other benefits include mental health support and private healthcare ([the wellbeing page]({{< relref "docs/working_at_the_turing/wellbeing" >}}) has a fuller description of the support available at the Turing), as well as a 13% contribution to a defined contribution pension scheme (3% from the employee, 10% from the Turing).
+Other benefits include mental health support and private healthcare ([the wellbeing page]({{< relref "docs/working_at_the_turing/wellbeing" >}}) has a more detailed description of the support available at the Turing), as well as a 13% contribution to a defined contribution pension scheme (3% from the employee, 10% from the Turing).
   More employee benefits are listed on [the Turing's website](https://www.turing.ac.uk/work-turing/why-work-turing/employee-only-benefits-guide).
 
 ### Where can I find out more?
@@ -358,7 +350,7 @@ Using existing libraries that implement algorithms you are using is fine (and go
 1. the underlying algorithms or methods your code is implementing or using, and
 1. the research domain or question for which you are applying them.
 
-We will not evaluate you on the complexity of the algorithm, but in your understanding of its implementation, awareness of its potential drawbacks, and its overall appropriateness to solve the problem you are trying to address.
+We will not evaluate you on how complicated your algorithm is, but in your understanding of its implementation, awareness of its potential drawbacks, and its overall appropriateness to solve the problem you are trying to address.
 
 You can write new code specifically for the interview if you so choose, but existing examples of work are encouraged, as long as the code was substantially written by you.
 You should be prepared to answer questions about both the code and the research challenge it addresses or the algorithm it demonstrates.
@@ -367,6 +359,7 @@ Any source code shared for the interview will be treated in the strictest of con
 ### What sort of code have previous candidates presented?
 
 We collected several examples of code that have been presented by current team members in their interviews.
+This list is not exhaustive, and we really want to emphasise that you can present any code that you feel demonstrates your skills and experience.
 Some are scripts / notebooks which were put together specifically to demonstrate a particular technique for the interview:
 
 - A Jupyter notebook with a data analysis pipeline to solve an old Kaggle competition
