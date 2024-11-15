@@ -35,15 +35,15 @@ If you have general questions about the process, feel free to reach out to the [
 
 Members need to be based in the UK.
 However, you do not need to be in the London office every day nor on a regular weekly schedule, as almost all of our work is done in a hybrid manner.
-We have team members that live further away in places such as Scotland and the South West of England that come to the office less frequently.
-The on-paper expectation is that it would not be unreasonable to ask team members to spend up to four days a month in the office, but in practice we have been able to support a range of hybrid working patterns with fewer days in the office.
+We have team members that live further away in places such as Scotland and the South West of England who come to the office less frequently.
+The on-paper expectation is that it would not be unreasonable to ask team members to spend four days a month in the office, but in practice we have been able to support a range of hybrid working patterns with fewer days in the office.
 We prefer to let the work to be done dictate the most effective collaboration style for carrying it out, and thus there may be some reasonable variation across projects in terms of requirements for in-office work.
-We also hold two in-person team events per year, the Team Away Day in the winter and Hack Week in June.
+We also hold two in-person team events per year, the Team Away Day (actually two days) in the winter and Hack Week in June.
 
 ### What would be the starting date?
 
 We generally prefer that people start within three months of an offer being made.
-However, if necessary, we can also accommodate shorter or longer periods between the offer and starting; for previous candidates this time has ranged from 1 month to ~ 6 months.
+However, if necessary, we can also accommodate shorter or longer periods between the offer and starting; for previous candidates this time has ranged from 1 month to ~6 months.
 If you have a specific date in mind, please feel free to contact [the REG recruitment team][recruitment].
 
 ### How many open positions are available?
@@ -54,7 +54,7 @@ We will update this page when we do.
 ### What roles are you currently hiring for?
 
 The roles within our team are **Research Data Scientist** (RDS), **Research Software Engineer** (RSE), and **Research Computing Engineer** (RCE).
-You can read more about these roles [here](https://www.turing.ac.uk/research/research-engineering/meet-the-team).
+You can read more about these roles [below](#role) or on our [website](https://www.turing.ac.uk/research/research-engineering/meet-the-team).
 
 The RDS and RSE roles form part of the same job description; the skillset we look for is the same and there is no difference as to the projects you are given when you join.
 You are given a choice of which job title you prefer when starting.
@@ -63,7 +63,7 @@ You can also change your job title later if you feel that the other is a more ac
 For this recruitment round, we will be hiring at Junior, Standard, and Senior levels.
 The difference between these are explained in the respective job descriptions.
 If you think you have enough experience to apply for the higher position, you can do so.
-You can also apply to the more junior role and mention in your cover letter that you are also considering more senior position, in case you feel your profile or working experience is between the two.
+You can also apply to the more junior role and mention in your cover letter that you are also considering the more senior position, in case you feel your profile or working experience is between the two.
 Every application at a given level will also be considered at the other levels if more appropriate.
 
 ### If my application was unsuccessful in the past, am I allowed to apply again this time?
@@ -71,7 +71,7 @@ Every application at a given level will also be considered at the other levels i
 If you applied and did not get selected to interview you are welcome to apply again, but we suggest to revise your cover letter and CV and make them more in line with the requirements specified in the job ad.
 
 If you applied and were unsuccessful at the interview stage, you are welcome to reapply if your profile has significantly progressed since the interview (new projects, job roles or other sources of experience).
-In general, we suggest to wait for at least one year before applying again.
+In general, we suggest you wait for at least one year before applying again.
 
 ### Does the Turing cover relocation and visa costs?
 
@@ -95,10 +95,10 @@ For more information about the Institute's reasonable adjustment policy see [the
 
 ### Are there particular domains or skill sets that you are interested in for these roles?
 
-We are really open to any domain, area of expertise, skill set that is broadly related to research data science or research software engineering.
+We are really open to any domain, area of expertise, or skill set that is broadly related to research data science or research software engineering.
 
 If you have experience or are interested in High Performance Computing, as part of the open positions, we are actively looking for new members of the team to work on that area as Research Computing Engineers.
-You can drop an email to the REG recruitment team ([reg-recruitment-inbox@turing.ac.uk][recruitment]) to learn more about it.
+You can drop an email to [the REG recruitment team][recruitment] to learn more about it.
 
 However, we are recruiting for multiple positions, and are interested in a wide range of skills and experience, so please do apply if you are interested and have experience relevant to research software engineering and data science, broadly defined.
 You can see the [range of projects](https://www.turing.ac.uk/research/research-engineering/reg-projects) the team works on and [backgrounds of current team members](https://www.turing.ac.uk/research/research-engineering/meet-the-team) on our website.
@@ -108,7 +108,7 @@ Some of the team have also been featured in project and institute spotlight inte
 ### I don't have a physics / maths / computer science background. Is that okay?
 
 That is completely fine.
-Our team includes people with backgrounds in chemistry and biology, as well as the social sciences.
+Our team includes people with backgrounds in a broad range of subjects, including chemistry and biology, as well as the social sciences.
 
 In practice, we do not often work on projects that align closely with our own academic backgrounds.
 As long as you are willing to pick up new skills and domains as you go along, your own background will not be a barrier.
@@ -133,12 +133,12 @@ Our team has a very motivated group of people that work on things such as:
 - and much more!
 
 You can read more about a sample of the Equality, Diversity and Inclusion (EDI) initiatives in REG and the Turing on [this page]({{< relref "docs/working_at_the_turing/edi" >}}).
-Also, if you would like to speak to somebody in REG (in confidence) about this before applying, we would completely welcome that.
+Also, if you would like to arrange to speak to somebody in REG (in confidence) about this before applying, let us know; we would be happy to arrange that. That person will not subsequently be involved in evaluating your application.
 Reach out to the [REG recruitment team][recruitment] – we'd love to chat!
 
 ### Should the cover letter address each of the skills and requirements in the person specification section of the job description?
 
-It is important that the cover letter, in conjunction with the CV, highlights the requirements listed as "check at Application" on the Person Specification, and shows a (general) understanding of the role of a research data scientist or software engineer.
+It is important that the cover letter, in conjunction with the CV, highlights the requirements listed as "check at application" on the Person Specification, and shows a (general) understanding of the role of a research data scientist or software engineer.
 Also, it is important to highlight:
 
 - Your past experience working with code and/or data
@@ -196,7 +196,7 @@ The projects at the Turing largely fall into three themes, namely Environment an
 These projects tend to revolve around the _application_ of data science and AI to solve challenges in these areas.
 Apart from this, there are also projects in foundational research in data science and AI.
 
-You can see a list of projects we are currently working on on [our website](https://alan-turing-institute.github.io/REG/).
+You can see a list of projects we are currently working on on [our team website](https://alan-turing-institute.github.io/REG/).
 
 ### Are working hours flexible?
 
@@ -265,7 +265,7 @@ At The Turing, we want to make sure you feel comfortable and supported in how yo
 - **Hybrid Working:**
   Although the Turing does require employees to come into the office (see [above](#are-you-accepting-remote-applicants)), we do our best to ensure a healthy work environment whether you are in the office or working remotely.
   Some of the team work primarily remotely, while others come in every day.
-  We’ve set up our working style to be remote-first, ensuring that those not in the office aren’t at a disadvantage, so there’s no pressure or expectation to be in the office more than the minimum four days.
+  We’ve set up our working style to be remote-first, ensuring that those not in the office aren’t at a disadvantage, so there’s no pressure or expectation to be in the office more than the minimum four days a month.
   However, some team members have found that when they work remotely, they miss out on the informal water cooler chats or lunchtime conversations that happen in the office.
   To help bridge the gap, we try to mitigate this with online randomised coffee chats and co-working sessions.
 
@@ -277,7 +277,7 @@ At The Turing, we want to make sure you feel comfortable and supported in how yo
 - **Work-Life Balance:**
   We value a healthy work-life balance and believe you should be able to switch off outside of work.
   There is no expectation to respond to emails or messages outside your working hours!
-  While there may be rare occasions when deadlines lead to higher workloads and longer hours, we encourage you to ensure that, on average, you work the correct number of hours and maintain a balance that works for you.
+  While there may be rare occasions when deadlines lead to higher workloads and longer hours, we encourage you to ensure that you balance that, so on average you work the correct number of hours and maintain a balance that works for you.
 
 - **Hot Desks:**
   We use hot desks, meaning you can sit wherever you like when you’re in the office, on a first-come, first-served basis.
@@ -325,7 +325,7 @@ Members of REG have been featured in various interviews and spotlights, where th
 ### Could you describe the interview process?
 
 As mentioned in the job description, all interviews are held remotely.
-We are currently looking into the possibility of holding interviews in person; please feel free to ask about this if this is something you would like.
+We are currently looking into the possibility of holding interviews in person; please feel free [to ask about this][recruitment] if this is something you would like.
 
 We operate a two-stage interview process.
 If you are successful at the screening stage, you will be asked to attend the first interview via video call.
