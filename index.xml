@@ -191,7 +191,7 @@ Parts of the template are already filled with explanations of how they should be
 &lt;ul>
 &lt;li>&lt;a href="#application-stage">Application Stage&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#profile">Profile&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#position">Position&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#role">Role&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#interview">Interview&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#offer">Offer&lt;/a>&lt;/li>
 &lt;/ul>
@@ -199,11 +199,13 @@ Parts of the template are already filled with explanations of how they should be
  Application Stage
  &lt;a class="anchor" href="#application-stage">#&lt;/a>
 &lt;/h2>
-&lt;h3 id="is-the-position-open-to-applicants-outside-of-the-uk-who-do-not-currently-have-a-uk-working-visa-but-could-obtain-one">
- Is the position open to applicants outside of the UK who do not currently have a UK working Visa but could obtain one?
- &lt;a class="anchor" href="#is-the-position-open-to-applicants-outside-of-the-uk-who-do-not-currently-have-a-uk-working-visa-but-could-obtain-one">#&lt;/a>
+&lt;h3 id="is-the-position-open-to-applicants-outside-of-the-uk-who-do-not-currently-have-a-uk-work-visa">
+ Is the position open to applicants outside of the UK who do not currently have a UK work visa?
+ &lt;a class="anchor" href="#is-the-position-open-to-applicants-outside-of-the-uk-who-do-not-currently-have-a-uk-work-visa">#&lt;/a>
 &lt;/h3>
-&lt;p>Yes, the positions are open to applicants outside the UK and our HR team (&lt;a href="mailto:HR@turing.ac.uk">HR@turing.ac.uk&lt;/a>) will be able to offer you additional information on the process of obtaining a working Visa.&lt;/p></description></item><item><title>Repo Audits</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/code_audits/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/code_audits/</guid><description>&lt;h1 id="repo-audits">
+&lt;p>Yes, the positions are open to applicants outside the UK.
+If you do not currently have the Right to Work in the UK, the Turing is able to sponsor a Skilled Worker visa application (see &lt;a href="#does-the-turing-cover-relocation-and-visa-costs">below&lt;/a> for details).
+If you have general questions about the process, feel free to reach out to the &lt;a href="mailto:reg-recruitment-inbox@turing.ac.uk">REG recruitment team&lt;/a>; however, once your application has started, you should direct any questions about your specific situation to the Resourcing Officer who is handling your application.&lt;/p></description></item><item><title>Repo Audits</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/code_audits/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/code_audits/</guid><description>&lt;h1 id="repo-audits">
  Repo Audits
  &lt;a class="anchor" href="#repo-audits">#&lt;/a>
 &lt;/h1>
