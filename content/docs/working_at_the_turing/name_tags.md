@@ -8,7 +8,9 @@ For certain events (most notably Away Day, but also e.g. conferences), you may f
 
 ## Step 1: Prepare the printouts
 
-TODO
+Mathison contains a [Name badges template](https://mathison.turing.ac.uk/page/2875) for creating name tags which fit the printer paper.
+This template is in Word. To use it, save a local copy, and use mail merge to create the name tags. These can then be saved as a .pdf
+file for printing. An example can be found in the REG Sharepoint folder under AwayDay-2025.
 
 ## Step 2: Print the tags
 
