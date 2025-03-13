@@ -95,14 +95,7 @@ Some shortcodes may have an opening and closing tag, similar to HTML
 #### Hugo Shortcodes
 
 Hugo has a set of useful [built-in shortcodes](https://gohugo.io/content-management/shortcodes/#embedded).
-
-In particular
-
-- [figure](https://gohugo.io/content-management/shortcodes/#shortcodes:figure)
-- [gist](https://gohugo.io/content-management/shortcodes/#shortcodes:gist)
-- [highlight](https://gohugo.io/content-management/shortcodes/#shortcodes:highlight)
-- [param](https://gohugo.io/content-management/shortcodes/#shortcodes:param)
-- [ref](https://gohugo.io/content-management/shortcodes/#shortcodes:ref) and [relref](https://gohugo.io/content-management/shortcodes/#shortcodes:relref)
+In particular, `figure`, `gist`, `highlight`, `param`, `ref`, and `relref` are often useful.
 
 #### Theme Shortcodes
 
