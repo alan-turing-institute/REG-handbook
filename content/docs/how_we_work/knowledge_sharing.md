@@ -5,7 +5,7 @@ title: "Knowledge Sharing"
 weight: 1
 ---
 
-# Knowledge Sharing
+# Nowledge Sharing
 
 This page lists the tools, resources and activities that REG has to promote general communication as well as sharing and gaining knowledge across the team (and the Turing as a whole), and some thoughts on what we could try to improve this.
 If you're looking to learn something new, get help with a problem, share something cool you've been doing, or find out what others in the team are doing, the list below may give an idea of where to look/what to try.
