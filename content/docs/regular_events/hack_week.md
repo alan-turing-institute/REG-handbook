@@ -114,7 +114,7 @@ Previous project summary presentations have included some or all of:
    - Anything you would do differently?
    - Future of the project, if any follow-on work is planned
 
-### 
+### Project Conclusion
 
 - [ ] Further work could be carried out during "22-days" time (e.g. in open-source service area hack sessions) or sought during Hacktoberfest.
     - Perhaps mark these with "help-wanted" labels.
