@@ -15,9 +15,9 @@ weight: 1
 
 ## Out-of-pocket expenses
 
-Out-of-pocket expenses should be reclaimed using ERPx. You should submit an expense claim for expenses incurred within a given month as soon as possible, and no later than 60 days after the expense is incurred (except for visa costs, which can be claimed up to a year after starting employment).
+Out-of-pocket expenses should be reclaimed using ERP. You should submit an expense claim for expenses incurred within a given month as soon as possible, and no later than 60 days after the expense is incurred (except for visa costs, which can be claimed up to a year after starting employment).
 
-In the first instance, look at the information provided by the Finance team about how to use ERPx on Mathison:
+In the first instance, look at the information provided by the Finance team about how to use ERP on Mathison:
 
 <!-- This link still gives info about Certify but I've added a comment on the page to ask them to update it -->
 https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2169
