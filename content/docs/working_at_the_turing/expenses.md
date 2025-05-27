@@ -34,19 +34,14 @@ Gray Dawes is the Institute's pre-paid travel and accommodation booking system, 
 If you need to make a booking, please email the [Finance Team](mailto:expense@turing.ac.uk) to request an account.
 It can take 5-7 working days for your account to set up, so make sure you do this in advance.
 
-Detailed instructions for making a booking can be found on [Mathison](https://mathison.turing.ac.uk/page/2738).
+Detailed instructions for making a booking can be found on [Mathison](https://mathison.turing.ac.uk/page/2738). <!-- This link still gives info about the Docusign method but I've added a comment on the page to ask them to update it-->
 The most straight forward way to do this is as follows:
 
-1. Complete the [Gray Dawes Approval Form on Mathison](https://mathison.turing.ac.uk/Utilities/Uploads/Handler/Uploader.ashx?area=composer&filename=Gray+Dawes+approval+form.xlsx&fileguid=49b359b3-59c3-439e-8a16-810ba5f0ae26) and save the file.
-1. Use [Docusign](https://apps.docusign.com/send/home) to request approvals:
-    1. Click the "Start" dropdown and select "Send an Envelope".
-    1. Upload the Excel document from step 1.
-    1. Untick the box that says "Travel form template".
-    1. Add 4 recipients: yourself, your principal (see the [Team reporting structure](https://github.com/alan-turing-institute/research-engineering-group/wiki/Team-reporting-structure) if unsure), your director, and [Expenses](mailto:expense@turing.ac.uk).
-    1. Request signatures from yourself (applicant) and your principal and director (approvers).
-    Add a new row for a second approver if required.
-    1. Sign, submit, and send the document.
-1. Once approved, proceed to book on [Gray Dawes](https://www.gdg.travel/login/).
+1. Complete the 'Travel request' form on ERP. This can be found under Expenses > Travel Request and "Send for approval".
+1. This will be sent to the budget holder and should appear under 'In progress' on your expenses page.
+1. Ping your budget holder to approve the request, as they will not be notified.
+1. Once approved, your request will appear under 'approved'. You will not receive an email about this so keep checking.
+1. Once approved, proceed to book travel and accommodation on [Gray Dawes](https://www.atriis.app/home).
 
 ## Related content
 
