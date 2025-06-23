@@ -15,9 +15,10 @@ weight: 1
 
 ## Out-of-pocket expenses
 
-Out-of-pocket expenses should be reclaimed using ERP. You should submit an expense claim for expenses incurred within a given month as soon as possible, and no later than 60 days after the expense is incurred (except for visa costs, which can be claimed up to a year after starting employment).
+Out-of-pocket expenses should be reclaimed using ERPx.
+You should submit an expense claim for expenses incurred within a given month as soon as possible, and no later than 60 days after the expense is incurred (except for visa costs, which can be claimed up to a year after starting employment).
 
-In the first instance, look at the information provided by the Finance team about how to use ERP on Mathison:
+In the first instance, look at the information provided by the Finance team about how to use ERPx on Mathison:
 
 <!-- This link still gives info about Certify but I've added a comment on the page to ask them to update it -->
 https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2169
@@ -37,7 +38,7 @@ It can take 5-7 working days for your account to set up, so make sure you do thi
 Detailed instructions for making a booking can be found on [Mathison](https://mathison.turing.ac.uk/page/2738). <!-- This link still gives info about the Docusign method but I've added a comment on the page to ask them to update it-->
 The most straight forward way to do this is as follows:
 
-1. Complete the 'Travel request' form on ERP. This can be found under Expenses > Travel Request and "Send for approval".
+1. Complete the 'Travel request' form on ERPx. This can be found under Expenses > Travel Request and "Send for approval".
 1. This will be sent to the budget holder and should appear under 'In progress' on your expenses page.
 1. Ping your budget holder to approve the request, as they will not be notified.
 1. Once approved, your request will appear under 'approved'. You will not receive an email about this so keep checking.

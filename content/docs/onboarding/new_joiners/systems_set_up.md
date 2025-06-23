@@ -116,7 +116,7 @@ You can get this by filing a support ticket with IT.
 Contact [the person in charge of onboarding](https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry) for help with this.
 
 There is a budget to purchase peripherals (monitor, mouse, keyboard, etc.) as well as other equipment such as an office chair and desk.
-You can purchase the office chair and desk yourself and claim back up to £200 in total via ERP.
+You can purchase the office chair and desk yourself and claim back up to £200 in total via ERPx.
 The steps to do this are described in the [homeworking policy on Mathison](https://mathison.turing.ac.uk/page/2218).
 
 Additonal support items including, footrests, lumbar supports, mouse mats etc. can also be requested through the Facilities team upon completion of the [online workstation self-assessment form](https://mathison.turing.ac.uk/page/2810), up to the total cost of £50 per employee.
@@ -246,9 +246,9 @@ Instructions on how to get set up can be found [on Mathison](https://mathison.tu
 When making bookings on Gray Dawes, you will have to additionally submit an Excel approval form (available at the right-hand sidebar of the same Mathison page).
 This form should be filled in and sent to the Principal you have a direct link to in the line management chain for approval.
 
-### ERP expenses
+### ERPx expenses
 
-Other work-related expenses can be reimbursed via ERP: see [the Mathison page](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2169) for more information on how to use this.
+Other work-related expenses can be reimbursed via ERPx: see [the Mathison page](https://mathison.turing.ac.uk/page/3518) for more information on how to use this.
 <!-- needs updating to ERP
 Briefly, you will have to fill in a Travel and Expenses Policy Compliance Form and email it to Finance.
 On this form, the 'approver' should be the REG Director.
