@@ -94,7 +94,7 @@ Some shortcodes may have an opening and closing tag, similar to HTML
 
 #### Hugo Shortcodes
 
-Hugo has a set of useful [built-in shortcodes](https://gohugo.io/content-management/shortcodes/#embedded-shortcodes).
+Hugo has a set of useful [built-in shortcodes](https://gohugo.io/content-management/shortcodes/#embedded).
 
 In particular
 
