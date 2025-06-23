@@ -1,117 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>How we work on REG Handbook</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/</link><description>Recent content in How we work on REG Handbook</description><generator>Hugo</generator><language>en-gb</language><atom:link href="https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/index.xml" rel="self" type="application/rss+xml"/><item><title>Knowledge Sharing</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/knowledge_sharing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/knowledge_sharing/</guid><description>&lt;h1 id="knowledge-sharing">
- Knowledge Sharing
- &lt;a class="anchor" href="#knowledge-sharing">#&lt;/a>
-&lt;/h1>
-&lt;p>This page lists the tools, resources and activities that REG has to promote general communication as well as sharing and gaining knowledge across the team (and the Turing as a whole), and some thoughts on what we could try to improve this.
-If you&amp;rsquo;re looking to learn something new, get help with a problem, share something cool you&amp;rsquo;ve been doing, or find out what others in the team are doing, the list below may give an idea of where to look/what to try.&lt;/p></description></item><item><title>Snark Hunts</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/snark_hunts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/snark_hunts/</guid><description>&lt;h1 id="snark-hunts">
- Snark Hunts
- &lt;a class="anchor" href="#snark-hunts">#&lt;/a>
-&lt;/h1>
-&lt;p>A &amp;ldquo;Snark Hunt&amp;rdquo; is a project retrospective based around a facilitated discussion.
-This is typically carried out during a meeting that lasts for approximately one hour.
-The output of the meeting is a very short document which can be usefully re-read in the future.
-The hope is that anyone reading it might be able to find useful learnings to apply to their own work.&lt;/p>
-&lt;p>You can see notes from all previous &lt;a href="https://thealanturininstitute.sharepoint.com/:f:/s/ResearchEngineering/ElICSwf1rOJFj-ssePnMkOwBZmruJuRHnOKCSpC0M8QDUg?e=XGz6fl">Snark Hunts here&lt;/a>.&lt;/p></description></item><item><title>Defining Project Doneness</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/defining-done/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/defining-done/</guid><description>&lt;h1 id="defining-project-doneness">
- Defining Project Doneness
- &lt;a class="anchor" href="#defining-project-doneness">#&lt;/a>
-&lt;/h1>
-&lt;p>This working document was produced as part of Accelerating AI in the Arts and Humanities (AAAH).&lt;/p>
-&lt;p>As a Research Software Engineer, we often join a collaborative project when a code base already exists.
-Defining the aims of a collaboration can be challenging, and when there is limited time it is important to apply attention in the right places.
-The following document is designed to help:&lt;/p></description></item><item><title>Meeting Records</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/meeting_record/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/meeting_record/</guid><description>&lt;h1 id="meeting-records">
- Meeting Records
- &lt;a class="anchor" href="#meeting-records">#&lt;/a>
-&lt;/h1>
-&lt;p>When a synchronous meeting is unavoidable, it is critical to produce a clear and thorough record.&lt;/p>
-&lt;p>The meeting record is important as a reference for what happened at the meeting.
-In particular, any decisions made or actions assigned need to be clearly recorded for future reference.&lt;/p>
-&lt;p>A good record will also be invaluable to anyone who was not able to attend an in-person meeting.&lt;/p>
-&lt;h2 id="meeting-record-template">
- Meeting Record Template
- &lt;a class="anchor" href="#meeting-record-template">#&lt;/a>
-&lt;/h2>
-&lt;p>Below is a suggested &lt;a href="https://alan-turing-institute.github.io/REG-handbook/meeting_record.md">template&lt;/a> for a meeting record document.
-The template uses &lt;a href="https://pandoc.org/MANUAL.html#variables-for-latex">Pandoc&lt;/a> &lt;a href="https://pandoc.org/MANUAL.html#pandocs-markdown">Markdown&lt;/a>.
-Parts of the template are already filled with explanations of how they should be used.&lt;/p></description></item><item><title>Repo Audits</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/code_audits/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/code_audits/</guid><description>&lt;h1 id="repo-audits">
- Repo Audits
- &lt;a class="anchor" href="#repo-audits">#&lt;/a>
-&lt;/h1>
-&lt;p>As required we conduct audits of GitHub repositories created during projects.
-The aim is to check that the documentation is clear, installation is easy etc.&lt;/p>
-&lt;p>Audits should be conducted by people who have not worked on the project.&lt;/p>
-&lt;h2 id="past-experience">
- Past experience
- &lt;a class="anchor" href="#past-experience">#&lt;/a>
-&lt;/h2>
-&lt;p>These comments from running the first round of these in June 2021:&lt;/p>
-&lt;blockquote>
-&lt;p>Installation is a big barrier for software with complex build requirements.
-We tried looking at two web app projects (Counterfactual Covid 19 and CROP) and despite Docker images being available we weren&amp;rsquo;t able to get them to build correctly.
-We might have had more success if all we needed to do was a pip or CRAN install.&lt;/p></description></item><item><title>Project Tracking</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/project_tracking/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/project_tracking/</guid><description>&lt;h1 id="project-tracking">
- Project Tracking
- &lt;a class="anchor" href="#project-tracking">#&lt;/a>
-&lt;/h1>
-&lt;p>This page describes some of the tools we use for tracking projects and other tasks within the team. It does not go into details of how individual projects are managed, but how REG coordinates its commitments to the range of projects its involved in.&lt;/p>
-&lt;h2 id="hut23-github-repo">
- Hut23 GitHub Repo
- &lt;a class="anchor" href="#hut23-github-repo">#&lt;/a>
-&lt;/h2>
-&lt;p>The &lt;a href="https://github.com/alan-turing-institute/Hut23">Hut23 repo&lt;/a> is the central hub for most team matters and admin.&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;p>&lt;a href="https://github.com/alan-turing-institute/Hut23/projects/2">Project Tracker&lt;/a>: Board shows all upcoming, current and completed projects. There&amp;rsquo;s an issue for each project (see below). Depending on the project status, it will be in one column or another. In order to assign REG team members to projects, we use emojis to vote for the projects that we would be interested in taking part. You should react to all projects on the &amp;ldquo;Finding people&amp;rdquo; column, but also on the &amp;ldquo;Awaiting go/no-go&amp;rdquo; column. The voting system is as follows:&lt;/p></description></item><item><title>Research Software Directory</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/research-software-directory/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/research-software-directory/</guid><description>&lt;h1 id="research-software-directory">
- Research Software Directory
- &lt;a class="anchor" href="#research-software-directory">#&lt;/a>
-&lt;/h1>
-&lt;h2 id="about">
- About
- &lt;a class="anchor" href="#about">#&lt;/a>
-&lt;/h2>
-&lt;p>The &lt;a href="https://research-software-directory.org/">Research Software Directory&lt;/a>(RSD) is a content management system created by the Netherlands eScience Center.
-It aims to promote the visibility, impact and reuse of research software and to encourage proper citation to ensure researchers and RSEs get credit for their work.&lt;/p>
-&lt;p>We (REG) have set up a page for &lt;a href="https://research-software-directory.org/organisations/the-alan-turing-institute">The Alan Turing Institute&lt;/a> on the RSD.
-We hope that this page will be a place where we can showcase the variety of software the REG team have developed. This could be beneficial for ourselves, collaborators (past and present), and potential future hires - to get a feel for the kind of things the team/institute work on, or even spark new collaborations.&lt;/p></description></item><item><title>Line Management</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/line-management/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/line-management/</guid><description>&lt;h1 id="line-management">
- Line Management
- &lt;a class="anchor" href="#line-management">#&lt;/a>
-&lt;/h1>
-&lt;p>Line management in REG is a little different than in other parts of the Turing as you often will not be working directly with the people you are managing. This guide aims to explain how this relationship might work.&lt;/p>
-&lt;h2 id="how-line-management-duties-are-assigned">
- How line management duties are assigned
- &lt;a class="anchor" href="#how-line-management-duties-are-assigned">#&lt;/a>
-&lt;/h2>
-&lt;p>At (current) senior level, people are expected to line manage 1-2 standards. This will probably change with the new lead role (see the &lt;a href="https://github.com/alan-turing-institute/Hut23/blob/master/development/REG-Roles-Matrix.md#line-managementmentoring">REG role matrix&lt;/a>). Currently, if seniors are willing to line manage more than 2 people, they should inform the recruitment lead (can be found in &lt;a href="https://github.com/alan-turing-institute/research-engineering-group/wiki/Service-areas">service areas&lt;/a>).&lt;/p></description></item><item><title>Publishing Open Access Journal Articles</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/open_access/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/open_access/</guid><description>&lt;h1 id="open-access-journal-articles">
- Open Access Journal Articles
- &lt;a class="anchor" href="#open-access-journal-articles">#&lt;/a>
-&lt;/h1>
-&lt;p>The Turing has access to a block grant to cover open access charges for journal publications for UKRI funded projects if there are not already funds in the project-specific grant to cover them. If you have published an article, you may be able to cover the open access fees using this funding source. See &lt;a href="https://mathison.turing.ac.uk/page/BlockGrant?SearchId=380294">Open Access Publishing - Funding&lt;/a> on Mathison for further information.&lt;/p></description></item><item><title>Remote Working</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/remote_working/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/remote_working/</guid><description>&lt;h1 id="remote-working">
- Remote Working
- &lt;a class="anchor" href="#remote-working">#&lt;/a>
-&lt;/h1>
-&lt;p>Information and tips and tricks on working from home and other remote working.&lt;/p>
-&lt;h2 id="meetings-calls-and-screen-sharing">
- Meetings, calls and screen sharing
- &lt;a class="anchor" href="#meetings-calls-and-screen-sharing">#&lt;/a>
-&lt;/h2>
-&lt;h2 id="gather">
- Gather
- &lt;a class="anchor" href="#gather">#&lt;/a>
-&lt;/h2>
-&lt;p>REG uses Gather for some of the coffee breaks and social events.
-It gives a virtual space (modelled on the office!) to wander around and have conversations with people near to you.&lt;/p>
-&lt;ul>
-&lt;li>See &lt;a href="https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#video-call-links">The REGistry&lt;/a> for how to gain entry to gather.&lt;/li>
-&lt;/ul>
-&lt;p>Note: Gather is blocked on the Turing VPN and on IT-managed computers.&lt;/p></description></item><item><title>Acronyms and Abbreviations</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/acronyms_and_abbreviations/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/acronyms_and_abbreviations/</guid><description>&lt;h1 id="acronyms-and-abbreviations">
- Acronyms and Abbreviations
- &lt;a class="anchor" href="#acronyms-and-abbreviations">#&lt;/a>
-&lt;/h1>
-&lt;p>AIDA: Artificial Intelligence for Data Analytics&lt;/p>
-&lt;p>ALOGIT: name of a Fortran package (see &lt;a href="https://github.com/alan-turing-institute/Hut23/issues/295">issue&lt;/a>)&lt;/p>
-&lt;p>ASG: AI for Science and Government (the new name of the EPSRC funds from SPF)&lt;/p>
-&lt;p>ARC: Applied Research Centre / Australian Research Council&lt;/p>
-&lt;p>BL: British Library&lt;/p>
-&lt;p>BPT: Bayesian Performance Tuning&lt;/p>
-&lt;p>Chrono: Chronotopic Cartographies&lt;/p>
-&lt;p>CPD: Change-point detection (method to apply to data in AIDA-Lloyds project)&lt;/p>
-&lt;p>CT: Computerised Tomography&lt;/p>
-&lt;p>DAS: Data Availability Statements (Giovanni&amp;rsquo;s 22-days research paper)&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>How we work on REG Handbook</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/</link><description>Recent content in How we work on REG Handbook</description><generator>Hugo</generator><language>en-gb</language><atom:link href="https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/index.xml" rel="self" type="application/rss+xml"/><item><title>Knowledge Sharing</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/knowledge_sharing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/knowledge_sharing/</guid><description>Knowledge Sharing # This page lists the tools, resources and activities that REG has to promote general communication as well as sharing and gaining knowledge across the team (and the Turing as a whole), and some thoughts on what we could try to improve this. If you&amp;rsquo;re looking to learn something new, get help with a problem, share something cool you&amp;rsquo;ve been doing, or find out what others in the team are doing, the list below may give an idea of where to look/what to try.</description></item><item><title>Snark Hunts</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/snark_hunts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/snark_hunts/</guid><description>Snark Hunts # A &amp;ldquo;Snark Hunt&amp;rdquo; is a project retrospective based around a facilitated discussion. This is typically carried out during a meeting that lasts for approximately one hour. The output of the meeting is a very short document which can be usefully re-read in the future. The hope is that anyone reading it might be able to find useful learnings to apply to their own work.
+You can see notes from all previous Snark Hunts here.</description></item><item><title>Defining Project Doneness</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/defining-done/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/defining-done/</guid><description>Defining Project Doneness # This working document was produced as part of Accelerating AI in the Arts and Humanities (AAAH).
+As a Research Software Engineer, we often join a collaborative project when a code base already exists. Defining the aims of a collaboration can be challenging, and when there is limited time it is important to apply attention in the right places. The following document is designed to help:</description></item><item><title>Meeting Records</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/meeting_record/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/meeting_record/</guid><description>Meeting Records # When a synchronous meeting is unavoidable, it is critical to produce a clear and thorough record.
+The meeting record is important as a reference for what happened at the meeting. In particular, any decisions made or actions assigned need to be clearly recorded for future reference.
+A good record will also be invaluable to anyone who was not able to attend an in-person meeting.
+Meeting Record Template # Below is a suggested template for a meeting record document.</description></item><item><title>Repo Audits</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/code_audits/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/code_audits/</guid><description>Repo Audits # As required we conduct audits of GitHub repositories created during projects. The aim is to check that the documentation is clear, installation is easy etc.
+Audits should be conducted by people who have not worked on the project.
+Past experience # These comments from running the first round of these in June 2021:
+Installation is a big barrier for software with complex build requirements. We tried looking at two web app projects (Counterfactual Covid 19 and CROP) and despite Docker images being available we weren&amp;rsquo;t able to get them to build correctly.</description></item><item><title>Project Tracking</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/project_tracking/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/project_tracking/</guid><description>Project Tracking # This page describes some of the tools we use for tracking projects and other tasks within the team. It does not go into details of how individual projects are managed, but how REG coordinates its commitments to the range of projects its involved in.
+Hut23 GitHub Repo # The Hut23 repo is the central hub for most team matters and admin.
+Project Tracker: Board shows all upcoming, current and completed projects.</description></item><item><title>Research Software Directory</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/research-software-directory/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/research-software-directory/</guid><description>Research Software Directory # About # The Research Software Directory(RSD) is a content management system created by the Netherlands eScience Center. It aims to promote the visibility, impact and reuse of research software and to encourage proper citation to ensure researchers and RSEs get credit for their work.
+We (REG) have set up a page for The Alan Turing Institute on the RSD. We hope that this page will be a place where we can showcase the variety of software the REG team have developed.</description></item><item><title>Line Management</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/line-management/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/line-management/</guid><description>Line Management # Line management in REG is a little different than in other parts of the Turing as you often will not be working directly with the people you are managing. This guide aims to explain how this relationship might work.
+How line management duties are assigned # At (current) senior level, people are expected to line manage 1-2 standards. This will probably change with the new lead role (see the REG role matrix).</description></item><item><title>Publishing Open Access Journal Articles</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/open_access/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/open_access/</guid><description>Open Access Journal Articles # The Turing has access to a block grant to cover open access charges for journal publications for UKRI funded projects if there are not already funds in the project-specific grant to cover them. If you have published an article, you may be able to cover the open access fees using this funding source. See Open Access Publishing - Funding on Mathison for further information.</description></item><item><title>Remote Working</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/remote_working/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/remote_working/</guid><description>Remote Working # Information and tips and tricks on working from home and other remote working.
+Meetings, calls and screen sharing # Gather # REG uses Gather for some of the coffee breaks and social events. It gives a virtual space (modelled on the office!) to wander around and have conversations with people near to you.
+See The REGistry for how to gain entry to gather. Note: Gather is blocked on the Turing VPN and on IT-managed computers.</description></item><item><title>Acronyms and Abbreviations</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/acronyms_and_abbreviations/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/acronyms_and_abbreviations/</guid><description>Acronyms and Abbreviations # AIDA: Artificial Intelligence for Data Analytics
+ALOGIT: name of a Fortran package (see issue)
+ASG: AI for Science and Government (the new name of the EPSRC funds from SPF)
+ARC: Applied Research Centre / Australian Research Council
+BL: British Library
+BPT: Bayesian Performance Tuning
+Chrono: Chronotopic Cartographies
+CPD: Change-point detection (method to apply to data in AIDA-Lloyds project)
+CT: Computerised Tomography
+DAS: Data Availability Statements (Giovanni&amp;rsquo;s 22-days research paper)</description></item></channel></rss>
