@@ -20,12 +20,12 @@ You should submit an expense claim for expenses incurred within a given month as
 
 In the first instance, look at the information provided by the Finance team about how to use ERPx on Mathison:
 
-<!-- This link still gives info about Certify but I've added a comment on the page to ask them to update it -->
-https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2169
+- https://mathison.turing.ac.uk/page/3518
+- https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2169
 
-You can also find a spreadsheet mapping old to new project codes here:
+<!-- Note: The above link still gives info about Certify but I've added a comment on the page to ask them to update it -->
 
-https://mathison.turing.ac.uk/page/3520?SearchId=0#block-section-1675523190
+You can also find a spreadsheet mapping old to new project codes [here](https://mathison.turing.ac.uk/page/3520?SearchId=0#block-section-1675523190).
 
 ## Booking Travel and Accommodation
 
