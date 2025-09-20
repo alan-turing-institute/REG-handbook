@@ -29,7 +29,7 @@ You should refer to Hugo's [templates](https://gohugo.io/templates/) and [functi
 
 ## Partial Templates
 
-Whole page templates are built from of a number of smaller [partial templates](https://gohugo.io/templates/partials/).
+Whole page templates are built from of a number of smaller [partial templates](https://gohugo.io/templates/types/#partial).
 This approach reduces repeated code in templates and help keep making changes simple.
 
 The theme defines a number of dummy [partial templates](https://github.com/alex-shpak/hugo-book#partials) for us to overwrite.
