@@ -20,7 +20,7 @@ jobs:
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
       with:
-        hugo-version: 'latest'
+        hugo-version: '0.126.3'
         extended: true
 
     - name: Run pre-commit checks
@@ -40,7 +40,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: 'latest'
+          hugo-version: '0.126.3'
           extended: true
 
       - name: Setup Ruby
@@ -81,7 +81,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: 'latest'
+          hugo-version: '0.126.3'
           extended: true
 
       - name: Setup Ruby

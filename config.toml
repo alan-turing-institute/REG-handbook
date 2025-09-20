@@ -11,7 +11,7 @@ enableGitInfo = true
 enableemoji = true
 
 # The Book theme doesn't render taxonomy, remove related files
-disableKinds = ['taxonomy', 'taxonomyTerm']
+disableKinds = ['taxonomy']
 
 # Extra menu items
 [menu]
