@@ -29,9 +29,9 @@ You should refer to Hugo's [templates](https://gohugo.io/templates/) and [functi
 
 ## Partial Templates
 
-Whole page templates are built from of a number of smaller [partial templates](https://gohugo.io/templates/partials/).
+Whole page templates are built from of a number of smaller [partial templates](https://gohugo.io/templates/types/#partial).
 This approach reduces repeated code in templates and help keep making changes simple.
 
-The theme defines a number of dummy [partial templates](https://gohugo.io/templates/types/#partial) for us to overwrite.
+The theme defines a number of dummy [partial templates](https://github.com/alex-shpak/hugo-book#partials) for us to overwrite.
 
 For example, the Creative Commons notice at the bottom of each page was added by editing {{% repo_link path="layouts/partials/docs/inject/footer.html" text="`layouts/partial/docs/inject/footer.html`" %}}.
