@@ -1,4 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>New Joiners on REG Handbook</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/onboarding/new_joiners/</link><description>Recent content in New Joiners on REG Handbook</description><generator>Hugo</generator><language>en-gb</language><atom:link href="https://alan-turing-institute.github.io/REG-handbook/docs/onboarding/new_joiners/index.xml" rel="self" type="application/rss+xml"/><item><title>First Few Days</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/onboarding/new_joiners/first_few_days/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/onboarding/new_joiners/first_few_days/</guid><description>First Few Days # Welcome!
-We are super pleased that you&amp;rsquo;re joining our group. This page gives you an overview of what to expect from your first few days. They are maintained by the group, we hope that new-starters feel empowered to edit them if there are useful changes to be made.
-Introductions # Each new starter gets assigned two buddies to be friendly points of contact. The person in charge of onboarding should let you know who these are a bit before you start; If that doesn&amp;rsquo;t happen, please email them about it.</description></item><item><title>Systems Set Up</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/onboarding/new_joiners/systems_set_up/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/onboarding/new_joiners/systems_set_up/</guid><description>Systems Set Up # These are not hand-holding instructions. Rather they are a reference to help with your setup. If they are wrong or incomplete, please edit them. The page has been roughly organised into high priority things (do in your first couple of days), low priority (sometimes in the first couple of weeks), and reference.
-If any of the material is unfamiliar (e.g. you haven&amp;rsquo;t seen a GitHub project board before), then please ask your buddies (or anyone else you meet in the group) to have an informal chat about it.</description></item><item><title>Checklist</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/onboarding/new_joiners/checklist/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/onboarding/new_joiners/checklist/</guid><description>Checklist # This page attempts to list all the things that a new starter should remember to do. It makes no guarantees of completeness, and attempts to list both compulsory things and optional ones. It has been written by new starters as they go. If you&amp;rsquo;ve recently started in REG and find yourself doing anything related to getting started, that others might want to do as well but that is not on this list, please add it.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>New Joiners on REG Handbook</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/onboarding/new_joiners/</link><description>Recent content in New Joiners on REG Handbook</description><generator>Hugo</generator><language>en-gb</language><atom:link href="https://alan-turing-institute.github.io/REG-handbook/docs/onboarding/new_joiners/index.xml" rel="self" type="application/rss+xml"/><item><title>First Few Days</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/onboarding/new_joiners/first_few_days/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/onboarding/new_joiners/first_few_days/</guid><description>&lt;h1 id="first-few-days"&gt;
+ First Few Days
+ &lt;a class="anchor" href="#first-few-days"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Welcome!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We are super pleased that you&amp;rsquo;re joining our group.
+This page gives you an overview of what to expect from your first few days.
+They are maintained by the group, we hope that new-starters feel empowered to edit them if there are useful changes to be made.&lt;/p&gt;
+&lt;h2 id="introductions"&gt;
+ Introductions
+ &lt;a class="anchor" href="#introductions"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Each new starter gets assigned two buddies to be friendly points of contact.
+The &lt;a href="https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#responsibilities"&gt;person in charge of onboarding&lt;/a&gt;
+should let you know who these are a bit before you start;
+If that doesn&amp;rsquo;t happen, please email them about it.
+Your buddies will welcome you on the first day.
+In the first few days there will be a welcome coffee to give you a chance to introduce yourself to the whole REG team, and within the first few weeks you will also have a 1-on-1 meeting with REG&amp;rsquo;s Director.&lt;/p&gt;</description></item><item><title>Systems Set Up</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/onboarding/new_joiners/systems_set_up/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/onboarding/new_joiners/systems_set_up/</guid><description>&lt;h1 id="systems-set-up"&gt;
+ Systems Set Up
+ &lt;a class="anchor" href="#systems-set-up"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;blockquote class="book-hint info"&gt;
+ 
+These are not hand-holding instructions.
+Rather they are a reference to help with your setup.
+If they are wrong or incomplete, please edit them.
+
+&lt;/blockquote&gt;
+
+&lt;p&gt;The page has been roughly organised into high priority things (do in your first couple of days), low priority (sometimes in the first couple of weeks), and reference.&lt;/p&gt;
+&lt;p&gt;If any of the material is unfamiliar (&lt;em&gt;e.g.&lt;/em&gt; you haven&amp;rsquo;t seen a GitHub project board before), then please ask your buddies (or anyone else you meet in the group) to have an informal chat about it.&lt;/p&gt;</description></item><item><title>Checklist</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/onboarding/new_joiners/checklist/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/onboarding/new_joiners/checklist/</guid><description>&lt;h1 id="checklist"&gt;
+ Checklist
+ &lt;a class="anchor" href="#checklist"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;This page attempts to list all the things that a new starter should remember to do.
+It makes no guarantees of completeness, and attempts to list both compulsory things and optional ones.
+It has been written by new starters as they go.
+If you&amp;rsquo;ve recently started in REG and find yourself doing anything related to getting started, that others might want to do as well but that is not on this list, please add it.
+If anything is unclear, please figure it out by e.g. asking your buddies, and then clarify it here.&lt;/p&gt;</description></item></channel></rss>

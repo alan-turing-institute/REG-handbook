@@ -1,71 +1,573 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Introduction on REG Handbook</title><link>https://alan-turing-institute.github.io/REG-handbook/</link><description>Recent content in Introduction on REG Handbook</description><generator>Hugo</generator><language>en-gb</language><atom:link href="https://alan-turing-institute.github.io/REG-handbook/index.xml" rel="self" type="application/rss+xml"/><item><title>Discussions and Issues</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/discussions_and_issues/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/discussions_and_issues/</guid><description>Discussions and Issues # Contributing does not only mean adding code or writing pages. Being involved in reporting issues and discussing ideas are important and valuable aspects to contributing. The handbook uses both issues and discussions on GitHub.
-Discussions # The Discussions on the handbook repository are the best place for informal talk about the handbook.
-You should feel welcome to create a discussion on any relevant topic, without the formality of an issue.</description></item><item><title>Recognising Contributions</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/recognising_contributions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/recognising_contributions/</guid><description>Recognising Contributions # We aim to recognise all contributions to the handbook, not just those made through commits. For that purpose we use All Contributors to help manage a record of who has contributed to the book and how.
-Use the &amp;lsquo;add&amp;rsquo; command in an issue or pull-request comment to ask @all-contributors to add a contributor
-@all-contributors please add @&amp;lt;username&amp;gt; for &amp;lt;contributions&amp;gt; See the bot usage documentation for full details and more examples.</description></item><item><title>Booking a Meeting Room</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/working_at_the_turing/booking_a_meeting_room/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/working_at_the_turing/booking_a_meeting_room/</guid><description>Booking a Meeting Room # There are instructions on how to book a room on Mathison.
-The simplest way of finding a room is to use the Scheduling Assistant on a meeting invite.
-Then scroll down to Add Location. This will give you a list of Available Rooms for your specific time. It will update when you move the time window.</description></item><item><title>Buddy System</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/onboarding/buddy_system/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/onboarding/buddy_system/</guid><description>Buddy System # It can be daunting starting a new job, especially remotely where there is sometimes less opportunity for casual questions. To help with this every new employee should be assigned buddies. The buddies are responsible for providing informal friendly faces to offer advice, guidance, and encouragement on any aspect of working within REG and ARC.
-We also emphasise that the buddies should be a safe space where new-starters can get help with any technical questions that they feel is silly or trivially easy and may not feel comfortable admitting to the wider group.</description></item><item><title>Expenses</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/working_at_the_turing/expenses/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/working_at_the_turing/expenses/</guid><description>Expenses # Out-of-pocket expenses # Out-of-pocket expenses should be reclaimed using ERPx. You should submit an expense claim for expenses incurred within a given month as soon as possible, and no later than 60 days after the expense is incurred (except for visa costs, which can be claimed up to a year after starting employment).
-In the first instance, look at the information provided by the Finance team about how to use ERPx on Mathison:</description></item><item><title>First Few Days</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/onboarding/new_joiners/first_few_days/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/onboarding/new_joiners/first_few_days/</guid><description>First Few Days # Welcome!
-We are super pleased that you&amp;rsquo;re joining our group. This page gives you an overview of what to expect from your first few days. They are maintained by the group, we hope that new-starters feel empowered to edit them if there are useful changes to be made.
-Introductions # Each new starter gets assigned two buddies to be friendly points of contact. The person in charge of onboarding should let you know who these are a bit before you start; If that doesn&amp;rsquo;t happen, please email them about it.</description></item><item><title>Getting Started</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/getting_started/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/getting_started/</guid><description>Getting Started # Install dependencies # To contribute to the handbook you will need
-Git Hugo (You will need the extended version with Sass/SCSS support) Your favourite text editor Optionally pre-commit; see Making Changes for more details. Clone the repository # Clone the repository with one of the following options (depending on how you authenticate with GitHub):
-SSH authentication git clone --recurse-submodules git@github.com:alan-turing-institute/REG-handbook.git cd REG-handbook HTTPS authentication git clone --recurse-submodules https://github.</description></item><item><title>Knowledge Sharing</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/knowledge_sharing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/knowledge_sharing/</guid><description>Knowledge Sharing # This page lists the tools, resources and activities that REG has to promote general communication as well as sharing and gaining knowledge across the team (and the Turing as a whole), and some thoughts on what we could try to improve this. If you&amp;rsquo;re looking to learn something new, get help with a problem, share something cool you&amp;rsquo;ve been doing, or find out what others in the team are doing, the list below may give an idea of where to look/what to try.</description></item><item><title>Probation</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/employee_processes/probation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/employee_processes/probation/</guid><description>Probation # During the initial 6 months in a team member&amp;rsquo;s appointment to the institute, they will undergo probation review with their line manager. (Note that if an existing team member was previously in another role at the Turing and underwent probation review in that role, they do not require a probation review when appointed to a role in REG.) This is designed to integrate with the on-boarding process to ensure that new team members are performing their job as expected.</description></item><item><title>Snark Hunts</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/snark_hunts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/snark_hunts/</guid><description>Snark Hunts # A &amp;ldquo;Snark Hunt&amp;rdquo; is a project retrospective based around a facilitated discussion. This is typically carried out during a meeting that lasts for approximately one hour. The output of the meeting is a very short document which can be usefully re-read in the future. The hope is that anyone reading it might be able to find useful learnings to apply to their own work.
-You can see notes from all previous Snark Hunts here.</description></item><item><title>Social Media</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/communications/social_media/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/communications/social_media/</guid><description>Social Media # LinkedIn # Page: turing-research-engineering
-Our LinkedIn page showcases the work done under the Alan Turing Institute umbrella and highlights the achievements of our researchers and engineers to a professional audience.
-X (Formerly Twitter) # Handle: @turinghut23
-Our Twitter account offers an informal public-facing channel for sharing updates about our projects and life at REG, engaging with our audience through insights, and updates.
-Medium # Handle: @turinghut23</description></item><item><title>SocRSE</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/onboarding/society_of_research_software_engineering/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/onboarding/society_of_research_software_engineering/</guid><description>Society of Research Software Engineering # The Society of Research Software Engineering (SocRSE) is a charitable incorporated organisation with the mission to establish a research environment that recognises the vital role of software in research.
-REG supports and encourages its members to join the SocRSE, so it&amp;rsquo;s worth reviewing the society&amp;rsquo;s website and deciding whether to join during your onboarding period.
-Benefits of SocRSE # There are many benefits to joining the SocRSE.</description></item><item><title>Annual Appraisals</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/employee_processes/annual_appraisals/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/employee_processes/annual_appraisals/</guid><description>Annual Appraisals # REG is a large team, with a relatively flat line management structure. Therefore we run a team-wide standardisation process where appraisals and progression award recommendations are reviewed to ensure consistency and fairness across the team.
-Our goal is to work within the wider HR policy and guidance (see HR Performance Review Guide) to prioritise what we think is most important for our team (fairness, transparency and a clear progression path) and provide clear guidance to achieve that.</description></item><item><title>Changelogs and Semantic Versioning</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/technical_practices/change_logs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/technical_practices/change_logs/</guid><description>Changelogs # For any non-trivial code, it is worth maintaining a Changelog. This is valuable as it is a record of changes from the perspective of users (rather than git commit messages which are often only meaningful to the developers involved). A recommended format for Changelog files is given at Keep a changelog. All notable changes to a project should be documented in this file.
-Semantic Versioning # A related concept is semantic versioning.</description></item><item><title>Defining Project Doneness</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/defining-done/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/defining-done/</guid><description>Defining Project Doneness # This working document was produced as part of Accelerating AI in the Arts and Humanities (AAAH).
-As a Research Software Engineer, we often join a collaborative project when a code base already exists. Defining the aims of a collaboration can be challenging, and when there is limited time it is important to apply attention in the right places. The following document is designed to help:</description></item><item><title>Meeting Records</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/meeting_record/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/meeting_record/</guid><description>Meeting Records # When a synchronous meeting is unavoidable, it is critical to produce a clear and thorough record.
-The meeting record is important as a reference for what happened at the meeting. In particular, any decisions made or actions assigned need to be clearly recorded for future reference.
-A good record will also be invaluable to anyone who was not able to attend an in-person meeting.
-Meeting Record Template # Below is a suggested template for a meeting record document.</description></item><item><title>Recruitment FAQs</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/join_us/recruitment_faqs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/join_us/recruitment_faqs/</guid><description>REG Recruitment FAQs # Here you can find answers to the most frequently asked questions about working for the team and the recruitment process.
-Questions are grouped by:
-Application Stage Profile Role Interview Offer Application Stage # Is the position open to applicants outside of the UK who do not currently have a UK work visa? # Yes, the positions are open to applicants outside the UK. If you do not currently have the Right to Work in the UK, the Turing is able to sponsor a Skilled Worker visa application (see below for details).</description></item><item><title>Repo Audits</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/code_audits/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/code_audits/</guid><description>Repo Audits # As required we conduct audits of GitHub repositories created during projects. The aim is to check that the documentation is clear, installation is easy etc.
-Audits should be conducted by people who have not worked on the project.
-Past experience # These comments from running the first round of these in June 2021:
-Installation is a big barrier for software with complex build requirements. We tried looking at two web app projects (Counterfactual Covid 19 and CROP) and despite Docker images being available we weren&amp;rsquo;t able to get them to build correctly.</description></item><item><title>Style Guide</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/style_guide/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/style_guide/</guid><description>Style Guide # Semantic Line Breaks # It is encouraged to use Semantic Line Breaks when writing for the handbook. This improves the readability of source files and make diffs clearer. The Semantic Line Breaks specification explains the rules and reasoning. The most important rules are,
-A semantic line break MUST occur after a sentence, as punctuated by a period (.), exclamation mark (!), or question mark (?). A semantic line break SHOULD occur after an independent clause as punctuated by a comma (,), semicolon (;), colon (:), or em dash (—).</description></item><item><title>Adding New Content</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/creating_a_page/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/creating_a_page/</guid><description>Adding New Content # How Hugo Arranges Content # Pages are built from content files in the content/ directory. Hugo automatically gives pages a URL based on the organisation of files in the content/ directory.
-In Hugo, the first directory after content/ is significant and defines the content type. All handbook pages should be nested in the content/docs/ directory.
-Sections may be created in content/docs/ (to any depth) by creating a directory containing a content file called _index.</description></item><item><title>Equality, Diversity, and Inclusion</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/working_at_the_turing/edi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/working_at_the_turing/edi/</guid><description>Equality, Diversity, and Inclusion # Overview # The Turing has a strong commitment towards EDI, which is formally set out in the Institute&amp;rsquo;s EDI Strategy and Action Plan. For current Turing staff, you can also access an EDI section on Mathison.
-How to get involved # If you are keen to be involved in the EDI work around REG and the Turing, do feel free to join the #edi-equality-diversity-inclusion channel on Slack, and/or contact:</description></item><item><title>Project Tracking</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/project_tracking/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/project_tracking/</guid><description>Project Tracking # This page describes some of the tools we use for tracking projects and other tasks within the team. It does not go into details of how individual projects are managed, but how REG coordinates its commitments to the range of projects its involved in.
-Hut23 GitHub Repo # The Hut23 repo is the central hub for most team matters and admin.
-Project Tracker: Board shows all upcoming, current and completed projects.</description></item><item><title>Python Tools and Practices</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/technical_practices/python/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/technical_practices/python/</guid><description>Python Tools and Practices # Python is a widely used language within REG. Below are some useful tools to help you configure your repo (with links to examples).
-Some of the topics discussed below are not exclusive to Python. As more content is added to the manual they should be separated out into their own pages. Autoformatters / Linters # There are many widely used autoformatter and linters for Python, which can be used as standalone tools or call from .</description></item><item><title>Research Software Directory</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/research-software-directory/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/research-software-directory/</guid><description>Research Software Directory # About # The Research Software Directory(RSD) is a content management system created by the Netherlands eScience Center. It aims to promote the visibility, impact and reuse of research software and to encourage proper citation to ensure researchers and RSEs get credit for their work.
-We (REG) have set up a page for The Alan Turing Institute on the RSD. We hope that this page will be a place where we can showcase the variety of software the REG team have developed.</description></item><item><title>Systems Set Up</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/onboarding/new_joiners/systems_set_up/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/onboarding/new_joiners/systems_set_up/</guid><description>Systems Set Up # These are not hand-holding instructions. Rather they are a reference to help with your setup. If they are wrong or incomplete, please edit them. The page has been roughly organised into high priority things (do in your first couple of days), low priority (sometimes in the first couple of weeks), and reference.
-If any of the material is unfamiliar (e.g. you haven&amp;rsquo;t seen a GitHub project board before), then please ask your buddies (or anyone else you meet in the group) to have an informal chat about it.</description></item><item><title>Checklist</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/onboarding/new_joiners/checklist/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/onboarding/new_joiners/checklist/</guid><description>Checklist # This page attempts to list all the things that a new starter should remember to do. It makes no guarantees of completeness, and attempts to list both compulsory things and optional ones. It has been written by new starters as they go. If you&amp;rsquo;ve recently started in REG and find yourself doing anything related to getting started, that others might want to do as well but that is not on this list, please add it.</description></item><item><title>Configuring Your Editor</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/technical_practices/configuring_editors/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/technical_practices/configuring_editors/</guid><description>Configuring Your Editor # Many people will configure their editor to suit their own needs and preferences.
-It is possible to do this so that there are common standards between collaborators in the code base, while allowing for differences in individuals&amp;rsquo; configurations.
-Some of the topics discussed below are heavily focused on python development. In due course we should generalise this to cover other languages. General # Some common, particular formatting/encoding options can be configured for a range of editors/IDEs by using EditorConfig in your repo.</description></item><item><title>Editing a Page</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/editing_a_page/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/editing_a_page/</guid><description>Editing a Page # If you followed the instructions in the Getting Started section to checkout the repository and serve the handbook locally you can edit a page locally. However, as you may have noticed, at the bottom of each page is a link to edit the page in the GitHub web editor if you would prefer. This may be easy for making small changes.
-Pages # Each page is a Markdown file with YAML front matter followed by the page contents in Markdown.</description></item><item><title>Reasonable Adjustments</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/working_at_the_turing/reasonable_adjustments/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/working_at_the_turing/reasonable_adjustments/</guid><description>Reasonable Adjustments, Access to Work, and Office Accessibility # Reasonable Adjustments # Reasonable adjustments are changes to workplace procedures, practices, or environments that help ensure individuals with disabilities are not disadvantaged compared to others. These adjustments can address needs related to mental health, neurodiverse conditions, visual or hearing impairments, chronic illnesses, and mobility conditions.
-Examples of reasonable adjustments which may be considered include:
-Flexible working hours Workspace adjustments (e.g., footrests, back support, adjustable desks) Remote/hybrid working options Additional training Providing a mentor Assistive technology The Alan Turing Institute is committed to creating an inclusive, barrier-free workplace, recognising that providing reasonable adjustments is essential to supporting colleagues in fully participating in their roles.</description></item><item><title>Wellbeing</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/working_at_the_turing/wellbeing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/working_at_the_turing/wellbeing/</guid><description>Wellbeing # The Turing provides a number of support mechanisms to protect employees&amp;rsquo; wellbeing.
-The most up-to-date information can be found on Mathison. A summary follows here:
-Report + Support # Report + Support is an online platform where you can report cases of bullying, harassment, discrimination, assault, hate crime, sexual misconduct, or a breach of the Turing&amp;rsquo;s values (Trust, Inclusivity, Respect, Leadership, Transparency, Integrity). Reports can be made anonymously if you so choose.</description></item><item><title>Contributing Changes</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/contributing_changes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/contributing_changes/</guid><description>Contributing Changes # Once you have made changes, you will need to contribute them back to the remote repository. This page explains the process of pushing your changes back to the remote, and how your contribution will be checked in the CI and review process.
-The handbook uses the GitHub flow workflow. In short:
-create a branch make changes open pull request review merge to main This workflow should help changes be deployed quickly.</description></item><item><title>Line Management</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/line-management/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/line-management/</guid><description>Line Management # Line management in REG is a little different than in other parts of the Turing as you often will not be working directly with the people you are managing. This guide aims to explain how this relationship might work.
-How line management duties are assigned # At (current) senior level, people are expected to line manage 1-2 standards. This will probably change with the new lead role (see the REG role matrix).</description></item><item><title>Software Development</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/technical_practices/software_dev_best_practice/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/technical_practices/software_dev_best_practice/</guid><description>Software Development Best Practices # Status: this document is a draft proposal.
-RSE projects # There should be a GitHub issue for each thing we do. It’s ok for issues to evolve and my preference would be that the top description box always has the most up to date, clearest description of the issue and its definition of done. Feel free to make liberal use of the comments for communication and tracking investigative / exploratory work.</description></item><item><title>Reviewing Changes</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/reviewing_changes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/reviewing_changes/</guid><description>Reviewing Changes # The review process helps to ensure high quality and catch problems in contributions. When acting as a reviewer, you should see your position as sharing your knowledge and working with the contributors to achieve the best possible result. Reviewing should not be an adversarial process.
-Recognising Contributions # When reviewing a pull request you should try to make sure everyone&amp;rsquo;s work is recognised. See the Recognising Contributions page for how to do this.</description></item><item><title>Advanced</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/advanced/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/advanced/</guid><description>Advanced # Using Data # Through using templates Hugo can build page content from datafiles. This is particularly useful for when you want to display structured data in a page and when it would be easier to maintain a datafile rather than a Markdown or HTML document.
-Creating Shortcodes # It is possible to create your own shortcodes. These should be placed in layouts/shortcodes/ .
-If you feel the need to use HTML or want to create page content from a datafile (like a YAML file or csv) then a shortcode is probably the right answer.</description></item><item><title>Publishing Open Access Journal Articles</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/open_access/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/open_access/</guid><description>Open Access Journal Articles # The Turing has access to a block grant to cover open access charges for journal publications for UKRI funded projects if there are not already funds in the project-specific grant to cover them. If you have published an article, you may be able to cover the open access fees using this funding source. See Open Access Publishing - Funding on Mathison for further information.</description></item><item><title>Remote Working</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/remote_working/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/remote_working/</guid><description>Remote Working # Information and tips and tricks on working from home and other remote working.
-Meetings, calls and screen sharing # Gather # REG uses Gather for some of the coffee breaks and social events. It gives a virtual space (modelled on the office!) to wander around and have conversations with people near to you.
-See The REGistry for how to gain entry to gather. Note: Gather is blocked on the Turing VPN and on IT-managed computers.</description></item><item><title>Lunchtime Tech Talks</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/regular_events/lunchtime_tech_talks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/regular_events/lunchtime_tech_talks/</guid><description>Lunchtime Tech Talks # The Research Engineering team meets for Lunchtime Tech Talks most Tuesdays over lunch. The talks start at 12:30.
-At a tech talk someone (usually someone in REG) presents or discusses something, such as about a project or data science/computer science/software engineering topic. They can also be opportunities to look for help and input. We encourage talks at the beginning of projects (before it&amp;rsquo;s certain what exactly you&amp;rsquo;ll be doing) or to discuss a problem you&amp;rsquo;re unsure how to solve.</description></item><item><title>Lightning Talks</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/regular_events/lightning_talks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/regular_events/lightning_talks/</guid><description>Lightning Talks # Lightning Talks are a meeting series within the tech talk slots in which people give short 10 minute talks. The main goals are to:
-Regularly share what we&amp;rsquo;re working on. Find overlaps between projects or problems someone else in the team could help with. Generate ideas for future tech talks. Do all this without a big time commitment, both for presenters and attendees. The talks can be on any topic, including but not limited to:</description></item><item><title>Reading Groups</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/regular_events/reading_groups/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/regular_events/reading_groups/</guid><description>Reading Groups # As part of projects or for general interest, members of the team create reading groups to learn about a topic. Reading groups may meet on weekly basis to discuss a chapter from a book, a paper, or to work together on implementing something.
-A list of current reading groups and information about them can be found on the Data Science Skills wiki.
-Material for the reading groups is stored in the Data Science Skills repository</description></item><item><title>Open Source Hacksessions</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/regular_events/open_source_hacksessions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/regular_events/open_source_hacksessions/</guid><description>Open Source Hacksessions # REG runs monthly sessions where we come together and contribute to upstream open-source repositories. The idea is to fence off time dedicated to contributing upstream and to do it together for joy and sociality. We hope to give back to many of the tools we use and learn about new packages by helping them out. Everyone is welcome to come and work on something they want to contribute to or join an effort someone else has already started.</description></item><item><title>Drop-in Sessions</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/regular_events/drop-in_sessions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/regular_events/drop-in_sessions/</guid><description>Drop-in Sessions # Along with the Data Wrangling team, Tools, Practices and Systems (TPS), and the Programme Management Unit (PMU), our group runs the Turing Infrastructure Drop-in Sessions which are regular, informal, community-led sessions for students and researchers. See more information on the sessions on the infrastructure-drop-ins repo.
-Joining sessions # Our sessions are on Zoom (see link on the Mathison page and sometimes hybrid. We run several sessions a week (typically on Tuesdays and Wednesdays), so please see our schedule on the repo&amp;rsquo;s wiki.</description></item><item><title>Randomised Coffee Chats</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/regular_events/coffee_chats/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/regular_events/coffee_chats/</guid><description>Randomised Coffee Chats # Approximately every 2 weeks, we partition REG into groups of 4 or 5 for informal chats. The groups are randomly generated (see the code here) but generally try to ensure that everyone meets different people each week.
-If you have not signed up already and would like to join (or conversely if you would like to opt out), please inform the people in charge of the random coffees.</description></item><item><title>Acronyms and Abbreviations</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/acronyms_and_abbreviations/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/acronyms_and_abbreviations/</guid><description>Acronyms and Abbreviations # AIDA: Artificial Intelligence for Data Analytics
-ALOGIT: name of a Fortran package (see issue)
-ASG: AI for Science and Government (the new name of the EPSRC funds from SPF)
-ARC: Applied Research Centre / Australian Research Council
-BL: British Library
-BPT: Bayesian Performance Tuning
-Chrono: Chronotopic Cartographies
-CPD: Change-point detection (method to apply to data in AIDA-Lloyds project)
-CT: Computerised Tomography
-DAS: Data Availability Statements (Giovanni&amp;rsquo;s 22-days research paper)</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Introduction on REG Handbook</title><link>https://alan-turing-institute.github.io/REG-handbook/</link><description>Recent content in Introduction on REG Handbook</description><generator>Hugo</generator><language>en-gb</language><atom:link href="https://alan-turing-institute.github.io/REG-handbook/index.xml" rel="self" type="application/rss+xml"/><item><title>Discussions and Issues</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/discussions_and_issues/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/discussions_and_issues/</guid><description>&lt;h1 id="discussions-and-issues"&gt;
+ Discussions and Issues
+ &lt;a class="anchor" href="#discussions-and-issues"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;Contributing does not only mean adding code or writing pages.
+Being involved in reporting issues and discussing ideas are important and valuable aspects to contributing.
+The handbook uses both issues and discussions on GitHub.&lt;/p&gt;
+&lt;h2 id="discussions"&gt;
+ Discussions
+ &lt;a class="anchor" href="#discussions"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://github.com/alan-turing-institute/REG-handbook/discussions"&gt;The &lt;em&gt;Discussions&lt;/em&gt; on the handbook repository&lt;/a&gt; are the best place for informal talk about the handbook.&lt;/p&gt;
+&lt;p&gt;You should feel welcome to create a discussion on any relevant topic, without the formality of an issue.&lt;/p&gt;</description></item><item><title>Recognising Contributions</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/recognising_contributions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/recognising_contributions/</guid><description>&lt;h1 id="recognising-contributions"&gt;
+ Recognising Contributions
+ &lt;a class="anchor" href="#recognising-contributions"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;We aim to recognise all contributions to the handbook, not just those made through commits.
+For that purpose we use &lt;a href="https://allcontributors.org/"&gt;All Contributors&lt;/a&gt; to help manage a record of who has contributed to the book and how.&lt;/p&gt;
+&lt;p&gt;Use the &amp;lsquo;add&amp;rsquo; command in an issue or pull-request comment to ask @all-contributors to add a contributor&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-text" data-lang="text"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;@all-contributors please add @&amp;lt;username&amp;gt; for &amp;lt;contributions&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;See the &lt;a href="https://allcontributors.org/docs/en/bot/usage"&gt;bot usage documentation&lt;/a&gt; for full details and more examples.
+A list of contribution types (and the related emoji) can be seen &lt;a href="https://allcontributors.org/docs/en/emoji-key"&gt;here&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Booking a Meeting Room</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/working_at_the_turing/booking_a_meeting_room/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/working_at_the_turing/booking_a_meeting_room/</guid><description>&lt;h1 id="booking-a-meeting-room"&gt;
+ Booking a Meeting Room
+ &lt;a class="anchor" href="#booking-a-meeting-room"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;There are instructions on how to book a room on &lt;a href="https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2118&amp;amp;SearchId=175781&amp;amp;utm_source=interact&amp;amp;utm_medium=quick_search&amp;amp;utm_term=meeting&amp;#43;rooms"&gt;Mathison&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The simplest way of finding a room is to use the &lt;code&gt;Scheduling Assistant&lt;/code&gt; on a meeting invite.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://i.imgur.com/jeeD7Gv.png" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;Then scroll down to &lt;code&gt;Add Location&lt;/code&gt;. This will give you a list of Available Rooms for your specific time. It will update when you move the time window.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://i.imgur.com/WOhkk8G.png" alt="" /&gt;&lt;/p&gt;</description></item><item><title>Buddy System</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/onboarding/buddy_system/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/onboarding/buddy_system/</guid><description>&lt;h1 id="buddy-system"&gt;
+ Buddy System
+ &lt;a class="anchor" href="#buddy-system"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;It can be daunting starting a new job, especially remotely where there is sometimes less opportunity for casual questions.
+To help with this every new employee should be assigned buddies.
+The buddies are responsible for providing informal friendly faces to offer advice, guidance, and encouragement on any aspect of working within REG and ARC.&lt;/p&gt;
+&lt;p&gt;We also emphasise that the buddies should be a safe space where new-starters can get help with any technical questions that they feel is silly or trivially easy and may not feel comfortable admitting to the wider group.&lt;/p&gt;</description></item><item><title>Expenses</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/working_at_the_turing/expenses/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/working_at_the_turing/expenses/</guid><description>&lt;h1 id="expenses"&gt;
+ Expenses
+ &lt;a class="anchor" href="#expenses"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;h2 id="out-of-pocket-expenses"&gt;
+ Out-of-pocket expenses
+ &lt;a class="anchor" href="#out-of-pocket-expenses"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Out-of-pocket expenses should be reclaimed using ERPx.
+You should submit an expense claim for expenses incurred within a given month as soon as possible, and no later than 60 days after the expense is incurred (except for visa costs, which can be claimed up to a year after starting employment).&lt;/p&gt;
+&lt;p&gt;In the first instance, look at the information provided by the Finance team about how to use ERPx on Mathison:&lt;/p&gt;</description></item><item><title>First Few Days</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/onboarding/new_joiners/first_few_days/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/onboarding/new_joiners/first_few_days/</guid><description>&lt;h1 id="first-few-days"&gt;
+ First Few Days
+ &lt;a class="anchor" href="#first-few-days"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Welcome!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We are super pleased that you&amp;rsquo;re joining our group.
+This page gives you an overview of what to expect from your first few days.
+They are maintained by the group, we hope that new-starters feel empowered to edit them if there are useful changes to be made.&lt;/p&gt;
+&lt;h2 id="introductions"&gt;
+ Introductions
+ &lt;a class="anchor" href="#introductions"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Each new starter gets assigned two buddies to be friendly points of contact.
+The &lt;a href="https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#responsibilities"&gt;person in charge of onboarding&lt;/a&gt;
+should let you know who these are a bit before you start;
+If that doesn&amp;rsquo;t happen, please email them about it.
+Your buddies will welcome you on the first day.
+In the first few days there will be a welcome coffee to give you a chance to introduce yourself to the whole REG team, and within the first few weeks you will also have a 1-on-1 meeting with REG&amp;rsquo;s Director.&lt;/p&gt;</description></item><item><title>Getting Started</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/getting_started/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/getting_started/</guid><description>&lt;h1 id="getting-started"&gt;
+ Getting Started
+ &lt;a class="anchor" href="#getting-started"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;h2 id="install-dependencies"&gt;
+ Install dependencies
+ &lt;a class="anchor" href="#install-dependencies"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;To contribute to the handbook you will need&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://git-scm.com/downloads"&gt;Git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://gohugo.io/getting-started/installing/"&gt;Hugo&lt;/a&gt; (You will need the extended version with Sass/SCSS support)&lt;/li&gt;
+&lt;li&gt;Your favourite text editor&lt;/li&gt;
+&lt;li&gt;Optionally &lt;a href="https://pre-commit.com/"&gt;pre-commit&lt;/a&gt;; see &lt;a href="https://alan-turing-institute.github.io/REG-handbook/docs/contributing/contributing_changes/#making-changes"&gt;Making Changes&lt;/a&gt; for more details.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="clone-the-repository"&gt;
+ Clone the repository
+ &lt;a class="anchor" href="#clone-the-repository"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Clone the repository with one of the following options (depending on how you authenticate with GitHub):&lt;/p&gt;
+&lt;div class="book-tabs"&gt;
+
+
+&lt;input type="radio" class="toggle" name="tabs-clone-command" id="tabs-clone-command-0" checked="checked" /&gt;
+&lt;label for="tabs-clone-command-0"&gt;SSH authentication&lt;/label&gt;
+&lt;div class="book-tabs-content markdown-inner"&gt;
+
+```bash
+git clone --recurse-submodules git@github.com:alan-turing-institute/REG-handbook.git
+cd REG-handbook
+```
+
+&lt;/div&gt;
+
+
+&lt;input type="radio" class="toggle" name="tabs-clone-command" id="tabs-clone-command-1" /&gt;
+&lt;label for="tabs-clone-command-1"&gt;HTTPS authentication&lt;/label&gt;
+&lt;div class="book-tabs-content markdown-inner"&gt;
+
+```bash
+git clone --recurse-submodules https://github.com/alan-turing-institute/REG-handbook.git
+cd REG-handbook
+```
+
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+
+&lt;p&gt;The &lt;code&gt;--recurse-submodules&lt;/code&gt; flag is important as the handbook&amp;rsquo;s theme is included as a &lt;a href="https://git-scm.com/book/en/v2/Git-Tools-Submodules"&gt;Git submodule&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Knowledge Sharing</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/knowledge_sharing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/knowledge_sharing/</guid><description>&lt;h1 id="knowledge-sharing"&gt;
+ Knowledge Sharing
+ &lt;a class="anchor" href="#knowledge-sharing"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;This page lists the tools, resources and activities that REG has to promote general communication as well as sharing and gaining knowledge across the team (and the Turing as a whole), and some thoughts on what we could try to improve this.
+If you&amp;rsquo;re looking to learn something new, get help with a problem, share something cool you&amp;rsquo;ve been doing, or find out what others in the team are doing, the list below may give an idea of where to look/what to try.&lt;/p&gt;</description></item><item><title>Probation</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/employee_processes/probation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/employee_processes/probation/</guid><description>&lt;h1 id="probation"&gt;
+ Probation
+ &lt;a class="anchor" href="#probation"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;During the initial 6 months in a team member&amp;rsquo;s appointment to the institute, they will undergo probation review with their line manager. (Note that if an existing team member was previously in another role at the Turing and underwent probation review in that role, they do not require a probation review when appointed to a role in REG.) This is designed to integrate with the on-boarding process to ensure that new team members are performing their job as expected. This wiki page outlines the expectations for team members and line managers in going through the probation process.&lt;/p&gt;</description></item><item><title>Snark Hunts</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/snark_hunts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/snark_hunts/</guid><description>&lt;h1 id="snark-hunts"&gt;
+ Snark Hunts
+ &lt;a class="anchor" href="#snark-hunts"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;A &amp;ldquo;Snark Hunt&amp;rdquo; is a project retrospective based around a facilitated discussion.
+This is typically carried out during a meeting that lasts for approximately one hour.
+The output of the meeting is a very short document which can be usefully re-read in the future.
+The hope is that anyone reading it might be able to find useful learnings to apply to their own work.&lt;/p&gt;
+&lt;p&gt;You can see notes from all previous &lt;a href="https://thealanturininstitute.sharepoint.com/:f:/s/ResearchEngineering/ElICSwf1rOJFj-ssePnMkOwBZmruJuRHnOKCSpC0M8QDUg?e=XGz6fl"&gt;Snark Hunts here&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Social Media</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/communications/social_media/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/communications/social_media/</guid><description>&lt;h1 id="social-media"&gt;
+ Social Media
+ &lt;a class="anchor" href="#social-media"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;h2 id="linkedin"&gt;
+ LinkedIn
+ &lt;a class="anchor" href="#linkedin"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Page: &lt;a href="https://www.linkedin.com/showcase/turing-research-engineering/?viewAsMember=true"&gt;turing-research-engineering&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Our LinkedIn page showcases the work done under the Alan Turing Institute umbrella and highlights the achievements of our researchers and engineers to a professional audience.&lt;/p&gt;
+&lt;h2 id="x-formerly-twitter"&gt;
+ X (Formerly Twitter)
+ &lt;a class="anchor" href="#x-formerly-twitter"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Handle: &lt;a href="https://twitter.com/turinghut23"&gt;@turinghut23&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Our Twitter account offers an informal public-facing channel for sharing updates about our projects and life at REG, engaging with our audience through insights, and updates.&lt;/p&gt;
+&lt;h2 id="medium"&gt;
+ Medium
+ &lt;a class="anchor" href="#medium"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Handle: &lt;a href="https://medium.com/@turinghut23"&gt;@turinghut23&lt;/a&gt;&lt;/p&gt;</description></item><item><title>SocRSE</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/onboarding/society_of_research_software_engineering/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/onboarding/society_of_research_software_engineering/</guid><description>&lt;h1 id="society-of-research-software-engineering"&gt;
+ Society of Research Software Engineering
+ &lt;a class="anchor" href="#society-of-research-software-engineering"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;The &lt;a href="https://society-rse.org/"&gt;Society of Research Software Engineering&lt;/a&gt; (SocRSE) is a charitable incorporated organisation
+with the mission to establish a research environment that recognises the vital role of software in research.&lt;/p&gt;
+&lt;p&gt;REG supports and encourages its members to join the SocRSE, so it&amp;rsquo;s worth reviewing the society&amp;rsquo;s website and deciding whether to join during your onboarding period.&lt;/p&gt;
+&lt;h2 id="benefits-of-socrse"&gt;
+ Benefits of SocRSE
+ &lt;a class="anchor" href="#benefits-of-socrse"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;There are many benefits to joining the SocRSE. By joining the Society you will:&lt;/p&gt;</description></item><item><title>Annual Appraisals</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/employee_processes/annual_appraisals/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/employee_processes/annual_appraisals/</guid><description>&lt;h1 id="annual-appraisals"&gt;
+ Annual Appraisals
+ &lt;a class="anchor" href="#annual-appraisals"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;REG is a large team, with a relatively flat line management structure. Therefore we run a team-wide standardisation process where appraisals and progression award recommendations are reviewed to ensure consistency and fairness across the team.&lt;/p&gt;
+&lt;p&gt;Our goal is to work within the wider HR policy and guidance (see &lt;a href="https://mathison.turing.ac.uk/page/2319"&gt;HR Performance Review Guide&lt;/a&gt;) to prioritise what we think is most important for our team (fairness, transparency and a clear progression path) and provide clear guidance to achieve that.&lt;/p&gt;</description></item><item><title>Changelogs and Semantic Versioning</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/technical_practices/change_logs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/technical_practices/change_logs/</guid><description>&lt;h1 id="changelogs"&gt;
+ Changelogs
+ &lt;a class="anchor" href="#changelogs"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;For any non-trivial code, it is worth maintaining a Changelog.
+This is valuable as it is a record of changes &lt;em&gt;from the perspective of users&lt;/em&gt; (rather than git commit messages which are often only meaningful to the developers involved).
+A recommended format for Changelog files is given at &lt;a href="https://keepachangelog.com"&gt;Keep a changelog&lt;/a&gt;.
+All notable changes to a project should be documented in this file.&lt;/p&gt;
+&lt;h2 id="semantic-versioning"&gt;
+ Semantic Versioning
+ &lt;a class="anchor" href="#semantic-versioning"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;A related concept is &lt;a href="https://semver.org/spec/v2.0.0.html"&gt;semantic versioning&lt;/a&gt;.
+In most cases, semantic versioning is recommended.
+You should state explicitly whether or not you are using semantic versioning in both your project&amp;rsquo;s README and CHANGELOG files.&lt;/p&gt;</description></item><item><title>Defining Project Doneness</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/defining-done/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/defining-done/</guid><description>&lt;h1 id="defining-project-doneness"&gt;
+ Defining Project Doneness
+ &lt;a class="anchor" href="#defining-project-doneness"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;This working document was produced as part of Accelerating AI in the Arts and Humanities (AAAH).&lt;/p&gt;
+&lt;p&gt;As a Research Software Engineer, we often join a collaborative project when a code base already exists.
+Defining the aims of a collaboration can be challenging, and when there is limited time it is important to apply attention in the right places.
+The following document is designed to help:&lt;/p&gt;</description></item><item><title>Meeting Records</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/meeting_record/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/meeting_record/</guid><description>&lt;h1 id="meeting-records"&gt;
+ Meeting Records
+ &lt;a class="anchor" href="#meeting-records"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;When a synchronous meeting is unavoidable, it is critical to produce a clear and thorough record.&lt;/p&gt;
+&lt;p&gt;The meeting record is important as a reference for what happened at the meeting.
+In particular, any decisions made or actions assigned need to be clearly recorded for future reference.&lt;/p&gt;
+&lt;p&gt;A good record will also be invaluable to anyone who was not able to attend an in-person meeting.&lt;/p&gt;
+&lt;h2 id="meeting-record-template"&gt;
+ Meeting Record Template
+ &lt;a class="anchor" href="#meeting-record-template"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Below is a suggested &lt;a href="https://alan-turing-institute.github.io/REG-handbook/meeting_record.md"&gt;template&lt;/a&gt; for a meeting record document.
+The template uses &lt;a href="https://pandoc.org/MANUAL.html#variables-for-latex"&gt;Pandoc&lt;/a&gt; &lt;a href="https://pandoc.org/MANUAL.html#pandocs-markdown"&gt;Markdown&lt;/a&gt;.
+Parts of the template are already filled with explanations of how they should be used.&lt;/p&gt;</description></item><item><title>Recruitment FAQs</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/join_us/recruitment_faqs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/join_us/recruitment_faqs/</guid><description>&lt;h1 id="reg-recruitment-faqs"&gt;
+ REG Recruitment FAQs
+ &lt;a class="anchor" href="#reg-recruitment-faqs"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;Here you can find answers to the most frequently asked questions about working for the team and the recruitment process.&lt;/p&gt;
+&lt;p&gt;Questions are grouped by:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="#application-stage"&gt;Application Stage&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#profile"&gt;Profile&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#role"&gt;Role&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#interview"&gt;Interview&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#offer"&gt;Offer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="application-stage"&gt;
+ Application Stage
+ &lt;a class="anchor" href="#application-stage"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;h3 id="is-the-position-open-to-applicants-outside-of-the-uk-who-do-not-currently-have-a-uk-work-visa"&gt;
+ Is the position open to applicants outside of the UK who do not currently have a UK work visa?
+ &lt;a class="anchor" href="#is-the-position-open-to-applicants-outside-of-the-uk-who-do-not-currently-have-a-uk-work-visa"&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;Yes, the positions are open to applicants outside the UK.
+If you do not currently have the Right to Work in the UK, the Turing is able to sponsor a Skilled Worker visa application (see &lt;a href="#does-the-turing-cover-relocation-and-visa-costs"&gt;below&lt;/a&gt; for details).
+If you have general questions about the process, feel free to reach out to the &lt;a href="mailto:reg-recruitment-inbox@turing.ac.uk"&gt;REG recruitment team&lt;/a&gt;; however, once your application has started, you should direct any questions about your specific situation to the Resourcing Officer who is handling your application.&lt;/p&gt;</description></item><item><title>Repo Audits</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/code_audits/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/code_audits/</guid><description>&lt;h1 id="repo-audits"&gt;
+ Repo Audits
+ &lt;a class="anchor" href="#repo-audits"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;As required we conduct audits of GitHub repositories created during projects.
+The aim is to check that the documentation is clear, installation is easy etc.&lt;/p&gt;
+&lt;p&gt;Audits should be conducted by people who have not worked on the project.&lt;/p&gt;
+&lt;h2 id="past-experience"&gt;
+ Past experience
+ &lt;a class="anchor" href="#past-experience"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;These comments from running the first round of these in June 2021:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Installation is a big barrier for software with complex build requirements.
+We tried looking at two web app projects (Counterfactual Covid 19 and CROP) and despite Docker images being available we weren&amp;rsquo;t able to get them to build correctly.
+We might have had more success if all we needed to do was a pip or CRAN install.&lt;/p&gt;</description></item><item><title>Style Guide</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/style_guide/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/style_guide/</guid><description>&lt;h1 id="style-guide"&gt;
+ Style Guide
+ &lt;a class="anchor" href="#style-guide"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;h2 id="semantic-line-breaks"&gt;
+ Semantic Line Breaks
+ &lt;a class="anchor" href="#semantic-line-breaks"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;It is encouraged to use &lt;a href="https://sembr.org/"&gt;Semantic Line Breaks&lt;/a&gt; when writing for the handbook.
+This improves the readability of source files and make diffs clearer.
+The Semantic Line Breaks &lt;a href="https://sembr.org"&gt;specification&lt;/a&gt; explains the rules and reasoning.
+The most important rules are,&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;A semantic line break MUST occur after a sentence, as punctuated by a period (.), exclamation mark (!), or question mark (?).&lt;/li&gt;
+&lt;li&gt;A semantic line break SHOULD occur after an independent clause as punctuated by a comma (,), semicolon (;), colon (:), or em dash (—).&lt;/li&gt;
+&lt;li&gt;A semantic line break MAY occur after a dependent clause in order to clarify grammatical structure or satisfy line length constraints.&lt;/li&gt;
+&lt;/ul&gt;&lt;/blockquote&gt;
+&lt;h2 id="markdown"&gt;
+ Markdown
+ &lt;a class="anchor" href="#markdown"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Whenever possible, the handbook&amp;rsquo;s prose should be written in Markdown rather than HTML.
+However, it is completely reasonable use HTML when it is needed.
+When it is advantageous, data should be &lt;a href="https://gohugo.io/templates/data-templates/"&gt;stored in data files and processed using shortcodes&lt;/a&gt; rather than presented in raw Markdown.&lt;/p&gt;</description></item><item><title>Adding New Content</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/creating_a_page/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/creating_a_page/</guid><description>&lt;h1 id="adding-new-content"&gt;
+ Adding New Content
+ &lt;a class="anchor" href="#adding-new-content"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;h2 id="how-hugo-arranges-content"&gt;
+ How Hugo Arranges Content
+ &lt;a class="anchor" href="#how-hugo-arranges-content"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Pages are built from content files in the &lt;a href="https://github.com/alan-turing-institute/REG-handbook/tree/main/content/"&gt;&lt;code&gt;content/&lt;/code&gt;&lt;/a&gt;
+directory.
+Hugo automatically gives pages a URL based on the organisation of files in the &lt;code&gt;content/&lt;/code&gt; directory.&lt;/p&gt;
+&lt;p&gt;In Hugo, the first directory after &lt;code&gt;content/&lt;/code&gt; is significant and &lt;a href="https://gohugo.io/content-management/sections/"&gt;defines the content type&lt;/a&gt;.
+All handbook pages should be nested in the &lt;code&gt;content/docs/&lt;/code&gt; directory.&lt;/p&gt;
+&lt;p&gt;Sections may be created in &lt;code&gt;content/docs/&lt;/code&gt; (to any depth) by creating a directory containing a content file called &lt;code&gt;_index.md&lt;/code&gt;.&lt;/p&gt;</description></item><item><title>Equality, Diversity, and Inclusion</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/working_at_the_turing/edi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/working_at_the_turing/edi/</guid><description>&lt;h1 id="equality-diversity-and-inclusion"&gt;
+ Equality, Diversity, and Inclusion
+ &lt;a class="anchor" href="#equality-diversity-and-inclusion"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;h2 id="overview"&gt;
+ Overview
+ &lt;a class="anchor" href="#overview"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;The Turing has a strong commitment towards EDI, which is formally set out in the Institute&amp;rsquo;s EDI &lt;a href="https://www.turing.ac.uk/sites/default/files/2023-03/edi-strategy-report_v1.2_updated_16.03.2023_0.pdf"&gt;Strategy&lt;/a&gt; and &lt;a href="https://www.turing.ac.uk/sites/default/files/2021-09/edi-action-plan_final.pdf"&gt;Action Plan&lt;/a&gt;.
+For current Turing staff, you can also access an &lt;a href="https://mathison.turing.ac.uk/Interact/Pages/Section/Default.aspx?section=3684"&gt;EDI section on Mathison&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id="how-to-get-involved"&gt;
+ How to get involved
+ &lt;a class="anchor" href="#how-to-get-involved"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;If you are keen to be involved in the EDI work around REG and the Turing, do feel free to join the &lt;code&gt;#edi-equality-diversity-inclusion&lt;/code&gt; channel on Slack, and/or contact:&lt;/p&gt;</description></item><item><title>Project Tracking</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/project_tracking/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/project_tracking/</guid><description>&lt;h1 id="project-tracking"&gt;
+ Project Tracking
+ &lt;a class="anchor" href="#project-tracking"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;This page describes some of the tools we use for tracking projects and other tasks within the team. It does not go into details of how individual projects are managed, but how REG coordinates its commitments to the range of projects its involved in.&lt;/p&gt;
+&lt;h2 id="hut23-github-repo"&gt;
+ Hut23 GitHub Repo
+ &lt;a class="anchor" href="#hut23-github-repo"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;The &lt;a href="https://github.com/alan-turing-institute/Hut23"&gt;Hut23 repo&lt;/a&gt; is the central hub for most team matters and admin.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://github.com/alan-turing-institute/Hut23/projects/2"&gt;Project Tracker&lt;/a&gt;: Board shows all upcoming, current and completed projects. There&amp;rsquo;s an issue for each project (see below). Depending on the project status, it will be in one column or another. In order to assign REG team members to projects, we use emojis to vote for the projects that we would be interested in taking part. You should react to all projects on the &amp;ldquo;Finding people&amp;rdquo; column, but also on the &amp;ldquo;Awaiting go/no-go&amp;rdquo; column. The voting system is as follows:&lt;/p&gt;</description></item><item><title>Python Tools and Practices</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/technical_practices/python/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/technical_practices/python/</guid><description>&lt;h1 id="python-tools-and-practices"&gt;
+ Python Tools and Practices
+ &lt;a class="anchor" href="#python-tools-and-practices"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;Python is a widely used language within REG.
+Below are some useful tools to help you configure your repo (with links to examples).&lt;/p&gt;
+&lt;blockquote class="book-hint warning"&gt;
+ 
+Some of the topics discussed below are not exclusive to Python. As more content is added to the manual they should be separated out into their own pages.
+
+&lt;/blockquote&gt;
+
+&lt;h2 id="autoformatters--linters"&gt;
+ Autoformatters / Linters
+ &lt;a class="anchor" href="#autoformatters--linters"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;There are many widely used autoformatter and linters for Python, which can be used as standalone tools or call from &lt;code&gt;.pre-commit&lt;/code&gt;, continuous integration tools &lt;em&gt;etc.&lt;/em&gt;:&lt;/p&gt;</description></item><item><title>Research Software Directory</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/research-software-directory/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/research-software-directory/</guid><description>&lt;h1 id="research-software-directory"&gt;
+ Research Software Directory
+ &lt;a class="anchor" href="#research-software-directory"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;h2 id="about"&gt;
+ About
+ &lt;a class="anchor" href="#about"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;The &lt;a href="https://research-software-directory.org/"&gt;Research Software Directory&lt;/a&gt;(RSD) is a content management system created by the Netherlands eScience Center.
+It aims to promote the visibility, impact and reuse of research software and to encourage proper citation to ensure researchers and RSEs get credit for their work.&lt;/p&gt;
+&lt;p&gt;We (REG) have set up a page for &lt;a href="https://research-software-directory.org/organisations/the-alan-turing-institute"&gt;The Alan Turing Institute&lt;/a&gt; on the RSD.
+We hope that this page will be a place where we can showcase the variety of software the REG team have developed. This could be beneficial for ourselves, collaborators (past and present), and potential future hires - to get a feel for the kind of things the team/institute work on, or even spark new collaborations.&lt;/p&gt;</description></item><item><title>Systems Set Up</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/onboarding/new_joiners/systems_set_up/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/onboarding/new_joiners/systems_set_up/</guid><description>&lt;h1 id="systems-set-up"&gt;
+ Systems Set Up
+ &lt;a class="anchor" href="#systems-set-up"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;blockquote class="book-hint info"&gt;
+ 
+These are not hand-holding instructions.
+Rather they are a reference to help with your setup.
+If they are wrong or incomplete, please edit them.
+
+&lt;/blockquote&gt;
+
+&lt;p&gt;The page has been roughly organised into high priority things (do in your first couple of days), low priority (sometimes in the first couple of weeks), and reference.&lt;/p&gt;
+&lt;p&gt;If any of the material is unfamiliar (&lt;em&gt;e.g.&lt;/em&gt; you haven&amp;rsquo;t seen a GitHub project board before), then please ask your buddies (or anyone else you meet in the group) to have an informal chat about it.&lt;/p&gt;</description></item><item><title>Checklist</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/onboarding/new_joiners/checklist/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/onboarding/new_joiners/checklist/</guid><description>&lt;h1 id="checklist"&gt;
+ Checklist
+ &lt;a class="anchor" href="#checklist"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;This page attempts to list all the things that a new starter should remember to do.
+It makes no guarantees of completeness, and attempts to list both compulsory things and optional ones.
+It has been written by new starters as they go.
+If you&amp;rsquo;ve recently started in REG and find yourself doing anything related to getting started, that others might want to do as well but that is not on this list, please add it.
+If anything is unclear, please figure it out by e.g. asking your buddies, and then clarify it here.&lt;/p&gt;</description></item><item><title>Configuring Your Editor</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/technical_practices/configuring_editors/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/technical_practices/configuring_editors/</guid><description>&lt;h1 id="configuring-your-editor"&gt;
+ Configuring Your Editor
+ &lt;a class="anchor" href="#configuring-your-editor"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;Many people will configure their editor to suit their own needs and preferences.&lt;/p&gt;
+&lt;p&gt;It is possible to do this so that there are common standards between collaborators in the code base, while allowing for differences in individuals&amp;rsquo; configurations.&lt;/p&gt;
+&lt;blockquote class="book-hint warning"&gt;
+ 
+Some of the topics discussed below are heavily focused on python development. In due course we should generalise this to cover other languages.
+
+&lt;/blockquote&gt;
+
+&lt;h2 id="general"&gt;
+ General
+ &lt;a class="anchor" href="#general"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Some common, particular formatting/encoding options can be configured for a range of editors/IDEs by using &lt;a href="https://editorconfig.org"&gt;EditorConfig&lt;/a&gt; in your repo.
+A &lt;code&gt;.editorconfig&lt;/code&gt; needs to be placed in the root of your repo.&lt;/p&gt;</description></item><item><title>Editing a Page</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/editing_a_page/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/editing_a_page/</guid><description>&lt;h1 id="editing-a-page"&gt;
+ Editing a Page
+ &lt;a class="anchor" href="#editing-a-page"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;If you followed the instructions in the &lt;a href="https://alan-turing-institute.github.io/REG-handbook/docs/contributing/getting_started/"&gt;Getting Started section&lt;/a&gt; to checkout the repository and serve the handbook locally you can edit a page locally.
+However, as you may have noticed, at the bottom of each page is a link to edit the page in the GitHub web editor if you would prefer.
+This may be easy for making small changes.&lt;/p&gt;
+&lt;h2 id="pages"&gt;
+ Pages
+ &lt;a class="anchor" href="#pages"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Each page is a &lt;a href="https://www.markdownguide.org/"&gt;Markdown&lt;/a&gt; file with &lt;a href="https://yaml.org/"&gt;YAML&lt;/a&gt; front matter followed by the page contents in Markdown.&lt;/p&gt;</description></item><item><title>Reasonable Adjustments</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/working_at_the_turing/reasonable_adjustments/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/working_at_the_turing/reasonable_adjustments/</guid><description>&lt;h1 id="reasonable-adjustments-access-to-work-and-office-accessibility"&gt;
+ Reasonable Adjustments, Access to Work, and Office Accessibility
+ &lt;a class="anchor" href="#reasonable-adjustments-access-to-work-and-office-accessibility"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;h2 id="reasonable-adjustments"&gt;
+ Reasonable Adjustments
+ &lt;a class="anchor" href="#reasonable-adjustments"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Reasonable adjustments are changes to workplace procedures, practices, or environments that help ensure individuals with disabilities are not disadvantaged compared to others.
+These adjustments can address needs related to mental health, neurodiverse conditions, visual or hearing impairments, chronic illnesses, and mobility conditions.&lt;/p&gt;
+&lt;p&gt;Examples of reasonable adjustments which may be considered include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Flexible working hours&lt;/li&gt;
+&lt;li&gt;Workspace adjustments (e.g., footrests, back support, adjustable desks)&lt;/li&gt;
+&lt;li&gt;Remote/hybrid working options&lt;/li&gt;
+&lt;li&gt;Additional training&lt;/li&gt;
+&lt;li&gt;Providing a mentor&lt;/li&gt;
+&lt;li&gt;Assistive technology&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The Alan Turing Institute is committed to creating an inclusive, barrier-free workplace, recognising that providing reasonable adjustments is essential to supporting colleagues in fully participating in their roles.
+A summary of the Institute&amp;rsquo;s reasonable adjustment policy can be found &lt;a href="https://www.turing.ac.uk/reasonable-adjustments-policy"&gt;here&lt;/a&gt;,
+with the full policy available for internal staff on &lt;a href="https://thealanturininstitute.sharepoint.com/sites/gc/Public%20Documents/Corporate%20Governance/Policies/People%20Policies/Reasonable%20Adjustment%20Policy%20Final.pdf"&gt;SharePoint&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Wellbeing</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/working_at_the_turing/wellbeing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/working_at_the_turing/wellbeing/</guid><description>&lt;h1 id="wellbeing"&gt;
+ Wellbeing
+ &lt;a class="anchor" href="#wellbeing"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;The Turing provides a number of support mechanisms to protect employees&amp;rsquo; wellbeing.&lt;/p&gt;
+&lt;p&gt;The most up-to-date information can be found &lt;a href="https://mathison.turing.ac.uk/page/2228"&gt;on Mathison&lt;/a&gt;. A summary follows here:&lt;/p&gt;
+&lt;h2 id="report--support"&gt;
+ Report + Support
+ &lt;a class="anchor" href="#report--support"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://reportandsupport.turing.ac.uk/"&gt;Report + Support&lt;/a&gt; is an online platform where you can report cases of bullying, harassment, discrimination, assault, hate crime, sexual misconduct, or a breach of the Turing&amp;rsquo;s values (Trust, Inclusivity, Respect, Leadership, Transparency, Integrity).
+Reports can be made anonymously if you so choose.&lt;/p&gt;</description></item><item><title>Contributing Changes</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/contributing_changes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/contributing_changes/</guid><description>&lt;h1 id="contributing-changes"&gt;
+ Contributing Changes
+ &lt;a class="anchor" href="#contributing-changes"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;Once you have made changes, you will need to contribute them back to the remote repository.
+This page explains the process of pushing your changes back to the remote, and how your contribution will be checked in the CI and review process.&lt;/p&gt;
+&lt;p&gt;The handbook uses the &lt;a href="https://docs.github.com/en/get-started/quickstart/github-flow"&gt;GitHub flow&lt;/a&gt; workflow.
+In short:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;create a branch&lt;/li&gt;
+&lt;li&gt;make changes&lt;/li&gt;
+&lt;li&gt;open pull request&lt;/li&gt;
+&lt;li&gt;review&lt;/li&gt;
+&lt;li&gt;merge to &lt;code&gt;main&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This workflow should help changes be deployed quickly.&lt;/p&gt;</description></item><item><title>Line Management</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/line-management/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/line-management/</guid><description>&lt;h1 id="line-management"&gt;
+ Line Management
+ &lt;a class="anchor" href="#line-management"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;Line management in REG is a little different than in other parts of the Turing as you often will not be working directly with the people you are managing. This guide aims to explain how this relationship might work.&lt;/p&gt;
+&lt;h2 id="how-line-management-duties-are-assigned"&gt;
+ How line management duties are assigned
+ &lt;a class="anchor" href="#how-line-management-duties-are-assigned"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;At (current) senior level, people are expected to line manage 1-2 standards. This will probably change with the new lead role (see the &lt;a href="https://github.com/alan-turing-institute/Hut23/blob/master/development/REG-Roles-Matrix.md#line-managementmentoring"&gt;REG role matrix&lt;/a&gt;). Currently, if seniors are willing to line manage more than 2 people, they should inform the recruitment lead (can be found in &lt;a href="https://github.com/alan-turing-institute/research-engineering-group/wiki/Service-areas"&gt;service areas&lt;/a&gt;).&lt;/p&gt;</description></item><item><title>Software Development</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/technical_practices/software_dev_best_practice/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/technical_practices/software_dev_best_practice/</guid><description>&lt;h1 id="software-development-best-practices"&gt;
+ Software Development Best Practices
+ &lt;a class="anchor" href="#software-development-best-practices"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Status:&lt;/em&gt; this document is a draft proposal.&lt;/p&gt;
+&lt;h2 id="rse-projects"&gt;
+ RSE projects
+ &lt;a class="anchor" href="#rse-projects"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;There should be a GitHub issue for each thing we do.
+It’s ok for issues to evolve and my preference would be that the top description box always has the most up to date, clearest description of the issue and its definition of done.
+Feel free to make liberal use of the comments for communication and tracking investigative / exploratory work.
+The main description box should contain a clear definition of done / acceptance criteria sufficient for the following to be done in principle by different people from the team who are involved in the project.&lt;/p&gt;</description></item><item><title>Reviewing Changes</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/reviewing_changes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/reviewing_changes/</guid><description>&lt;h1 id="reviewing-changes"&gt;
+ Reviewing Changes
+ &lt;a class="anchor" href="#reviewing-changes"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;The review process helps to ensure high quality and catch problems in contributions.
+When acting as a reviewer, you should see your position as sharing your knowledge and working with the contributors to achieve the best possible result.
+Reviewing should &lt;strong&gt;not&lt;/strong&gt; be an adversarial process.&lt;/p&gt;
+&lt;h2 id="recognising-contributions"&gt;
+ Recognising Contributions
+ &lt;a class="anchor" href="#recognising-contributions"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;When reviewing a pull request you should try to make sure everyone&amp;rsquo;s work is recognised.
+See the &lt;a href="https://alan-turing-institute.github.io/REG-handbook/docs/contributing/recognising_contributions/"&gt;Recognising Contributions&lt;/a&gt; page for how to do this.&lt;/p&gt;</description></item><item><title>Advanced</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/advanced/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/advanced/</guid><description>&lt;h1 id="advanced"&gt;
+ Advanced
+ &lt;a class="anchor" href="#advanced"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;h2 id="using-data"&gt;
+ Using Data
+ &lt;a class="anchor" href="#using-data"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Through using templates Hugo can &lt;a href="https://gohugo.io/templates/data-templates/"&gt;build page content from datafiles&lt;/a&gt;.
+This is particularly useful for when you want to display structured data in a page and when it would be easier to maintain a datafile rather than a Markdown or HTML document.&lt;/p&gt;
+&lt;h2 id="creating-shortcodes"&gt;
+ Creating Shortcodes
+ &lt;a class="anchor" href="#creating-shortcodes"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;It is possible to &lt;a href="https://gohugo.io/templates/shortcode-templates/"&gt;create your own shortcodes&lt;/a&gt;.
+These should be placed in &lt;a href="https://github.com/alan-turing-institute/REG-handbook/tree/main/layouts/shortcodes/"&gt;&lt;code&gt;layouts/shortcodes/&lt;/code&gt;&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;If you feel the need to use HTML or want to create page content from a datafile (like a YAML file or csv) then a shortcode is probably the right answer.&lt;/p&gt;</description></item><item><title>Publishing Open Access Journal Articles</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/open_access/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/open_access/</guid><description>&lt;h1 id="open-access-journal-articles"&gt;
+ Open Access Journal Articles
+ &lt;a class="anchor" href="#open-access-journal-articles"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;The Turing has access to a block grant to cover open access charges for journal publications for UKRI funded projects if there are not already funds in the project-specific grant to cover them. If you have published an article, you may be able to cover the open access fees using this funding source. See &lt;a href="https://mathison.turing.ac.uk/page/BlockGrant?SearchId=380294"&gt;Open Access Publishing - Funding&lt;/a&gt; on Mathison for further information.&lt;/p&gt;</description></item><item><title>Remote Working</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/remote_working/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/remote_working/</guid><description>&lt;h1 id="remote-working"&gt;
+ Remote Working
+ &lt;a class="anchor" href="#remote-working"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;Information and tips and tricks on working from home and other remote working.&lt;/p&gt;
+&lt;h2 id="meetings-calls-and-screen-sharing"&gt;
+ Meetings, calls and screen sharing
+ &lt;a class="anchor" href="#meetings-calls-and-screen-sharing"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;h2 id="gather"&gt;
+ Gather
+ &lt;a class="anchor" href="#gather"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;REG uses Gather for some of the coffee breaks and social events.
+It gives a virtual space (modelled on the office!) to wander around and have conversations with people near to you.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;See &lt;a href="https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry#video-call-links"&gt;The REGistry&lt;/a&gt; for how to gain entry to gather.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Note: Gather is blocked on the Turing VPN and on IT-managed computers.&lt;/p&gt;</description></item><item><title>Lunchtime Tech Talks</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/regular_events/lunchtime_tech_talks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/regular_events/lunchtime_tech_talks/</guid><description>&lt;h1 id="lunchtime-tech-talks"&gt;
+ Lunchtime Tech Talks
+ &lt;a class="anchor" href="#lunchtime-tech-talks"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;The Research Engineering team meets for Lunchtime Tech Talks most Tuesdays over lunch.
+The talks start at 12:30.&lt;/p&gt;
+&lt;p&gt;At a tech talk someone (usually someone in REG) presents or discusses something, such as about a project or data science/computer science/software engineering topic.
+They can also be opportunities to look for help and input.
+We encourage talks at the beginning of projects (before it&amp;rsquo;s certain what exactly you&amp;rsquo;ll be doing) or to discuss a problem you&amp;rsquo;re unsure how to solve.
+We also have shorter format &lt;a href="https://alan-turing-institute.github.io/REG-handbook/docs/regular_events/lightning_talks/"&gt;lightning talks&lt;/a&gt;, where several people give a shorter talk.&lt;/p&gt;</description></item><item><title>Lightning Talks</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/regular_events/lightning_talks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/regular_events/lightning_talks/</guid><description>&lt;h1 id="lightning-talks"&gt;
+ Lightning Talks
+ &lt;a class="anchor" href="#lightning-talks"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;Lightning Talks are a meeting series within the tech talk slots in which people give short 10 minute talks.
+The main goals are to:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Regularly share what we&amp;rsquo;re working on.&lt;/li&gt;
+&lt;li&gt;Find overlaps between projects or problems someone else in the team could help with.&lt;/li&gt;
+&lt;li&gt;Generate ideas for future tech talks.&lt;/li&gt;
+&lt;li&gt;Do all this without a big time commitment, both for presenters and attendees.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The talks can be on any topic, including but not limited to:&lt;/p&gt;</description></item><item><title>Reading Groups</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/regular_events/reading_groups/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/regular_events/reading_groups/</guid><description>&lt;h1 id="reading-groups"&gt;
+ Reading Groups
+ &lt;a class="anchor" href="#reading-groups"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;As part of projects or for general interest, members of the team create reading groups to learn about a topic.
+Reading groups may meet on weekly basis to discuss a chapter from a book, a paper, or to work together on implementing something.&lt;/p&gt;
+&lt;p&gt;A list of current reading groups and information about them can be found on the &lt;a href="https://github.com/alan-turing-institute/DataScienceSkills/wiki/Reading-Groups"&gt;Data Science Skills wiki&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Material for the reading groups is stored in the &lt;a href="https://github.com/alan-turing-institute/DataScienceSkills"&gt;Data Science Skills repository&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Open Source Hacksessions</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/regular_events/open_source_hacksessions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/regular_events/open_source_hacksessions/</guid><description>&lt;h1 id="open-source-hacksessions"&gt;
+ Open Source Hacksessions
+ &lt;a class="anchor" href="#open-source-hacksessions"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;REG runs monthly sessions where we come together and contribute to upstream open-source repositories. The idea is to fence off time dedicated to contributing upstream and to do it together for joy and sociality. We hope to give back to many of the tools we use and learn about new packages by helping them out. Everyone is welcome to come and work on something they want to contribute to or join an effort someone else has already started.&lt;/p&gt;</description></item><item><title>Drop-in Sessions</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/regular_events/drop-in_sessions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/regular_events/drop-in_sessions/</guid><description>&lt;h1 id="drop-in-sessions"&gt;
+ Drop-in Sessions
+ &lt;a class="anchor" href="#drop-in-sessions"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;Along with the &lt;em&gt;Data Wrangling team&lt;/em&gt;, &lt;em&gt;Tools, Practices and Systems (TPS)&lt;/em&gt;, and the &lt;em&gt;Programme Management Unit (PMU)&lt;/em&gt;, our group runs the &lt;a href="https://github.com/alan-turing-institute/infrastructure-drop-ins"&gt;Turing Infrastructure Drop-in Sessions&lt;/a&gt; which are regular, informal, community-led sessions for students and researchers.
+See more information on the sessions on the &lt;a href="https://github.com/alan-turing-institute/infrastructure-drop-ins"&gt;&lt;code&gt;infrastructure-drop-ins&lt;/code&gt;&lt;/a&gt; repo.&lt;/p&gt;
+&lt;h2 id="joining-sessions"&gt;
+ Joining sessions
+ &lt;a class="anchor" href="#joining-sessions"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Our sessions are on Zoom (see link on the &lt;a href="https://mathison.turing.ac.uk/page/3262"&gt;Mathison page&lt;/a&gt; and sometimes hybrid.
+We run several sessions a week (typically on Tuesdays and Wednesdays), so please see our &lt;a href="https://github.com/alan-turing-institute/infrastructure-drop-ins/wiki/Schedule"&gt;schedule&lt;/a&gt; on the &lt;a href="https://github.com/alan-turing-institute/infrastructure-drop-ins/wiki"&gt;repo&amp;rsquo;s wiki&lt;/a&gt;.
+Also feel free to reach out to either Ryan Chan, Iain Stenson or Fede Nanni on Slack.&lt;/p&gt;</description></item><item><title>Randomised Coffee Chats</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/regular_events/coffee_chats/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/regular_events/coffee_chats/</guid><description>&lt;h1 id="randomised-coffee-chats"&gt;
+ Randomised Coffee Chats
+ &lt;a class="anchor" href="#randomised-coffee-chats"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;Approximately every 2 weeks, we partition REG into groups of 4 or 5 for informal chats.
+The groups are randomly generated (see the code &lt;a href="https://github.com/alan-turing-institute/randoffee/"&gt;here&lt;/a&gt;) but generally try to ensure that everyone meets different people each week.&lt;/p&gt;
+&lt;p&gt;If you have not signed up already and would like to join (or conversely if you would like to opt out), please inform the &lt;a href="https://github.com/alan-turing-institute/research-engineering-group/wiki/The-REGistry"&gt;people in charge of the random coffees&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Acronyms and Abbreviations</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/acronyms_and_abbreviations/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/acronyms_and_abbreviations/</guid><description>&lt;h1 id="acronyms-and-abbreviations"&gt;
+ Acronyms and Abbreviations
+ &lt;a class="anchor" href="#acronyms-and-abbreviations"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;AIDA: Artificial Intelligence for Data Analytics&lt;/p&gt;
+&lt;p&gt;ALOGIT: name of a Fortran package (see &lt;a href="https://github.com/alan-turing-institute/Hut23/issues/295"&gt;issue&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;ASG: AI for Science and Government (the new name of the EPSRC funds from SPF)&lt;/p&gt;
+&lt;p&gt;ARC: &lt;a href="https://www.turing.ac.uk/research/research-projects/applied-research-centre-defence-and-security"&gt;Applied Research Centre&lt;/a&gt; / Australian Research Council&lt;/p&gt;
+&lt;p&gt;BL: British Library&lt;/p&gt;
+&lt;p&gt;BPT: Bayesian Performance Tuning&lt;/p&gt;
+&lt;p&gt;Chrono: Chronotopic Cartographies&lt;/p&gt;
+&lt;p&gt;CPD: Change-point detection (method to apply to data in AIDA-Lloyds project)&lt;/p&gt;
+&lt;p&gt;CT: Computerised Tomography&lt;/p&gt;
+&lt;p&gt;DAS: Data Availability Statements (Giovanni&amp;rsquo;s 22-days research paper)&lt;/p&gt;</description></item><item><title>Printing Event Name Tags</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/working_at_the_turing/name_tags/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/working_at_the_turing/name_tags/</guid><description>&lt;h1 id="printing-event-name-tags"&gt;
+ Printing Event Name Tags
+ &lt;a class="anchor" href="#printing-event-name-tags"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;For certain events (most notably Away Day, but also e.g. conferences), you may find that you need to print name tags for attendees.&lt;/p&gt;
+&lt;h2 id="step-1-prepare-the-printouts"&gt;
+ Step 1: Prepare the printouts
+ &lt;a class="anchor" href="#step-1-prepare-the-printouts"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Mathison contains a &lt;a href="https://mathison.turing.ac.uk/page/2875"&gt;Name badges template&lt;/a&gt; for creating name tags which fit the printer paper.
+This template is in Word. To use it, save a local copy, and use mail merge to create the name tags. These can then be saved as a .pdf
+file for printing. An example can be found in the REG Sharepoint folder under AwayDay-2025.&lt;/p&gt;</description></item></channel></rss>
