@@ -22,14 +22,17 @@ Examples of special leave include:
 - jury service
   - [linked here](https://mathison.turing.ac.uk/page/2258)
 
-The Special Leave request form on Mathison is found [here](https://mathison.turing.ac.uk/page/3023) and is a document completed by the employee and their line manager. The employee can request either paid or unpaid leave.
-The form requires details of the need for special leave, as well as the employee annual leave balance and any special leave the employee has taken in the preceeding twelve months.
+To request special leave in ERPx, you have to go via the Absences tab to put a request through. There is a dropdown menu to select the appropriate type of special leave, then you choose the desired dates. Once submitted, your request will be sent for approval to the person that manages your leave. The employee can request either paid or unpaid leave. 
+
+> **Note:** This used to be a form that required details of the need for special leave, as well as the employee annual leave balance and any special leave the employee has taken in the preceeding twelve months. Adding this detail may be useful.
+
 ## Sickness
 Details of the sickness policy are [linked here](https://mathison.turing.ac.uk/page/2227). It details the processes of reporting sick on the first day of an illness (contact your line manager theoretically by email and before 9:30 ideally - TODO point out REG-specific guidance?). What to do if sickness persists for more than 7 consecutive days, and options if you fall ill during annual leave. 
 The sickness policy also describes processes for medical appointments, occupational health processes, and sick pay.
 
 There are statatory requirements from the Government which need to be met for employees to be entitled to Statatory Sick Pay (SSP) and the sickness policy also outlines the Institute's occupational sick pay for employees. 
 
+[//]: # (TODO: find instructions for below section via ERPx)
 
 ## Parental Leave
 The Institute's Maternity, Adoption, Maternity Support (Paternity) and Parental Leave Policy documents are [found here in Mathison](https://mathison.turing.ac.uk/page/2226). The documents outline the processes primarily when an employee is about to become a parent, but also includes information on parential leave. They also include a risk assessment form to be filled in by pregnant employees.
