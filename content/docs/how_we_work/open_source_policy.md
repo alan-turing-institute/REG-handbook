@@ -15,7 +15,14 @@ weight: 2
 
 REG has a policy of publishing all the work we do under an open source licence, unless there are compelling reasons to make an exception.
 This typically means publishing software we write under one of the [OSI approved licences](https://opensource.org/licenses), or in the case of non-code contributions one of the [Creative Commons licences](https://creativecommons.org/share-your-work/).
-Our default choices are the [BSD 3-clause licence](https://opensource.org/license/BSD-3-clause) for permissive source code licencing, [AGPL](https://www.gnu.org/licenses/agpl-3.0.en.html) for copyleft code licencing, and [CC-BY](https://creativecommons.org/licenses/by/4.0) or [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en) for non-code content, but we make a choice based on the needs of the project.
+Our default choices are
+
+* [BSD 3-clause licence](https://opensource.org/license/BSD-3-clause) for permissive source code licencing.
+* [AGPL](https://www.gnu.org/licenses/agpl-3.0.en.html) for copyleft code licencing.
+* [CC-BY](https://creativecommons.org/licenses/by/4.0) for permissive licensing of non-code content.
+* [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en) for copyleft licensing of non-code content.
+
+However, these are only defaults, and we [choose a licence](https://choosealicense.com/) based on the needs of each project.
 
 Open sourcing all our work is a strong default.
 We do make exceptions to it, but they need to be justified by some exceptional circumstance.
