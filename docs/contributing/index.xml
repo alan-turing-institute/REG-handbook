@@ -85,7 +85,8 @@ The most important rules are,&lt;/p&gt;
 &lt;li&gt;A semantic line break MUST occur after a sentence, as punctuated by a period (.), exclamation mark (!), or question mark (?).&lt;/li&gt;
 &lt;li&gt;A semantic line break SHOULD occur after an independent clause as punctuated by a comma (,), semicolon (;), colon (:), or em dash (—).&lt;/li&gt;
 &lt;li&gt;A semantic line break MAY occur after a dependent clause in order to clarify grammatical structure or satisfy line length constraints.&lt;/li&gt;
-&lt;/ul&gt;&lt;/blockquote&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
 &lt;h2 id="markdown"&gt;
  Markdown
  &lt;a class="anchor" href="#markdown"&gt;#&lt;/a&gt;

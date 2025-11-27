@@ -253,7 +253,8 @@ The most important rules are,&lt;/p&gt;
 &lt;li&gt;A semantic line break MUST occur after a sentence, as punctuated by a period (.), exclamation mark (!), or question mark (?).&lt;/li&gt;
 &lt;li&gt;A semantic line break SHOULD occur after an independent clause as punctuated by a comma (,), semicolon (;), colon (:), or em dash (—).&lt;/li&gt;
 &lt;li&gt;A semantic line break MAY occur after a dependent clause in order to clarify grammatical structure or satisfy line length constraints.&lt;/li&gt;
-&lt;/ul&gt;&lt;/blockquote&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
 &lt;h2 id="markdown"&gt;
  Markdown
  &lt;a class="anchor" href="#markdown"&gt;#&lt;/a&gt;
@@ -445,7 +446,20 @@ In short:&lt;/p&gt;
 &lt;p&gt;There should be a GitHub issue for each thing we do.
 It’s ok for issues to evolve and my preference would be that the top description box always has the most up to date, clearest description of the issue and its definition of done.
 Feel free to make liberal use of the comments for communication and tracking investigative / exploratory work.
-The main description box should contain a clear definition of done / acceptance criteria sufficient for the following to be done in principle by different people from the team who are involved in the project.&lt;/p&gt;</description></item><item><title>Reviewing Changes</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/reviewing_changes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/reviewing_changes/</guid><description>&lt;h1 id="reviewing-changes"&gt;
+The main description box should contain a clear definition of done / acceptance criteria sufficient for the following to be done in principle by different people from the team who are involved in the project.&lt;/p&gt;</description></item><item><title>Open Source Policy</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/open_source_policy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/open_source_policy/</guid><description>&lt;h1 id="open-source-policy"&gt;
+ Open Source Policy
+ &lt;a class="anchor" href="#open-source-policy"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;REG has a policy of publishing all the work we do under an open source licence, unless there are compelling reasons to make an exception.
+This typically means publishing software we write under one of the &lt;a href="https://opensource.org/licenses"&gt;OSI approved licences&lt;/a&gt;, or in the case of non-code contributions one of the &lt;a href="https://creativecommons.org/share-your-work/"&gt;Creative Commons licences&lt;/a&gt; that supports derivative works.
+Our default choices are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://opensource.org/license/BSD-3-clause"&gt;BSD-3-Clause&lt;/a&gt; for permissive source code licencing.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.gnu.org/licenses/agpl-3.0.en.html"&gt;AGPL-3.0&lt;/a&gt; for copyleft code licencing.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://creativecommons.org/licenses/by/4.0"&gt;CC-BY-4.0&lt;/a&gt; for permissive licensing of non-code content.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en"&gt;CC-BY-SA-4.0&lt;/a&gt; for copyleft licensing of non-code content.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;However, these are only defaults, and we &lt;a href="https://choosealicense.com/"&gt;choose a licence&lt;/a&gt; based on the needs of each project.&lt;/p&gt;</description></item><item><title>Reviewing Changes</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/reviewing_changes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/contributing/reviewing_changes/</guid><description>&lt;h1 id="reviewing-changes"&gt;
  Reviewing Changes
  &lt;a class="anchor" href="#reviewing-changes"&gt;#&lt;/a&gt;
 &lt;/h1&gt;

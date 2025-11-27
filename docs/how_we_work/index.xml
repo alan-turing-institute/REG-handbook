@@ -79,7 +79,20 @@ We hope that this page will be a place where we can showcase the variety of soft
  How line management duties are assigned
  &lt;a class="anchor" href="#how-line-management-duties-are-assigned"&gt;#&lt;/a&gt;
 &lt;/h2&gt;
-&lt;p&gt;At (current) senior level, people are expected to line manage 1-2 standards. This will probably change with the new lead role (see the &lt;a href="https://github.com/alan-turing-institute/Hut23/blob/master/development/REG-Roles-Matrix.md#line-managementmentoring"&gt;REG role matrix&lt;/a&gt;). Currently, if seniors are willing to line manage more than 2 people, they should inform the recruitment lead (can be found in &lt;a href="https://github.com/alan-turing-institute/research-engineering-group/wiki/Service-areas"&gt;service areas&lt;/a&gt;).&lt;/p&gt;</description></item><item><title>Publishing Open Access Journal Articles</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/open_access/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/open_access/</guid><description>&lt;h1 id="open-access-journal-articles"&gt;
+&lt;p&gt;At (current) senior level, people are expected to line manage 1-2 standards. This will probably change with the new lead role (see the &lt;a href="https://github.com/alan-turing-institute/Hut23/blob/master/development/REG-Roles-Matrix.md#line-managementmentoring"&gt;REG role matrix&lt;/a&gt;). Currently, if seniors are willing to line manage more than 2 people, they should inform the recruitment lead (can be found in &lt;a href="https://github.com/alan-turing-institute/research-engineering-group/wiki/Service-areas"&gt;service areas&lt;/a&gt;).&lt;/p&gt;</description></item><item><title>Open Source Policy</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/open_source_policy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/open_source_policy/</guid><description>&lt;h1 id="open-source-policy"&gt;
+ Open Source Policy
+ &lt;a class="anchor" href="#open-source-policy"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;REG has a policy of publishing all the work we do under an open source licence, unless there are compelling reasons to make an exception.
+This typically means publishing software we write under one of the &lt;a href="https://opensource.org/licenses"&gt;OSI approved licences&lt;/a&gt;, or in the case of non-code contributions one of the &lt;a href="https://creativecommons.org/share-your-work/"&gt;Creative Commons licences&lt;/a&gt; that supports derivative works.
+Our default choices are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://opensource.org/license/BSD-3-clause"&gt;BSD-3-Clause&lt;/a&gt; for permissive source code licencing.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.gnu.org/licenses/agpl-3.0.en.html"&gt;AGPL-3.0&lt;/a&gt; for copyleft code licencing.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://creativecommons.org/licenses/by/4.0"&gt;CC-BY-4.0&lt;/a&gt; for permissive licensing of non-code content.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en"&gt;CC-BY-SA-4.0&lt;/a&gt; for copyleft licensing of non-code content.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;However, these are only defaults, and we &lt;a href="https://choosealicense.com/"&gt;choose a licence&lt;/a&gt; based on the needs of each project.&lt;/p&gt;</description></item><item><title>Publishing Open Access Journal Articles</title><link>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/open_access/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alan-turing-institute.github.io/REG-handbook/docs/how_we_work/open_access/</guid><description>&lt;h1 id="open-access-journal-articles"&gt;
  Open Access Journal Articles
  &lt;a class="anchor" href="#open-access-journal-articles"&gt;#&lt;/a&gt;
 &lt;/h1&gt;
