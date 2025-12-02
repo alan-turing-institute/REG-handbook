@@ -13,8 +13,10 @@ weight: 1
 
 # Visa Reimbursement
 
+## Skilled Worker visa
+
 > [!note]
-> The last ILR application within REG happened in early 2023.
+> The last Skilled Worker visa applications within REG happened in early 2023.
 
 If you need a visa to work at the Turing, the Turing will reimburse (part of) the cost of the visa application.
 The full [Relocation and Visa Policy](https://mathison.turing.ac.uk/page/2270) can be found on Mathison, and details should be obtained from HR directly.
@@ -27,7 +29,7 @@ However, you should confirm this with HR.
 
 Note that visa applications within the UK are counted as a taxable benefit, so if you are already in the UK, you will get less money back than what you claimed for.
 
-# Indefinite Leave to Remain (ILR)
+## Indefinite Leave to Remain (ILR)
 
 > [!note]
 > The last ILR application within REG happened in July 2025.
