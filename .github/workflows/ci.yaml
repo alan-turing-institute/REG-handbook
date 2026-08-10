@@ -105,5 +105,6 @@ jobs:
         run: |
           htmlproofer ./public \
           --swap-urls "^https\://alan-turing-institute.github.io/REG-handbook/:/,^/REG-handbook/:/,/edit/main:/edit/$(git branch --show-current)" \
-          --ignore-urls '/REG-handbook,/turing.ac.uk/,/github.com/,/docs.github.com/,/twitter.com/,/code.visualstudio.com/,/forms.office.com/' \
-          --ignore-files './public/docs/contributors/index.html'
+          --ignore-urls '/REG-handbook,/turing.ac.uk/,/github.com/,/docs.github.com/,/twitter.com/,/code.visualstudio.com/,/forms.office.com/,/medium.com/,/eduroam.org/,/ukrse.slack.com/,/geekbot.com/,/gnu.org/,/pep8.org/,/www.hdruk.ac.uk/' \
+          --ignore-files './public/docs/contributors/index.html' \
+          --typhoeus '{ "followlocation": true, "connecttimeout": 10, "timeout": 30 }' --hydra '{ "max_concurrency": 10 }'

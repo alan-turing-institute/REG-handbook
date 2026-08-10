@@ -22,5 +22,5 @@ Use the 'add' command in an issue or pull-request comment to ask @all-contributo
 @all-contributors please add @<username> for <contributions>
 ```
 
-See the [bot usage documentation](https://allcontributors.org/docs/en/bot/usage) for full details and more examples.
-A list of contribution types (and the related emoji) can be seen [here](https://allcontributors.org/docs/en/emoji-key).
+See the [bot usage documentation](https://allcontributors.org/en/bot/usage/) for full details and more examples.
+A list of contribution types (and the related emoji) can be seen in the [All Contributors documentation](https://allcontributors.org/en/reference/emoji-key/).

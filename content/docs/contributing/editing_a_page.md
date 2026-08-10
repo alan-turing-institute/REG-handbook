@@ -98,7 +98,6 @@ Hugo has a set of useful [built-in shortcodes](https://gohugo.io/content-managem
 In particular
 
 - [figure](https://gohugo.io/content-management/shortcodes/#figure)
-- [gist](https://gohugo.io/content-management/shortcodes/#gist)
 - [highlight](https://gohugo.io/content-management/shortcodes/#highlight)
 - [param](https://gohugo.io/content-management/shortcodes/#param)
 - [ref](https://gohugo.io/content-management/shortcodes/#ref) and [relref](https://gohugo.io/content-management/shortcodes/#relref)
@@ -107,13 +106,13 @@ are often useful.
 
 #### Theme Shortcodes
 
-The theme has a [number of shortcodes](https://github.com/alex-shpak/hugo-book#shortcodes) which may be helpful.
+The theme has a [number of shortcodes](https://book.alxs.dev/docs/content/shortcodes/) which may be helpful.
 
 In particular
 
-- [hints](https://hugo-book-demo.netlify.app/docs/shortcodes/hints/)
-- [KaTeX](https://hugo-book-demo.netlify.app/docs/shortcodes/katex/)
-- [tabs](https://hugo-book-demo.netlify.app/docs/shortcodes/tabs/)
+- [hints](https://book.alxs.dev/docs/content/shortcodes/hints/)
+- [KaTeX](https://book.alxs.dev/docs/content/shortcodes/katex/)
+- [tabs](https://book.alxs.dev/docs/content/shortcodes/tabs/)
 
 #### Repository Shortcodes
 
