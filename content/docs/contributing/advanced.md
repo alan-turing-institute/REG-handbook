@@ -15,12 +15,12 @@ weight: 7
 
 ## Using Data
 
-Through using templates Hugo can [build page content from datafiles](https://gohugo.io/templates/data-templates/).
+Through using templates Hugo can [build page content from datafiles](https://gohugo.io/content-management/data-sources/).
 This is particularly useful for when you want to display structured data in a page and when it would be easier to maintain a datafile rather than a Markdown or HTML document.
 
 ## Creating Shortcodes
 
-It is possible to [create your own shortcodes](https://gohugo.io/templates/shortcode-templates/).
+It is possible to [create your own shortcodes](https://gohugo.io/templates/shortcode/).
 These should be placed in {{% repo_link path="layouts/shortcodes/" text="`layouts/shortcodes/`" %}}.
 
 If you feel the need to use HTML or want to create page content from a datafile (like a YAML file or csv) then a shortcode is probably the right answer.

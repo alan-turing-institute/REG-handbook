@@ -33,7 +33,7 @@ This list is not exhaustive (nor should it be: there is always more to be done!)
 
 ### HDR UK Black Internship
 
-Since 2022 REG has been involved in hosting interns from the [Black Internship programme by Health Data Research UK](https://www.hdruk.ac.uk/study-and-train/train/health-data-science-black-internship-programme/).
+Since 2022 REG has been involved in hosting interns from the [Black Internship programme by Health Data Research UK](https://www.hdruk.ac.uk/study-and-train/health-data-science-black-internship-programme/).
 Interns have typically been involved with one health-related project from REG, plus many other activities around the Turing.
 You can see [a researcher spotlight on Olajumoke](https://www.turing.ac.uk/people/spotlights/olajumoke-olatunji), one of our interns from 2023.
 
