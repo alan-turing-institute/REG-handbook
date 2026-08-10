@@ -14,11 +14,11 @@ weight: 6
 # Open Source Policy
 
 REG has a policy of publishing all the work we do under an open source licence, unless there are compelling reasons to make an exception.
-This typically means publishing software we write under one of the [OSI approved licences](https://opensource.org/licenses), or in the case of non-code contributions one of the [Creative Commons licences](https://creativecommons.org/share-your-work/) that supports derivative works.
+This typically means publishing software we write, models we train and training data we use under one of the [OSI approved licences](https://opensource.org/licenses), or in the case of non-code contributions one of the [Creative Commons licences](https://creativecommons.org/share-your-work/) that supports derivative works.
 Our default choices are:
 
-- [BSD-3-Clause](https://opensource.org/license/BSD-3-clause) for permissive source code licencing.
-- [AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.en.html) for copyleft code licencing.
+- [BSD-3-Clause](https://opensource.org/license/BSD-3-clause) for permissive source code licensing.
+- [AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.en.html) for copyleft code licensing.
 - [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0) for permissive licensing of non-code content.
 - [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) for copyleft licensing of non-code content.
 
