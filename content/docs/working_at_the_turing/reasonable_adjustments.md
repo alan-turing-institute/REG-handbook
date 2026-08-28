@@ -64,8 +64,6 @@ For adjustments that may incur more substantial costs, the government’s Access
 This may include funding for assistive technology, travel to work, or a support worker.
 
 Applications for Access to Work must be made by the individual.
-However, you can contact the Turing's external supervisor for guidance and assistance in applying.
-Turing staff can make an appointment with the external supervisor [here](https://mathison.turing.ac.uk/page/3052?SearchId=516953).
 Applications can be made directly through the [Access to Work website](https://www.gov.uk/access-to-work/apply) or through their helpline (0800 121 7479).
 
 ## Accessibility at The Alan Turing Institute Offices and the British Library
