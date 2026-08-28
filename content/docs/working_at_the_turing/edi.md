@@ -39,7 +39,7 @@ You can see [a researcher spotlight on Olajumoke](https://www.turing.ac.uk/peopl
 
 ### EDI Annual Report
 
-Each year the Turing publishes an annual report (see [here](https://www.turing.ac.uk/sites/default/files/2023-02/edi_annual_report_october_2021-2022_public_version_002_1.pdf) for the most recent one, covering the period between October 2021 and September 2022), as well as a gender pay gap (see [here](https://www.turing.ac.uk/sites/default/files/2023-03/2023.03.30_gender_pay_gap_report.pdf)).
+Each year the Turing publishes an annual report (see [here](https://www.turing.ac.uk/sites/default/files/2025-04/edi_annual_report_october_2023-september_2024_final.pdf) for the one, covering the period between October 2023 and September 2024), as well as a gender pay gap (see [here](https://www.turing.ac.uk/sites/default/files/2026-04/the_alan_turing_institute_gender_pay_gap_report_-_april_2025.pdf)).
 REG typically assists the EDI team with analysis of the underlying data and recommendations on how to treat sensitive data.
 
 ### Network Groups
@@ -49,12 +49,12 @@ The Turing has set up four EDI network groups centred on specific topics, with t
 - [Disability and Wellbeing](https://mathison.turing.ac.uk/page/2088)
 - [Gender Equality](https://mathison.turing.ac.uk/page/2089)
 - [LGBTQ+ Equality](https://mathison.turing.ac.uk/page/2090)
-- [Race Equality](https://mathison.turing.ac.uk/page/2091)
+- [Race and Cultural Inclusion](https://mathison.turing.ac.uk/page/2091)
 
 REG members are strongly encouraged to participate in these groups.
 Additionally, group chairpersons (who can be from REG) are awarded an honorarium.
 
 ### BCSWomen Lovelace Colloquium
 
-Since 2023, the Turing has been a sponsor for the [BCSWomen Lovelace Colloquium](https://bcswomenlovelace.bcs.org/), a one-day conference for women and non-binary students in computing fields.
+For several years, the Turing has been a sponsor for the [BCSWomen Lovelace Colloquium](https://bcswomenlovelace.bcs.org/), a one-day conference for women and non-binary students in computing fields.
 In 2023 REG sat on the careers panel and also (together with other teams from the Turing) had a stall at the conference.
