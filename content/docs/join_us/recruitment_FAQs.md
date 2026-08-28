@@ -195,7 +195,7 @@ Feel free to get in touch with the REG recruitment team ([reg-recruitment-inbox@
 The projects at the Turing largely fall into four themes, namely Environment and Sustainability; Health; Defence and National Security; and Fundamental research.
 These projects tend to revolve around the _application_ of data science and AI to solve challenges in these areas.
 Apart from this, there are also projects in foundational research in data science and AI.
-<!-- 
+<!--
 You can see a list of projects we are currently working on on [our team website](https://alan-turing-institute.github.io/REG/). -->
 
 ### Are working hours flexible?
