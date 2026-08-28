@@ -23,4 +23,4 @@ Use the 'add' command in an issue or pull-request comment to ask @all-contributo
 ```
 
 See the [bot usage documentation](https://allcontributors.org/docs/en/bot/usage) for full details and more examples.
-A list of contribution types (and the related emoji) can be seen [here](https://allcontributors.org/docs/en/emoji-key).
+A list of contribution types (and the related emoji) can be seen [here](https://allcontributors.org/en/reference/emoji-key/).
