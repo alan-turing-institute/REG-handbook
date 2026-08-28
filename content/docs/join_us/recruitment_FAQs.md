@@ -122,12 +122,12 @@ We'd really encourage you to apply!
 Our team has a very motivated group of people that work on things such as:
 
 - inputting to institute-wide policies (e.g. trans and non-binary inclusion)
-- doing analysis of diversity data, like for our [Gender Pay Gap Report](https://www.turing.ac.uk/sites/default/files/2023-03/2023.03.30_gender_pay_gap_report.pdf)
+- doing analysis of diversity data, like for our [Gender Pay Gap Report](https://www.turing.ac.uk/sites/default/files/2026-04/the_alan_turing_institute_gender_pay_gap_report_-_april_2025.pdf)
 - making job ads more inclusive (not closing applications early, publishing salary bands, using clear language)
 - being ambassadors for REG and the Turing at events like the [Hopper Colloquium](https://www.ucl.ac.uk/computer-science/about/equity-diversity-and-inclusion/gender-equality-athena-swan/london-hopper-colloquium) and the [BCSWomen Lovelace event](https://bcswomenlovelace.bcs.org/)
 - Attending network groups – a place to find community, organise events, and work on issues specific to that network. They exist for
     - LGBTQIA+
-    - Race equality
+    - Race and cultural inclusion
     - Gender equality
     - Disability and wellbeing
 - and much more!
@@ -175,12 +175,12 @@ For more information, you can read this page on the UKRSE website: [What is a Re
 
 ### What is a research computing engineer?
 
-This role presents a new exciting opportunity to join the growing team of research computing experts at the Turing.
+This role presents an opportunity to join the growing team of research computing experts at the Turing.
 The team assists the Turing community with designing, building, deploying, and maintaining research infrastructures, as well as providing service delivery and user support for the Institute’s research computing platforms.
 This is an opportunity for a technically-skilled professional with a good understanding of either cloud or high-performance computing (HPC), experience with both application and infrastructure, and an interest in facilitating and enhancing world-leading data science and AI research.
 You will build tools and automation to eliminate mundane operations and craft repeatable processes.
 As part of the team, you will also work with other research software engineers and data scientists on various projects and will participate in all phases of cloud / HPC development, from requirements-capture, definition, and design; to development, deployment, and maintenance; to performance tuning and monitoring.
-You are also expected to keep up-to-date with the latest cutting-edge developments, and/or make use of the UK’s most advanced computing facilities like Dawn, ARCHER 2, JADE 2, and Baskerville.
+You are also expected to keep up-to-date with the latest cutting-edge developments, and/or make use of the UK’s most advanced computing facilities like Dawn, ARCHER 2, and ISAMBARD.
 
 ### What is the difference between a Junior and a Standard role?
 
@@ -192,11 +192,11 @@ Feel free to get in touch with the REG recruitment team ([reg-recruitment-inbox@
 
 ### What kind of projects do you work on in REG?
 
-The projects at the Turing largely fall into three themes, namely Environment and Sustainability; Health; and Defence and National Security.
+The projects at the Turing largely fall into four themes, namely Environment and Sustainability; Health; Defence and National Security; and Fundamental research.
 These projects tend to revolve around the _application_ of data science and AI to solve challenges in these areas.
 Apart from this, there are also projects in foundational research in data science and AI.
-
-You can see a list of projects we are currently working on on [our team website](https://alan-turing-institute.github.io/REG/).
+<!--
+You can see a list of projects we are currently working on on [our team website](https://alan-turing-institute.github.io/REG/). -->
 
 ### Are working hours flexible?
 
@@ -225,7 +225,7 @@ You will be given the chance to say which projects you are interested in working
 
 ### Given the job profile in the REG team, what other careers do REG members tend to transition to (e.g. academia, industry, or something else)?
 
-We have only had a few members of the team who have moved on with their career trajectory so far.
+When people leave the team they have moved into a wide range of jobs across AI and data science.
 To read about some of their career paths you can visit our [REG alumni page](https://www.turing.ac.uk/research/research-engineering/reg-alumni).
 Some of them moved to a traditional academic position (for instance pursuing a PhD, taking a professorship), and others to industry and government positions.
 Others have progressed to more senior roles within the team.
@@ -255,7 +255,6 @@ This list is not exhaustive, but some examples include:
 - Equality, diversity, and inclusion (see the [EDI page]({{< relref "docs/working_at_the_turing/edi" >}}) for some info)
 - Research computing support (providing members of the Turing with training and support on using high-performance computing resources)
 - Communications (social media and outreach)
-- Research programming support (running [drop-in sessions]({{< relref "docs/regular_events/drop-in_sessions" >}}) for people at the Turing)
 - Knowledge sharing (organising our [tech talks]({{< relref "docs/regular_events/lunchtime_tech_talks.md" >}}))
 
 ### Can you tell me more about what it is like working at The Alan Turing Institute?
@@ -281,7 +280,7 @@ At The Turing, we want to make sure you feel comfortable and supported in how yo
 
 - **Hot Desks:**
   We use hot desks, meaning you can sit wherever you like when you’re in the office, on a first-come, first-served basis.
-  The Research Engineering Group typically sits near one another on the first floor.
+  The Research Engineering Group typically sits near one another.
   If you need a permanent or bespoke workspace (such as standing/adjustable desks or footrests), we can work with the facilities team to make it happen.
 
 - **Meeting Etiquette:**
@@ -293,7 +292,7 @@ At The Turing, we want to make sure you feel comfortable and supported in how yo
   We trust you to keep it professional when needed.
 
 - **Office Snacks and Team Lunches:**
-  We love having team lunches together when we’re in.
+  We love having team lunches together when we’re in, there's normally a group of REG people at the kitchen tables around 12.
   There is also free fruit, biscuits, juice, tea, and coffee to keep you going throughout the day.
   The kitchen area is great for group coffee breaks, or you can snack at your desk anytime.
 
@@ -313,7 +312,7 @@ Other benefits include mental health support and private healthcare ([the wellbe
 
 Members of REG have been featured in various interviews and spotlights, where they discuss their work and team activities. Here are a few examples:
 
-- [Team presentation at RSECon2022](https://www.youtube.com/watch?v=Dq537Sh6ZT4): Our director and other team members discuss building and growing a research engineering team at the Alan Turing Institute.
+- Team presentations at RSECon: [2022](https://www.youtube.com/watch?v=Dq537Sh6ZT4), [2023](https://www.youtube.com/watch?v=K-to9k8Hu6g&list=PL27mQJy8eDHmibt_aL3M68x-4gnXpxvZP&index=45), [2024](https://www.youtube.com/watch?v=whGKWDDI6_Q&list=PL27mQJy8eDHkMVbt_ecskGUUl-tEqO3JS&index=29), [2025](https://www.youtube.com/watch?v=0j3quGTA02M&list=PL27mQJy8eDHnot5jhJkFgBaIjqgE5zTn7&index=47).
 - [Code for thought podcast](https://codeforthought.buzzsprout.com/1326658/14761258-en-building-data-science-teams-alan-turing-institute-skills-and-policy-award-part-i): Check out the "Building Data Science Teams" episode, where REG members share insights into the teams they work with.
 - [Data science and AI careers series](https://www.turing.ac.uk/data-science-and-ai-careers-spotlight-series/spotlight-series): Some of our team members are featured in The Turing's spotlight video series on data science and AI careers.
 - [REG spotlight series](https://www.turing.ac.uk/work-turing/research/research-engineering-group#researcher-spotlight): Several team members have been highlighted in The Turing’s spotlight series, discussing their work and career journeys.
@@ -417,7 +416,7 @@ We make initial salary offers at 0/3, 1/3, and 2/3 through the advertised salary
 Each year, there is a cost of living increase which is applied to all Turing employees.
 On top of this, we also have annual pay reviews, where we actively review the performance and development of each team member against the expectations of their position within their seniority band, making salary adjustments where these expectations are being exceeded.
 
-We also hold annual internal promotion rounds to allow people to move up to the next level of seniority when they are ready.
+As part of the pay review process, we hold annual internal promotion rounds to allow people to move up to the next level of seniority when they are ready.
 There is no cap on the number of Junior, Standard, and Senior roles, so promotion opportunities are not limited by availability.
 
 ## My question is not answered here
