@@ -65,7 +65,7 @@ You can also change your job title later if you feel that the other is a more ac
 For the Fall 2026 recruitment round, we will be hiring at the Standard and Senior levels.
 The difference between these are explained in the respective job descriptions.
 If you think you have enough experience to apply for the higher position, you can do so.
-You can also apply to the more standard role and mention in your cover letter that you are also considering the more senior position, in case you feel your profile or working experience is between the two.
+You can also apply to the more junior role and mention in your cover letter that you are also considering the more senior position, in case you feel your profile or working experience is between the two.
 Every application at a given level will also be considered at the other levels if more appropriate.
 
 ### If my application was unsuccessful in the past, am I allowed to apply again this time?
