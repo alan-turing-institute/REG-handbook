@@ -51,7 +51,7 @@ If you have a specific date in mind, please feel free to contact [the REG recrui
 
 ### How many open positions are available?
 
-We are recruiting up to eight Senior and Standard RSEs/RDSs for the Fall 2026 recruitment round. 
+We are recruiting up to eight Senior and Standard RSEs/RDSs for the Fall 2026 recruitment round.
 
 ### What roles are you currently hiring for?
 
