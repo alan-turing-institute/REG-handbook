@@ -14,6 +14,7 @@ weight: 2
 # REG Recruitment FAQs
 
 Here you can find answers to the most frequently asked questions about working for the team and the recruitment process.
+This page will be actively updated during our current Fall 2026 Recruitment Campaign for [Senior RDS/RSE](https://alanturinginstituteweb.eploy.net/vacancies/120/senior-data-scientist-senior-research-software-engineer.html) and [Standard RDS/RSE](https://alanturinginstituteweb.eploy.net/vacancies/119/research-data-scientist-research-software-engineer.html) roles.
 
 Questions are grouped by:
 
@@ -28,7 +29,9 @@ Questions are grouped by:
 ### Is the position open to applicants outside of the UK who do not currently have a UK work visa?
 
 Yes, the positions are open to applicants outside the UK.
-If you do not currently have the Right to Work in the UK, the Turing is able to sponsor a Skilled Worker visa application (see [below](#does-the-turing-cover-relocation-and-visa-costs) for details).
+However, we require an in-person interview for our Fall 2026 recruitment campaign,
+and applicants must be able to attend this interview in London (likely in early- to mid-November 2026) to be considered.
+If you are able to attend this interview and are successful but do not currently have the Right to Work in the UK, the Turing is able to sponsor a Skilled Worker visa application (see [below](#does-the-turing-cover-relocation-and-visa-costs) for details).
 If you have general questions about the process, feel free to reach out to the [REG recruitment team][recruitment]; however, once your application has started, you should direct any questions about your specific situation to the Resourcing Officer who is handling your application.
 
 ### Are you accepting remote applicants?
@@ -48,8 +51,7 @@ If you have a specific date in mind, please feel free to contact [the REG recrui
 
 ### How many open positions are available?
 
-We don't have this information for 2024 yet.
-We will update this page when we do.
+We are recruiting up to eight Senior and Standard RSEs/RDSs for the Fall 2026 recruitment round.
 
 ### What roles are you currently hiring for?
 
@@ -60,7 +62,7 @@ The RDS and RSE roles form part of the same job description; the skillset we loo
 You are given a choice of which job title you prefer when starting.
 You can also change your job title later if you feel that the other is a more accurate description.
 
-For this recruitment round, we will be hiring at Junior, Standard, and Senior levels.
+For the Fall 2026 recruitment round, we will be hiring at the Standard and Senior levels.
 The difference between these are explained in the respective job descriptions.
 If you think you have enough experience to apply for the higher position, you can do so.
 You can also apply to the more junior role and mention in your cover letter that you are also considering the more senior position, in case you feel your profile or working experience is between the two.
@@ -97,8 +99,8 @@ For more information about the Institute's reasonable adjustment policy see [the
 
 We are really open to any domain, area of expertise, or skill set that is broadly related to research data science or research software engineering.
 
-If you have experience or are interested in High Performance Computing, as part of the open positions, we are actively looking for new members of the team to work on that area as Research Computing Engineers.
-You can drop an email to [the REG recruitment team][recruitment] to learn more about it.
+If you have experience or are interested in High Performance Computing, as part of the open positions, we are actively looking for new members of the team to work in our Research Compute Platforms team.
+You can drop an email to [the REG recruitment team][recruitment] to learn more about the Research Computing team if you are interested.
 
 However, we are recruiting for multiple positions, and are interested in a wide range of skills and experience, so please do apply if you are interested and have experience relevant to research software engineering and data science, broadly defined.
 You can see the [range of projects](https://www.turing.ac.uk/research/research-engineering/reg-projects) the team works on and [backgrounds of current team members](https://www.turing.ac.uk/research/research-engineering/meet-the-team) on our website.
@@ -145,6 +147,14 @@ Also, it is important to highlight:
 - Why you would like to become part of the Research Engineering Group
 - How your skill set would complement the activities of the team.
 
+Additionally, if you would like to be considered for a Senior role you should highlight the above three criteria
+as well as the following additional competencies for the Senior role:
+
+- Demonstrable experience of managing challenging stakeholder relationships and resolving conflict effectively
+- Evidence of the ability to coach/mentor others or act as “buddy” providing advice, guidance, and feedback to help team members work more effectively.
+
+Applicants for Senior do not need to have formal line management experience, but should be able to demonstrate evidence of informal mentorship.
+
 ### What does "equivalent professional experience" mean?
 
 If you do not have a PhD degree but have worked for a few years and believe you have gained the essential skills mentioned in the Person Specification, we encourage you to apply!
@@ -189,6 +199,19 @@ We consider candidates for the Standard position if they have a PhD or an equiva
 If you think you have enough experience you can apply to the Standard position and stress this in your cover letter.
 You can also apply to the Junior position and mention in your cover letter that you are also considering the Standard position, in case you feel your profile or working experience is in between the two.
 Feel free to get in touch with the REG recruitment team ([reg-recruitment-inbox@turing.ac.uk][recruitment]) about this point.
+
+### What is the difference between the Standard and Senior roles?
+
+Senior members of the team are expected to take larger ownership of their projects,
+make decisions that affect their project or work for long periods of time,
+manage relationships with external stakeholders,
+and support the development colleagues inside and outside of the team through mentoring.
+Senior candidates should have a few additional years of experience beyond a PhD
+or several years of experience in engineering roles
+(i.e. a few years of additional experience beyond the "equivalent professional experience" described above).
+If you are interested in joining at the Senior level, you should highlight your experience in these areas in your application.
+If you are unsure if you are better suited for the Standard or Senior role,
+you can mention this in your cover letter and describe your experience and we will consider you for either role.
 
 ### What kind of projects do you work on in REG?
 
@@ -323,18 +346,18 @@ Members of REG have been featured in various interviews and spotlights, where th
 
 ### Could you describe the interview process?
 
-As mentioned in the job description, all interviews are held remotely.
-We are currently looking into the possibility of holding interviews in person; please feel free [to ask about this][recruitment] if this is something you would like.
+For the Fall 2026 recruitment round, we will be holding one remote interview and one in-person interview.
+We would consider holding both interviews in person if this would be preferable; please feel free [to ask about this][recruitment] if this is something you would like.
 
 We operate a two-stage interview process.
 If you are successful at the screening stage, you will be asked to attend the first interview via video call.
+This interview focusses on your previous experience and competencies for the role.
+
+The second interview is usually held about one week later for successful candidates and will be held in person at the Turing offices in London.
 In this interview, you will be expected to give a ten-minute presentation on code you have written to address a specific research question.
 This code should ideally illustrate your use of good research software engineering practices; however, imperfect code is totally fine as long as you can discuss what you would improve and why.
-
 More information about this presentation can be found in the next sections.
 
-The second interview is usually held about one week later for successful candidates.
-This interview focusses on your previous experience and competencies for the role.
 There will also be a problem-solving discussion with the interview panel, where you may want to use paper and pen to arrive at an understanding of a proposed data analysis challenge.
 
 In both interviews, there will be the opportunity to ask questions about the role and the team.
@@ -354,6 +377,12 @@ We will not evaluate you on how complicated your algorithm is, but in your under
 You can write new code specifically for the interview if you so choose, but existing examples of work are encouraged, as long as the code was substantially written by you.
 You should be prepared to answer questions about both the code and the research challenge it addresses or the algorithm it demonstrates.
 Any source code shared for the interview will be treated in the strictest of confidence.
+
+Finally, we recognise that many current engineers will have used LLM-based coding agents in their work,
+and that even for those that don't, many collaborative codebases include some parts comprised of contributions written by LLMs.
+While we would strongly prefer that you present code that you have written yourself for the interview,
+we would also consider LLM-generated code that you worked on, provided you can clearly explain during the interview what the code is doing,
+explain why it conforms to good software engineering practice, etc.
 
 ### What sort of code have previous candidates presented?
 
@@ -386,9 +415,9 @@ However, our main goal is to evaluate your understanding of the code and general
 
 You are welcome to include any other material (such as slides) if you feel it is useful for supporting your presentation or providing context.
 
-### What will the problem solving aspect of the second interview involve? Will I be asked about particular data science or machine learning approaches? Will I need to write code or explain the details of an algorithm's implementation?
+### What will the problem solving aspect of the interview involve? Will I be asked about particular data science or machine learning approaches? Will I need to write code or explain the details of an algorithm's implementation?
 
-In the second interview we expect you to discuss a question related to the analysis of an example dataset.
+In the interview we expect you to discuss a question related to the analysis of an example dataset.
 All information required to answer the question will be given to you in beginning of the interview.
 **No preparation or specific technical knowledge is expected or required.**
 The goal of this exercise is not to test your understanding of any particular algorithm or data science method, but rather to assess your general approach to tackling a data science question.
@@ -409,6 +438,9 @@ The best thing you could do to be prepared is to eat well, take some long walks 
 
 Fairness and transparency are key values for us and our goal is to avoid inequity by ensuring we are paying people the same salary for the same level of contribution to the team.
 We make initial salary offers at 0/3, 1/3, and 2/3 through the advertised salary range, based on the level and applicability of each candidate’s experience relative to their future peers already working in the team.
+For the sake of clarity, the current advertisements give the full salary band for the role,
+so for the Standard role our offers will be between £46,000 and £53,333, while the current maximum salary for the Standard role is £57,000,
+and for the Senior role the offers will be between £57,000 and £65,000, with a current maximum salary for the Senior role of £69,000.
 **Our offers are not negotiable.**
 
 ### What is salary progression like in the role?
