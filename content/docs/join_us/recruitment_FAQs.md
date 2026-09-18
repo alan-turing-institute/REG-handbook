@@ -378,6 +378,12 @@ You can write new code specifically for the interview if you so choose, but exis
 You should be prepared to answer questions about both the code and the research challenge it addresses or the algorithm it demonstrates.
 Any source code shared for the interview will be treated in the strictest of confidence.
 
+Finally, we recognise that many current engineers will have used LLM-based coding agents in their work,
+and that even for those that don't, many collaborative codebases include some parts comprised of contributions written by LLMs.
+While we would strongly prefer that you present code that you have written yourself for the interview,
+we would also consider LLM-generated code that you worked on, provided you can clearly explain during the interview what the code is doing,
+explain why it conforms to good software engineering practice, etc.
+
 ### What sort of code have previous candidates presented?
 
 We collected several examples of code that have been presented by current team members in their interviews.
