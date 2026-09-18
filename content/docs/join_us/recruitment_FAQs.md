@@ -14,7 +14,7 @@ weight: 2
 # REG Recruitment FAQs
 
 Here you can find answers to the most frequently asked questions about working for the team and the recruitment process.
-This page will be actively updated during our current Fall 2026 Recruitment Campaign.
+This page will be actively updated during our current Fall 2026 Recruitment Campaign for [Senior RDS/RSE](https://alanturinginstituteweb.eploy.net/vacancies/120/senior-data-scientist-senior-research-software-engineer.html) and [Standard RDS/RSE](https://alanturinginstituteweb.eploy.net/vacancies/119/research-data-scientist-research-software-engineer.html) roles.
 
 Questions are grouped by:
 
@@ -30,7 +30,7 @@ Questions are grouped by:
 
 Yes, the positions are open to applicants outside the UK.
 However, we require an in-person interview for our Fall 2026 recruitment campaign,
-and applicants must be able to attend this interview in London (likely in early- to mid-November 2026) at their own expense to be considered.
+and applicants must be able to attend this interview in London (likely in early- to mid-November 2026) to be considered.
 If you are able to attend this interview and are successful but do not currently have the Right to Work in the UK, the Turing is able to sponsor a Skilled Worker visa application (see [below](#does-the-turing-cover-relocation-and-visa-costs) for details).
 If you have general questions about the process, feel free to reach out to the [REG recruitment team][recruitment]; however, once your application has started, you should direct any questions about your specific situation to the Resourcing Officer who is handling your application.
 
@@ -65,7 +65,7 @@ You can also change your job title later if you feel that the other is a more ac
 For the Fall 2026 recruitment round, we will be hiring at the Standard and Senior levels.
 The difference between these are explained in the respective job descriptions.
 If you think you have enough experience to apply for the higher position, you can do so.
-You can also apply to the more junior role and mention in your cover letter that you are also considering the more senior position, in case you feel your profile or working experience is between the two.
+You can also apply to the more standard role and mention in your cover letter that you are also considering the more senior position, in case you feel your profile or working experience is between the two.
 Every application at a given level will also be considered at the other levels if more appropriate.
 
 ### If my application was unsuccessful in the past, am I allowed to apply again this time?
@@ -432,6 +432,9 @@ The best thing you could do to be prepared is to eat well, take some long walks 
 
 Fairness and transparency are key values for us and our goal is to avoid inequity by ensuring we are paying people the same salary for the same level of contribution to the team.
 We make initial salary offers at 0/3, 1/3, and 2/3 through the advertised salary range, based on the level and applicability of each candidate’s experience relative to their future peers already working in the team.
+For the sake of clarity, the current advertisements give the full salary band for the role,
+so for the Standard role our offers will be between £46,000 and £53,333, while the current maximum salary for the Standard role is £57,000,
+and for the Senior role the offers will be between £57,000 and £65,000, with a current maximum salary for the Senior role of £69,000.
 **Our offers are not negotiable.**
 
 ### What is salary progression like in the role?
