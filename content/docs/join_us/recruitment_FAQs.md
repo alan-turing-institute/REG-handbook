@@ -42,6 +42,7 @@ We have team members that live further away in places such as Scotland and the S
 The on-paper expectation is that it would not be unreasonable to ask team members to spend four days a month in the office, but in practice we have been able to support a range of hybrid working patterns with fewer days in the office.
 We prefer to let the work to be done dictate the most effective collaboration style for carrying it out, and thus there may be some reasonable variation across projects in terms of requirements for in-office work.
 We also hold two in-person team events per year, the Team Away Day (actually two days) in the winter and Hack Week in June.
+Please note that this is current for the REG team as of Autumn 2026, though could be subject to change in the future.
 
 ### What would be the starting date?
 
@@ -88,10 +89,8 @@ The Turing will reimburse up to:
 
 Yes, reasonable adjustments can be requested during the application and interview process for individuals with disabilities or health conditions.
 These adjustments may include modifications to the interview format, additional time, or other necessary support.
-If you require any adjustments, please contact [adjustments@turing.ac.uk](mailto:adjustments@turing.ac.uk).
+If you require any adjustments, please contact [recruitment@turing.ac.uk](mailto:recruitment@turing.ac.uk).
 This email is monitored by the HR team and will be treated confidentially.
-
-For more information about the Institute's reasonable adjustment policy see [the reasonable_adjustments page]({{< relref "/docs/working_at_the_turing/reasonable_adjustments.md" >}}).
 
 ## Profile
 
@@ -121,22 +120,8 @@ As long as you are willing to pick up new skills and domains as you go along, yo
 Inclusivity and diversity aren't just things we encourage because we're beholden to some corporate criteria; we believe they are *essential* to good research.
 We'd really encourage you to apply!
 
-Our team has a very motivated group of people that work on things such as:
-
-- inputting to institute-wide policies (e.g. trans and non-binary inclusion)
-- doing analysis of diversity data, like for our [Gender Pay Gap Report](https://www.turing.ac.uk/sites/default/files/2026-04/the_alan_turing_institute_gender_pay_gap_report_-_april_2025.pdf)
-- making job ads more inclusive (not closing applications early, publishing salary bands, using clear language)
-- being ambassadors for REG and the Turing at events like the [Hopper Colloquium](https://www.ucl.ac.uk/computer-science/about/equity-diversity-and-inclusion/gender-equality-athena-swan/london-hopper-colloquium) and the [BCSWomen Lovelace event](https://bcswomenlovelace.bcs.org/)
-- Attending network groups – a place to find community, organise events, and work on issues specific to that network. They exist for
-    - LGBTQIA+
-    - Race and cultural inclusion
-    - Gender equality
-    - Disability and wellbeing
-- and much more!
-
 You can read more about a sample of the Equality, Diversity and Inclusion (EDI) initiatives in REG and the Turing on [this page]({{< relref "docs/working_at_the_turing/edi" >}}).
 Also, if you would like to arrange to speak to somebody in REG (in confidence) about this before applying, let us know; we would be happy to arrange that. That person will not subsequently be involved in evaluating your application.
-Reach out to the [REG recruitment team][recruitment] – we'd love to chat!
 
 ### Should the cover letter address each of the skills and requirements in the person specification section of the job description?
 
@@ -442,6 +427,9 @@ For the sake of clarity, the current advertisements give the full salary band fo
 so for the Standard role our offers will be between £46,000 and £53,333, while the current maximum salary for the Standard role is £57,000,
 and for the Senior role the offers will be between £57,000 and £65,000, with a current maximum salary for the Senior role of £69,000.
 **Our offers are not negotiable.**
+Please note that the offer practice described above reflect our team's internal practices,
+rather than formal Institute policies.
+This model thus is meant to set expectations for external applications to REG, but may differ from other roles in other parts of the Institute.
 
 ### What is salary progression like in the role?
 
