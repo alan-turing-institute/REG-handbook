@@ -16,8 +16,8 @@ weight: 2
 Here you can find answers to the most frequently asked questions about working for the team and the recruitment process.
 This page will be actively updated during our current Autumn 2026 Recruitment Campaign for [Senior RDS/RSE](https://alanturinginstituteweb.eploy.net/vacancies/120/senior-data-scientist-senior-research-software-engineer.html) and [Standard RDS/RSE](https://alanturinginstituteweb.eploy.net/vacancies/119/research-data-scientist-research-software-engineer.html) roles.
 
-Please direct any general questions about the process to [recruitment@turing.ac.uk](mailto:recruitment@turing.ac.uk); 
-if there are questions relating to the technical aspects and the role itself, the recruitment team will speak with the REG team before we respond. 
+Please direct any general questions about the process to [recruitment@turing.ac.uk](mailto:recruitment@turing.ac.uk);
+if there are questions relating to the technical aspects and the role itself, the recruitment team will speak with the REG team before we respond.
 
 Questions are grouped by:
 
@@ -80,11 +80,11 @@ In general, we suggest you wait for at least one year before applying again.
 
 ### Does the Turing cover relocation and visa costs?
 
-The Turing recognises that relocating and applying for a visa have different associated costs and therefore will provide support for both - click here to see [our Turing benefits guide](https://www.turing.ac.uk/sites/default/files/2024-10/turing_benefits_guide_2024.pdf). Please contact [recruitment@turing.ac.uk](mailto:recruitment@turing.ac.uk) for more information.
+The Turing recognises that relocating and applying for a visa have different associated costs and therefore will provide support for both - see [our Turing benefits guide](https://www.turing.ac.uk/sites/default/files/2024-10/turing_benefits_guide_2024.pdf). Please contact [recruitment@turing.ac.uk](mailto:recruitment@turing.ac.uk) for more information.
 
-### Do you provide reasonable adjustments to the application process for people with disabilities or health conditions ?
+### Do you provide reasonable adjustments to the application process for people with disabilities or health conditions?
 
-We are committed to making sure our recruitment process is accessible and inclusive. This includes making reasonable adjustments for candidates who have a disability or long-term condition. Please contact us at [recruitment@turing.ac.uk](mailto:recruitment@turing.ac.uk) to advise us how we can assist you. 
+We are committed to making sure our recruitment process is accessible and inclusive. This includes making reasonable adjustments for candidates who have a disability or long-term condition. Please contact us at [recruitment@turing.ac.uk](mailto:recruitment@turing.ac.uk) to advise us how we can assist you.
 
 ## Profile
 
