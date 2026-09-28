@@ -14,7 +14,10 @@ weight: 2
 # REG Recruitment FAQs
 
 Here you can find answers to the most frequently asked questions about working for the team and the recruitment process.
-This page will be actively updated during our current Fall 2026 Recruitment Campaign for [Senior RDS/RSE](https://alanturinginstituteweb.eploy.net/vacancies/120/senior-data-scientist-senior-research-software-engineer.html) and [Standard RDS/RSE](https://alanturinginstituteweb.eploy.net/vacancies/119/research-data-scientist-research-software-engineer.html) roles.
+This page will be actively updated during our current Autumn 2026 Recruitment Campaign for [Senior RDS/RSE](https://alanturinginstituteweb.eploy.net/vacancies/120/senior-data-scientist-senior-research-software-engineer.html) and [Standard RDS/RSE](https://alanturinginstituteweb.eploy.net/vacancies/119/research-data-scientist-research-software-engineer.html) roles.
+
+Please direct any general questions about the process to [recruitment@turing.ac.uk](mailto:recruitment@turing.ac.uk);
+if there are questions relating to the technical aspects and the role itself, the recruitment team will speak with the REG team before we respond.
 
 Questions are grouped by:
 
@@ -29,19 +32,19 @@ Questions are grouped by:
 ### Is the position open to applicants outside of the UK who do not currently have a UK work visa?
 
 Yes, the positions are open to applicants outside the UK.
-However, we require an in-person interview for our Fall 2026 recruitment campaign,
+However, we require an in-person interview for our Autumn 2026 recruitment campaign,
 and applicants must be able to attend this interview in London (likely in early- to mid-November 2026) to be considered.
-If you are able to attend this interview and are successful but do not currently have the Right to Work in the UK, the Turing is able to sponsor a Skilled Worker visa application (see [below](#does-the-turing-cover-relocation-and-visa-costs) for details).
-If you have general questions about the process, feel free to reach out to the [REG recruitment team][recruitment]; however, once your application has started, you should direct any questions about your specific situation to the Resourcing Officer who is handling your application.
+Visa sponsorship can be considered for successful candidates. Please contact [recruitment@turing.ac.uk](mailto:recruitment@turing.ac.uk) for more information.
 
 ### Are you accepting remote applicants?
 
-Members need to be based in the UK.
+Employees need to be based in the UK.
 However, you do not need to be in the London office every day nor on a regular weekly schedule, as almost all of our work is done in a hybrid manner.
 We have team members that live further away in places such as Scotland and the South West of England who come to the office less frequently.
 The on-paper expectation is that it would not be unreasonable to ask team members to spend four days a month in the office, but in practice we have been able to support a range of hybrid working patterns with fewer days in the office.
 We prefer to let the work to be done dictate the most effective collaboration style for carrying it out, and thus there may be some reasonable variation across projects in terms of requirements for in-office work.
 We also hold two in-person team events per year, the Team Away Day (actually two days) in the winter and Hack Week in June.
+Please note that this is current for the REG team as of Autumn 2026, though could be subject to change in the future.
 
 ### What would be the starting date?
 
@@ -51,7 +54,7 @@ If you have a specific date in mind, please feel free to contact [the REG recrui
 
 ### How many open positions are available?
 
-We are recruiting up to eight Senior and Standard RSEs/RDSs for the Fall 2026 recruitment round.
+We are recruiting up to eight Senior and Standard RSEs/RDSs for the Autumn 2026 recruitment round.
 
 ### What roles are you currently hiring for?
 
@@ -77,21 +80,11 @@ In general, we suggest you wait for at least one year before applying again.
 
 ### Does the Turing cover relocation and visa costs?
 
-Yes; the Turing recognises that relocating and applying for a visa have different associated costs and therefore will provide support for both.
-The Turing will reimburse up to:
+The Turing recognises that relocating and applying for a visa have different associated costs and therefore will provide support for both - see [our Turing benefits guide](https://www.turing.ac.uk/sites/default/files/2024-10/turing_benefits_guide_2024.pdf). Please contact [recruitment@turing.ac.uk](mailto:recruitment@turing.ac.uk) for more information.
 
-- £4000 for the cost of a visa application (including the NHS immigration surcharge);
-- £2000 for relocation costs (if you are moving from Europe or the UK, as long as the move is over 50 miles); and
-- £4000 for relocation costs (if you are moving from further overseas).
+### Do you provide reasonable adjustments to the application process for people with disabilities or health conditions?
 
-### Do you provide reasonable adjustments to the application process for people with disabilities or health conditions ?
-
-Yes, reasonable adjustments can be requested during the application and interview process for individuals with disabilities or health conditions.
-These adjustments may include modifications to the interview format, additional time, or other necessary support.
-If you require any adjustments, please contact [adjustments@turing.ac.uk](mailto:adjustments@turing.ac.uk).
-This email is monitored by the HR team and will be treated confidentially.
-
-For more information about the Institute's reasonable adjustment policy see [the reasonable_adjustments page]({{< relref "/docs/working_at_the_turing/reasonable_adjustments.md" >}}).
+We are committed to making sure our recruitment process is accessible and inclusive. This includes making reasonable adjustments for candidates who have a disability or long-term condition. Please contact us at [recruitment@turing.ac.uk](mailto:recruitment@turing.ac.uk) to advise us how we can assist you.
 
 ## Profile
 
@@ -118,25 +111,8 @@ As long as you are willing to pick up new skills and domains as you go along, yo
 ### I'm a woman / person of colour / LGBTQIA+ / person with disabilities / part of an underrepresented group(s). Will I feel welcome and supported in the team?
 
 **We'd love to have you join our team!**
-Inclusivity and diversity aren't just things we encourage because we're beholden to some corporate criteria; we believe they are *essential* to good research.
+We believe diversity is *essential* to good research.
 We'd really encourage you to apply!
-
-Our team has a very motivated group of people that work on things such as:
-
-- inputting to institute-wide policies (e.g. trans and non-binary inclusion)
-- doing analysis of diversity data, like for our [Gender Pay Gap Report](https://www.turing.ac.uk/sites/default/files/2026-04/the_alan_turing_institute_gender_pay_gap_report_-_april_2025.pdf)
-- making job ads more inclusive (not closing applications early, publishing salary bands, using clear language)
-- being ambassadors for REG and the Turing at events like the [Hopper Colloquium](https://www.ucl.ac.uk/computer-science/about/equity-diversity-and-inclusion/gender-equality-athena-swan/london-hopper-colloquium) and the [BCSWomen Lovelace event](https://bcswomenlovelace.bcs.org/)
-- Attending network groups – a place to find community, organise events, and work on issues specific to that network. They exist for
-    - LGBTQIA+
-    - Race and cultural inclusion
-    - Gender equality
-    - Disability and wellbeing
-- and much more!
-
-You can read more about a sample of the Equality, Diversity and Inclusion (EDI) initiatives in REG and the Turing on [this page]({{< relref "docs/working_at_the_turing/edi" >}}).
-Also, if you would like to arrange to speak to somebody in REG (in confidence) about this before applying, let us know; we would be happy to arrange that. That person will not subsequently be involved in evaluating your application.
-Reach out to the [REG recruitment team][recruitment] – we'd love to chat!
 
 ### Should the cover letter address each of the skills and requirements in the person specification section of the job description?
 
@@ -442,6 +418,9 @@ For the sake of clarity, the current advertisements give the full salary band fo
 so for the Standard role our offers will be between £46,000 and £53,333, while the current maximum salary for the Standard role is £57,000,
 and for the Senior role the offers will be between £57,000 and £65,000, with a current maximum salary for the Senior role of £69,000.
 **Our offers are not negotiable.**
+Please note that the offer practice described above reflect our team's internal practices,
+rather than formal Institute policies.
+This model thus is meant to set expectations for external applications to REG, but may differ from other roles in other parts of the Institute.
 
 ### What is salary progression like in the role?
 
