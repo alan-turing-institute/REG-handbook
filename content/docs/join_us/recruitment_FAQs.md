@@ -39,12 +39,12 @@ Visa sponsorship can be considered for successful candidates. Please contact [re
 ### Are you accepting remote applicants?
 
 Employees need to be based in the UK.
-However, you do not need to be in the London office every day nor on a regular weekly schedule, as almost all of our work is done in a hybrid manner.
-We have team members that live further away in places such as Scotland and the South West of England who come to the office less frequently.
-The on-paper expectation is that it would not be unreasonable to ask team members to spend four days a month in the office, but in practice we have been able to support a range of hybrid working patterns with fewer days in the office.
-We prefer to let the work to be done dictate the most effective collaboration style for carrying it out, and thus there may be some reasonable variation across projects in terms of requirements for in-office work.
+Our team works in a Hybrid manner, which does not require in-office attendance every day nor on a regular weekly schedule.
+The  baseline expectation is that you spend four days a month in the London office,
+but in practice we have been able to support a range of hybrid working patterns.
+We prefer to let the work to be done dictate the most effective collaboration style for carrying it out, and thus there may be some reasonable variation across projects in terms of requirements for in-office work and have team members that currently live further from London such as in Scotland or South West England and come to the office at the frequency shaped by their project work.
 We also hold two in-person team events per year, the Team Away Day (actually two days) in the winter and Hack Week in June.
-Please note that this is current for the REG team as of Autumn 2026, though could be subject to change in the future.
+Please note that this expectation is current for the REG team as of Autumn 2026, and could be subject to change in the future.
 
 ### What would be the starting date?
 
@@ -102,17 +102,30 @@ Some of the team have also been featured in project and institute spotlight inte
 
 ### I don't have a physics / maths / computer science background. Is that okay?
 
-That is completely fine.
 Our team includes people with backgrounds in a broad range of subjects, including chemistry and biology, as well as the social sciences.
 
 In practice, we do not often work on projects that align closely with our own academic backgrounds.
-As long as you are willing to pick up new skills and domains as you go along, your own background will not be a barrier.
+As long as you are willing to pick up new skills and domains as you go along, your particular background will not be a barrier.
 
-### I'm a woman / person of colour / LGBTQIA+ / person with disabilities / part of an underrepresented group(s). Will I feel welcome and supported in the team?
+### I'm from an underrepresented or marginalised group(s) in the AI/Technology Sector. Will I feel welcome and supported in the team?
 
 **We'd love to have you join our team!**
-We believe diversity is *essential* to good research.
+We believe diversity is *essential* to good research. Research consistently shows that diverse teams leads to both better business and scientific outcomes and this includes diversity of thought, and we embody this belief in our team.
 We'd really encourage you to apply!
+
+Our team has a very motivated group of people that work on things such as:
+- inputting to institute-wide EDI policies,
+- doing analysis of diversity data,
+- making job ads more inclusive (including publishing salary bands, using clear language),
+- being ambassadors for REG and the Turing at events like the Hopper Colloquium and the BCSWomen Lovelace event,
+- Attending network groups – a place to find community, organise events, and work on issues specific to that network. They exist for 
+  - LGBTQIA+_+ Equality Network Group
+  - Race and cultural inclusion network group (RACING)
+  - Gender equality network group (GEN)
+  - Disability and wellbeing network group (DaWN) 
+  and much more!
+
+You can read more about a sample of the Equality, Diversity and Inclusion (EDI) initiatives in REG and the Turing [here](https://www.turing.ac.uk/about-us/equality-diversity-and-inclusion). If you wish to speak about EDI at the Turing, please get in touch with [recruitment@turing.ac.uk](mailto:recruitment@turing.ac.uk) and they will arrange a chat with the appropriate team at the Institute.
 
 ### Should the cover letter address each of the skills and requirements in the person specification section of the job description?
 
@@ -413,11 +426,10 @@ The best thing you could do to be prepared is to eat well, take some long walks 
 ### Is the offered salary negotiable?
 
 Fairness and transparency are key values for us and our goal is to avoid inequity by ensuring we are paying people the same salary for the same level of contribution to the team.
-We make initial salary offers at 0/3, 1/3, and 2/3 through the advertised salary range, based on the level and applicability of each candidate’s experience relative to their future peers already working in the team.
+We make non-negotiable initial salary offers at 0/3, 1/3, and 2/3 through the advertised salary range, based on the level and applicability of each candidate’s experience relative to their future peers already working in the team.
 For the sake of clarity, the current advertisements give the full salary band for the role,
-so for the Standard role our offers will be between £46,000 and £53,333, while the current maximum salary for the Standard role is £57,000,
+so for the Autumn 2026 recruitment round Standard role our offers will be between £46,000 and £53,333, while the current maximum salary for the Standard role is £57,000,
 and for the Senior role the offers will be between £57,000 and £65,000, with a current maximum salary for the Senior role of £69,000.
-**Our offers are not negotiable.**
 Please note that the offer practice described above reflect our team's internal practices,
 rather than formal Institute policies.
 This model thus is meant to set expectations for external applications to REG, but may differ from other roles in other parts of the Institute.
@@ -427,8 +439,8 @@ This model thus is meant to set expectations for external applications to REG, b
 Each year, there is a cost of living increase which is applied to all Turing employees.
 On top of this, we also have annual pay reviews, where we actively review the performance and development of each team member against the expectations of their position within their seniority band, making salary adjustments where these expectations are being exceeded.
 
-As part of the pay review process, we hold annual internal promotion rounds to allow people to move up to the next level of seniority when they are ready.
-There is no cap on the number of Junior, Standard, and Senior roles, so promotion opportunities are not limited by availability.
+As part of the pay review process, REG holds annual internal promotion rounds to allow people to move up to the next level of seniority when they are ready.
+There is currently no cap on the number of Junior, Standard, and Senior roles, so promotion opportunities are not limited by availability.
 
 ## My question is not answered here
 
