@@ -440,7 +440,7 @@ This model thus is meant to set expectations for external applications to REG, b
 ### What is salary progression like in the role?
 
 Each year, there is a cost of living increase which is applied to all Turing employees.
-On top of this, we also have annual pay reviews, where we actively review the performance and development of each team member against the expectations of their position within their seniority band, making salary adjustments where these expectations are being exceeded.
+On top of this, we also have regular pay reviews, where we evaluate the performance and development of each team member against the expectations of their position within their seniority band, making salary adjustments where these expectations are being exceeded.
 
 As part of the pay review process, REG holds annual internal promotion rounds to allow people to move up to the next level of seniority when they are ready.
 There is currently no cap on the number of Junior, Standard, and Senior roles, so promotion opportunities are not limited by availability.
