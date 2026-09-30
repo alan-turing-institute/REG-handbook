@@ -338,7 +338,7 @@ Members of REG have been featured in various interviews and spotlights, where th
 
 ### Could you describe the interview process?
 
-For the Fall 2026 recruitment round, we will be holding one remote interview and one in-person interview.
+For the Autumn 2026 recruitment round, we will be holding one remote interview and one in-person interview.
 We would consider holding both interviews in person if this would be preferable; please feel free [to ask about this][recruitment] if this is something you would like.
 
 We operate a two-stage interview process.
