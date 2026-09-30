@@ -121,7 +121,7 @@ Our team has a very motivated group of people that work on things such as:
 - being ambassadors for REG and the Turing at events like the Hopper Colloquium and the BCSWomen Lovelace event,
 - Attending network groups – a place to find community, organise events, and work on issues specific to that network. They exist for
 
-  - LGBTQIA+_+ Equality Network Group
+  - LGBTQ+ Equality Network Group
   - Race and cultural inclusion network group (RACING)
   - Gender equality network group (GEN)
   - Disability and wellbeing network group (DaWN)
