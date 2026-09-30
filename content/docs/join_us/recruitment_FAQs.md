@@ -114,15 +114,18 @@ We believe diversity is *essential* to good research. Research consistently show
 We'd really encourage you to apply!
 
 Our team has a very motivated group of people that work on things such as:
+
 - inputting to institute-wide EDI policies,
 - doing analysis of diversity data,
 - making job ads more inclusive (including publishing salary bands, using clear language),
 - being ambassadors for REG and the Turing at events like the Hopper Colloquium and the BCSWomen Lovelace event,
-- Attending network groups – a place to find community, organise events, and work on issues specific to that network. They exist for 
+- Attending network groups – a place to find community, organise events, and work on issues specific to that network. They exist for
+
   - LGBTQIA+_+ Equality Network Group
   - Race and cultural inclusion network group (RACING)
   - Gender equality network group (GEN)
-  - Disability and wellbeing network group (DaWN) 
+  - Disability and wellbeing network group (DaWN)
+
   and much more!
 
 You can read more about a sample of the Equality, Diversity and Inclusion (EDI) initiatives in REG and the Turing [here](https://www.turing.ac.uk/about-us/equality-diversity-and-inclusion). If you wish to speak about EDI at the Turing, please get in touch with [recruitment@turing.ac.uk](mailto:recruitment@turing.ac.uk) and they will arrange a chat with the appropriate team at the Institute.
@@ -423,7 +426,7 @@ The best thing you could do to be prepared is to eat well, take some long walks 
 
 ## Offer
 
-### Is the offered salary negotiable?
+### What salary can I expect?
 
 Fairness and transparency are key values for us and our goal is to avoid inequity by ensuring we are paying people the same salary for the same level of contribution to the team.
 We make non-negotiable initial salary offers at 0/3, 1/3, and 2/3 through the advertised salary range, based on the level and applicability of each candidate’s experience relative to their future peers already working in the team.
