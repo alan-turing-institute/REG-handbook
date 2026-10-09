@@ -197,13 +197,16 @@ Feel free to get in touch with the REG recruitment team ([reg-recruitment-inbox@
 Senior members of the team are expected to take larger ownership of their projects,
 make decisions that affect their project or work for long periods of time,
 manage relationships with external stakeholders,
-and support the development colleagues inside and outside of the team through mentoring.
+and support the development of colleagues inside and outside of the team through mentoring.
 Senior candidates should have a few additional years of experience beyond a PhD
 or several years of experience in engineering roles
 (i.e. a few years of additional experience beyond the "equivalent professional experience" described above).
-If you are interested in joining at the Senior level, you should highlight your experience in these areas in your application.
-If you are unsure if you are better suited for the Standard or Senior role,
-you can mention this in your cover letter and describe your experience and we will consider you for either role.
+If you are interested in joining at the Senior level, you should highlight your experience in these areas in your application,
+and in particular address the additional criteria specified in the application materials (these are also listed above).
+If you are unsure if you are better suited for the Standard or Senior role but would like us to consider you for both,
+the best thing to do would be to apply to both roles with two separate applications,
+which will guarantee we explicitly consider your application for both types of openings.
+However, we generally would consider any application we receive for both types of roles.
 
 ### What kind of projects do you work on in REG?
 
